@@ -1,0 +1,70 @@
+name: Daily content
+
+on:
+  schedule:
+    - cron: "30 0 * * *" # 06:00 IST (also DeepSeek off-peak pricing)
+  workflow_dispatch:
+    inputs:
+      generate_news:
+        description: Generate today's news (false = just republish content/)
+        type: boolean
+        default: true
+  push:
+    branches: [main]
+    paths: ["content/**"] # republish when content is edited by hand
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: content
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+
+      - uses: actions/setup-python@v7
+        with:
+          python-version: "3.13"
+          cache: pip
+          cache-dependency-path: pipeline/requirements.txt
+
+      - run: pip install -r pipeline/requirements.txt
+
+      - run: python -m unittest test_pipeline
+        working-directory: pipeline
+
+      - name: Generate today's news cards
+        if: github.event_name == 'schedule' || inputs.generate_news
+        env:
+          DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
+        run: python pipeline/make_cards.py
+
+      - name: Commit content
+        if: github.event_name == 'schedule' || inputs.generate_news
+        run: |
+          git config user.name "content-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add content
+          git diff --cached --quiet || git commit -m "content: $(TZ=Asia/Kolkata date +%F)"
+          git push
+
+      - uses: actions/configure-pages@v6
+      - uses: actions/upload-pages-artifact@v5
+        with:
+          path: content
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v5

@@ -1,0 +1,383 @@
+{
+  "pack": "starter",
+  "cards": [
+    {
+      "id": "gk-polity-001",
+      "type": "gk",
+      "category": "polity",
+      "headline": "Why we celebrate two Constitution dates",
+      "body": "The Constituent Assembly adopted the Constitution of India on 26 November 1949, but it came into force on 26 January 1950. The January date was chosen to honour 26 January 1930, when the Congress declared Purna Swaraj (complete independence).",
+      "why_it_matters": "26 January is Republic Day; 26 November is now observed as Constitution Day (Samvidhan Divas).",
+      "key_fact": "Adopted 26 Nov 1949 · In force 26 Jan 1950",
+      "quiz": {
+        "q": "On which date did the Constitution of India come into force?",
+        "options": [
+          "26 November 1949",
+          "26 January 1950",
+          "15 August 1947",
+          "26 January 1949"
+        ],
+        "answer": 1,
+        "explain": "It was adopted on 26 Nov 1949 and came into force on 26 Jan 1950, which is why that day is Republic Day."
+      },
+      "tags": [
+        "Constitution",
+        "Republic Day"
+      ]
+    },
+    {
+      "id": "gk-polity-002",
+      "type": "gk",
+      "category": "polity",
+      "headline": "Fundamental Duties were added 26 years later",
+      "body": "The original Constitution had Fundamental Rights but no duties. The 42nd Amendment (1976), based on the Swaran Singh Committee, added 10 Fundamental Duties in Article 51A. The 86th Amendment (2002) added an 11th: parents must provide education to children aged 6–14.",
+      "why_it_matters": "Duties like respecting the flag, protecting the environment and developing scientific temper are in Article 51A.",
+      "key_fact": "Article 51A · 11 duties",
+      "quiz": {
+        "q": "Which Constitutional Amendment added Fundamental Duties?",
+        "options": [
+          "44th Amendment",
+          "42nd Amendment",
+          "73rd Amendment",
+          "86th Amendment"
+        ],
+        "answer": 1,
+        "explain": "The 42nd Amendment (1976) added them; the 86th (2002) later added the 11th duty."
+      },
+      "tags": [
+        "Article 51A"
+      ]
+    },
+    {
+      "id": "gk-polity-003",
+      "type": "gk",
+      "category": "polity",
+      "headline": "The Rajya Sabha never dissolves",
+      "body": "The Rajya Sabha is a permanent house: one-third of its members retire every two years, and each serves a six-year term. It can have at most 250 members — 238 elected by state and UT legislatures and 12 nominated by the President for art, literature, science and social service.",
+      "why_it_matters": "Unlike the Lok Sabha, it provides continuity because it is never dissolved as a whole.",
+      "key_fact": "Max 250 = 238 elected + 12 nominated",
+      "quiz": {
+        "q": "How many members can the President nominate to the Rajya Sabha?",
+        "options": [
+          "2",
+          "10",
+          "12",
+          "14"
+        ],
+        "answer": 2,
+        "explain": "12 members are nominated for their expertise in art, literature, science and social service."
+      },
+      "tags": [
+        "Parliament"
+      ]
+    },
+    {
+      "id": "gk-geo-001",
+      "type": "gk",
+      "category": "geography",
+      "headline": "India has 28 states and 8 union territories",
+      "body": "In 2019 the state of Jammu & Kashmir was reorganised into two UTs — Jammu & Kashmir and Ladakh. In January 2020, Dadra & Nagar Haveli and Daman & Diu were merged into a single UT. That leaves 28 states and 8 UTs.",
+      "why_it_matters": "Delhi, Puducherry and Jammu & Kashmir are UTs that have their own legislatures.",
+      "key_fact": "28 states · 8 UTs",
+      "quiz": {
+        "q": "Which two UTs were merged in January 2020?",
+        "options": [
+          "Delhi and Chandigarh",
+          "Dadra & Nagar Haveli and Daman & Diu",
+          "Ladakh and Lakshadweep",
+          "Puducherry and Andaman & Nicobar"
+        ],
+        "answer": 1,
+        "explain": "They became one UT: Dadra and Nagar Haveli and Daman and Diu."
+      }
+    },
+    {
+      "id": "gk-geo-002",
+      "type": "gk",
+      "category": "geography",
+      "headline": "Where the Ganga actually gets its name",
+      "body": "The Bhagirathi rises from the Gangotri glacier at Gaumukh in Uttarakhand. At Devprayag it meets the Alaknanda, and only from there is the river called the Ganga.",
+      "why_it_matters": "Devprayag is the last of the five 'prayags' (river confluences) of the Alaknanda.",
+      "key_fact": "Bhagirathi + Alaknanda → Ganga at Devprayag",
+      "quiz": {
+        "q": "At which place do the Bhagirathi and Alaknanda meet to form the Ganga?",
+        "options": [
+          "Rishikesh",
+          "Haridwar",
+          "Devprayag",
+          "Rudraprayag"
+        ],
+        "answer": 2,
+        "explain": "Devprayag in Uttarakhand is the confluence where the Ganga begins."
+      }
+    },
+    {
+      "id": "gk-geo-003",
+      "type": "gk",
+      "category": "geography",
+      "headline": "India's two answers to 'highest peak'",
+      "body": "Kangchenjunga (8,586 m), on the Sikkim–Nepal border, is the highest peak in territory India administers and the third-highest in the world. Officially, India counts K2 (8,611 m) as its highest peak, because it lies in Gilgit-Baltistan, which India claims as part of Ladakh.",
+      "why_it_matters": "Exam questions sometimes hinge on this: 'highest peak in India' is officially K2; 'highest in Indian-administered territory' is Kangchenjunga.",
+      "key_fact": "Kangchenjunga 8,586 m · K2 8,611 m",
+      "quiz": {
+        "q": "Which is the highest peak in Indian-administered territory?",
+        "options": [
+          "Nanda Devi",
+          "Kangchenjunga",
+          "K2",
+          "Kamet"
+        ],
+        "answer": 1,
+        "explain": "Kangchenjunga in Sikkim. K2 is officially claimed as India's highest peak but lies in Pakistan-administered Gilgit-Baltistan."
+      }
+    },
+    {
+      "id": "gk-hist-001",
+      "type": "gk",
+      "category": "history",
+      "headline": "The 24-day walk that challenged an empire",
+      "body": "On 12 March 1930, Gandhi set off from Sabarmati Ashram with 78 followers and walked about 385 km to Dandi on the Gujarat coast. On 6 April he made salt from seawater, breaking the British salt law and launching the Civil Disobedience Movement.",
+      "why_it_matters": "Salt was something every Indian used, so the tax on it made a perfect symbol of unjust colonial rule.",
+      "key_fact": "12 Mar – 6 Apr 1930 · ~385 km",
+      "quiz": {
+        "q": "From where did Gandhi start the Dandi March?",
+        "options": [
+          "Sevagram Ashram",
+          "Sabarmati Ashram",
+          "Champaran",
+          "Porbandar"
+        ],
+        "answer": 1,
+        "explain": "He started from Sabarmati Ashram, Ahmedabad, on 12 March 1930."
+      }
+    },
+    {
+      "id": "gk-hist-002",
+      "type": "gk",
+      "category": "history",
+      "headline": "'Do or Die': the Quit India call",
+      "body": "On 8 August 1942, at Gowalia Tank Maidan in Bombay (now August Kranti Maidan), Gandhi launched the Quit India Movement and gave the slogan 'Do or Die'. Almost the entire Congress leadership was arrested within hours.",
+      "why_it_matters": "With leaders in jail, the movement was carried on by ordinary people, students and underground networks.",
+      "key_fact": "8 August 1942 · Bombay",
+      "quiz": {
+        "q": "Which slogan is associated with the Quit India Movement?",
+        "options": [
+          "Inquilab Zindabad",
+          "Do or Die",
+          "Jai Jawan Jai Kisan",
+          "Swaraj is my birthright"
+        ],
+        "answer": 1,
+        "explain": "Gandhi's call on 8 Aug 1942 was 'Do or Die' (Karo ya Maro)."
+      }
+    },
+    {
+      "id": "gk-eco-001",
+      "type": "gk",
+      "category": "economy",
+      "headline": "The RBI is older than independent India",
+      "body": "The Reserve Bank of India began operations on 1 April 1935 under the RBI Act, 1934. It started as a privately owned bank headquartered in Calcutta, moved to Bombay in 1937 and was nationalised on 1 January 1949.",
+      "why_it_matters": "The RBI issues currency, manages inflation through interest rates and regulates banks — it shapes your EMI and savings rates.",
+      "key_fact": "Est. 1 April 1935 · Nationalised 1949",
+      "quiz": {
+        "q": "When was the RBI nationalised?",
+        "options": [
+          "1935",
+          "1947",
+          "1949",
+          "1969"
+        ],
+        "answer": 2,
+        "explain": "It was nationalised on 1 January 1949. (1969 was the nationalisation of 14 commercial banks.)"
+      }
+    },
+    {
+      "id": "gk-eco-002",
+      "type": "gk",
+      "category": "economy",
+      "headline": "What 'repo rate cut' really means",
+      "body": "The repo rate is the interest rate at which the RBI lends short-term money to banks. It is set by the six-member Monetary Policy Committee: three from the RBI and three external members appointed by the government. A cut makes borrowing cheaper; a hike cools inflation.",
+      "why_it_matters": "Home and car loan rates usually follow the repo rate up or down.",
+      "key_fact": "MPC = 6 members · inflation target 4% (±2%)",
+      "quiz": {
+        "q": "How many members does the RBI's Monetary Policy Committee have?",
+        "options": [
+          "4",
+          "5",
+          "6",
+          "7"
+        ],
+        "answer": 2,
+        "explain": "Six: the Governor, a Deputy Governor and one more RBI official, plus three external members."
+      },
+      "tags": [
+        "RBI",
+        "repo rate"
+      ]
+    },
+    {
+      "id": "gk-eco-003",
+      "type": "gk",
+      "category": "economy",
+      "headline": "One nation, one tax: GST",
+      "body": "The Goods and Services Tax replaced a web of central and state indirect taxes on 1 July 2017. It was enabled by the 101st Constitutional Amendment. Rates and rules are decided by the GST Council, chaired by the Union Finance Minister with state finance ministers as members.",
+      "why_it_matters": "It's charged on almost everything you buy, from food delivery to phones.",
+      "key_fact": "Launched 1 July 2017 · 101st Amendment",
+      "quiz": {
+        "q": "Who chairs the GST Council?",
+        "options": [
+          "Prime Minister",
+          "RBI Governor",
+          "Union Finance Minister",
+          "President"
+        ],
+        "answer": 2,
+        "explain": "The Union Finance Minister chairs it; state finance ministers are members."
+      }
+    },
+    {
+      "id": "gk-sci-001",
+      "type": "gk",
+      "category": "science",
+      "headline": "First to land near the Moon's south pole",
+      "body": "On 23 August 2023, Chandrayaan-3's Vikram lander touched down near the lunar south pole. India became the fourth country to soft-land on the Moon, after the USSR, the USA and China, and the first to do so near the south pole.",
+      "why_it_matters": "The south pole region may hold water ice, which could be vital for future missions. 23 August is now National Space Day.",
+      "key_fact": "23 Aug 2023 · Vikram lander + Pragyan rover",
+      "quiz": {
+        "q": "What is the name of Chandrayaan-3's rover?",
+        "options": [
+          "Vikram",
+          "Pragyan",
+          "Aryabhata",
+          "Mangalyaan"
+        ],
+        "answer": 1,
+        "explain": "Vikram was the lander; Pragyan was the rover it carried."
+      }
+    },
+    {
+      "id": "gk-sci-002",
+      "type": "gk",
+      "category": "science",
+      "headline": "ISRO was born on Independence Day",
+      "body": "The Indian Space Research Organisation was founded on 15 August 1969. Vikram Sarabhai is called the father of India's space programme. India's first satellite, Aryabhata, was launched in 1975 on a Soviet rocket.",
+      "why_it_matters": "ISRO's satellites power weather forecasts, TV, navigation (NavIC) and disaster warnings.",
+      "key_fact": "Founded 15 Aug 1969 · HQ Bengaluru",
+      "quiz": {
+        "q": "What was the name of India's first satellite?",
+        "options": [
+          "Rohini",
+          "Bhaskara",
+          "Aryabhata",
+          "INSAT-1A"
+        ],
+        "answer": 2,
+        "explain": "Aryabhata, launched on 19 April 1975."
+      }
+    },
+    {
+      "id": "gk-sports-001",
+      "type": "gk",
+      "category": "sports",
+      "headline": "India's first Olympic gold in athletics",
+      "body": "At the Tokyo 2020 Olympics (held in 2021), Neeraj Chopra won the men's javelin with a throw of 87.58 m. It was India's first ever Olympic gold medal in track and field.",
+      "why_it_matters": "It set off a javelin boom in India; the Athletics Federation of India marks 7 August as National Javelin Day.",
+      "key_fact": "87.58 m · 7 August 2021",
+      "quiz": {
+        "q": "In which event did Neeraj Chopra win Olympic gold?",
+        "options": [
+          "Shot put",
+          "Javelin throw",
+          "Discus throw",
+          "Long jump"
+        ],
+        "answer": 1,
+        "explain": "Men's javelin throw, Tokyo 2020."
+      }
+    },
+    {
+      "id": "gk-env-001",
+      "type": "gk",
+      "category": "environment",
+      "headline": "India's national aquatic animal is almost blind",
+      "body": "The Ganges river dolphin, locally called 'susu', was declared India's national aquatic animal in 2009. It lives in the Ganga–Brahmaputra river systems and is nearly blind, finding its way and its food using echolocation.",
+      "why_it_matters": "Because it needs clean, flowing rivers, its numbers tell us how healthy those rivers are.",
+      "key_fact": "National aquatic animal since 2009",
+      "quiz": {
+        "q": "What is India's national aquatic animal?",
+        "options": [
+          "Olive ridley turtle",
+          "Gharial",
+          "Ganges river dolphin",
+          "Mahseer"
+        ],
+        "answer": 2,
+        "explain": "The Ganges river dolphin, declared in 2009."
+      }
+    },
+    {
+      "id": "trivia-001",
+      "type": "trivia",
+      "category": "geography",
+      "headline": "All of India runs on Mirzapur's clock",
+      "body": "Indian Standard Time is based on the 82.5° E meridian, which passes near Mirzapur in Uttar Pradesh. IST is 5 hours 30 minutes ahead of UTC, and the whole country, from Gujarat to Arunachal, uses this single time zone.",
+      "key_fact": "IST = UTC + 5:30",
+      "quiz": {
+        "q": "IST is based on which longitude?",
+        "options": [
+          "77.5° E",
+          "82.5° E",
+          "88.5° E",
+          "90° E"
+        ],
+        "answer": 1,
+        "explain": "82.5° E, which passes near Mirzapur, UP."
+      }
+    },
+    {
+      "id": "trivia-002",
+      "type": "trivia",
+      "category": "environment",
+      "headline": "Tigers here are strong swimmers",
+      "body": "The Sundarbans, shared by India and Bangladesh, is the largest mangrove forest in the world. Its Royal Bengal tigers swim between islands through tidal channels, and the area is a UNESCO World Heritage Site.",
+      "key_fact": "World's largest mangrove forest"
+    },
+    {
+      "id": "trivia-003",
+      "type": "trivia",
+      "category": "history",
+      "headline": "The tricolour was adopted before independence",
+      "body": "The Constituent Assembly adopted the national flag on 22 July 1947, three weeks before independence. It is based on a design by Pingali Venkayya; the charkha in the earlier Congress flag was replaced by the Ashoka Chakra with 24 spokes.",
+      "key_fact": "Adopted 22 July 1947 · Chakra has 24 spokes",
+      "quiz": {
+        "q": "How many spokes does the Ashoka Chakra on the national flag have?",
+        "options": [
+          "12",
+          "16",
+          "24",
+          "32"
+        ],
+        "answer": 2,
+        "explain": "24 spokes."
+      }
+    },
+    {
+      "id": "quiz-001",
+      "type": "quiz",
+      "category": "polity",
+      "headline": "Father of the Indian Constitution",
+      "body": "Dr B. R. Ambedkar chaired the Drafting Committee of the Constituent Assembly.",
+      "quiz": {
+        "q": "Who chaired the Drafting Committee of the Constitution?",
+        "options": [
+          "Jawaharlal Nehru",
+          "Dr Rajendra Prasad",
+          "Dr B. R. Ambedkar",
+          "Sardar Patel"
+        ],
+        "answer": 2,
+        "explain": "Dr B. R. Ambedkar chaired the Drafting Committee. Dr Rajendra Prasad was President of the Constituent Assembly."
+      }
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+# Python pipeline
+pipeline/.venv/
+pipeline/.env
+__pycache__/
+*.pyc
+
+# Editors / OS
+.idea/
+.vscode/
+.DS_Store

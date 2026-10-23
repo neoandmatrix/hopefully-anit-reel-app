@@ -1,0 +1,55 @@
+name: Generate GK packs
+
+on:
+  workflow_dispatch:
+    inputs:
+      topic:
+        description: "Topic (polity, history, geography, economy, science, culture, sports, environment, states, international) or 'all'"
+        required: true
+        default: polity
+      per_subtopic:
+        description: Cards per subtopic
+        default: "15"
+
+permissions:
+  contents: write
+  actions: write
+
+concurrency:
+  group: content
+  cancel-in-progress: false
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 300
+    steps:
+      - uses: actions/checkout@v7
+      - uses: actions/setup-python@v7
+        with:
+          python-version: "3.13"
+          cache: pip
+          cache-dependency-path: pipeline/requirements.txt
+      - run: pip install -r pipeline/requirements.txt
+      - name: Generate
+        env:
+          DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
+          TOPIC: ${{ inputs.topic }}
+          PER_SUBTOPIC: ${{ inputs.per_subtopic }}
+        run: |
+          if [ "$TOPIC" = "all" ]; then target="--all"; else target="--topic $TOPIC"; fi
+          python pipeline/gen_gk_packs.py $target --per-subtopic "$PER_SUBTOPIC"
+      - name: Commit packs
+        # Runs even if generation stopped midway: packs are saved per subtopic.
+        if: always()
+        run: |
+          git config user.name "content-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add content
+          git diff --cached --quiet || git commit -m "content: GK packs (${{ inputs.topic }})"
+          git push
+      # Pushes made with GITHUB_TOKEN don't trigger other workflows, so publish explicitly.
+      - name: Publish
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh workflow run daily.yml --repo "${{ github.repository }}" --ref main -f generate_news=false
