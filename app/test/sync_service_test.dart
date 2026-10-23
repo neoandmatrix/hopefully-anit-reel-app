@@ -17,7 +17,11 @@ class FakeAdapter implements HttpClientAdapter {
   final requested = <String>[];
 
   @override
-  Future<ResponseBody> fetch(RequestOptions options, Stream<Uint8List>? _, Future<void>? _) async {
+  Future<ResponseBody> fetch(
+    RequestOptions options,
+    Stream<Uint8List>? _,
+    Future<void>? _,
+  ) async {
     final path = options.uri.path.split('/content/').last;
     requested.add(path);
     final body = files[path];
@@ -30,10 +34,16 @@ class FakeAdapter implements HttpClientAdapter {
 }
 
 Map<String, Object> cardFile(String id) => {
-      'cards': [
-        {'id': id, 'type': 'news', 'category': 'economy', 'headline': id, 'body': 'b'},
-      ],
-    };
+  'cards': [
+    {
+      'id': id,
+      'type': 'news',
+      'category': 'economy',
+      'headline': id,
+      'body': 'b',
+    },
+  ],
+};
 
 void main() {
   late AppDb db;
@@ -47,14 +57,15 @@ void main() {
   tearDown(() => db.close());
 
   SyncService service(FakeAdapter adapter) => SyncService(
-        repo,
+    repo,
+    baseUrl: 'https://example.com/content/',
+    dio: Dio(
+      BaseOptions(
         baseUrl: 'https://example.com/content/',
-        dio: Dio(BaseOptions(
-          baseUrl: 'https://example.com/content/',
-          responseType: ResponseType.plain,
-        ))
-          ..httpClientAdapter = adapter,
-      );
+        responseType: ResponseType.plain,
+      ),
+    )..httpClientAdapter = adapter,
+  );
 
   test('fetches recent days and only changed packs', () async {
     final adapter = FakeAdapter({
@@ -72,7 +83,12 @@ void main() {
 
     expect(await service(adapter).sync(), 4);
     expect(adapter.requested, isNot(contains('daily/2026-10-20.json')));
-    expect((await repo.allCards()).map((c) => c.id).toSet(), {'d21', 'd22', 'd23', 'p1'});
+    expect((await repo.allCards()).map((c) => c.id).toSet(), {
+      'd21',
+      'd22',
+      'd23',
+      'p1',
+    });
 
     adapter.requested.clear();
     await service(adapter).sync();

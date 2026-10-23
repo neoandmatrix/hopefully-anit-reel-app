@@ -16,12 +16,24 @@ void main() {
   });
   tearDown(() => db.close());
 
-  const a = LearnCard(id: 'a', type: CardType.gk, category: 'polity', headline: 'A', body: 'x');
+  const a = LearnCard(
+    id: 'a',
+    type: CardType.gk,
+    category: 'polity',
+    headline: 'A',
+    body: 'x',
+  );
 
   test('upsert replaces existing cards instead of duplicating', () async {
     await repo.upsertCards([a]);
     await repo.upsertCards([
-      const LearnCard(id: 'a', type: CardType.gk, category: 'polity', headline: 'A2', body: 'x'),
+      const LearnCard(
+        id: 'a',
+        type: CardType.gk,
+        category: 'polity',
+        headline: 'A2',
+        body: 'x',
+      ),
     ]);
     final all = await repo.allCards();
     expect(all.single.headline, 'A2');
@@ -35,24 +47,27 @@ void main() {
     expect(await repo.watchSaved().first, isEmpty);
   });
 
-  test('"new to me" schedules reviews; quiz answers move the schedule', () async {
-    await repo.upsertCards([a]);
-    await repo.setKnowledge('a', 2);
-    var s = (await repo.allStates())['a']!;
-    expect(s.knowledge, 2);
-    expect(s.reviewFrom, isNotNull);
-    expect(s.reviewStage, 0);
+  test(
+    '"new to me" schedules reviews; quiz answers move the schedule',
+    () async {
+      await repo.upsertCards([a]);
+      await repo.setKnowledge('a', 2);
+      var s = (await repo.allStates())['a']!;
+      expect(s.knowledge, 2);
+      expect(s.reviewFrom, isNotNull);
+      expect(s.reviewStage, 0);
 
-    await repo.recordQuiz('a', correct: true);
-    s = (await repo.allStates())['a']!;
-    expect(s.reviewStage, 1);
-    expect(s.quizCorrect, 1);
+      await repo.recordQuiz('a', correct: true);
+      s = (await repo.allStates())['a']!;
+      expect(s.reviewStage, 1);
+      expect(s.quizCorrect, 1);
 
-    await repo.recordQuiz('a', correct: false);
-    s = (await repo.allStates())['a']!;
-    expect(s.reviewStage, 0);
-    expect(s.quizAttempts, 2);
-  });
+      await repo.recordQuiz('a', correct: false);
+      s = (await repo.allStates())['a']!;
+      expect(s.reviewStage, 0);
+      expect(s.quizAttempts, 2);
+    },
+  );
 
   test('tapping the same knowledge button again clears it', () async {
     await repo.setKnowledge('a', 1);

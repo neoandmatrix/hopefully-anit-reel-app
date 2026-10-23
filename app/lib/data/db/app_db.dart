@@ -50,17 +50,55 @@ class SyncedFiles extends Table {
   Set<Column> get primaryKey => {file};
 }
 
-@DriftDatabase(tables: [Cards, CardStates, SyncedFiles])
+/// One row per day with activity: drives streaks and the progress chart.
+@DataClassName('DayLogRow')
+class DayLogs extends Table {
+  /// Local date, `yyyy-MM-dd`.
+  TextColumn get day => text()();
+
+  /// Cards read for the first time plus quiz questions answered.
+  IntColumn get seen => integer().withDefault(const Constant(0))();
+
+  /// The daily goal in effect that day, so changing it later keeps old streaks.
+  IntColumn get goal => integer()();
+  IntColumn get quizAttempts => integer().withDefault(const Constant(0))();
+  IntColumn get quizCorrect => integer().withDefault(const Constant(0))();
+
+  @override
+  Set<Column> get primaryKey => {day};
+}
+
+/// Every quiz answer, for accuracy per category.
+@DataClassName('QuizLogRow')
+class QuizLogs extends Table {
+  IntColumn get id => integer().autoIncrement()();
+  TextColumn get cardId => text()();
+  TextColumn get category => text()();
+  BoolColumn get correct => boolean()();
+  DateTimeColumn get answeredAt => dateTime()();
+}
+
+@DriftDatabase(tables: [Cards, CardStates, SyncedFiles, DayLogs, QuizLogs])
 class AppDb extends _$AppDb {
   AppDb([QueryExecutor? executor]) : super(executor ?? _open());
 
   @override
-  int get schemaVersion => 2;
+  int get schemaVersion => 3;
 
   @override
   MigrationStrategy get migration => MigrationStrategy(
     onUpgrade: (m, from, to) async {
       if (from < 2) await m.createTable(syncedFiles);
+      if (from < 3) {
+        await m.createTable(dayLogs);
+        await m.createTable(quizLogs);
+        // Backfill days from cards already read, so progress isn't empty.
+        await customStatement('''
+          INSERT INTO day_logs (day, seen, goal, quiz_attempts, quiz_correct)
+          SELECT date(seen_at, 'unixepoch', 'localtime'), COUNT(*), 20, 0, 0
+          FROM card_states WHERE seen_at IS NOT NULL GROUP BY 1
+        ''');
+      }
     },
   );
 

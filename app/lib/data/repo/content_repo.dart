@@ -5,12 +5,17 @@ import 'package:flutter/services.dart' show rootBundle;
 
 import '../db/app_db.dart';
 import '../models/learn_card.dart';
+import '../stats.dart';
 
 /// Single entry point for reading/writing cards and the user's progress.
 class ContentRepo {
-  ContentRepo(this.db);
+  ContentRepo(this.db, {int Function()? dailyGoal, DateTime Function()? clock})
+    : _dailyGoal = dailyGoal ?? (() => 20),
+      _clock = clock ?? DateTime.now;
 
   final AppDb db;
+  final int Function() _dailyGoal;
+  final DateTime Function() _clock;
 
   // ---------------------------------------------------------------- content
 
@@ -125,10 +130,12 @@ class ContentRepo {
     )..where((s) => s.cardId.equals(cardId))).write(changes);
   }
 
+  /// Marks a card read. Only the first time counts towards today's goal.
   Future<void> markSeen(String cardId) async {
     final s = await _state(cardId);
     if (s.seenAt != null) return;
-    await _update(cardId, CardStatesCompanion(seenAt: Value(DateTime.now())));
+    await _update(cardId, CardStatesCompanion(seenAt: Value(_clock())));
+    await _logDay(seen: 1);
   }
 
   Future<void> toggleSaved(String cardId) async {
@@ -145,7 +152,7 @@ class ContentRepo {
       cardId,
       CardStatesCompanion(
         knowledge: Value(next),
-        reviewFrom: Value(next == 2 ? DateTime.now() : null),
+        reviewFrom: Value(next == 2 ? _clock() : null),
         reviewStage: const Value(0),
       ),
     );
@@ -155,6 +162,18 @@ class ContentRepo {
   /// interval; wrong answers restart the schedule from today.
   Future<void> recordQuiz(String cardId, {required bool correct}) async {
     final s = await _state(cardId);
+    final card = await cardById(cardId);
+    await db
+        .into(db.quizLogs)
+        .insert(
+          QuizLogsCompanion.insert(
+            cardId: cardId,
+            category: card?.category ?? 'general',
+            correct: correct,
+            answeredAt: _clock(),
+          ),
+        );
+    await _logDay(seen: 1, attempts: 1, correct: correct ? 1 : 0);
     await _update(
       cardId,
       CardStatesCompanion(
@@ -166,9 +185,87 @@ class ContentRepo {
               : (correct ? s.reviewStage + 1 : 0),
         ),
         reviewFrom: Value(
-          s.reviewFrom == null || correct ? s.reviewFrom : DateTime.now(),
+          s.reviewFrom == null || correct ? s.reviewFrom : _clock(),
         ),
       ),
     );
+  }
+
+  // -------------------------------------------------------------- activity
+
+  Future<void> _logDay({
+    int seen = 0,
+    int attempts = 0,
+    int correct = 0,
+  }) async {
+    final day = dayKey(_clock());
+    await db
+        .into(db.dayLogs)
+        .insert(
+          DayLogsCompanion.insert(day: day, goal: _dailyGoal()),
+          mode: InsertMode.insertOrIgnore,
+        );
+    await db.customUpdate(
+      'UPDATE day_logs SET seen = seen + ?, quiz_attempts = quiz_attempts + ?, '
+      'quiz_correct = quiz_correct + ?, goal = ? WHERE day = ?',
+      variables: [
+        Variable.withInt(seen),
+        Variable.withInt(attempts),
+        Variable.withInt(correct),
+        Variable.withInt(_dailyGoal()),
+        Variable.withString(day),
+      ],
+      updates: {db.dayLogs},
+    );
+  }
+
+  Stream<List<DayLogRow>> watchDayLogs() => (db.select(
+    db.dayLogs,
+  )..orderBy([(d) => OrderingTerm.asc(d.day)])).watch();
+
+  Future<List<CategoryAccuracy>> categoryAccuracy() async {
+    final correct = db.quizLogs.correct.cast<int>().sum();
+    final attempts = db.quizLogs.id.count();
+    final rows =
+        await (db.selectOnly(db.quizLogs)
+              ..addColumns([db.quizLogs.category, correct, attempts])
+              ..groupBy([db.quizLogs.category]))
+            .get();
+    return [
+      for (final r in rows)
+        CategoryAccuracy(
+          r.read(db.quizLogs.category)!,
+          r.read(correct) ?? 0,
+          r.read(attempts) ?? 0,
+        ),
+    ];
+  }
+
+  Future<({int read, int saved, int learning, int mastered})> totals() async {
+    final rows = await db.select(db.cardStates).get();
+    return (
+      read: rows.where((r) => r.seenAt != null).length,
+      saved: rows.where((r) => r.saved).length,
+      learning: rows.where((r) => r.knowledge == 2 && r.reviewStage < 3).length,
+      mastered: rows
+          .where((r) => r.knowledge == 2 && r.reviewStage >= 3)
+          .length,
+    );
+  }
+
+  /// Up to [count] quiz cards read today, for the daily recap.
+  Future<List<LearnCard>> todaysQuizCards({int count = 5}) async {
+    final now = _clock();
+    final start = DateTime(now.year, now.month, now.day);
+    final query = db.select(db.cards).join([
+      innerJoin(db.cardStates, db.cardStates.cardId.equalsExp(db.cards.id)),
+    ])..where(db.cardStates.seenAt.isBiggerOrEqualValue(start));
+    final cards =
+        (await query.get())
+            .map((r) => LearnCard.decode(r.readTable(db.cards).payload))
+            .where((c) => c.quiz != null)
+            .toList()
+          ..shuffle();
+    return cards.take(count).toList();
   }
 }

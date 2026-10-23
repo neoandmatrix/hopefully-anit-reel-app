@@ -7,6 +7,7 @@ A Reels-style app for learning about India: swipe through daily news and India G
 - `content/`: generated JSON, published to GitHub Pages and downloaded by the app.
 - `.github/workflows/daily.yml`: runs every day at 06:00 IST to generate news and publish `content/`.
 - `.github/workflows/gk-packs.yml`: manual workflow that generates evergreen GK packs.
+- `.github/workflows/build-apk.yml`: builds a signed Android APK on every push that changes `app/`.
 
 ## One-time setup
 
@@ -26,3 +27,20 @@ echo 'DEEPSEEK_API_KEY=sk-...' > .env          # gitignored
 .venv/bin/python gen_gk_packs.py --topic polity --per-subtopic 3   # small test
 .venv/bin/python -m unittest test_pipeline
 ```
+
+## Android app
+
+Each build is published to the rolling **latest** release, so the download link never changes:
+
+https://github.com/neoandmatrix/hopefully-anit-reel-app/releases/latest/download/scroll-smart.apk
+
+Open the link on your phone and install the file. The first time, Android asks you to allow installs from your browser. Later builds install over the existing app and keep your progress.
+
+### Signing key (one-time)
+
+Android only accepts an update if it's signed with the same key as the installed app. The key was generated locally:
+
+- `~/.android-keys/scroll_smart.jks`: the keystore. **Back this up.**
+- `~/.android-keys/scroll_smart-secrets.txt`: the four values to add under **Settings → Secrets and variables → Actions**: `ANDROID_KEYSTORE_BASE64`, `ANDROID_KEYSTORE_PASSWORD`, `ANDROID_KEY_ALIAS` and `ANDROID_KEY_PASSWORD`.
+
+If the key is lost, uninstall the app and install a build signed with a new key. That also wipes the app's local progress.

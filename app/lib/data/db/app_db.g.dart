@@ -1142,12 +1142,738 @@ class SyncedFilesCompanion extends UpdateCompanion<SyncedFileRow> {
   }
 }
 
+class $DayLogsTable extends DayLogs with TableInfo<$DayLogsTable, DayLogRow> {
+  @override
+  final GeneratedDatabase attachedDatabase;
+  final String? _alias;
+  $DayLogsTable(this.attachedDatabase, [this._alias]);
+  static const VerificationMeta _dayMeta = const VerificationMeta('day');
+  @override
+  late final GeneratedColumn<String> day = GeneratedColumn<String>(
+    'day',
+    aliasedName,
+    false,
+    type: DriftSqlType.string,
+    requiredDuringInsert: true,
+  );
+  static const VerificationMeta _seenMeta = const VerificationMeta('seen');
+  @override
+  late final GeneratedColumn<int> seen = GeneratedColumn<int>(
+    'seen',
+    aliasedName,
+    false,
+    type: DriftSqlType.int,
+    requiredDuringInsert: false,
+    defaultValue: const Constant(0),
+  );
+  static const VerificationMeta _goalMeta = const VerificationMeta('goal');
+  @override
+  late final GeneratedColumn<int> goal = GeneratedColumn<int>(
+    'goal',
+    aliasedName,
+    false,
+    type: DriftSqlType.int,
+    requiredDuringInsert: true,
+  );
+  static const VerificationMeta _quizAttemptsMeta = const VerificationMeta(
+    'quizAttempts',
+  );
+  @override
+  late final GeneratedColumn<int> quizAttempts = GeneratedColumn<int>(
+    'quiz_attempts',
+    aliasedName,
+    false,
+    type: DriftSqlType.int,
+    requiredDuringInsert: false,
+    defaultValue: const Constant(0),
+  );
+  static const VerificationMeta _quizCorrectMeta = const VerificationMeta(
+    'quizCorrect',
+  );
+  @override
+  late final GeneratedColumn<int> quizCorrect = GeneratedColumn<int>(
+    'quiz_correct',
+    aliasedName,
+    false,
+    type: DriftSqlType.int,
+    requiredDuringInsert: false,
+    defaultValue: const Constant(0),
+  );
+  @override
+  List<GeneratedColumn> get $columns => [
+    day,
+    seen,
+    goal,
+    quizAttempts,
+    quizCorrect,
+  ];
+  @override
+  String get aliasedName => _alias ?? actualTableName;
+  @override
+  String get actualTableName => $name;
+  static const String $name = 'day_logs';
+  @override
+  VerificationContext validateIntegrity(
+    Insertable<DayLogRow> instance, {
+    bool isInserting = false,
+  }) {
+    final context = VerificationContext();
+    final data = instance.toColumns(true);
+    if (data.containsKey('day')) {
+      context.handle(
+        _dayMeta,
+        day.isAcceptableOrUnknown(data['day']!, _dayMeta),
+      );
+    } else if (isInserting) {
+      context.missing(_dayMeta);
+    }
+    if (data.containsKey('seen')) {
+      context.handle(
+        _seenMeta,
+        seen.isAcceptableOrUnknown(data['seen']!, _seenMeta),
+      );
+    }
+    if (data.containsKey('goal')) {
+      context.handle(
+        _goalMeta,
+        goal.isAcceptableOrUnknown(data['goal']!, _goalMeta),
+      );
+    } else if (isInserting) {
+      context.missing(_goalMeta);
+    }
+    if (data.containsKey('quiz_attempts')) {
+      context.handle(
+        _quizAttemptsMeta,
+        quizAttempts.isAcceptableOrUnknown(
+          data['quiz_attempts']!,
+          _quizAttemptsMeta,
+        ),
+      );
+    }
+    if (data.containsKey('quiz_correct')) {
+      context.handle(
+        _quizCorrectMeta,
+        quizCorrect.isAcceptableOrUnknown(
+          data['quiz_correct']!,
+          _quizCorrectMeta,
+        ),
+      );
+    }
+    return context;
+  }
+
+  @override
+  Set<GeneratedColumn> get $primaryKey => {day};
+  @override
+  DayLogRow map(Map<String, dynamic> data, {String? tablePrefix}) {
+    final effectivePrefix = tablePrefix != null ? '$tablePrefix.' : '';
+    return DayLogRow(
+      day: attachedDatabase.typeMapping.read(
+        DriftSqlType.string,
+        data['${effectivePrefix}day'],
+      )!,
+      seen: attachedDatabase.typeMapping.read(
+        DriftSqlType.int,
+        data['${effectivePrefix}seen'],
+      )!,
+      goal: attachedDatabase.typeMapping.read(
+        DriftSqlType.int,
+        data['${effectivePrefix}goal'],
+      )!,
+      quizAttempts: attachedDatabase.typeMapping.read(
+        DriftSqlType.int,
+        data['${effectivePrefix}quiz_attempts'],
+      )!,
+      quizCorrect: attachedDatabase.typeMapping.read(
+        DriftSqlType.int,
+        data['${effectivePrefix}quiz_correct'],
+      )!,
+    );
+  }
+
+  @override
+  $DayLogsTable createAlias(String alias) {
+    return $DayLogsTable(attachedDatabase, alias);
+  }
+}
+
+class DayLogRow extends DataClass implements Insertable<DayLogRow> {
+  /// Local date, `yyyy-MM-dd`.
+  final String day;
+
+  /// Cards read for the first time plus quiz questions answered.
+  final int seen;
+
+  /// The daily goal in effect that day, so changing it later keeps old streaks.
+  final int goal;
+  final int quizAttempts;
+  final int quizCorrect;
+  const DayLogRow({
+    required this.day,
+    required this.seen,
+    required this.goal,
+    required this.quizAttempts,
+    required this.quizCorrect,
+  });
+  @override
+  Map<String, Expression> toColumns(bool nullToAbsent) {
+    final map = <String, Expression>{};
+    map['day'] = Variable<String>(day);
+    map['seen'] = Variable<int>(seen);
+    map['goal'] = Variable<int>(goal);
+    map['quiz_attempts'] = Variable<int>(quizAttempts);
+    map['quiz_correct'] = Variable<int>(quizCorrect);
+    return map;
+  }
+
+  DayLogsCompanion toCompanion(bool nullToAbsent) {
+    return DayLogsCompanion(
+      day: Value(day),
+      seen: Value(seen),
+      goal: Value(goal),
+      quizAttempts: Value(quizAttempts),
+      quizCorrect: Value(quizCorrect),
+    );
+  }
+
+  factory DayLogRow.fromJson(
+    Map<String, dynamic> json, {
+    ValueSerializer? serializer,
+  }) {
+    serializer ??= driftRuntimeOptions.defaultSerializer;
+    return DayLogRow(
+      day: serializer.fromJson<String>(json['day']),
+      seen: serializer.fromJson<int>(json['seen']),
+      goal: serializer.fromJson<int>(json['goal']),
+      quizAttempts: serializer.fromJson<int>(json['quizAttempts']),
+      quizCorrect: serializer.fromJson<int>(json['quizCorrect']),
+    );
+  }
+  @override
+  Map<String, dynamic> toJson({ValueSerializer? serializer}) {
+    serializer ??= driftRuntimeOptions.defaultSerializer;
+    return <String, dynamic>{
+      'day': serializer.toJson<String>(day),
+      'seen': serializer.toJson<int>(seen),
+      'goal': serializer.toJson<int>(goal),
+      'quizAttempts': serializer.toJson<int>(quizAttempts),
+      'quizCorrect': serializer.toJson<int>(quizCorrect),
+    };
+  }
+
+  DayLogRow copyWith({
+    String? day,
+    int? seen,
+    int? goal,
+    int? quizAttempts,
+    int? quizCorrect,
+  }) => DayLogRow(
+    day: day ?? this.day,
+    seen: seen ?? this.seen,
+    goal: goal ?? this.goal,
+    quizAttempts: quizAttempts ?? this.quizAttempts,
+    quizCorrect: quizCorrect ?? this.quizCorrect,
+  );
+  DayLogRow copyWithCompanion(DayLogsCompanion data) {
+    return DayLogRow(
+      day: data.day.present ? data.day.value : this.day,
+      seen: data.seen.present ? data.seen.value : this.seen,
+      goal: data.goal.present ? data.goal.value : this.goal,
+      quizAttempts: data.quizAttempts.present
+          ? data.quizAttempts.value
+          : this.quizAttempts,
+      quizCorrect: data.quizCorrect.present
+          ? data.quizCorrect.value
+          : this.quizCorrect,
+    );
+  }
+
+  @override
+  String toString() {
+    return (StringBuffer('DayLogRow(')
+          ..write('day: $day, ')
+          ..write('seen: $seen, ')
+          ..write('goal: $goal, ')
+          ..write('quizAttempts: $quizAttempts, ')
+          ..write('quizCorrect: $quizCorrect')
+          ..write(')'))
+        .toString();
+  }
+
+  @override
+  int get hashCode => Object.hash(day, seen, goal, quizAttempts, quizCorrect);
+  @override
+  bool operator ==(Object other) =>
+      identical(this, other) ||
+      (other is DayLogRow &&
+          other.day == this.day &&
+          other.seen == this.seen &&
+          other.goal == this.goal &&
+          other.quizAttempts == this.quizAttempts &&
+          other.quizCorrect == this.quizCorrect);
+}
+
+class DayLogsCompanion extends UpdateCompanion<DayLogRow> {
+  final Value<String> day;
+  final Value<int> seen;
+  final Value<int> goal;
+  final Value<int> quizAttempts;
+  final Value<int> quizCorrect;
+  final Value<int> rowid;
+  const DayLogsCompanion({
+    this.day = const Value.absent(),
+    this.seen = const Value.absent(),
+    this.goal = const Value.absent(),
+    this.quizAttempts = const Value.absent(),
+    this.quizCorrect = const Value.absent(),
+    this.rowid = const Value.absent(),
+  });
+  DayLogsCompanion.insert({
+    required String day,
+    this.seen = const Value.absent(),
+    required int goal,
+    this.quizAttempts = const Value.absent(),
+    this.quizCorrect = const Value.absent(),
+    this.rowid = const Value.absent(),
+  }) : day = Value(day),
+       goal = Value(goal);
+  static Insertable<DayLogRow> custom({
+    Expression<String>? day,
+    Expression<int>? seen,
+    Expression<int>? goal,
+    Expression<int>? quizAttempts,
+    Expression<int>? quizCorrect,
+    Expression<int>? rowid,
+  }) {
+    return RawValuesInsertable({
+      if (day != null) 'day': day,
+      if (seen != null) 'seen': seen,
+      if (goal != null) 'goal': goal,
+      if (quizAttempts != null) 'quiz_attempts': quizAttempts,
+      if (quizCorrect != null) 'quiz_correct': quizCorrect,
+      if (rowid != null) 'rowid': rowid,
+    });
+  }
+
+  DayLogsCompanion copyWith({
+    Value<String>? day,
+    Value<int>? seen,
+    Value<int>? goal,
+    Value<int>? quizAttempts,
+    Value<int>? quizCorrect,
+    Value<int>? rowid,
+  }) {
+    return DayLogsCompanion(
+      day: day ?? this.day,
+      seen: seen ?? this.seen,
+      goal: goal ?? this.goal,
+      quizAttempts: quizAttempts ?? this.quizAttempts,
+      quizCorrect: quizCorrect ?? this.quizCorrect,
+      rowid: rowid ?? this.rowid,
+    );
+  }
+
+  @override
+  Map<String, Expression> toColumns(bool nullToAbsent) {
+    final map = <String, Expression>{};
+    if (day.present) {
+      map['day'] = Variable<String>(day.value);
+    }
+    if (seen.present) {
+      map['seen'] = Variable<int>(seen.value);
+    }
+    if (goal.present) {
+      map['goal'] = Variable<int>(goal.value);
+    }
+    if (quizAttempts.present) {
+      map['quiz_attempts'] = Variable<int>(quizAttempts.value);
+    }
+    if (quizCorrect.present) {
+      map['quiz_correct'] = Variable<int>(quizCorrect.value);
+    }
+    if (rowid.present) {
+      map['rowid'] = Variable<int>(rowid.value);
+    }
+    return map;
+  }
+
+  @override
+  String toString() {
+    return (StringBuffer('DayLogsCompanion(')
+          ..write('day: $day, ')
+          ..write('seen: $seen, ')
+          ..write('goal: $goal, ')
+          ..write('quizAttempts: $quizAttempts, ')
+          ..write('quizCorrect: $quizCorrect, ')
+          ..write('rowid: $rowid')
+          ..write(')'))
+        .toString();
+  }
+}
+
+class $QuizLogsTable extends QuizLogs
+    with TableInfo<$QuizLogsTable, QuizLogRow> {
+  @override
+  final GeneratedDatabase attachedDatabase;
+  final String? _alias;
+  $QuizLogsTable(this.attachedDatabase, [this._alias]);
+  static const VerificationMeta _idMeta = const VerificationMeta('id');
+  @override
+  late final GeneratedColumn<int> id = GeneratedColumn<int>(
+    'id',
+    aliasedName,
+    false,
+    hasAutoIncrement: true,
+    type: DriftSqlType.int,
+    requiredDuringInsert: false,
+    defaultConstraints: GeneratedColumn.constraintIsAlways(
+      'PRIMARY KEY AUTOINCREMENT',
+    ),
+  );
+  static const VerificationMeta _cardIdMeta = const VerificationMeta('cardId');
+  @override
+  late final GeneratedColumn<String> cardId = GeneratedColumn<String>(
+    'card_id',
+    aliasedName,
+    false,
+    type: DriftSqlType.string,
+    requiredDuringInsert: true,
+  );
+  static const VerificationMeta _categoryMeta = const VerificationMeta(
+    'category',
+  );
+  @override
+  late final GeneratedColumn<String> category = GeneratedColumn<String>(
+    'category',
+    aliasedName,
+    false,
+    type: DriftSqlType.string,
+    requiredDuringInsert: true,
+  );
+  static const VerificationMeta _correctMeta = const VerificationMeta(
+    'correct',
+  );
+  @override
+  late final GeneratedColumn<bool> correct = GeneratedColumn<bool>(
+    'correct',
+    aliasedName,
+    false,
+    type: DriftSqlType.bool,
+    requiredDuringInsert: true,
+    defaultConstraints: GeneratedColumn.constraintIsAlways(
+      'CHECK ("correct" IN (0, 1))',
+    ),
+  );
+  static const VerificationMeta _answeredAtMeta = const VerificationMeta(
+    'answeredAt',
+  );
+  @override
+  late final GeneratedColumn<DateTime> answeredAt = GeneratedColumn<DateTime>(
+    'answered_at',
+    aliasedName,
+    false,
+    type: DriftSqlType.dateTime,
+    requiredDuringInsert: true,
+  );
+  @override
+  List<GeneratedColumn> get $columns => [
+    id,
+    cardId,
+    category,
+    correct,
+    answeredAt,
+  ];
+  @override
+  String get aliasedName => _alias ?? actualTableName;
+  @override
+  String get actualTableName => $name;
+  static const String $name = 'quiz_logs';
+  @override
+  VerificationContext validateIntegrity(
+    Insertable<QuizLogRow> instance, {
+    bool isInserting = false,
+  }) {
+    final context = VerificationContext();
+    final data = instance.toColumns(true);
+    if (data.containsKey('id')) {
+      context.handle(_idMeta, id.isAcceptableOrUnknown(data['id']!, _idMeta));
+    }
+    if (data.containsKey('card_id')) {
+      context.handle(
+        _cardIdMeta,
+        cardId.isAcceptableOrUnknown(data['card_id']!, _cardIdMeta),
+      );
+    } else if (isInserting) {
+      context.missing(_cardIdMeta);
+    }
+    if (data.containsKey('category')) {
+      context.handle(
+        _categoryMeta,
+        category.isAcceptableOrUnknown(data['category']!, _categoryMeta),
+      );
+    } else if (isInserting) {
+      context.missing(_categoryMeta);
+    }
+    if (data.containsKey('correct')) {
+      context.handle(
+        _correctMeta,
+        correct.isAcceptableOrUnknown(data['correct']!, _correctMeta),
+      );
+    } else if (isInserting) {
+      context.missing(_correctMeta);
+    }
+    if (data.containsKey('answered_at')) {
+      context.handle(
+        _answeredAtMeta,
+        answeredAt.isAcceptableOrUnknown(data['answered_at']!, _answeredAtMeta),
+      );
+    } else if (isInserting) {
+      context.missing(_answeredAtMeta);
+    }
+    return context;
+  }
+
+  @override
+  Set<GeneratedColumn> get $primaryKey => {id};
+  @override
+  QuizLogRow map(Map<String, dynamic> data, {String? tablePrefix}) {
+    final effectivePrefix = tablePrefix != null ? '$tablePrefix.' : '';
+    return QuizLogRow(
+      id: attachedDatabase.typeMapping.read(
+        DriftSqlType.int,
+        data['${effectivePrefix}id'],
+      )!,
+      cardId: attachedDatabase.typeMapping.read(
+        DriftSqlType.string,
+        data['${effectivePrefix}card_id'],
+      )!,
+      category: attachedDatabase.typeMapping.read(
+        DriftSqlType.string,
+        data['${effectivePrefix}category'],
+      )!,
+      correct: attachedDatabase.typeMapping.read(
+        DriftSqlType.bool,
+        data['${effectivePrefix}correct'],
+      )!,
+      answeredAt: attachedDatabase.typeMapping.read(
+        DriftSqlType.dateTime,
+        data['${effectivePrefix}answered_at'],
+      )!,
+    );
+  }
+
+  @override
+  $QuizLogsTable createAlias(String alias) {
+    return $QuizLogsTable(attachedDatabase, alias);
+  }
+}
+
+class QuizLogRow extends DataClass implements Insertable<QuizLogRow> {
+  final int id;
+  final String cardId;
+  final String category;
+  final bool correct;
+  final DateTime answeredAt;
+  const QuizLogRow({
+    required this.id,
+    required this.cardId,
+    required this.category,
+    required this.correct,
+    required this.answeredAt,
+  });
+  @override
+  Map<String, Expression> toColumns(bool nullToAbsent) {
+    final map = <String, Expression>{};
+    map['id'] = Variable<int>(id);
+    map['card_id'] = Variable<String>(cardId);
+    map['category'] = Variable<String>(category);
+    map['correct'] = Variable<bool>(correct);
+    map['answered_at'] = Variable<DateTime>(answeredAt);
+    return map;
+  }
+
+  QuizLogsCompanion toCompanion(bool nullToAbsent) {
+    return QuizLogsCompanion(
+      id: Value(id),
+      cardId: Value(cardId),
+      category: Value(category),
+      correct: Value(correct),
+      answeredAt: Value(answeredAt),
+    );
+  }
+
+  factory QuizLogRow.fromJson(
+    Map<String, dynamic> json, {
+    ValueSerializer? serializer,
+  }) {
+    serializer ??= driftRuntimeOptions.defaultSerializer;
+    return QuizLogRow(
+      id: serializer.fromJson<int>(json['id']),
+      cardId: serializer.fromJson<String>(json['cardId']),
+      category: serializer.fromJson<String>(json['category']),
+      correct: serializer.fromJson<bool>(json['correct']),
+      answeredAt: serializer.fromJson<DateTime>(json['answeredAt']),
+    );
+  }
+  @override
+  Map<String, dynamic> toJson({ValueSerializer? serializer}) {
+    serializer ??= driftRuntimeOptions.defaultSerializer;
+    return <String, dynamic>{
+      'id': serializer.toJson<int>(id),
+      'cardId': serializer.toJson<String>(cardId),
+      'category': serializer.toJson<String>(category),
+      'correct': serializer.toJson<bool>(correct),
+      'answeredAt': serializer.toJson<DateTime>(answeredAt),
+    };
+  }
+
+  QuizLogRow copyWith({
+    int? id,
+    String? cardId,
+    String? category,
+    bool? correct,
+    DateTime? answeredAt,
+  }) => QuizLogRow(
+    id: id ?? this.id,
+    cardId: cardId ?? this.cardId,
+    category: category ?? this.category,
+    correct: correct ?? this.correct,
+    answeredAt: answeredAt ?? this.answeredAt,
+  );
+  QuizLogRow copyWithCompanion(QuizLogsCompanion data) {
+    return QuizLogRow(
+      id: data.id.present ? data.id.value : this.id,
+      cardId: data.cardId.present ? data.cardId.value : this.cardId,
+      category: data.category.present ? data.category.value : this.category,
+      correct: data.correct.present ? data.correct.value : this.correct,
+      answeredAt: data.answeredAt.present
+          ? data.answeredAt.value
+          : this.answeredAt,
+    );
+  }
+
+  @override
+  String toString() {
+    return (StringBuffer('QuizLogRow(')
+          ..write('id: $id, ')
+          ..write('cardId: $cardId, ')
+          ..write('category: $category, ')
+          ..write('correct: $correct, ')
+          ..write('answeredAt: $answeredAt')
+          ..write(')'))
+        .toString();
+  }
+
+  @override
+  int get hashCode => Object.hash(id, cardId, category, correct, answeredAt);
+  @override
+  bool operator ==(Object other) =>
+      identical(this, other) ||
+      (other is QuizLogRow &&
+          other.id == this.id &&
+          other.cardId == this.cardId &&
+          other.category == this.category &&
+          other.correct == this.correct &&
+          other.answeredAt == this.answeredAt);
+}
+
+class QuizLogsCompanion extends UpdateCompanion<QuizLogRow> {
+  final Value<int> id;
+  final Value<String> cardId;
+  final Value<String> category;
+  final Value<bool> correct;
+  final Value<DateTime> answeredAt;
+  const QuizLogsCompanion({
+    this.id = const Value.absent(),
+    this.cardId = const Value.absent(),
+    this.category = const Value.absent(),
+    this.correct = const Value.absent(),
+    this.answeredAt = const Value.absent(),
+  });
+  QuizLogsCompanion.insert({
+    this.id = const Value.absent(),
+    required String cardId,
+    required String category,
+    required bool correct,
+    required DateTime answeredAt,
+  }) : cardId = Value(cardId),
+       category = Value(category),
+       correct = Value(correct),
+       answeredAt = Value(answeredAt);
+  static Insertable<QuizLogRow> custom({
+    Expression<int>? id,
+    Expression<String>? cardId,
+    Expression<String>? category,
+    Expression<bool>? correct,
+    Expression<DateTime>? answeredAt,
+  }) {
+    return RawValuesInsertable({
+      if (id != null) 'id': id,
+      if (cardId != null) 'card_id': cardId,
+      if (category != null) 'category': category,
+      if (correct != null) 'correct': correct,
+      if (answeredAt != null) 'answered_at': answeredAt,
+    });
+  }
+
+  QuizLogsCompanion copyWith({
+    Value<int>? id,
+    Value<String>? cardId,
+    Value<String>? category,
+    Value<bool>? correct,
+    Value<DateTime>? answeredAt,
+  }) {
+    return QuizLogsCompanion(
+      id: id ?? this.id,
+      cardId: cardId ?? this.cardId,
+      category: category ?? this.category,
+      correct: correct ?? this.correct,
+      answeredAt: answeredAt ?? this.answeredAt,
+    );
+  }
+
+  @override
+  Map<String, Expression> toColumns(bool nullToAbsent) {
+    final map = <String, Expression>{};
+    if (id.present) {
+      map['id'] = Variable<int>(id.value);
+    }
+    if (cardId.present) {
+      map['card_id'] = Variable<String>(cardId.value);
+    }
+    if (category.present) {
+      map['category'] = Variable<String>(category.value);
+    }
+    if (correct.present) {
+      map['correct'] = Variable<bool>(correct.value);
+    }
+    if (answeredAt.present) {
+      map['answered_at'] = Variable<DateTime>(answeredAt.value);
+    }
+    return map;
+  }
+
+  @override
+  String toString() {
+    return (StringBuffer('QuizLogsCompanion(')
+          ..write('id: $id, ')
+          ..write('cardId: $cardId, ')
+          ..write('category: $category, ')
+          ..write('correct: $correct, ')
+          ..write('answeredAt: $answeredAt')
+          ..write(')'))
+        .toString();
+  }
+}
+
 abstract class _$AppDb extends GeneratedDatabase {
   _$AppDb(QueryExecutor e) : super(e);
   $AppDbManager get managers => $AppDbManager(this);
   late final $CardsTable cards = $CardsTable(this);
   late final $CardStatesTable cardStates = $CardStatesTable(this);
   late final $SyncedFilesTable syncedFiles = $SyncedFilesTable(this);
+  late final $DayLogsTable dayLogs = $DayLogsTable(this);
+  late final $QuizLogsTable quizLogs = $QuizLogsTable(this);
   @override
   Iterable<TableInfo<Table, Object?>> get allTables =>
       allSchemaEntities.whereType<TableInfo<Table, Object?>>();
@@ -1156,6 +1882,8 @@ abstract class _$AppDb extends GeneratedDatabase {
     cards,
     cardStates,
     syncedFiles,
+    dayLogs,
+    quizLogs,
   ];
 }
 
@@ -1793,6 +2521,405 @@ typedef $$SyncedFilesTableProcessedTableManager =
       SyncedFileRow,
       PrefetchHooks Function()
     >;
+typedef $$DayLogsTableCreateCompanionBuilder = DayLogsCompanion Function({
+  required String day,
+  Value<int> seen,
+  required int goal,
+  Value<int> quizAttempts,
+  Value<int> quizCorrect,
+  Value<int> rowid,
+});
+typedef $$DayLogsTableUpdateCompanionBuilder = DayLogsCompanion Function({
+  Value<String> day,
+  Value<int> seen,
+  Value<int> goal,
+  Value<int> quizAttempts,
+  Value<int> quizCorrect,
+  Value<int> rowid,
+});
+
+class $$DayLogsTableFilterComposer extends Composer<_$AppDb, $DayLogsTable> {
+  $$DayLogsTableFilterComposer({
+    required super.$db,
+    required super.$table,
+    super.joinBuilder,
+    super.$addJoinBuilderToRootComposer,
+    super.$removeJoinBuilderFromRootComposer,
+  });
+  ColumnFilters<String> get day => $composableBuilder(
+    column: $table.day,
+    builder: (column) => ColumnFilters(column),
+  );
+
+  ColumnFilters<int> get seen => $composableBuilder(
+    column: $table.seen,
+    builder: (column) => ColumnFilters(column),
+  );
+
+  ColumnFilters<int> get goal => $composableBuilder(
+    column: $table.goal,
+    builder: (column) => ColumnFilters(column),
+  );
+
+  ColumnFilters<int> get quizAttempts => $composableBuilder(
+    column: $table.quizAttempts,
+    builder: (column) => ColumnFilters(column),
+  );
+
+  ColumnFilters<int> get quizCorrect => $composableBuilder(
+    column: $table.quizCorrect,
+    builder: (column) => ColumnFilters(column),
+  );
+}
+
+class $$DayLogsTableOrderingComposer extends Composer<_$AppDb, $DayLogsTable> {
+  $$DayLogsTableOrderingComposer({
+    required super.$db,
+    required super.$table,
+    super.joinBuilder,
+    super.$addJoinBuilderToRootComposer,
+    super.$removeJoinBuilderFromRootComposer,
+  });
+  ColumnOrderings<String> get day => $composableBuilder(
+    column: $table.day,
+    builder: (column) => ColumnOrderings(column),
+  );
+
+  ColumnOrderings<int> get seen => $composableBuilder(
+    column: $table.seen,
+    builder: (column) => ColumnOrderings(column),
+  );
+
+  ColumnOrderings<int> get goal => $composableBuilder(
+    column: $table.goal,
+    builder: (column) => ColumnOrderings(column),
+  );
+
+  ColumnOrderings<int> get quizAttempts => $composableBuilder(
+    column: $table.quizAttempts,
+    builder: (column) => ColumnOrderings(column),
+  );
+
+  ColumnOrderings<int> get quizCorrect => $composableBuilder(
+    column: $table.quizCorrect,
+    builder: (column) => ColumnOrderings(column),
+  );
+}
+
+class $$DayLogsTableAnnotationComposer
+    extends Composer<_$AppDb, $DayLogsTable> {
+  $$DayLogsTableAnnotationComposer({
+    required super.$db,
+    required super.$table,
+    super.joinBuilder,
+    super.$addJoinBuilderToRootComposer,
+    super.$removeJoinBuilderFromRootComposer,
+  });
+  GeneratedColumn<String> get day =>
+      $composableBuilder(column: $table.day, builder: (column) => column);
+
+  GeneratedColumn<int> get seen =>
+      $composableBuilder(column: $table.seen, builder: (column) => column);
+
+  GeneratedColumn<int> get goal =>
+      $composableBuilder(column: $table.goal, builder: (column) => column);
+
+  GeneratedColumn<int> get quizAttempts => $composableBuilder(
+    column: $table.quizAttempts,
+    builder: (column) => column,
+  );
+
+  GeneratedColumn<int> get quizCorrect => $composableBuilder(
+    column: $table.quizCorrect,
+    builder: (column) => column,
+  );
+}
+
+class $$DayLogsTableTableManager
+    extends
+        RootTableManager<
+          _$AppDb,
+          $DayLogsTable,
+          DayLogRow,
+          $$DayLogsTableFilterComposer,
+          $$DayLogsTableOrderingComposer,
+          $$DayLogsTableAnnotationComposer,
+          $$DayLogsTableCreateCompanionBuilder,
+          $$DayLogsTableUpdateCompanionBuilder,
+          (DayLogRow, BaseReferences<_$AppDb, $DayLogsTable, DayLogRow>),
+          DayLogRow,
+          PrefetchHooks Function()
+        > {
+  $$DayLogsTableTableManager(_$AppDb db, $DayLogsTable table)
+    : super(
+        TableManagerState(
+          db: db,
+          table: table,
+          createFilteringComposer: () =>
+              $$DayLogsTableFilterComposer($db: db, $table: table),
+          createOrderingComposer: () =>
+              $$DayLogsTableOrderingComposer($db: db, $table: table),
+          createComputedFieldComposer: () =>
+              $$DayLogsTableAnnotationComposer($db: db, $table: table),
+          updateCompanionCallback:
+              ({
+                Value<String> day = const Value.absent(),
+                Value<int> seen = const Value.absent(),
+                Value<int> goal = const Value.absent(),
+                Value<int> quizAttempts = const Value.absent(),
+                Value<int> quizCorrect = const Value.absent(),
+                Value<int> rowid = const Value.absent(),
+              }) => DayLogsCompanion(
+                day: day,
+                seen: seen,
+                goal: goal,
+                quizAttempts: quizAttempts,
+                quizCorrect: quizCorrect,
+                rowid: rowid,
+              ),
+          createCompanionCallback:
+              ({
+                required String day,
+                Value<int> seen = const Value.absent(),
+                required int goal,
+                Value<int> quizAttempts = const Value.absent(),
+                Value<int> quizCorrect = const Value.absent(),
+                Value<int> rowid = const Value.absent(),
+              }) => DayLogsCompanion.insert(
+                day: day,
+                seen: seen,
+                goal: goal,
+                quizAttempts: quizAttempts,
+                quizCorrect: quizCorrect,
+                rowid: rowid,
+              ),
+          withReferenceMapper: (p0) => p0
+              .map(
+                (e) => (
+                  e.readTable<$DayLogsTable, DayLogRow>(table),
+                  BaseReferences<_$AppDb, $DayLogsTable, DayLogRow>(
+                    db,
+                    table,
+                    e,
+                  ),
+                ),
+              )
+              .toList(),
+          prefetchHooksCallback: null,
+        ),
+      );
+}
+
+typedef $$DayLogsTableProcessedTableManager =
+    ProcessedTableManager<
+      _$AppDb,
+      $DayLogsTable,
+      DayLogRow,
+      $$DayLogsTableFilterComposer,
+      $$DayLogsTableOrderingComposer,
+      $$DayLogsTableAnnotationComposer,
+      $$DayLogsTableCreateCompanionBuilder,
+      $$DayLogsTableUpdateCompanionBuilder,
+      (DayLogRow, BaseReferences<_$AppDb, $DayLogsTable, DayLogRow>),
+      DayLogRow,
+      PrefetchHooks Function()
+    >;
+typedef $$QuizLogsTableCreateCompanionBuilder = QuizLogsCompanion Function({
+  Value<int> id,
+  required String cardId,
+  required String category,
+  required bool correct,
+  required DateTime answeredAt,
+});
+typedef $$QuizLogsTableUpdateCompanionBuilder = QuizLogsCompanion Function({
+  Value<int> id,
+  Value<String> cardId,
+  Value<String> category,
+  Value<bool> correct,
+  Value<DateTime> answeredAt,
+});
+
+class $$QuizLogsTableFilterComposer extends Composer<_$AppDb, $QuizLogsTable> {
+  $$QuizLogsTableFilterComposer({
+    required super.$db,
+    required super.$table,
+    super.joinBuilder,
+    super.$addJoinBuilderToRootComposer,
+    super.$removeJoinBuilderFromRootComposer,
+  });
+  ColumnFilters<int> get id => $composableBuilder(
+    column: $table.id,
+    builder: (column) => ColumnFilters(column),
+  );
+
+  ColumnFilters<String> get cardId => $composableBuilder(
+    column: $table.cardId,
+    builder: (column) => ColumnFilters(column),
+  );
+
+  ColumnFilters<String> get category => $composableBuilder(
+    column: $table.category,
+    builder: (column) => ColumnFilters(column),
+  );
+
+  ColumnFilters<bool> get correct => $composableBuilder(
+    column: $table.correct,
+    builder: (column) => ColumnFilters(column),
+  );
+
+  ColumnFilters<DateTime> get answeredAt => $composableBuilder(
+    column: $table.answeredAt,
+    builder: (column) => ColumnFilters(column),
+  );
+}
+
+class $$QuizLogsTableOrderingComposer
+    extends Composer<_$AppDb, $QuizLogsTable> {
+  $$QuizLogsTableOrderingComposer({
+    required super.$db,
+    required super.$table,
+    super.joinBuilder,
+    super.$addJoinBuilderToRootComposer,
+    super.$removeJoinBuilderFromRootComposer,
+  });
+  ColumnOrderings<int> get id => $composableBuilder(
+    column: $table.id,
+    builder: (column) => ColumnOrderings(column),
+  );
+
+  ColumnOrderings<String> get cardId => $composableBuilder(
+    column: $table.cardId,
+    builder: (column) => ColumnOrderings(column),
+  );
+
+  ColumnOrderings<String> get category => $composableBuilder(
+    column: $table.category,
+    builder: (column) => ColumnOrderings(column),
+  );
+
+  ColumnOrderings<bool> get correct => $composableBuilder(
+    column: $table.correct,
+    builder: (column) => ColumnOrderings(column),
+  );
+
+  ColumnOrderings<DateTime> get answeredAt => $composableBuilder(
+    column: $table.answeredAt,
+    builder: (column) => ColumnOrderings(column),
+  );
+}
+
+class $$QuizLogsTableAnnotationComposer
+    extends Composer<_$AppDb, $QuizLogsTable> {
+  $$QuizLogsTableAnnotationComposer({
+    required super.$db,
+    required super.$table,
+    super.joinBuilder,
+    super.$addJoinBuilderToRootComposer,
+    super.$removeJoinBuilderFromRootComposer,
+  });
+  GeneratedColumn<int> get id =>
+      $composableBuilder(column: $table.id, builder: (column) => column);
+
+  GeneratedColumn<String> get cardId =>
+      $composableBuilder(column: $table.cardId, builder: (column) => column);
+
+  GeneratedColumn<String> get category =>
+      $composableBuilder(column: $table.category, builder: (column) => column);
+
+  GeneratedColumn<bool> get correct =>
+      $composableBuilder(column: $table.correct, builder: (column) => column);
+
+  GeneratedColumn<DateTime> get answeredAt => $composableBuilder(
+    column: $table.answeredAt,
+    builder: (column) => column,
+  );
+}
+
+class $$QuizLogsTableTableManager
+    extends
+        RootTableManager<
+          _$AppDb,
+          $QuizLogsTable,
+          QuizLogRow,
+          $$QuizLogsTableFilterComposer,
+          $$QuizLogsTableOrderingComposer,
+          $$QuizLogsTableAnnotationComposer,
+          $$QuizLogsTableCreateCompanionBuilder,
+          $$QuizLogsTableUpdateCompanionBuilder,
+          (QuizLogRow, BaseReferences<_$AppDb, $QuizLogsTable, QuizLogRow>),
+          QuizLogRow,
+          PrefetchHooks Function()
+        > {
+  $$QuizLogsTableTableManager(_$AppDb db, $QuizLogsTable table)
+    : super(
+        TableManagerState(
+          db: db,
+          table: table,
+          createFilteringComposer: () =>
+              $$QuizLogsTableFilterComposer($db: db, $table: table),
+          createOrderingComposer: () =>
+              $$QuizLogsTableOrderingComposer($db: db, $table: table),
+          createComputedFieldComposer: () =>
+              $$QuizLogsTableAnnotationComposer($db: db, $table: table),
+          updateCompanionCallback:
+              ({
+                Value<int> id = const Value.absent(),
+                Value<String> cardId = const Value.absent(),
+                Value<String> category = const Value.absent(),
+                Value<bool> correct = const Value.absent(),
+                Value<DateTime> answeredAt = const Value.absent(),
+              }) => QuizLogsCompanion(
+                id: id,
+                cardId: cardId,
+                category: category,
+                correct: correct,
+                answeredAt: answeredAt,
+              ),
+          createCompanionCallback:
+              ({
+                Value<int> id = const Value.absent(),
+                required String cardId,
+                required String category,
+                required bool correct,
+                required DateTime answeredAt,
+              }) => QuizLogsCompanion.insert(
+                id: id,
+                cardId: cardId,
+                category: category,
+                correct: correct,
+                answeredAt: answeredAt,
+              ),
+          withReferenceMapper: (p0) => p0
+              .map(
+                (e) => (
+                  e.readTable<$QuizLogsTable, QuizLogRow>(table),
+                  BaseReferences<_$AppDb, $QuizLogsTable, QuizLogRow>(
+                    db,
+                    table,
+                    e,
+                  ),
+                ),
+              )
+              .toList(),
+          prefetchHooksCallback: null,
+        ),
+      );
+}
+
+typedef $$QuizLogsTableProcessedTableManager =
+    ProcessedTableManager<
+      _$AppDb,
+      $QuizLogsTable,
+      QuizLogRow,
+      $$QuizLogsTableFilterComposer,
+      $$QuizLogsTableOrderingComposer,
+      $$QuizLogsTableAnnotationComposer,
+      $$QuizLogsTableCreateCompanionBuilder,
+      $$QuizLogsTableUpdateCompanionBuilder,
+      (QuizLogRow, BaseReferences<_$AppDb, $QuizLogsTable, QuizLogRow>),
+      QuizLogRow,
+      PrefetchHooks Function()
+    >;
 
 class $AppDbManager {
   final _$AppDb _db;
@@ -1803,4 +2930,8 @@ class $AppDbManager {
       $$CardStatesTableTableManager(_db, _db.cardStates);
   $$SyncedFilesTableTableManager get syncedFiles =>
       $$SyncedFilesTableTableManager(_db, _db.syncedFiles);
+  $$DayLogsTableTableManager get dayLogs =>
+      $$DayLogsTableTableManager(_db, _db.dayLogs);
+  $$QuizLogsTableTableManager get quizLogs =>
+      $$QuizLogsTableTableManager(_db, _db.quizLogs);
 }

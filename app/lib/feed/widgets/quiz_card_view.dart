@@ -50,15 +50,15 @@ class _QuizCardViewState extends ConsumerState<QuizCardView> {
           ),
           const SizedBox(height: 20),
           for (var i = 0; i < _quiz.options.length; i++)
-            _Option(
+            QuizOption(
               text: _quiz.options[i],
               state: !answered
-                  ? _OptionState.idle
+                  ? QuizOptionState.idle
                   : i == _quiz.answer
-                  ? _OptionState.correct
+                  ? QuizOptionState.correct
                   : i == _picked
-                  ? _OptionState.wrong
-                  : _OptionState.dimmed,
+                  ? QuizOptionState.wrong
+                  : QuizOptionState.dimmed,
               onTap: () => _pick(i),
             ),
           if (answered)
@@ -90,34 +90,39 @@ class _QuizCardViewState extends ConsumerState<QuizCardView> {
   }
 }
 
-enum _OptionState { idle, correct, wrong, dimmed }
+enum QuizOptionState { idle, correct, wrong, dimmed }
 
-class _Option extends StatelessWidget {
-  const _Option({required this.text, required this.state, required this.onTap});
+class QuizOption extends StatelessWidget {
+  const QuizOption({
+    super.key,
+    required this.text,
+    required this.state,
+    required this.onTap,
+  });
 
   final String text;
-  final _OptionState state;
+  final QuizOptionState state;
   final VoidCallback onTap;
 
   @override
   Widget build(BuildContext context) {
     final (bg, border, icon) = switch (state) {
-      _OptionState.idle => (
+      QuizOptionState.idle => (
         Colors.white.withValues(alpha: 0.10),
         Colors.white24,
         null,
       ),
-      _OptionState.correct => (
+      QuizOptionState.correct => (
         const Color(0xFF16A34A).withValues(alpha: 0.35),
         const Color(0xFF22C55E),
         Icons.check_circle,
       ),
-      _OptionState.wrong => (
+      QuizOptionState.wrong => (
         const Color(0xFFDC2626).withValues(alpha: 0.35),
         const Color(0xFFEF4444),
         Icons.cancel,
       ),
-      _OptionState.dimmed => (
+      QuizOptionState.dimmed => (
         Colors.white.withValues(alpha: 0.04),
         Colors.white10,
         null,
@@ -133,7 +138,7 @@ class _Option extends StatelessWidget {
         ),
         child: InkWell(
           borderRadius: BorderRadius.circular(14),
-          onTap: state == _OptionState.idle ? onTap : null,
+          onTap: state == QuizOptionState.idle ? onTap : null,
           child: Padding(
             padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 14),
             child: Row(
@@ -142,7 +147,7 @@ class _Option extends StatelessWidget {
                   child: Text(
                     text,
                     style: TextStyle(
-                      color: state == _OptionState.dimmed
+                      color: state == QuizOptionState.dimmed
                           ? Colors.white38
                           : Colors.white,
                       fontSize: 16,

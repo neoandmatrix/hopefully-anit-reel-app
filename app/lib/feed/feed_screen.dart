@@ -3,6 +3,7 @@ import 'package:flutter/services.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 
 import '../data/providers.dart';
+import '../recap/recap_view.dart';
 import 'feed_builder.dart';
 import 'widgets/learn_card_view.dart';
 import 'widgets/quiz_card_view.dart';
@@ -17,6 +18,14 @@ class FeedScreen extends ConsumerStatefulWidget {
 class _FeedScreenState extends ConsumerState<FeedScreen> {
   final _controller = PageController();
   final _focus = FocusNode();
+  int _page = 0;
+
+  /// Today's count when the feed opened; the recap only appears if the goal is
+  /// crossed during this session (not when reopening after already meeting it).
+  int? _baseline;
+
+  /// Page index where the recap was inserted, once the goal is reached.
+  int? _recapAt;
 
   @override
   void dispose() {
@@ -25,9 +34,19 @@ class _FeedScreenState extends ConsumerState<FeedScreen> {
     super.dispose();
   }
 
-  void _onPage(List<FeedItem> items, int index) {
-    if (index < items.length && !items[index].asQuiz) {
-      ref.read(repoProvider).markSeen(items[index].card.id);
+  /// Maps a page index to a feed item, accounting for the inserted recap.
+  FeedItem? _itemAt(List<FeedItem> items, int page) {
+    final recap = _recapAt;
+    if (recap != null && page == recap) return null;
+    final i = recap != null && page > recap ? page - 1 : page;
+    return i < items.length ? items[i] : null;
+  }
+
+  void _onPage(List<FeedItem> items, int page) {
+    _page = page;
+    final item = _itemAt(items, page);
+    if (item != null && !item.asQuiz) {
+      ref.read(repoProvider).markSeen(item.card.id);
     }
   }
 
@@ -54,6 +73,17 @@ class _FeedScreenState extends ConsumerState<FeedScreen> {
   @override
   Widget build(BuildContext context) {
     final feed = ref.watch(feedProvider);
+    final today = ref.watch(todayProvider);
+    if (_baseline == null && ref.watch(dayLogsProvider).hasValue) {
+      _baseline = today.seen;
+    }
+    ref.listen(todayProvider, (_, next) {
+      final baseline = _baseline;
+      if (baseline == null) return;
+      if (_recapAt == null && baseline < next.goal && next.seen >= next.goal) {
+        setState(() => _recapAt = _page + 1);
+      }
+    });
     return Scaffold(
       body: feed.when(
         loading: () => const Center(child: CircularProgressIndicator()),
@@ -73,29 +103,50 @@ class _FeedScreenState extends ConsumerState<FeedScreen> {
               (_) => _onPage(items, 0),
             );
           }
-          return Focus(
-            focusNode: _focus,
-            autofocus: true,
-            onKeyEvent: _onKey,
-            child: PageView.builder(
-              controller: _controller,
-              scrollDirection: Axis.vertical,
-              itemCount: items.length + 1,
-              onPageChanged: (i) => _onPage(items, i),
-              itemBuilder: (context, i) {
-                if (i == items.length) return const _CaughtUp();
-                final item = items[i];
-                return item.asQuiz
-                    ? QuizCardView(
-                        key: ValueKey('q-${item.card.id}'),
-                        card: item.card,
-                      )
-                    : LearnCardView(
-                        key: ValueKey(item.card.id),
-                        card: item.card,
-                      );
-              },
-            ),
+          final pages = items.length + 1 + (_recapAt == null ? 0 : 1);
+          return Stack(
+            children: [
+              Focus(
+                focusNode: _focus,
+                autofocus: true,
+                onKeyEvent: _onKey,
+                child: PageView.builder(
+                  controller: _controller,
+                  scrollDirection: Axis.vertical,
+                  itemCount: pages,
+                  onPageChanged: (i) => _onPage(items, i),
+                  itemBuilder: (context, i) {
+                    if (i == _recapAt) return const RecapView();
+                    final item = _itemAt(items, i);
+                    if (item == null) return const _CaughtUp();
+                    return item.asQuiz
+                        ? QuizCardView(
+                            key: ValueKey('q-${item.card.id}'),
+                            card: item.card,
+                          )
+                        : LearnCardView(
+                            key: ValueKey(item.card.id),
+                            card: item.card,
+                          );
+                  },
+                ),
+              ),
+              // Thin daily-goal bar along the top, like story progress.
+              Positioned(
+                top: 0,
+                left: 0,
+                right: 0,
+                child: SafeArea(
+                  bottom: false,
+                  child: LinearProgressIndicator(
+                    value: (today.seen / today.goal).clamp(0, 1).toDouble(),
+                    minHeight: 3,
+                    backgroundColor: Colors.white10,
+                    color: const Color(0xFFFF9933),
+                  ),
+                ),
+              ),
+            ],
           );
         },
       ),
