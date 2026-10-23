@@ -1,0 +1,563 @@
+{
+  "date": "2026-10-23",
+  "cards": [
+    {
+      "id": "news-2026-10-23-01",
+      "type": "news",
+      "category": "polity",
+      "headline": "Supreme Court allows citizens to prosecute candidates for false affidavits",
+      "body": "The Supreme Court ruled that ordinary private citizens can file criminal complaints against election candidates who give false or concealed information in their nomination affidavits. A Bench of Justices Dipankar Datta and Sheel Nagu said the law does not require only public servants or authorities to lodge such complaints. Concealment is an offence under Section 125-A of the Representation of the People Act, 1951.",
+      "why_it_matters": "This empowers any voter to hold candidates accountable for hiding assets, qualifications or criminal records, strengthening transparency in elections.",
+      "key_fact": "Section 125-A of the Representation of the People Act, 1951",
+      "source_url": "https://www.thehindu.com/news/national/supreme-court-holds-voters-can-prosecute-candidates-for-concealing-information/article71616952.ece",
+      "date": "2026-10-23",
+      "quiz": {
+        "q": "Under which law is concealing information in a candidate's affidavit an offence?",
+        "options": [
+          "Section 125-A of the Representation of the People Act, 1951",
+          "Section 195 of the Code of Criminal Procedure",
+          "Section 144 of the Indian Penal Code",
+          "Section 33 of the Representation of the People Act, 1951"
+        ],
+        "answer": 0,
+        "explain": "The article states that concealing personal information or filing false details is an offence under Section 125-A of the 1951 Act."
+      },
+      "tags": [
+        "Supreme Court",
+        "elections",
+        "affidavit",
+        "transparency"
+      ]
+    },
+    {
+      "id": "news-2026-10-23-02",
+      "type": "news",
+      "category": "economy",
+      "headline": "Nirmala Sitharaman chairs 30th meeting of Financial Stability and Development Council",
+      "body": "Union Finance Minister Nirmala Sitharaman chaired the 30th meeting of the Financial Stability and Development Council (FSDC) in New Delhi. The council discussed financial stability issues, regulatory reforms, digital modernisation, tokenisation of financial assets, and cyber security preparedness. It reviewed the Financial Sector Cyber Security Strategy and stressed returning unclaimed financial assets to rightful owners under the 'Aapka Paisa, Aapka Adhikar' campaign.",
+      "why_it_matters": "FSDC decisions affect banking, fintech and cyber security, which impact everyday financial services and the safety of people's money.",
+      "key_fact": "30th FSDC meeting chaired by Nirmala Sitharaman",
+      "source_url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2327696",
+      "date": "2026-10-23",
+      "quiz": {
+        "q": "Who chaired the 30th meeting of the Financial Stability and Development Council?",
+        "options": [
+          "Nirmala Sitharaman",
+          "RBI Governor",
+          "Prime Minister Narendra Modi",
+          "Finance Secretary"
+        ],
+        "answer": 0,
+        "explain": "The article states that Union Finance Minister Nirmala Sitharaman chaired the 30th FSDC meeting in New Delhi."
+      },
+      "tags": [
+        "FSDC",
+        "finance",
+        "cyber security",
+        "unclaimed assets"
+      ]
+    },
+    {
+      "id": "news-2026-10-23-03",
+      "type": "news",
+      "category": "economy",
+      "headline": "Government to revise PLFS to count gig and unpaid care workers",
+      "body": "The Union government will modify the Periodic Labour Force Survey (PLFS) to track digital platform workers and capture unpaid household, caregiving, volunteer and trainee work. The National Sample Survey Office (NSSO) under MoSPI proposed changes to the sampling design starting January 2027. A separate Second Stage Stratum will identify households with digital platform workers. The Ministry has invited public comments within 15 days.",
+      "why_it_matters": "Better data on gig and unpaid work will help policymakers design social security and labour protections for workers currently invisible in official statistics.",
+      "key_fact": "PLFS sampling design changes from January 2027",
+      "source_url": "https://www.thehindu.com/business/Economy/government-to-modify-labour-survey-to-capture-gig-economy-unpaid-household-workers/article71617185.ece",
+      "date": "2026-10-23",
+      "quiz": {
+        "q": "From when are the proposed PLFS sampling design changes set to start?",
+        "options": [
+          "January 2027",
+          "October 2026",
+          "April 2027",
+          "January 2026"
+        ],
+        "answer": 0,
+        "explain": "The article states that MoSPI has proposed modifications to the PLFS sampling design starting January 2027."
+      },
+      "tags": [
+        "PLFS",
+        "gig economy",
+        "labour survey",
+        "MoSPI"
+      ]
+    },
+    {
+      "id": "news-2026-10-23-04",
+      "type": "news",
+      "category": "economy",
+      "headline": "RBI Bulletin flags broad-based rise in food prices in October",
+      "body": "High-frequency data collected by the Reserve Bank of India for October (till 19th) suggest a broad-based increase in food prices, RBI officials wrote in the October Bulletin. Rice, wheat, pulses, edible oils and tomato prices rose, while potato prices declined. Rural inflation exceeded urban inflation in September. WPI inflation hit 11.4% in September 2026, its first double-digit rate in the new series.",
+      "why_it_matters": "Rising food prices directly affect household budgets, and sustained inflation can influence RBI's monetary policy decisions.",
+      "key_fact": "WPI inflation at 11.4% in September 2026",
+      "source_url": "https://www.thehindu.com/business/Economy/data-suggests-broad-based-increase-in-food-prices-rbi-bulletin/article71616686.ece",
+      "date": "2026-10-23",
+      "quiz": {
+        "q": "What was WPI inflation in September 2026 according to the RBI Bulletin?",
+        "options": [
+          "11.4%",
+          "9.9%",
+          "6.1%",
+          "4.9%"
+        ],
+        "answer": 0,
+        "explain": "The article states that WPI inflation recorded its first double-digit rate in the new series at 11.4% in September 2026."
+      },
+      "tags": [
+        "RBI",
+        "inflation",
+        "food prices",
+        "WPI"
+      ]
+    },
+    {
+      "id": "news-2026-10-23-05",
+      "type": "news",
+      "category": "economy",
+      "headline": "Net FDI positive at $3.3 billion in August 2026",
+      "body": "Net foreign direct investment remained positive for the third consecutive month in August 2026, with inflows exceeding outflows by $3.3 billion, according to RBI data. Gross FDI stood at $11.1 billion, 68% higher than a year earlier. The U.S., Singapore and Mauritius accounted for about 72% of inflows. This marks a turnaround from five months of negative net FDI in August-December 2025.",
+      "why_it_matters": "Positive net FDI indicates foreign investor confidence, which can support jobs, growth and the rupee.",
+      "key_fact": "Net FDI of $3.3 billion in August 2026",
+      "source_url": "https://www.thehindu.com/business/Economy/net-fdi-at-33-billion-in-september-2026-positive-for-third-consecutive-month/article71617131.ece",
+      "date": "2026-10-23",
+      "quiz": {
+        "q": "What was net FDI in August 2026 according to RBI data?",
+        "options": [
+          "$3.3 billion",
+          "$11.1 billion",
+          "$7.7 billion",
+          "$5.8 billion"
+        ],
+        "answer": 0,
+        "explain": "The article states that net FDI was positive for the third consecutive month in August 2026, with inflows exceeding outflows by $3.3 billion."
+      },
+      "tags": [
+        "FDI",
+        "RBI",
+        "economy",
+        "investment"
+      ]
+    },
+    {
+      "id": "news-2026-10-23-06",
+      "type": "news",
+      "category": "polity",
+      "headline": "Centre proposes tougher learner's licence test, online services",
+      "body": "Draft amendments to the Central Motor Vehicles Rules, 1989, propose raising the learner's test pass mark from 60% to 75% and extending the learner's licence process window from 7 to 15 days. Applicants would also need a safe-driving tutorial of at least 30 minutes. The draft allows Aadhaar-based online services, waives fees for updating name or address, and adds medical disclosures. Public feedback is open for 30 days.",
+      "why_it_matters": "Driving licence rules affect millions of Indian applicants each year, and stricter tests could mean better-trained drivers on the roads.",
+      "key_fact": "Learner's test pass mark proposed to rise from 60% to 75%",
+      "source_url": "https://www.thehindu.com/news/national/government-plans-colour-coded-driving-licences-for-citizens-foreign-nationals/article71615858.ece",
+      "date": "2026-10-23",
+      "quiz": {
+        "q": "What is the proposed new pass mark for the preliminary learner's test?",
+        "options": [
+          "60%",
+          "70%",
+          "75%",
+          "80%"
+        ],
+        "answer": 2,
+        "explain": "The draft amendments propose raising the pass mark from 60% to 75%."
+      },
+      "tags": [
+        "driving licence",
+        "motor vehicles rules",
+        "road transport"
+      ]
+    },
+    {
+      "id": "news-2026-10-23-07",
+      "type": "news",
+      "category": "geography",
+      "headline": "Magnitude 7 quake in Tibet kills 16, over 12,000 evacuated",
+      "body": "A shallow magnitude 7.0 earthquake struck Baqen County in Nagqu City, Tibet Autonomous Region, at about 10:33 p.m. local time on Thursday, October 22, 2026. At least 16 people were killed and 65 injured, with 11 in serious condition. Over 12,000 residents were evacuated, and more than 330 houses collapsed or were damaged. Relief supplies and prefabricated houses have reached the high-altitude area.",
+      "why_it_matters": "The quake highlights the vulnerability of India's Himalayan neighbourhood to seismic disasters, where rescue is hard in remote, high-altitude terrain.",
+      "key_fact": "Magnitude 7.0 quake struck Baqen County, Nagqu City, Tibet",
+      "source_url": "https://www.thehindu.com/news/international/tibet-earthquake-nagqu-updates-october-22-2026/article71612585.ece",
+      "date": "2026-10-23",
+      "quiz": {
+        "q": "What was the magnitude of the earthquake that struck Tibet's Baqen County?",
+        "options": [
+          "6.0",
+          "6.5",
+          "7.0",
+          "7.5"
+        ],
+        "answer": 2,
+        "explain": "Authorities said a magnitude 7.0 earthquake struck Baqen County in Nagqu City."
+      },
+      "tags": [
+        "earthquake",
+        "Tibet",
+        "disaster"
+      ]
+    },
+    {
+      "id": "news-2026-10-23-08",
+      "type": "news",
+      "category": "environment",
+      "headline": "Nepal to get first loss and damage fund payout of $21.6 million",
+      "body": "Nepal will receive $21.6 million from the United Nations' Loss and Damage Fund after the Bhotekoshi floods in August. This is the first time the global climate fund has earmarked money for a specific country to address climate-change-linked losses. Climate experts called it a landmark step, though the amount is a small fraction of the nearly $5 billion Nepal says it needs for recovery and reconstruction.",
+      "why_it_matters": "The Loss and Damage Fund was set up to help climate-vulnerable countries recover from disasters, and this first payout tests whether the mechanism can deliver.",
+      "key_fact": "$21.6 million payout to Nepal; it seeks nearly $5 billion",
+      "source_url": "https://www.thehindu.com/videos/nepal-to-receive-first-ever-loss-and-damage-fund-payout-after-devastating-floods/article71614805.ece",
+      "date": "2026-10-23",
+      "quiz": {
+        "q": "How much is Nepal set to receive from the UN Loss and Damage Fund?",
+        "options": [
+          "$5 billion",
+          "$21.6 million",
+          "$216 million",
+          "$500 million"
+        ],
+        "answer": 1,
+        "explain": "Nepal is set to receive $21.6 million, a fraction of the nearly $5 billion it estimates it needs."
+      },
+      "tags": [
+        "climate finance",
+        "Nepal",
+        "floods",
+        "loss and damage"
+      ]
+    },
+    {
+      "id": "news-2026-10-23-09",
+      "type": "news",
+      "category": "international",
+      "headline": "Goyal says EU carbon tax on steel is 'inviting disaster'",
+      "body": "Speaking at the Berlin Global Dialogue, Commerce and Industry Minister Piyush Goyal criticised the European Union's Carbon Border Adjustment Mechanism (CBAM) and 50% steel import duty, saying they will raise Europe's cost of living and hurt its competitiveness. He said such regulations create non-tariff barriers for other countries and warned the EU risked anti-competitive effects in a reciprocal trading world.",
+      "why_it_matters": "CBAM affects Indian steel exporters to Europe, so EU carbon rules directly shape export costs and jobs in India's metal industry.",
+      "key_fact": "Piyush Goyal spoke at Berlin Global Dialogue on October 22, 2026",
+      "source_url": "https://www.thehindu.com/news/international/eu-inviting-disaster-by-imposing-carbon-tax-on-steel-says-piyush-goyal-in-berlin/article71614612.ece",
+      "date": "2026-10-23",
+      "quiz": {
+        "q": "Which EU measure did Piyush Goyal criticise as 'inviting disaster'?",
+        "options": [
+          "A carbon tax on steel under CBAM",
+          "A ban on steel imports",
+          "A subsidy for EU steel makers",
+          "A free trade agreement with India"
+        ],
+        "answer": 0,
+        "explain": "Goyal criticised the EU's CBAM carbon tax and high import duty on steel."
+      },
+      "tags": [
+        "trade",
+        "EU",
+        "CBAM",
+        "steel"
+      ]
+    },
+    {
+      "id": "news-2026-10-23-10",
+      "type": "news",
+      "category": "international",
+      "headline": "MEA says PLA patrolling keeps LAC disturbed",
+      "body": "The Ministry of External Affairs said the Line of Actual Control has been 'disturbed' from time to time when Chinese PLA forces deviate from established patrolling patterns. Spokesperson Randhir Jaiswal said both sides continue to use diplomatic and military mechanisms to resolve issues. The remarks followed a report quoting outgoing ITBP chief Shatrujeet Kapur on face-offs along the LAC in Arunachal Pradesh since July 2026.",
+      "why_it_matters": "Peace on the India-China border matters for security along the Himalayan frontier and for the overall course of bilateral ties.",
+      "key_fact": "MEA spokesperson Randhir Jaiswal; ITBP chief Shatrujeet Kapur",
+      "source_url": "https://www.thehindu.com/news/national/mea-india-china-lac-border-situation-itbp-dg-remarks-arunachal/article71616229.ece",
+      "date": "2026-10-23",
+      "quiz": {
+        "q": "According to the MEA, what causes disturbance along the LAC?",
+        "options": [
+          "Indian forces crossing the border",
+          "PLA forces deviating from established patrolling patterns",
+          "Third-country military exercises",
+          "A breakdown of diplomatic talks"
+        ],
+        "answer": 1,
+        "explain": "The MEA said the situation gets disturbed when Chinese forces deviate from established patrolling patterns."
+      },
+      "tags": [
+        "India-China",
+        "LAC",
+        "border",
+        "MEA"
+      ]
+    },
+    {
+      "id": "news-2026-10-23-11",
+      "type": "news",
+      "category": "international",
+      "headline": "Poland PM Tusk calls for India-Poland joint ventures in tech, AI",
+      "body": "Poland Prime Minister Donald Tusk, speaking at the India-Poland Business Forum in Bengaluru on October 23, 2026, said the two countries should move beyond traditional trade and deepen cooperation in technology, AI and aerospace. He said their strategic partnership, elevated during Prime Minister Narendra Modi's visit to Warsaw in August 2024, should translate into joint ventures. Karnataka CM D.K. Shivakumar invited Poland to the Global Investors Meet 2027.",
+      "why_it_matters": "Closer India-Poland business ties could open European market access for Indian IT and tech firms while bringing Polish expertise in software and cybersecurity.",
+      "key_fact": "India-Poland ties elevated to strategic partnership in August 2024",
+      "source_url": "https://www.thehindu.com/business/Economy/india-poland-strategic-partnership-should-translate-into-jvs-pm-donald-tusk/article71615360.ece",
+      "date": "2026-10-23",
+      "quiz": {
+        "q": "When did India and Poland elevate their ties to a strategic partnership?",
+        "options": [
+          "August 2024",
+          "October 2026",
+          "November 2019",
+          "January 2022"
+        ],
+        "answer": 0,
+        "explain": "Tusk recalled the strategic partnership was elevated during PM Modi's visit to Warsaw in August 2024."
+      },
+      "tags": [
+        "India-Poland",
+        "trade",
+        "technology",
+        "diplomacy"
+      ]
+    },
+    {
+      "id": "news-2026-10-23-12",
+      "type": "news",
+      "category": "international",
+      "headline": "Navy to host Indo-Pacific Regional Dialogue in Delhi from Nov 3",
+      "body": "The Indian Navy will host the 2026 Indo-Pacific Regional Dialogue in New Delhi from November 3 to 5, with experts from 18 countries. Defence Minister Rajnath Singh will deliver the commemorative address. Organised with the National Maritime Foundation, the dialogue's theme is 'Science, Technology, and Academic Cooperation in the Indo-Pacific'. It seeks to translate the Indo-Pacific Oceans Initiative, announced by PM Modi in 2019, into actionable cooperation.",
+      "why_it_matters": "The dialogue is a key forum for India to shape maritime cooperation and address threats to supply chains and critical maritime infrastructure in the region.",
+      "key_fact": "IPRD 2026 in New Delhi from November 3 to 5",
+      "source_url": "https://www.thehindu.com/news/national/navy-to-host-indo-pacific-regional-dialogue-in-new-delhi-from-november-3/article71616616.ece",
+      "date": "2026-10-23",
+      "quiz": {
+        "q": "Where will the 2026 Indo-Pacific Regional Dialogue be held?",
+        "options": [
+          "New Delhi",
+          "Mumbai",
+          "Bengaluru",
+          "Chennai"
+        ],
+        "answer": 0,
+        "explain": "The article states the Indian Navy will host the dialogue in New Delhi from November 3 to 5."
+      },
+      "tags": [
+        "Indian Navy",
+        "Indo-Pacific",
+        "maritime",
+        "defence"
+      ]
+    },
+    {
+      "id": "news-2026-10-23-13",
+      "type": "news",
+      "category": "environment",
+      "headline": "MoEFCC reviews UP action plan to curb Delhi-NCR air pollution",
+      "body": "Environment Ministry Secretary Narendra Bhushan reviewed Uttar Pradesh's winter action plan to tackle air pollution in Delhi-NCR. UP reported 11 major steps covering road dust, construction and demolition waste, open burning, vehicular pollution, traffic congestion, industrial pollution, greening and paddy stubble management. The Secretary urged faster adoption of the old truck and bus replacement scheme and early installation of ANPR cameras to enforce the 'No PUC, No Fuel' policy at fuel stations.",
+      "why_it_matters": "Winter air pollution in Delhi-NCR affects the health of millions, and coordinated state action plans are central to reducing it.",
+      "key_fact": "UP reported 11 major steps in its air pollution action plan",
+      "source_url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2327700",
+      "date": "2026-10-23",
+      "quiz": {
+        "q": "How many major steps did the Uttar Pradesh government report in its air pollution action plan?",
+        "options": [
+          "11",
+          "5",
+          "18",
+          "27"
+        ],
+        "answer": 0,
+        "explain": "The article states UP informed about its 11 major steps and various interventions for air quality improvement."
+      },
+      "tags": [
+        "air pollution",
+        "Delhi-NCR",
+        "Uttar Pradesh",
+        "environment"
+      ]
+    },
+    {
+      "id": "news-2026-10-23-14",
+      "type": "news",
+      "category": "environment",
+      "headline": "Strong El Niño likely as Pacific region exceeds 30°C first time",
+      "body": "On October 5, the Niño 3.4 region in the central-equatorial Pacific recorded a sea surface temperature of 30.06°C, the first time in recorded history it exceeded 30°C. NOAA's Climate Prediction Center says a 'strong to very strong' El Niño is 83% likely, with a high chance of a historic event. A recent study found El Niño intensity has notably amplified over the last 40 years.",
+      "why_it_matters": "A strong El Niño can disrupt monsoon rainfall, raise heatwave risk and affect agriculture and water resources across India.",
+      "key_fact": "Niño 3.4 sea surface temperature hit 30.06°C on October 5",
+      "source_url": "https://www.thehindu.com/sci-tech/energy-and-environment/a-ferocious-el-nino-is-brewing-thanks-to-record-pacific-heat/article71610222.ece",
+      "date": "2026-10-23",
+      "quiz": {
+        "q": "What sea surface temperature did the Niño 3.4 region record on October 5?",
+        "options": [
+          "30.06°C",
+          "28.50°C",
+          "31.20°C",
+          "29.75°C"
+        ],
+        "answer": 0,
+        "explain": "The article states the region recorded 30.06°C, the first time it exceeded 30°C in recorded history."
+      },
+      "tags": [
+        "El Niño",
+        "climate",
+        "Pacific Ocean",
+        "weather"
+      ]
+    },
+    {
+      "id": "news-2026-10-23-15",
+      "type": "news",
+      "category": "environment",
+      "headline": "UN Loss and Damage Fund approves $21.6 million payout to Nepal",
+      "body": "The UN climate convention's Loss and Damage Fund approved a $21.6 million payout to Nepal for rebuilding after August 2026 floods. Nepal estimates economic losses of at least $2.69 billion and recovery needs of at least $4.71 billion. The decision, taken at the Board's first extraordinary meeting on October 22, 2026, is the first time the Fund has earmarked money for a specific country. It comes weeks before COP31.",
+      "why_it_matters": "This first country-specific payout tests whether the Loss and Damage Fund can deliver climate finance to vulnerable developing countries.",
+      "key_fact": "$21.6 million approved for Nepal",
+      "source_url": "https://www.thehindu.com/sci-tech/energy-and-environment/what-is-the-importance-of-the-un-loss-and-damage-funds-payout-to-nepal-explained/article71615253.ece",
+      "date": "2026-10-23",
+      "quiz": {
+        "q": "How much did the UN Loss and Damage Fund approve for Nepal?",
+        "options": [
+          "$21.6 million",
+          "$2.69 billion",
+          "$4.71 billion",
+          "$342 million"
+        ],
+        "answer": 0,
+        "explain": "The Board approved a $21.6 million payout to Nepal, including $1.6 million in oversight fees."
+      },
+      "tags": [
+        "Loss and Damage Fund",
+        "Nepal",
+        "climate finance",
+        "UNFCCC"
+      ]
+    },
+    {
+      "id": "news-2026-10-23-16",
+      "type": "news",
+      "category": "science",
+      "headline": "ISRO to showcase emerging technologies at ESTIC 2026 in Delhi",
+      "body": "ISRO Chairman Dr V Narayanan said the agency will present its emerging technologies at the Emerging Science, Technology and Innovation Conclave (ESTIC) 2026 in New Delhi from October 27 to 29. The three-day event will bring together scientific institutions, government departments, researchers and industry to discuss key technology areas, with a focus on supporting the Viksit Bharat by 2047 vision.",
+      "why_it_matters": "Conclaves like ESTIC show how scientific institutions, government and industry coordinate on technology goals that affect India's long-term development plans.",
+      "key_fact": "ESTIC 2026 in New Delhi, October 27-29",
+      "source_url": "https://www.livemint.com/news/india/meet-isro-chairman-v-narayanan-as-he-details-space-agencys-plans-for-estic-2026-to-be-held-in-delhi-from-october-2729-11792773540724.html",
+      "date": "2026-10-23",
+      "quiz": {
+        "q": "Where and when is ESTIC 2026 scheduled to be held?",
+        "options": [
+          "New Delhi, October 27-29",
+          "Bengaluru, January 13-15",
+          "Mumbai, November 5-7",
+          "Chennai, December 1-3"
+        ],
+        "answer": 0,
+        "explain": "ISRO Chairman V Narayanan said the conclave will take place in New Delhi from October 27 to 29."
+      },
+      "tags": [
+        "ISRO",
+        "ESTIC 2026",
+        "science",
+        "technology"
+      ]
+    },
+    {
+      "id": "news-2026-10-23-17",
+      "type": "news",
+      "category": "science",
+      "headline": "IIST V-C calls for new agenda for India's space ecosystem",
+      "body": "Dipankar Banerjee, Vice-Chancellor of IIST, said a new agenda is needed for India's space ecosystem so industry, academia and start-ups can work together as demand outgrows what one or two institutions can meet. He spoke at the 39th National Convention of Aerospace Engineering in a seminar titled 'Space 2.0 - The Agenda'. LPSC Director N. Jayan said India's space programme is at the threshold of 'Space 3.0'.",
+      "why_it_matters": "India's space sector is opening up to private players and start-ups, so coordination between ISRO, industry and academia affects how fast new services and missions reach people.",
+      "key_fact": "39th National Convention of Aerospace Engineering",
+      "source_url": "https://www.thehindu.com/news/cities/Thiruvananthapuram/new-agenda-need-of-the-hour-for-indias-space-ecosystem-iist-v-c-dipankar-banerjee/article71616825.ece",
+      "date": "2026-10-23",
+      "quiz": {
+        "q": "Which seminar did IIST V-C Dipankar Banerjee inaugurate?",
+        "options": [
+          "Space 2.0 - The Agenda",
+          "Space 3.0 - The Mission",
+          "Aerospace 2047",
+          "Viksit Bharat Space Summit"
+        ],
+        "answer": 0,
+        "explain": "The seminar was titled 'Space 2.0 - The Agenda' and was organised by the Institution of Engineers (India)."
+      },
+      "tags": [
+        "IIST",
+        "space sector",
+        "aerospace",
+        "ISRO"
+      ]
+    },
+    {
+      "id": "news-2026-10-23-18",
+      "type": "news",
+      "category": "science",
+      "headline": "France reports first human infection with Shamonda virus",
+      "body": "France reported the first known human infection with Shamonda virus on October 22, 2026. The patient, severely immunocompromised and being treated for a serious illness at Hospices Civils de Lyon, died in early October. Authorities suspect infection through a Culicoides midge bite in eastern France, where the virus circulated among animals in spring and summer. The virus was first isolated from cattle in Nigeria in the mid-1960s.",
+      "why_it_matters": "The case shows that a virus long considered an animal pathogen can occasionally infect people, which is why authorities track animal disease outbreaks closely.",
+      "key_fact": "First human Shamonda virus case, France, October 22, 2026",
+      "source_url": "https://www.thehindu.com/sci-tech/health/shamonda-virus-the-livestock-pathogen-detected-in-human-for-the-first-time-explained/article71615063.ece",
+      "date": "2026-10-23",
+      "quiz": {
+        "q": "Where was the first known human infection with Shamonda virus reported?",
+        "options": [
+          "France",
+          "Nigeria",
+          "Japan",
+          "Germany"
+        ],
+        "answer": 0,
+        "explain": "France reported the first known human infection on October 22, 2026, according to the article."
+      },
+      "tags": [
+        "Shamonda virus",
+        "public health",
+        "France",
+        "livestock"
+      ]
+    },
+    {
+      "id": "news-2026-10-23-19",
+      "type": "news",
+      "category": "science",
+      "headline": "WHO confirms first human Shamonda virus case in France",
+      "body": "WHO Director-General Tedros Adhanom Ghebreyesus said France reported the first documented human infection with Shamonda virus, previously detected only in animals. The patient, in his 60s and immunocompromised, was hospitalised in Lyon for an unrelated serious illness and died in early October. French authorities said no public health risk to the general population has been identified so far.",
+      "why_it_matters": "WHO tracking of a new human infection helps determine whether a livestock virus could pose a wider public health threat.",
+      "key_fact": "First documented human Shamonda case reported in France",
+      "source_url": "https://www.livemint.com/news/world/explained-what-is-shamonda-virus-who-says-first-human-case-reported-in-france-risks-to-humans-and-animals-listed-11792746289224.html",
+      "date": "2026-10-23",
+      "quiz": {
+        "q": "According to WHO, in which country was the first documented human Shamonda virus infection reported?",
+        "options": [
+          "France",
+          "Italy",
+          "Spain",
+          "Ireland"
+        ],
+        "answer": 0,
+        "explain": "WHO said France reported the first documented case of human infection with Shamonda virus."
+      },
+      "tags": [
+        "WHO",
+        "Shamonda virus",
+        "France",
+        "health"
+      ]
+    },
+    {
+      "id": "news-2026-10-23-20",
+      "type": "news",
+      "category": "science",
+      "headline": "Swadeshi Jagaran Manch urges PM Modi to block Starlink",
+      "body": "The Swadeshi Jagaran Manch, an RSS affiliate, urged Prime Minister Narendra Modi to deny operating permissions for SpaceX's Starlink in India, following a protest march. Co-convener Ashwani Mahajan said India should build its own satellite internet infrastructure. The government has yet to approve spectrum allotment requests from OneWeb India, Jio Satellite Communications and Starlink Satellite Communications; the Communications Ministry said all three remain at the same regulatory stage.",
+      "why_it_matters": "Satellite broadband licensing decisions affect competition and internet access in India, and also touch on national security and trade considerations.",
+      "key_fact": "Three firms await spectrum: OneWeb, Jio Satellite, Starlink",
+      "source_url": "https://www.thehindu.com/news/national/swadeshi-jagaran-manch-urges-pm-modi-to-deny-operating-permissions-for-spacexs-starlink/article71616840.ece",
+      "date": "2026-10-23",
+      "quiz": {
+        "q": "Which group urged PM Modi to deny Starlink operating permissions in India?",
+        "options": [
+          "Swadeshi Jagaran Manch",
+          "OneWeb India Communications",
+          "Jio Satellite Communications",
+          "Ministry of Communications"
+        ],
+        "answer": 0,
+        "explain": "SJM, an RSS affiliate, made the demand after a protest march against Starlink."
+      },
+      "tags": [
+        "Starlink",
+        "satellite internet",
+        "SJM",
+        "regulation"
+      ]
+    }
+  ]
+}
