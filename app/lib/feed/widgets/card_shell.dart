@@ -58,7 +58,10 @@ class CardShell extends StatelessWidget {
                       if (card.date != null)
                         Text(
                           card.date!,
-                          style: const TextStyle(color: Colors.white54, fontSize: 12),
+                          style: const TextStyle(
+                            color: Colors.white54,
+                            fontSize: 12,
+                          ),
                         ),
                     ],
                   ),
@@ -66,7 +69,7 @@ class CardShell extends StatelessWidget {
                     child: Row(
                       crossAxisAlignment: CrossAxisAlignment.end,
                       children: [
-                        Expanded(child: child),
+                        Expanded(child: _FitToHeight(child: child)),
                         if (actions != null) ...[
                           const SizedBox(width: 8),
                           actions!,
@@ -79,6 +82,25 @@ class CardShell extends StatelessWidget {
             ),
           ),
         ),
+      ),
+    );
+  }
+}
+
+/// Shrinks long cards to fit instead of scrolling inside them, which would
+/// fight with swiping between cards. Short cards sit at the bottom, Reels-style.
+class _FitToHeight extends StatelessWidget {
+  const _FitToHeight({required this.child});
+
+  final Widget child;
+
+  @override
+  Widget build(BuildContext context) {
+    return LayoutBuilder(
+      builder: (context, constraints) => FittedBox(
+        fit: BoxFit.scaleDown,
+        alignment: Alignment.bottomLeft,
+        child: SizedBox(width: constraints.maxWidth, child: child),
       ),
     );
   }

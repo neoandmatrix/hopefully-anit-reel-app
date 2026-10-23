@@ -59,16 +59,16 @@ class AppDb extends _$AppDb {
 
   @override
   MigrationStrategy get migration => MigrationStrategy(
-        onUpgrade: (m, from, to) async {
-          if (from < 2) await m.createTable(syncedFiles);
-        },
-      );
+    onUpgrade: (m, from, to) async {
+      if (from < 2) await m.createTable(syncedFiles);
+    },
+  );
 
   static QueryExecutor _open() => driftDatabase(
-        name: 'scroll_smart',
-        web: DriftWebOptions(
-          sqlite3Wasm: Uri.parse('sqlite3.wasm'),
-          driftWorker: Uri.parse('drift_worker.js'),
-        ),
-      );
+    name: 'scroll_smart',
+    web: DriftWebOptions(
+      sqlite3Wasm: Uri.parse('sqlite3.wasm'),
+      driftWorker: Uri.parse('drift_worker.js'),
+    ),
+  );
 }

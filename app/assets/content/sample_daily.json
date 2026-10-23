@@ -1,5 +1,4 @@
 {
-  "date": "2026-10-23",
   "cards": [
     {
       "id": "sample-news-1",
@@ -8,8 +7,7 @@
       "headline": "Your daily India news will land here",
       "body": "Every morning at 6 AM a small script reads Indian news feeds (PIB, The Hindu, Indian Express, LiveMint, DD News), picks the most important stories and turns each into a card like this one: a short explainer, why it matters and one fact worth remembering.",
       "why_it_matters": "Two minutes of these a day adds up to real current-affairs knowledge, without the doomscroll.",
-      "key_fact": "Sample card – real news arrives in phase 2",
-      "date": "2026-10-23"
+      "key_fact": "Sample card – real news arrives in phase 2"
     },
     {
       "id": "sample-news-2",
@@ -18,8 +16,7 @@
       "headline": "Tap 'New to me' and it comes back as a quiz",
       "body": "Cards you mark as new return as quick quizzes after 1, 3 and 7 days. Answer correctly and the card moves to the next interval; get it wrong and the schedule restarts. That's spaced repetition, the most reliable way to make facts stick.",
       "why_it_matters": "Reading once is forgettable. Recalling a fact a few times over a week is what moves it into long-term memory.",
-      "key_fact": "Review schedule: day 1 → day 3 → day 7",
-      "date": "2026-10-23"
+      "key_fact": "Review schedule: day 1 → day 3 → day 7"
     }
   ]
 }

@@ -12,7 +12,9 @@ bool isReviewDue({
   required DateTime now,
 }) {
   if (reviewFrom == null || stage >= reviewIntervalsDays.length) return false;
-  return !now.isBefore(reviewFrom.add(Duration(days: reviewIntervalsDays[stage])));
+  return !now.isBefore(
+    reviewFrom.add(Duration(days: reviewIntervalsDays[stage])),
+  );
 }
 
 /// How a card is shown in the feed.
@@ -84,7 +86,9 @@ List<FeedItem> buildFeed({
   var i = 0;
   while (out.length < limit && buckets.values.any((b) => b.isNotEmpty)) {
     final slot = _pattern[i++ % _pattern.length];
-    final order = slot == 'Q' ? ['Q'] : [slot, ...fallback.where((f) => f != slot)];
+    final order = slot == 'Q'
+        ? ['Q']
+        : [slot, ...fallback.where((f) => f != slot)];
     for (final key in order) {
       final bucket = buckets[key]!;
       // A card can appear once as a read card and once as a quiz.

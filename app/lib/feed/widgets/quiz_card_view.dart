@@ -35,35 +35,34 @@ class _QuizCardViewState extends ConsumerState<QuizCardView> {
     return CardShell(
       card: widget.card,
       label: 'QUICK RECALL',
-      child: SingleChildScrollView(
-        reverse: true,
-        child: Column(
-          crossAxisAlignment: CrossAxisAlignment.start,
-          children: [
-            const SizedBox(height: 24),
-            Text(
-              _quiz.question,
-              style: const TextStyle(
-                color: Colors.white,
-                fontSize: 24,
-                height: 1.25,
-                fontWeight: FontWeight.w800,
-              ),
+      child: Column(
+        crossAxisAlignment: CrossAxisAlignment.start,
+        children: [
+          const SizedBox(height: 12),
+          Text(
+            _quiz.question,
+            style: const TextStyle(
+              color: Colors.white,
+              fontSize: 24,
+              height: 1.25,
+              fontWeight: FontWeight.w800,
             ),
-            const SizedBox(height: 20),
-            for (var i = 0; i < _quiz.options.length; i++)
-              _Option(
-                text: _quiz.options[i],
-                state: !answered
-                    ? _OptionState.idle
-                    : i == _quiz.answer
-                        ? _OptionState.correct
-                        : i == _picked
-                            ? _OptionState.wrong
-                            : _OptionState.dimmed,
-                onTap: () => _pick(i),
-              ),
-            if (answered) ...[
+          ),
+          const SizedBox(height: 20),
+          for (var i = 0; i < _quiz.options.length; i++)
+            _Option(
+              text: _quiz.options[i],
+              state: !answered
+                  ? _OptionState.idle
+                  : i == _quiz.answer
+                  ? _OptionState.correct
+                  : i == _picked
+                  ? _OptionState.wrong
+                  : _OptionState.dimmed,
+              onTap: () => _pick(i),
+            ),
+          if (answered)
+            ...[
               const SizedBox(height: 12),
               Text(
                 _picked == _quiz.answer ? 'Correct! 🎯' : 'Not quite.',
@@ -77,12 +76,15 @@ class _QuizCardViewState extends ConsumerState<QuizCardView> {
                 const SizedBox(height: 6),
                 Text(
                   _quiz.explain!,
-                  style: const TextStyle(color: Colors.white70, fontSize: 15, height: 1.4),
+                  style: const TextStyle(
+                    color: Colors.white70,
+                    fontSize: 15,
+                    height: 1.4,
+                  ),
                 ),
               ],
             ].animate(interval: 60.ms).fadeIn(),
-          ],
-        ),
+        ],
       ),
     );
   }
@@ -100,10 +102,26 @@ class _Option extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     final (bg, border, icon) = switch (state) {
-      _OptionState.idle => (Colors.white.withValues(alpha: 0.10), Colors.white24, null),
-      _OptionState.correct => (const Color(0xFF16A34A).withValues(alpha: 0.35), const Color(0xFF22C55E), Icons.check_circle),
-      _OptionState.wrong => (const Color(0xFFDC2626).withValues(alpha: 0.35), const Color(0xFFEF4444), Icons.cancel),
-      _OptionState.dimmed => (Colors.white.withValues(alpha: 0.04), Colors.white10, null),
+      _OptionState.idle => (
+        Colors.white.withValues(alpha: 0.10),
+        Colors.white24,
+        null,
+      ),
+      _OptionState.correct => (
+        const Color(0xFF16A34A).withValues(alpha: 0.35),
+        const Color(0xFF22C55E),
+        Icons.check_circle,
+      ),
+      _OptionState.wrong => (
+        const Color(0xFFDC2626).withValues(alpha: 0.35),
+        const Color(0xFFEF4444),
+        Icons.cancel,
+      ),
+      _OptionState.dimmed => (
+        Colors.white.withValues(alpha: 0.04),
+        Colors.white10,
+        null,
+      ),
     };
     return Padding(
       padding: const EdgeInsets.only(bottom: 10),
@@ -124,7 +142,9 @@ class _Option extends StatelessWidget {
                   child: Text(
                     text,
                     style: TextStyle(
-                      color: state == _OptionState.dimmed ? Colors.white38 : Colors.white,
+                      color: state == _OptionState.dimmed
+                          ? Colors.white38
+                          : Colors.white,
                       fontSize: 16,
                     ),
                   ),

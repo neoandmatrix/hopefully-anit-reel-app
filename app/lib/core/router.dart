@@ -12,16 +12,21 @@ final router = GoRouter(
       builder: (context, state, shell) => _HomeShell(shell: shell),
       branches: [
         StatefulShellBranch(
-          routes: [GoRoute(path: '/feed', builder: (_, _) => const FeedScreen())],
+          routes: [
+            GoRoute(path: '/feed', builder: (_, _) => const FeedScreen()),
+          ],
         ),
         StatefulShellBranch(
-          routes: [GoRoute(path: '/saved', builder: (_, _) => const SavedScreen())],
+          routes: [
+            GoRoute(path: '/saved', builder: (_, _) => const SavedScreen()),
+          ],
         ),
       ],
     ),
     GoRoute(
       path: '/card/:id',
-      builder: (_, state) => CardDetailScreen(cardId: state.pathParameters['id']!),
+      builder: (_, state) =>
+          CardDetailScreen(cardId: state.pathParameters['id']!),
     ),
   ],
 );

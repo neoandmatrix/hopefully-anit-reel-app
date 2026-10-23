@@ -12,7 +12,8 @@ import argparse
 import json
 from concurrent.futures import ThreadPoolExecutor
 
-from common import CATEGORIES, CONTENT, clean_card, ist_today, update_manifest, validate_card, write_json
+from common import (CATEGORIES, CONTENT, clean_card, dedupe_cards, ist_today, update_manifest,
+                    validate_card, write_json)
 from fetch_news import Story, collect, fetch_articles
 
 SELECT_SYSTEM = f"""You are the editor of a daily current-affairs feed for an Indian reader who wants to build
@@ -22,7 +23,9 @@ From the numbered headlines, pick the most important stories. Prefer: government
 Parliament and courts (constitutional matters), the economy and RBI, science, space and technology,
 environment, India's international relations, major sports results, and significant news from states.
 Avoid: crime reports, celebrity gossip, political mudslinging and allegations, opinion pieces, stock tips,
-and near-duplicate stories (keep the best one). Headlines may be in Hindi; judge them the same way.
+and duplicates: different outlets often cover the SAME event with different headlines, so pick each
+event only once (prefer the source with the most detail). Spread picks across categories where possible.
+Headlines may be in Hindi; judge them the same way.
 
 Assign each pick exactly one category from: {", ".join(CATEGORIES)}.
 Respond in JSON: {{"picks": [{{"i": <headline number>, "category": "<category>"}}]}}, most important first."""
@@ -38,6 +41,8 @@ Rules:
 - body: 50-70 words explaining what happened and the key context.
 - why_it_matters: one sentence on why this matters to an ordinary Indian or for general knowledge.
 - key_fact: the one number, date, name or term worth remembering (max 12 words), taken from the article.
+  Prefer durable general knowledge (a law, scheme, organisation, record, statistic) over trivia such as
+  where or when someone gave a speech.
 - quiz: one multiple-choice question testing that key fact; 4 distinct plausible options; "answer" is
   the 0-based index of the correct option; "explain" is one sentence.
 - tags: 1-4 short keywords.
@@ -128,6 +133,12 @@ def main() -> None:
             continue
         cards.append(card)
 
+    before = len(cards)
+    cards = dedupe_cards(cards)
+    rejected += before - len(cards)
+    # Renumber so ids stay contiguous after rejections and dedupe.
+    for n, card in enumerate(cards, 1):
+        card["id"] = f"news-{args.date}-{n:02d}"
     if not cards:
         raise SystemExit("no valid cards produced")
     out = CONTENT / "daily" / f"{args.date}.json"

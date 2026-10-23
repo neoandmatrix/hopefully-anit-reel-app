@@ -8,7 +8,7 @@ from pathlib import Path
 from unittest import mock
 
 import common
-from common import clean_card, validate_card
+from common import clean_card, dedupe_cards, validate_card
 from fetch_news import Story, dedupe, extract_text
 
 GOOD = {
@@ -50,6 +50,25 @@ class CardTests(unittest.TestCase):
     def test_unknown_category_rejected(self):
         card = clean_card(GOOD, id="x", type="gk", category="gossip")
         self.assertTrue(any("category" in p for p in validate_card(card)))
+
+
+class DedupeCardsTests(unittest.TestCase):
+    def test_same_event_from_two_outlets_is_dropped(self):
+        # Real pairs from the 2026-10-23 run.
+        cards = [
+            {"headline": "Nepal to get first loss and damage fund payout of $21.6 million",
+             "key_fact": "$21.6 million payout to Nepal; it seeks nearly $5 billion"},
+            {"headline": "France reports first human infection with Shamonda virus",
+             "key_fact": "First human Shamonda virus case, France, October 22, 2026"},
+            {"headline": "UN Loss and Damage Fund approves $21.6 million payout to Nepal",
+             "key_fact": "$21.6 million approved for Nepal"},
+            {"headline": "WHO confirms first human Shamonda virus case in France",
+             "key_fact": "First documented human Shamonda case reported in France"},
+            {"headline": "ISRO to showcase emerging technologies at ESTIC 2026 in Delhi",
+             "key_fact": "ESTIC 2026 in New Delhi, October 27-29"},
+        ]
+        kept = [c["headline"][:6] for c in dedupe_cards(cards)]
+        self.assertEqual(kept, ["Nepal ", "France", "ISRO t"])
 
 
 class NewsTests(unittest.TestCase):

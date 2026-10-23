@@ -60,13 +60,18 @@ class _FeedScreenState extends ConsumerState<FeedScreen> {
         error: (e, _) => Center(
           child: Padding(
             padding: const EdgeInsets.all(24),
-            child: Text('Could not load cards:\n$e', textAlign: TextAlign.center),
+            child: Text(
+              'Could not load cards:\n$e',
+              textAlign: TextAlign.center,
+            ),
           ),
         ),
         data: (items) {
           if (items.isNotEmpty) {
             // The first card counts as seen as soon as it's shown.
-            WidgetsBinding.instance.addPostFrameCallback((_) => _onPage(items, 0));
+            WidgetsBinding.instance.addPostFrameCallback(
+              (_) => _onPage(items, 0),
+            );
           }
           return Focus(
             focusNode: _focus,
@@ -81,8 +86,14 @@ class _FeedScreenState extends ConsumerState<FeedScreen> {
                 if (i == items.length) return const _CaughtUp();
                 final item = items[i];
                 return item.asQuiz
-                    ? QuizCardView(key: ValueKey('q-${item.card.id}'), card: item.card)
-                    : LearnCardView(key: ValueKey(item.card.id), card: item.card);
+                    ? QuizCardView(
+                        key: ValueKey('q-${item.card.id}'),
+                        card: item.card,
+                      )
+                    : LearnCardView(
+                        key: ValueKey(item.card.id),
+                        card: item.card,
+                      );
               },
             ),
           );

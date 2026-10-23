@@ -17,8 +17,9 @@ class ContentRepo {
   /// Loads the content bundled in `assets/content/` (evergreen packs and a
   /// sample day) into the DB. Safe to call on every launch.
   Future<void> seedFromAssets() async {
-    final index =
-        decodeJson(await rootBundle.loadString('assets/content/index.json'));
+    final index = decodeJson(
+      await rootBundle.loadString('assets/content/index.json'),
+    );
     for (final file in (index['files'] as List).cast<String>()) {
       final raw = await rootBundle.loadString('assets/content/$file');
       await upsertCards(parseCardFile(raw));
@@ -39,19 +40,16 @@ class ContentRepo {
 
   Future<void> upsertCards(List<LearnCard> list) async {
     await db.batch((b) {
-      b.insertAllOnConflictUpdate(
-        db.cards,
-        [
-          for (final c in list)
-            CardsCompanion.insert(
-              id: c.id,
-              type: c.type.name,
-              category: c.category,
-              date: Value(c.date),
-              payload: c.encode(),
-            ),
-        ],
-      );
+      b.insertAllOnConflictUpdate(db.cards, [
+        for (final c in list)
+          CardsCompanion.insert(
+            id: c.id,
+            type: c.type.name,
+            category: c.category,
+            date: Value(c.date),
+            payload: c.encode(),
+          ),
+      ]);
     });
   }
 
@@ -61,20 +59,24 @@ class ContentRepo {
   }
 
   Future<LearnCard?> cardById(String id) async {
-    final row = await (db.select(db.cards)..where((c) => c.id.equals(id)))
-        .getSingleOrNull();
+    final row = await (db.select(
+      db.cards,
+    )..where((c) => c.id.equals(id))).getSingleOrNull();
     return row == null ? null : LearnCard.decode(row.payload);
   }
 
   Future<String?> syncedVersion(String file) async {
-    final row = await (db.select(db.syncedFiles)..where((f) => f.file.equals(file)))
-        .getSingleOrNull();
+    final row = await (db.select(
+      db.syncedFiles,
+    )..where((f) => f.file.equals(file))).getSingleOrNull();
     return row?.version;
   }
 
   Future<void> markSynced(String file, String version) => db
       .into(db.syncedFiles)
-      .insertOnConflictUpdate(SyncedFilesCompanion.insert(file: file, version: version));
+      .insertOnConflictUpdate(
+        SyncedFilesCompanion.insert(file: file, version: version),
+      );
 
   // ------------------------------------------------------------ user state
 
@@ -83,36 +85,44 @@ class ContentRepo {
     return {for (final r in rows) r.cardId: r};
   }
 
-  Stream<CardStateRow?> watchState(String cardId) =>
-      (db.select(db.cardStates)..where((s) => s.cardId.equals(cardId)))
-          .watchSingleOrNull();
+  Stream<CardStateRow?> watchState(String cardId) => (db.select(
+    db.cardStates,
+  )..where((s) => s.cardId.equals(cardId))).watchSingleOrNull();
 
   Stream<List<LearnCard>> watchSaved() {
-    final query = db.select(db.cards).join([
-      innerJoin(db.cardStates, db.cardStates.cardId.equalsExp(db.cards.id)),
-    ])
-      ..where(db.cardStates.saved.equals(true))
-      ..orderBy([OrderingTerm.desc(db.cards.date)]);
+    final query =
+        db.select(db.cards).join([
+            innerJoin(
+              db.cardStates,
+              db.cardStates.cardId.equalsExp(db.cards.id),
+            ),
+          ])
+          ..where(db.cardStates.saved.equals(true))
+          ..orderBy([OrderingTerm.desc(db.cards.date)]);
     return query.watch().map(
-          (rows) => rows
-              .map((r) => LearnCard.decode(r.readTable(db.cards).payload))
-              .toList(),
-        );
+      (rows) => rows
+          .map((r) => LearnCard.decode(r.readTable(db.cards).payload))
+          .toList(),
+    );
   }
 
   Future<CardStateRow> _state(String cardId) async {
-    await db.into(db.cardStates).insert(
+    await db
+        .into(db.cardStates)
+        .insert(
           CardStatesCompanion.insert(cardId: cardId),
           mode: InsertMode.insertOrIgnore,
         );
-    return (db.select(db.cardStates)..where((s) => s.cardId.equals(cardId)))
-        .getSingle();
+    return (db.select(
+      db.cardStates,
+    )..where((s) => s.cardId.equals(cardId))).getSingle();
   }
 
   Future<void> _update(String cardId, CardStatesCompanion changes) async {
     await _state(cardId);
-    await (db.update(db.cardStates)..where((s) => s.cardId.equals(cardId)))
-        .write(changes);
+    await (db.update(
+      db.cardStates,
+    )..where((s) => s.cardId.equals(cardId))).write(changes);
   }
 
   Future<void> markSeen(String cardId) async {
@@ -151,7 +161,9 @@ class ContentRepo {
         quizAttempts: Value(s.quizAttempts + 1),
         quizCorrect: Value(s.quizCorrect + (correct ? 1 : 0)),
         reviewStage: Value(
-          s.reviewFrom == null ? s.reviewStage : (correct ? s.reviewStage + 1 : 0),
+          s.reviewFrom == null
+              ? s.reviewStage
+              : (correct ? s.reviewStage + 1 : 0),
         ),
         reviewFrom: Value(
           s.reviewFrom == null || correct ? s.reviewFrom : DateTime.now(),

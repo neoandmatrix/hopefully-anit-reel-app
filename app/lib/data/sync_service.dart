@@ -14,14 +14,17 @@ const contentBaseUrl = String.fromEnvironment(
 /// Recent days are always re-fetched (cheap); packs only when their version changes.
 class SyncService {
   SyncService(this.repo, {Dio? dio, String baseUrl = contentBaseUrl})
-      : _baseUrl = baseUrl,
-        _dio = dio ??
-            Dio(BaseOptions(
+    : _baseUrl = baseUrl,
+      _dio =
+          dio ??
+          Dio(
+            BaseOptions(
               baseUrl: baseUrl,
               connectTimeout: const Duration(seconds: 8),
               receiveTimeout: const Duration(seconds: 30),
               responseType: ResponseType.plain,
-            ));
+            ),
+          );
 
   final ContentRepo repo;
   final Dio _dio;
@@ -36,7 +39,8 @@ class SyncService {
     var count = 0;
     try {
       final manifest = ContentRepo.decodeJson(await _get('manifest.json'));
-      final days = (manifest['days'] as List? ?? const []).cast<String>()..sort();
+      final days = (manifest['days'] as List? ?? const []).cast<String>()
+        ..sort();
       for (final day in days.reversed.take(recentDays)) {
         count += await _fetchCards('daily/$day.json');
       }

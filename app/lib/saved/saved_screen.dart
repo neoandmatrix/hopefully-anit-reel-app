@@ -32,7 +32,8 @@ class _SavedScreenState extends ConsumerState<SavedScreen> {
               ),
             );
           }
-          final categories = {for (final c in cards) c.category}.toList()..sort();
+          final categories = {for (final c in cards) c.category}.toList()
+            ..sort();
           final visible = _category == null
               ? cards
               : cards.where((c) => c.category == _category).toList();
@@ -42,10 +43,14 @@ class _SavedScreenState extends ConsumerState<SavedScreen> {
                 height: 52,
                 child: ListView(
                   scrollDirection: Axis.horizontal,
-                  padding: const EdgeInsets.symmetric(horizontal: 12, vertical: 8),
+                  padding: const EdgeInsets.symmetric(
+                    horizontal: 12,
+                    vertical: 8,
+                  ),
                   children: [
                     _filterChip('All', null),
-                    for (final c in categories) _filterChip(categoryStyle(c).label, c),
+                    for (final c in categories)
+                      _filterChip(categoryStyle(c).label, c),
                   ],
                 ),
               ),
@@ -80,11 +85,11 @@ class _SavedScreenState extends ConsumerState<SavedScreen> {
   }
 
   Widget _filterChip(String label, String? category) => Padding(
-        padding: const EdgeInsets.only(right: 8),
-        child: ChoiceChip(
-          label: Text(label),
-          selected: _category == category,
-          onSelected: (_) => setState(() => _category = category),
-        ),
-      );
+    padding: const EdgeInsets.only(right: 8),
+    child: ChoiceChip(
+      label: Text(label),
+      selected: _category == category,
+      onSelected: (_) => setState(() => _category = category),
+    ),
+  );
 }

@@ -25,46 +25,46 @@ class LearnCardView extends StatelessWidget {
       card: card,
       label: _typeLabels[card.type]!,
       actions: CardActions(cardId: card.id),
-      child: SingleChildScrollView(
-        // Long cards scroll inside; short ones sit near the bottom like Reels.
-        reverse: true,
-        child: Column(
-          crossAxisAlignment: CrossAxisAlignment.start,
-          children: [
-            const SizedBox(height: 24),
-            Text(
-              card.headline,
-              style: const TextStyle(
-                color: Colors.white,
-                fontSize: 28,
-                height: 1.2,
-                fontWeight: FontWeight.w800,
-              ),
+      child: Column(
+        crossAxisAlignment: CrossAxisAlignment.start,
+        children: [
+          const SizedBox(height: 12),
+          Text(
+            card.headline,
+            style: const TextStyle(
+              color: Colors.white,
+              fontSize: 25,
+              height: 1.15,
+              fontWeight: FontWeight.w800,
             ),
-            const SizedBox(height: 16),
-            Text(
-              card.body,
-              style: const TextStyle(color: Colors.white, fontSize: 17, height: 1.5),
+          ),
+          const SizedBox(height: 16),
+          Text(
+            card.body,
+            style: const TextStyle(
+              color: Colors.white,
+              fontSize: 16,
+              height: 1.45,
             ),
-            if (card.whyItMatters != null) ...[
-              const SizedBox(height: 18),
-              _Panel(
-                title: 'Why it matters',
-                icon: Icons.bolt,
-                text: card.whyItMatters!,
-              ),
-            ],
-            if (card.keyFact != null) ...[
-              const SizedBox(height: 12),
-              _KeyFact(text: card.keyFact!),
-            ],
-            if (card.sourceUrl != null) ...[
-              const SizedBox(height: 14),
-              _SourceLink(url: card.sourceUrl!),
-            ],
+          ),
+          if (card.whyItMatters != null) ...[
+            const SizedBox(height: 18),
+            _Panel(
+              title: 'Why it matters',
+              icon: Icons.bolt,
+              text: card.whyItMatters!,
+            ),
           ],
-        ).animate().fadeIn(duration: 250.ms).slideY(begin: 0.04, end: 0),
-      ),
+          if (card.keyFact != null) ...[
+            const SizedBox(height: 12),
+            _KeyFact(text: card.keyFact!),
+          ],
+          if (card.sourceUrl != null) ...[
+            const SizedBox(height: 14),
+            _SourceLink(url: card.sourceUrl!),
+          ],
+        ],
+      ).animate().fadeIn(duration: 250.ms).slideY(begin: 0.04, end: 0),
     );
   }
 }
@@ -105,7 +105,14 @@ class _Panel extends StatelessWidget {
             ],
           ),
           const SizedBox(height: 6),
-          Text(text, style: const TextStyle(color: Colors.white, fontSize: 15, height: 1.4)),
+          Text(
+            text,
+            style: const TextStyle(
+              color: Colors.white,
+              fontSize: 15,
+              height: 1.4,
+            ),
+          ),
         ],
       ),
     );
@@ -155,7 +162,8 @@ class _SourceLink extends StatelessWidget {
   Widget build(BuildContext context) {
     final host = Uri.tryParse(url)?.host.replaceFirst('www.', '') ?? url;
     return InkWell(
-      onTap: () => launchUrl(Uri.parse(url), mode: LaunchMode.externalApplication),
+      onTap: () =>
+          launchUrl(Uri.parse(url), mode: LaunchMode.externalApplication),
       child: Padding(
         padding: const EdgeInsets.symmetric(vertical: 4),
         child: Row(
