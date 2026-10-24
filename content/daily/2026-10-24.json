@@ -1,0 +1,532 @@
+{
+  "date": "2026-10-24",
+  "cards": [
+    {
+      "id": "news-2026-10-24-01",
+      "type": "news",
+      "category": "environment",
+      "headline": "Four captive-bred Great Indian Bustards released in Jaisalmer",
+      "body": "In October 2026, four male Great Indian Bustards were released into the Desert National Park near Sam village in Jaisalmer, Rajasthan. They are among 10 birds from the Sam and Ramdevra conservation breeding centres slated for release. The Institute of Wildlife's 2016-17 report recorded a 75% population decline over 30 years. The breeding programme was approved in 2016 with Rs 33.85 crore, and the first captive-bred chick hatched at Sam in March 2023.",
+      "why_it_matters": "The Great Indian Bustard is critically endangered, and captive breeding followed by wild release is India's main hope of saving the species from extinction.",
+      "key_fact": "75% decline in Great Indian Bustard population in 30 years",
+      "source_url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2327800",
+      "date": "2026-10-24",
+      "quiz": {
+        "q": "According to the 2016-17 report cited, by how much did the Great Indian Bustard population fall over 30 years?",
+        "options": [
+          "25%",
+          "50%",
+          "75%",
+          "90%"
+        ],
+        "answer": 2,
+        "explain": "The Institute of Wildlife's 2016-17 annual progress report recorded a 75% decline over three decades."
+      },
+      "tags": [
+        "wildlife",
+        "conservation",
+        "Great Indian Bustard",
+        "Rajasthan"
+      ]
+    },
+    {
+      "id": "news-2026-10-24-02",
+      "type": "news",
+      "category": "economy",
+      "headline": "Sitharaman chairs 30th FSDC meeting on financial stability",
+      "body": "Finance Minister Nirmala Sitharaman chaired the 30th meeting of the Financial Stability and Development Council in New Delhi. The council discussed financial stability risks, fintech innovation and tokenisation of assets, and reviewed the Financial Sector Cyber Security Strategy prepared by an inter-ministerial group with DEA, DFS and MeitY. It also asked regulators to speed up returning unclaimed financial assets to rightful owners under the 'Your Money, Your Right' campaign and urged more frequent meetings.",
+      "why_it_matters": "The FSDC is India's apex body coordinating RBI and other regulators on financial stability, so its decisions affect bank deposits, cyber safety and investor protection.",
+      "key_fact": "FSDC is the apex body for financial stability and development",
+      "source_url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2327696",
+      "date": "2026-10-24",
+      "quiz": {
+        "q": "Which body did Nirmala Sitharaman chair for its 30th meeting in New Delhi?",
+        "options": [
+          "GST Council",
+          "Financial Stability and Development Council",
+          "Monetary Policy Committee",
+          "Securities and Exchange Board of India"
+        ],
+        "answer": 1,
+        "explain": "The finance ministry said the 30th FSDC meeting was chaired by Sitharaman in New Delhi."
+      },
+      "tags": [
+        "finance",
+        "FSDC",
+        "regulation",
+        "Sitharaman"
+      ]
+    },
+    {
+      "id": "news-2026-10-24-03",
+      "type": "news",
+      "category": "economy",
+      "headline": "FSDC flags geopolitical, AI and bond yield risks",
+      "body": "At its 30th meeting in New Delhi, the Financial Stability and Development Council, chaired by Finance Minister Nirmala Sitharaman, reviewed risks from geopolitical uncertainty, growing AI use and a sharp rise in global bond yields. It discussed fintech innovation, tokenisation of real-world assets, cyber resilience and protection of critical information infrastructure, including cybersecurity readiness of regional rural banks. Sitharaman urged more frequent FSDC meetings on a predefined schedule.",
+      "why_it_matters": "Risks flagged by the FSDC shape rules for banks and fintech firms, and its cyber strategy aims to protect ordinary depositors' money and data.",
+      "key_fact": "30th FSDC meeting chaired by Nirmala Sitharaman",
+      "source_url": "https://www.livemint.com/news/fsdc-calls-for-vigilance-against-financial-risks-from-geopolitical-uncertainty-ai-boom-11792767775092.html",
+      "date": "2026-10-24",
+      "quiz": {
+        "q": "Which risks did the FSDC highlight at its 30th meeting?",
+        "options": [
+          "Falling food inflation",
+          "Geopolitical uncertainty, AI use and rising global bond yields",
+          "Declining smartphone exports",
+          "Rising unemployment in rural areas"
+        ],
+        "answer": 1,
+        "explain": "The council stressed vigilance over geopolitical headwinds, the AI boom and a sharp rise in global bond yields."
+      },
+      "tags": [
+        "finance",
+        "cybersecurity",
+        "FSDC",
+        "economy"
+      ]
+    },
+    {
+      "id": "news-2026-10-24-04",
+      "type": "news",
+      "category": "economy",
+      "headline": "Net FDI positive at $3.3 billion for third straight month",
+      "body": "Net foreign direct investment stayed positive for the third consecutive month in August 2026, with inflows exceeding outflows by $3.3 billion, per RBI data. Gross FDI into India was $11.1 billion, up nearly 68% year-on-year, while outward FDI fell to $1.9 billion. The US, Singapore and Mauritius accounted for about 72% of inflows. Net FDI was positive in seven of the last eight months, a turnaround from five negative months in August-December 2025.",
+      "why_it_matters": "Steady FDI inflows bring capital, jobs and technology into India, and a positive net figure signals that foreign investors remain confident in the economy.",
+      "key_fact": "Net FDI positive at $3.3 billion in August 2026",
+      "source_url": "https://www.thehindu.com/business/Economy/net-fdi-at-33-billion-in-september-2026-positive-for-third-consecutive-month/article71617131.ece",
+      "date": "2026-10-24",
+      "quiz": {
+        "q": "What was India's net FDI in August 2026 according to RBI data?",
+        "options": [
+          "$1.9 billion",
+          "$3.3 billion",
+          "$7.7 billion",
+          "$11.1 billion"
+        ],
+        "answer": 1,
+        "explain": "The RBI data showed inflows exceeded outflows by $3.3 billion in August 2026."
+      },
+      "tags": [
+        "FDI",
+        "RBI",
+        "economy",
+        "investment"
+      ]
+    },
+    {
+      "id": "news-2026-10-24-05",
+      "type": "news",
+      "category": "economy",
+      "headline": "PLFS to be redesigned to count gig and unpaid workers",
+      "body": "The government will change the design and structure of the Periodic Labour Force Survey to track digital platform workers and capture unpaid household, caregiving, volunteer and trainee work, starting January 2027. The National Sample Survey Office under MoSPI has proposed the changes, including a separate Second Stage Stratum to identify households with platform workers, and invited public comments within 15 days. Additional questions will also measure labour underutilisation.",
+      "why_it_matters": "Better data on gig workers and unpaid care work can inform minimum wages, social security and policies affecting millions of informal workers and women.",
+      "key_fact": "PLFS redesign takes effect from January 2027",
+      "source_url": "https://www.thehindu.com/business/Economy/government-to-modify-labour-survey-to-capture-gig-economy-unpaid-household-workers/article71617185.ece",
+      "date": "2026-10-24",
+      "quiz": {
+        "q": "Which survey is being redesigned to capture gig economy and unpaid household workers?",
+        "options": [
+          "Census of India",
+          "Periodic Labour Force Survey",
+          "National Family Health Survey",
+          "Economic Census"
+        ],
+        "answer": 1,
+        "explain": "The National Sample Survey Office has proposed modifications to the PLFS sampling design from January 2027."
+      },
+      "tags": [
+        "labour",
+        "PLFS",
+        "gig economy",
+        "MoSPI"
+      ]
+    },
+    {
+      "id": "news-2026-10-24-06",
+      "type": "news",
+      "category": "economy",
+      "headline": "RBI bulletin notes broad-based rise in food prices",
+      "body": "The RBI's October bulletin says high-frequency data up to October 19 show a broad-based increase in food prices, with rice, wheat, pulses, and edible oils rising. Retail inflation was higher in rural areas (6.1%) than urban (4.9%) in September. WPI inflation hit a double-digit 11.4% in September under the new base year.",
+      "why_it_matters": "Rising food and wholesale prices affect household budgets and can influence the RBI's decisions on interest rates.",
+      "key_fact": "WPI inflation at 11.4% in September 2026",
+      "source_url": "https://www.thehindu.com/business/Economy/data-suggests-broad-based-increase-in-food-prices-rbi-bulletin/article71616686.ece",
+      "date": "2026-10-24",
+      "quiz": {
+        "q": "What was the WPI inflation rate in September 2026, as per the RBI bulletin?",
+        "options": [
+          "9.9%",
+          "11.4%",
+          "6.1%",
+          "4.9%"
+        ],
+        "answer": 1,
+        "explain": "The bulletin states WPI inflation recorded its first double-digit rate in the new series at 11.4% in September 2026."
+      },
+      "tags": [
+        "RBI",
+        "inflation",
+        "food prices",
+        "WPI"
+      ]
+    },
+    {
+      "id": "news-2026-10-24-07",
+      "type": "news",
+      "category": "geography",
+      "headline": "Cyclonic storm likely to hit North Andhra coast on October 28",
+      "body": "The IMD says a low-pressure area over the Bay of Bengal will intensify into a cyclonic storm by Monday and may cross the north Andhra Pradesh–south Odisha coast early on October 28. It could be at least a severe cyclonic storm, with winds up to 145 kmph and a storm surge of 1–2 metres, prompting red warnings for heavy rain.",
+      "why_it_matters": "Coastal districts face risks of flooding and damage, so residents should follow official alerts and evacuation advisories.",
+      "key_fact": "Cyclone expected to cross coast on October 28",
+      "source_url": "https://www.thehindu.com/news/national/andhra-pradesh/cyclonic-storm-likely-to-hit-north-andhra-pradesh-coast-on-october-28-says-imd/article71617203.ece",
+      "date": "2026-10-24",
+      "quiz": {
+        "q": "When is the cyclonic storm likely to cross the north Andhra Pradesh coast?",
+        "options": [
+          "October 25",
+          "October 26",
+          "October 27",
+          "October 28"
+        ],
+        "answer": 3,
+        "explain": "The article says the system is likely to cross the coast in the early hours of October 28."
+      },
+      "tags": [
+        "cyclone",
+        "IMD",
+        "Andhra Pradesh",
+        "weather"
+      ]
+    },
+    {
+      "id": "news-2026-10-24-08",
+      "type": "news",
+      "category": "environment",
+      "headline": "GRAP Stage 1 imposed in Delhi-NCR as air quality turns poor",
+      "body": "With Delhi's air quality worsening to the 'poor' category, the Commission for Air Quality Management (CAQM) announced Stage 1 of the Graded Response Action Plan (GRAP) in Delhi-NCR. GRAP is a set of emergency measures under four stages, notified in 2017 after Supreme Court directions; the CAQM replaced the EPCA in 2021 to enforce these actions.",
+      "why_it_matters": "GRAP restrictions directly affect daily life in Delhi-NCR and aim to reduce exposure to harmful winter air pollution.",
+      "key_fact": "GRAP is a four-stage emergency plan notified in 2017",
+      "source_url": "https://www.thehindu.com/news/cities/Delhi/how-is-air-pollution-in-delhi-ncr-ahead-of-winter/article71615365.ece",
+      "date": "2026-10-24",
+      "quiz": {
+        "q": "How many stages does the Graded Response Action Plan (GRAP) have?",
+        "options": [
+          "Two",
+          "Three",
+          "Four",
+          "Five"
+        ],
+        "answer": 2,
+        "explain": "The article says GRAP is divided into four stages, announced by the CAQM depending on pollution levels."
+      },
+      "tags": [
+        "air pollution",
+        "GRAP",
+        "Delhi-NCR",
+        "CAQM"
+      ]
+    },
+    {
+      "id": "news-2026-10-24-09",
+      "type": "news",
+      "category": "environment",
+      "headline": "Three Punjab cities among world's top 10 most polluted",
+      "body": "Amritsar, Bathinda and Faridkot in Punjab were among the five most polluted cities in India by real-time AQI, with readings of 392, 368 and 360 respectively. Delhi recorded an AQI of 230, in the 'poor' category, and is forecast to stay 'poor' for the next nine days. Stubble burning contributed 5.1% to Delhi's pollution, while transport accounted for 20.3%.",
+      "why_it_matters": "High AQI levels pose health risks, especially for children and the elderly, and highlight the need for pollution control measures.",
+      "key_fact": "Delhi AQI 230 on Friday, 'poor' category",
+      "source_url": "https://www.livemint.com/news/india/air-pollution-alert-3-punjab-cities-among-worlds-top-10-most-polluted-check-aqi-11792773214732.html",
+      "date": "2026-10-24",
+      "quiz": {
+        "q": "What was Delhi's AQI on Friday, according to the article?",
+        "options": [
+          "392",
+          "368",
+          "230",
+          "324"
+        ],
+        "answer": 2,
+        "explain": "The article states Delhi recorded an AQI of 230 on Friday, placing it in the 'poor' category."
+      },
+      "tags": [
+        "air pollution",
+        "AQI",
+        "Punjab",
+        "Delhi"
+      ]
+    },
+    {
+      "id": "news-2026-10-24-10",
+      "type": "news",
+      "category": "environment",
+      "headline": "Pacific heat sets record as strong El Niño builds",
+      "body": "On October 5, the Niño 3.4 region of the central-equatorial Pacific crossed 30°C sea surface temperature for the first time in recorded history, reaching 30.06°C. The US NOAA Climate Prediction Center puts the chance of a 'strong to very strong' El Niño at 83%, with a high chance of a historic event. El Niño is a natural pattern that recurs every two to seven years and raises the risk of heatwaves and altered rainfall worldwide.",
+      "why_it_matters": "El Niño typically weakens India's monsoon and raises the risk of heatwaves, so a record-strong event could affect farm output, food prices and power demand.",
+      "key_fact": "Niño 3.4 region crossed 30°C for the first time on October 5",
+      "source_url": "https://www.thehindu.com/sci-tech/energy-and-environment/a-ferocious-el-nino-is-brewing-thanks-to-record-pacific-heat/article71610222.ece",
+      "date": "2026-10-24",
+      "quiz": {
+        "q": "Which Pacific region crossed 30°C for the first time in recorded history?",
+        "options": [
+          "Niño 3.4 region",
+          "Bay of Bengal",
+          "Gulf Stream",
+          "Coral Sea"
+        ],
+        "answer": 0,
+        "explain": "The Niño 3.4 region, the main index area for El Niño, recorded 30.06°C on October 5."
+      },
+      "tags": [
+        "El Niño",
+        "climate",
+        "Pacific",
+        "weather"
+      ]
+    },
+    {
+      "id": "news-2026-10-24-11",
+      "type": "news",
+      "category": "environment",
+      "headline": "UN Loss and Damage Fund approves first payout, to Nepal",
+      "body": "The UN climate convention's Loss and Damage Fund approved $21.6 million (about ₹205 crore) for Nepal after floods in August. The fund, formally the Fund for Responding to Loss and Damage, was created at COP27 in 2022 under the UNFCCC to help vulnerable developing countries. This is the first time it has earmarked money for a specific country. Nepal estimates losses of at least $2.69 billion and recovery needs of at least $4.71 billion.",
+      "why_it_matters": "The fund is a key mechanism for climate justice, and its first country-specific payout sets a precedent for how poorer nations are compensated for climate disasters.",
+      "key_fact": "Loss and Damage Fund created at COP27 in 2022 under UNFCCC",
+      "source_url": "https://www.thehindu.com/sci-tech/energy-and-environment/what-is-the-importance-of-the-un-loss-and-damage-funds-payout-to-nepal-explained/article71615253.ece",
+      "date": "2026-10-24",
+      "quiz": {
+        "q": "At which COP was the Loss and Damage Fund agreed to be created?",
+        "options": [
+          "COP27 in 2022",
+          "COP26 in 2021",
+          "COP28 in 2023",
+          "COP31 in Turkiye"
+        ],
+        "answer": 0,
+        "explain": "Governments agreed to create the fund at COP27 in 2022, and its governing instrument was adopted at COP28 in 2023."
+      },
+      "tags": [
+        "climate finance",
+        "UNFCCC",
+        "Nepal",
+        "floods"
+      ]
+    },
+    {
+      "id": "news-2026-10-24-12",
+      "type": "news",
+      "category": "environment",
+      "headline": "Nepal gets first country-specific loss and damage payout",
+      "body": "Nepal is set to receive $21.6 million from the UN's Loss and Damage Fund after the Bhotekoshi floods in August. It is the first time the global climate fund has earmarked money for a specific country to address climate-linked losses. Experts called the decision a landmark step, but the amount is only a fraction of the nearly $5 billion Nepal estimates it needs for recovery and reconstruction.",
+      "why_it_matters": "It shows how climate funds are beginning to reach disaster-hit countries, even as the sums remain far below what recovery actually costs.",
+      "key_fact": "Nepal payout: $21.6 million; needs nearly $5 billion",
+      "source_url": "https://www.thehindu.com/videos/nepal-to-receive-first-ever-loss-and-damage-fund-payout-after-devastating-floods/article71614805.ece",
+      "date": "2026-10-24",
+      "quiz": {
+        "q": "How much is Nepal receiving from the UN Loss and Damage Fund?",
+        "options": [
+          "$21.6 million",
+          "$342 million",
+          "$2.8 billion",
+          "$822 million"
+        ],
+        "answer": 0,
+        "explain": "The fund approved a $21.6 million payout to Nepal, far short of its nearly $5 billion recovery estimate."
+      },
+      "tags": [
+        "climate finance",
+        "Nepal",
+        "floods",
+        "loss and damage"
+      ]
+    },
+    {
+      "id": "news-2026-10-24-13",
+      "type": "news",
+      "category": "science",
+      "headline": "Shamonda virus found in a human for the first time",
+      "body": "France reported the first known human infection with Shamonda virus on October 22, 2026. The patient, severely immunocompromised, died in early October. Authorities suspect a Culicoides midge bite in eastern France, where the virus had been circulating in animals. Shamonda virus is a vector-borne Orthobunyavirus first isolated from cattle in Nigeria in the mid-1960s. The ECDC and WHO say no wider public health risk has been identified.",
+      "why_it_matters": "It shows how viruses circulating in livestock can occasionally cross into people, making animal and human health surveillance important.",
+      "key_fact": "Shamonda virus first isolated from cattle in Nigeria in the mid-1960s",
+      "source_url": "https://www.thehindu.com/sci-tech/health/shamonda-virus-the-livestock-pathogen-detected-in-human-for-the-first-time-explained/article71615063.ece",
+      "date": "2026-10-24",
+      "quiz": {
+        "q": "Shamonda virus was first isolated from which animal, and where?",
+        "options": [
+          "Cattle in Nigeria",
+          "Sheep in France",
+          "Horses in Japan",
+          "Goats in Austria"
+        ],
+        "answer": 0,
+        "explain": "The virus was first isolated from cattle in Nigeria in the mid-1960s and is mainly an animal pathogen."
+      },
+      "tags": [
+        "Shamonda virus",
+        "health",
+        "zoonosis",
+        "France"
+      ]
+    },
+    {
+      "id": "news-2026-10-24-14",
+      "type": "news",
+      "category": "science",
+      "headline": "Bharat Biotech cuts malaria vaccine price by 40%",
+      "body": "Bharat Biotech is reducing the price of its malaria vaccine Mosqivac by about 40%, to €5.50 per dose from €9.30, under an agreement executed by UNICEF and backed by Gavi, the Vaccine Alliance. The lower price is expected to take effect by early 2027 and could save around $50 million between 2027 and 2029, reaching up to one million more children with the four-dose course. Mosqivac is Bharat Biotech's version of RTS,S/AS01, the first WHO-recommended malaria vaccine, from 2021.",
+      "why_it_matters": "Cheaper malaria vaccines can help protect more children in African countries that carry most of the global malaria burden.",
+      "key_fact": "Mosqivac price cut to €5.50 per dose from €9.30",
+      "source_url": "https://www.thehindu.com/news/cities/Hyderabad/bharat-biotech-slashes-malaria-vaccine-price-on-gavi-backed-pact-with-unicef/article71616771.ece",
+      "date": "2026-10-24",
+      "quiz": {
+        "q": "What is the new price per dose of Mosqivac under the UNICEF-Gavi deal?",
+        "options": [
+          "€5.50",
+          "€9.30",
+          "€21.60",
+          "€50"
+        ],
+        "answer": 0,
+        "explain": "The price falls to €5.50 per dose, about 40% below the earlier €9.30."
+      },
+      "tags": [
+        "malaria",
+        "vaccine",
+        "Bharat Biotech",
+        "Gavi"
+      ]
+    },
+    {
+      "id": "news-2026-10-24-15",
+      "type": "news",
+      "category": "science",
+      "headline": "IAEA chief expects nuclear power to triple by 2060",
+      "body": "Rafael Grossi, head of the International Atomic Energy Agency, told the UN General Assembly on October 23, 2026 that nuclear power use could more than triple by 2060. He cited electrification, AI data centres and technology companies' demand for carbon-free power. In 2025, over 400 reactors in more than 30 countries produced 10% of global electricity and a quarter of low-carbon electricity.",
+      "why_it_matters": "Nuclear power is central to the debate on reliable, low-carbon electricity as AI data centres drive up energy demand worldwide.",
+      "key_fact": "400+ reactors in 30+ countries produced 10% of global electricity in 2025",
+      "source_url": "https://www.thehindu.com/news/international/nuclear-power-could-more-than-triple-by-2060-un-agency-says/article71618915.ece",
+      "date": "2026-10-24",
+      "quiz": {
+        "q": "According to the IAEA chief, what share of global electricity did nuclear reactors produce in 2025?",
+        "options": [
+          "10%",
+          "25%",
+          "40%",
+          "5%"
+        ],
+        "answer": 0,
+        "explain": "Grossi said 400-plus reactors produced 10% of global electricity and a quarter of low-carbon electricity."
+      },
+      "tags": [
+        "nuclear energy",
+        "IAEA",
+        "UN"
+      ]
+    },
+    {
+      "id": "news-2026-10-24-16",
+      "type": "news",
+      "category": "science",
+      "headline": "Microsoft AI diagnoses step by step, outperforms physicians in study",
+      "body": "Microsoft researchers reported in Science on Thursday that an AI tool diagnosing patients step by step, the way doctors do, was more than twice as accurate as general physicians at solving over 300 complex medical cases. An 'orchestrator' coordinates what to ask, which tests to order and how to revise hypotheses. It also beat doctors on emergency room scenarios drawn from a major database.",
+      "why_it_matters": "Step-by-step AI diagnostic tools could eventually support doctors in understaffed settings, improving accuracy in hard cases.",
+      "key_fact": "Study published in Science; AI was more than twice as accurate as general physicians",
+      "source_url": "https://www.thehindu.com/sci-tech/technology/microsoft-develops-ai-tool-that-can-diagnose-sequentially-like-a-doctor/article71614454.ece",
+      "date": "2026-10-24",
+      "quiz": {
+        "q": "Which journal published the Microsoft study on the step-by-step AI diagnostic tool?",
+        "options": [
+          "Science",
+          "Nature",
+          "The Lancet",
+          "NEJM"
+        ],
+        "answer": 0,
+        "explain": "The study was published on Thursday in the journal Science."
+      },
+      "tags": [
+        "AI",
+        "healthcare",
+        "Microsoft"
+      ]
+    },
+    {
+      "id": "news-2026-10-24-17",
+      "type": "news",
+      "category": "science",
+      "headline": "ISRO to showcase emerging technologies at ESTIC 2026 in Delhi",
+      "body": "ISRO Chairman Dr V Narayanan said the space agency will present its emerging technologies at the Emerging Science, Technology and Innovation Conclave (ESTIC) 2026 in New Delhi from October 27 to 29. The event aims to integrate scientific and technological efforts towards Viksit Bharat by 2047. Narayanan, a propulsion specialist who joined ISRO in 1984, took charge as Chairman on January 13, 2025.",
+      "why_it_matters": "It shows ISRO's push to link space technology with national development goals and broader science-industry collaboration.",
+      "key_fact": "ESTIC 2026 in New Delhi from October 27 to 29",
+      "source_url": "https://www.livemint.com/news/india/meet-isro-chairman-v-narayanan-as-he-details-space-agencys-plans-for-estic-2026-to-be-held-in-delhi-from-october-2729-11792773540724.html",
+      "date": "2026-10-24",
+      "quiz": {
+        "q": "When did Dr V Narayanan take charge as ISRO Chairman?",
+        "options": [
+          "January 13, 2025",
+          "August 15, 2024",
+          "October 27, 2023",
+          "January 1, 2026"
+        ],
+        "answer": 0,
+        "explain": "He became ISRO Chairman, Secretary of the Department of Space and Chairman of the Space Commission on January 13, 2025."
+      },
+      "tags": [
+        "ISRO",
+        "space",
+        "ESTIC 2026"
+      ]
+    },
+    {
+      "id": "news-2026-10-24-18",
+      "type": "news",
+      "category": "international",
+      "headline": "Jaishankar meets Aliyev in Baku as India resets Azerbaijan ties",
+      "body": "External Affairs Minister S. Jaishankar met Azerbaijani President Ilham Aliyev and Foreign Minister Jeyhun Bayramov in Baku on October 23, 2026, saying the visit charted a 'pathway' for bilateral ties. Relations had deteriorated after Azerbaijan criticised India's Operation Sindoor in May 2025. Talks covered political dialogue, trade, energy, tourism and connectivity, and India welcomed the Armenia-Azerbaijan peace agreement.",
+      "why_it_matters": "The visit signals a cautious repair of ties with a country that has been vocal on Kashmir and critical of Indian military action.",
+      "key_fact": "Operation Sindoor, May 2025; Jaishankar's Baku visit on October 23, 2026",
+      "source_url": "https://www.thehindu.com/news/national/jaishankar-meets-azerbaijan-president-foreign-minister-as-india-attempts-reset-of-ties/article71617306.ece",
+      "date": "2026-10-24",
+      "quiz": {
+        "q": "What had strained India-Azerbaijan relations before Jaishankar's October 2026 visit?",
+        "options": [
+          "Azerbaijan's criticism of Operation Sindoor",
+          "A border dispute over the Caspian Sea",
+          "A trade embargo on Indian goods",
+          "A diplomatic row over visas"
+        ],
+        "answer": 0,
+        "explain": "Azerbaijan condemned India's May 2025 strikes on Pakistan-based terror targets under Operation Sindoor."
+      },
+      "tags": [
+        "diplomacy",
+        "Azerbaijan",
+        "Jaishankar"
+      ]
+    },
+    {
+      "id": "news-2026-10-24-19",
+      "type": "news",
+      "category": "international",
+      "headline": "Poland PM Tusk seeks joint ventures with India in tech, AI",
+      "body": "Polish Prime Minister Donald Tusk told the India-Poland Business Forum in Bengaluru on October 23, 2026 that the two countries should move beyond traditional trade and deepen cooperation in technology, AI and aerospace, turning their strategic partnership into joint ventures. He cited India's UPI and Poland's mObywatel digital ID as examples to share, and Karnataka's CM invited Poland to the Global Investors Meet 2027.",
+      "why_it_matters": "It points to growing India-Europe collaboration in digital public infrastructure, cybersecurity and AI-driven industry.",
+      "key_fact": "India-Poland ties elevated to strategic partnership during Modi's Warsaw visit, August 2024",
+      "source_url": "https://www.thehindu.com/business/Economy/india-poland-strategic-partnership-should-translate-into-jvs-pm-donald-tusk/article71615360.ece",
+      "date": "2026-10-24",
+      "quiz": {
+        "q": "When did India and Poland elevate their ties to a strategic partnership?",
+        "options": [
+          "During PM Modi's Warsaw visit in August 2024",
+          "At the G20 Summit in 2023",
+          "During Tusk's Bengaluru visit in 2026",
+          "At the UN General Assembly in 2025"
+        ],
+        "answer": 0,
+        "explain": "Tusk recalled that ties were elevated to a strategic partnership during PM Modi's visit to Warsaw in August 2024."
+      },
+      "tags": [
+        "Poland",
+        "trade",
+        "technology"
+      ]
+    }
+  ]
+}
