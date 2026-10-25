@@ -1,0 +1,527 @@
+{
+  "date": "2026-10-25",
+  "cards": [
+    {
+      "id": "news-2026-10-25-01",
+      "type": "news",
+      "category": "environment",
+      "headline": "Cyclone to Hit Andhra-Odisha Coast on October 28",
+      "body": "A cyclonic storm over the Bay of Bengal is expected to intensify into a 'very severe cyclonic storm', the second-highest intensity class, the IMD said. Landfall is likely between northern Andhra Pradesh and southern Odisha on the morning of October 28, with winds of 118-221 kmph. Odisha Chief Minister Mohan Charan Majhi reviewed preparedness and set a zero-casualty goal.",
+      "why_it_matters": "Cyclone alerts help coastal residents prepare, evacuate on time and protect lives and property during the October post-monsoon storm season.",
+      "key_fact": "Very severe cyclonic storm: winds of 118-221 kmph",
+      "source_url": "https://www.thehindu.com/news/national/cyclone-andhra-pradesh-odisha-live-updates-october-25-2026/article71622459.ece",
+      "date": "2026-10-25",
+      "quiz": {
+        "q": "What wind speed range does the IMD associate with a 'very severe cyclonic storm'?",
+        "options": [
+          "50-80 kmph",
+          "80-117 kmph",
+          "118-221 kmph",
+          "250-300 kmph"
+        ],
+        "answer": 2,
+        "explain": "The IMD classifies a very severe cyclonic storm as having maximum sustained wind speeds of 118-221 kmph."
+      },
+      "tags": [
+        "cyclone",
+        "IMD",
+        "Odisha",
+        "Andhra Pradesh"
+      ]
+    },
+    {
+      "id": "news-2026-10-25-02",
+      "type": "news",
+      "category": "environment",
+      "headline": "Cyclone Landfall Expected Between Bapatla and Visakhapatnam",
+      "body": "The IMD says a depression over the Bay of Bengal will intensify into a severe cyclonic storm by October 27 and a very severe cyclonic storm before crossing the Andhra Pradesh and Yanam coasts between Bapatla and Visakhapatnam around October 28 noon. Winds of 115-125 kmph, gusting to 140 kmph, are expected, and a red alert covers 13 Andhra districts.",
+      "why_it_matters": "Knowing the expected landfall zone and alerts helps coastal communities, fishermen and authorities plan evacuation and safety measures.",
+      "key_fact": "Landfall zone: Bapatla to Visakhapatnam",
+      "source_url": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-braces-for-very-severe-cyclonic-storm-landfall-likely-between-bapatla-and-vizag-on-october-28/article71621095.ece",
+      "date": "2026-10-25",
+      "quiz": {
+        "q": "Between which two places is the cyclone expected to cross the Andhra Pradesh coast?",
+        "options": [
+          "Kakinada and Machilipatnam",
+          "Bapatla and Visakhapatnam",
+          "Nellore and Ongole",
+          "Srikakulam and Puri"
+        ],
+        "answer": 1,
+        "explain": "The IMD forecast that the storm would cross the Andhra Pradesh and Yanam coasts between Bapatla and Visakhapatnam by October 28 noon."
+      },
+      "tags": [
+        "cyclone",
+        "IMD",
+        "Andhra Pradesh"
+      ]
+    },
+    {
+      "id": "news-2026-10-25-03",
+      "type": "news",
+      "category": "environment",
+      "headline": "IMD Issues Red Alerts as Depression Intensifies Over Bay of Bengal",
+      "body": "The IMD said the depression over the Bay of Bengal will intensify into a Deep Depression on Sunday, October 25, then a severe cyclonic storm by October 27 and a very severe cyclonic storm before reaching the Andhra Pradesh coast around October 28. Landfall winds of 115-125 kmph, gusting to 140 kmph, are forecast, with red alerts for heavy rain in Kerala and Tamil Nadu.",
+      "why_it_matters": "Timely alerts from the IMD help states prepare for heavy rain, flooding and evacuation before a fast-intensifying cyclone makes landfall.",
+      "key_fact": "Depression to intensify into Deep Depression on October 25",
+      "source_url": "https://www.livemint.com/news/india/imd-weather-alert-bay-of-bengal-depression-to-intensify-today-very-severe-cyclone-to-hit-andhra-on-oct-28-11792890131647.html",
+      "date": "2026-10-25",
+      "quiz": {
+        "q": "According to the IMD, what will the Bay of Bengal depression become on October 25?",
+        "options": [
+          "A super cyclone",
+          "A Deep Depression",
+          "A severe cyclonic storm",
+          "A low-pressure area"
+        ],
+        "answer": 1,
+        "explain": "The IMD said the depression would intensify into a Deep Depression on Sunday, October 25, before further strengthening into a severe cyclonic storm."
+      },
+      "tags": [
+        "IMD",
+        "cyclone",
+        "Kerala",
+        "Tamil Nadu"
+      ]
+    },
+    {
+      "id": "news-2026-10-25-04",
+      "type": "news",
+      "category": "environment",
+      "headline": "Heavy Rain Alert Across Tamil Nadu; Red Alert in Kerala",
+      "body": "The IMD predicted moderate to heavy rainfall across Tamil Nadu and Puducherry until October 26, with heavy rain likely in Chennai over the weekend, as a Bay of Bengal system heads toward a cyclone expected to cross the southern Odisha-northern Andhra Pradesh coast by October 28. In the Nilgiris, a mudslide crushed a TNSTC bus, killing the driver and injuring the conductor.",
+      "why_it_matters": "Rain and cyclone alerts help residents, travellers and transport services take precautions against landslides and flooding during the north-east monsoon period.",
+      "key_fact": "Cyclone expected by October 28 on north Andhra coast",
+      "source_url": "https://www.thehindu.com/news/national/bay-of-bengal-weather-update-cyclone-alert-latest-weather-news-live-updates-october-24-2026/article71619022.ece",
+      "date": "2026-10-25",
+      "quiz": {
+        "q": "By when is the Bay of Bengal system expected to cross the southern Odisha-northern Andhra Pradesh coast?",
+        "options": [
+          "October 23",
+          "October 25",
+          "October 28",
+          "November 5"
+        ],
+        "answer": 2,
+        "explain": "The article says the weather system is likely to intensify into a cyclone and cross the southern Odisha-northern Andhra Pradesh coast by October 28."
+      },
+      "tags": [
+        "Tamil Nadu",
+        "Kerala",
+        "rainfall",
+        "IMD"
+      ]
+    },
+    {
+      "id": "news-2026-10-25-05",
+      "type": "news",
+      "category": "international",
+      "headline": "India, Russia Aim for $100 Billion Trade by 2030",
+      "body": "Prime Minister Narendra Modi and Russian President Vladimir Putin have directed officials to expand bilateral cooperation, with the two countries aiming to raise bilateral trade to $100 billion and two-way investment to $50 billion by 2030, Indian Ambassador Vinay Kumar told TASS. He said Indians make up around 25-30% of Russia's foreign worker quota, and India trains skilled workers for overseas jobs.",
+      "why_it_matters": "Growing India-Russia trade and labour cooperation can create overseas job opportunities for skilled Indian workers and expand markets for Indian businesses.",
+      "key_fact": "India-Russia trade target: $100 billion by 2030",
+      "source_url": "https://www.thehindu.com/news/national/pm-modi-vladimir-putin-direct-officials-to-expand-cooperation-target-100-bn-trade-by-2030-envoy/article71619349.ece",
+      "date": "2026-10-25",
+      "quiz": {
+        "q": "What is the targeted India-Russia bilateral trade figure by 2030?",
+        "options": [
+          "$50 billion",
+          "$75 billion",
+          "$100 billion",
+          "$200 billion"
+        ],
+        "answer": 2,
+        "explain": "Ambassador Vinay Kumar said India and Russia are working towards increasing bilateral trade to $100 billion by 2030."
+      },
+      "tags": [
+        "India-Russia",
+        "trade",
+        "Modi",
+        "Putin"
+      ]
+    },
+    {
+      "id": "news-2026-10-25-06",
+      "type": "news",
+      "category": "international",
+      "headline": "Jaishankar meets Uzbek counterpart Saidov in Baku",
+      "body": "External Affairs Minister S. Jaishankar met Uzbekistan's Foreign Minister Bakhtiyor Saidov in Baku, Azerbaijan, on October 23, 2026, on the sidelines of a day-long visit there. The two discussed key bilateral issues and stressed timely implementation of agreements reached at the highest level. Saidov posted about the meeting on X, while Jaishankar shared a photo without further details.",
+      "why_it_matters": "The meeting follows Prime Minister Modi's August visit to Uzbekistan, where ties were upgraded to a comprehensive strategic partnership with a $5 billion trade target.",
+      "key_fact": "India-Uzbekistan comprehensive strategic partnership, with $5 billion trade target",
+      "source_url": "https://www.thehindu.com/news/national/india-uzbekistan-discuss-bilateral-ties-during-jaishankars-azerbaijan-visit/article71619675.ece",
+      "date": "2026-10-25",
+      "quiz": {
+        "q": "What target did India and Uzbekistan set for bilateral trade during PM Modi's August visit?",
+        "options": [
+          "$1 billion",
+          "$5 billion",
+          "$10 billion",
+          "$50 billion"
+        ],
+        "answer": 1,
+        "explain": "The article states the two sides set a target of $5 billion in bilateral trade."
+      },
+      "tags": [
+        "diplomacy",
+        "Uzbekistan",
+        "Jaishankar"
+      ]
+    },
+    {
+      "id": "news-2026-10-25-07",
+      "type": "news",
+      "category": "international",
+      "headline": "Jaishankar in Baku seeks to reset India-Azerbaijan ties",
+      "body": "External Affairs Minister S. Jaishankar made a one-day visit to Baku on Friday, the first by an Indian foreign minister to Azerbaijan in eight years, holding talks with Foreign Minister Jeyhun Bayramov. Discussions covered trade, investment, energy and closer coordination on the International North-South Transport Corridor. The visit follows strained ties after Azerbaijan backed Pakistan during Operation Sindoor in May 2025.",
+      "why_it_matters": "Azerbaijan is a source of crude oil and a partner in INSTC connectivity, which could give India better access to Eurasian markets.",
+      "key_fact": "International North-South Transport Corridor (INSTC)",
+      "source_url": "https://www.livemint.com/news/world/jaishankar-in-baku-can-trade-and-connectivity-help-azerbaijan-reset-ties-with-india-after-operation-sindoor-fallout-11792852491668.html",
+      "date": "2026-10-25",
+      "quiz": {
+        "q": "Which connectivity initiative did India and Azerbaijan agree to coordinate on more closely?",
+        "options": [
+          "Belt and Road Initiative",
+          "International North-South Transport Corridor",
+          "India-Middle East-Europe Corridor",
+          "Ashgabat Agreement"
+        ],
+        "answer": 1,
+        "explain": "Jaishankar said both countries are invested in INSTC and agreed to coordinate more closely."
+      },
+      "tags": [
+        "Azerbaijan",
+        "INSTC",
+        "trade"
+      ]
+    },
+    {
+      "id": "news-2026-10-25-08",
+      "type": "news",
+      "category": "environment",
+      "headline": "India's Ramsar wetland network grows to 103 sites",
+      "body": "India's network of wetlands of international importance under the Ramsar Convention has grown nearly four-fold since 2014, from 26 to 103 sites, spanning over 13.87 lakh hectares across 28 states and union territories. India ranks first in Asia and third globally by number of sites. India became a party to the convention on February 1, 1982.",
+      "why_it_matters": "Wetlands store freshwater, recharge groundwater, reduce floods and support biodiversity, so their conservation directly affects water security and livelihoods.",
+      "key_fact": "India has 103 Ramsar sites, most in Asia",
+      "source_url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2328133",
+      "date": "2026-10-25",
+      "quiz": {
+        "q": "What is India's rank in Asia by number of Ramsar sites?",
+        "options": [
+          "First",
+          "Second",
+          "Third",
+          "Fourth"
+        ],
+        "answer": 0,
+        "explain": "The article states India's network is first in Asia and third in the world."
+      },
+      "tags": [
+        "Ramsar",
+        "wetlands",
+        "environment"
+      ]
+    },
+    {
+      "id": "news-2026-10-25-09",
+      "type": "news",
+      "category": "science",
+      "headline": "ISRO will not be privatised, says chairperson Narayanan",
+      "body": "ISRO chairperson V. Narayanan said on October 24, 2026 that the space agency, being under the Government of India, will not be privatised, though some operations will be done commercially by private firms. He cited the Indian Space Policy, 2023 and noted that 75% of a launch budget goes to private industry. He also said NVS-03 is set for launch on October 30 and Chandrayaan-4 is planned for 2028.",
+      "why_it_matters": "The clarification matters for the growing private space sector, which depends on ISRO handholding and partnership even as it takes on more commercial work.",
+      "key_fact": "Indian Space Policy, 2023",
+      "source_url": "https://www.thehindu.com/news/cities/chennai/isro-will-not-be-privatised-says-chairperson-narayanan/article71620020.ece",
+      "date": "2026-10-25",
+      "quiz": {
+        "q": "Which policy did the ISRO chairperson cite for handholding startups and private companies?",
+        "options": [
+          "Space Activities Bill, 2019",
+          "Indian Space Policy, 2023",
+          "Satellite Communication Policy, 2000",
+          "National Remote Sensing Policy"
+        ],
+        "answer": 1,
+        "explain": "Narayanan highlighted the Indian Space Policy, 2023 for ISRO's role in supporting private players."
+      },
+      "tags": [
+        "ISRO",
+        "space",
+        "privatisation"
+      ]
+    },
+    {
+      "id": "news-2026-10-25-10",
+      "type": "news",
+      "category": "science",
+      "headline": "Ashoke Sen first Indian to win Oskar Klein Medal",
+      "body": "Professor Ashoke Sen, an ICTS-Infosys Madhava Chair Professor, has been awarded the Oskar Klein Medal for 2026, becoming the first Indian physicist to receive it. He is known for work on S-duality, black hole entropy counting and string field theory. He delivered the Oskar Klein Memorial Lecture in Stockholm on October 22. The medal recognises distinguished contributions to physics.",
+      "why_it_matters": "The honour, awarded by Stockholm University and the Nobel Committee for Physics of the Royal Swedish Academy of Sciences, brings global recognition to Indian theoretical physics.",
+      "key_fact": "Oskar Klein Medal, established 1988",
+      "source_url": "https://www.thehindu.com/news/national/ashoke-sen-becomes-first-indian-physicist-to-receive-oskar-klein-medal/article71619342.ece",
+      "date": "2026-10-25",
+      "quiz": {
+        "q": "What is the Oskar Klein Medal awarded for?",
+        "options": [
+          "Literature",
+          "Distinguished contributions to physics",
+          "Medicine",
+          "Economics"
+        ],
+        "answer": 1,
+        "explain": "The article says the medal recognises distinguished contributions to physics."
+      },
+      "tags": [
+        "Ashoke Sen",
+        "physics",
+        "award"
+      ]
+    },
+    {
+      "id": "news-2026-10-25-11",
+      "type": "news",
+      "category": "science",
+      "headline": "Scientists create diamondiyne, a new carbon allotrope",
+      "body": "Researchers in Sweden have synthesised diamondiyne, a three-dimensional carbon network resembling diamond but with a more open structure. Proposed over three decades ago, it was finally made at a water-chloroform boundary, producing thin films about five square centimetres wide, reported in Angewandte Chemie. The team confirmed small diamondiyne crystals, though only about 1% of the reaction yield.",
+      "why_it_matters": "New carbon allotropes expand what scientists know about how atomic arrangement shapes a material's properties, which can lead to future applications.",
+      "key_fact": "Diamondiyne: new carbon allotrope, more open than diamond",
+      "source_url": "https://www.thehindu.com/sci-tech/science/science-for-all-newsletter-new-form-of-carbon-found-diamondiyne/article71607112.ece",
+      "date": "2026-10-25",
+      "quiz": {
+        "q": "What is diamondiyne?",
+        "options": [
+          "A new allotrope of carbon",
+          "A synthetic diamond coating",
+          "A type of graphene sheet",
+          "A carbon-fibre composite"
+        ],
+        "answer": 0,
+        "explain": "The article describes diamondiyne as a newly synthesised three-dimensional form of carbon, i.e. an allotrope."
+      },
+      "tags": [
+        "science",
+        "carbon",
+        "materials"
+      ]
+    },
+    {
+      "id": "news-2026-10-25-12",
+      "type": "news",
+      "category": "economy",
+      "headline": "RBI bulletin flags broad-based rise in food prices",
+      "body": "RBI officials, writing in the October RBI Bulletin's 'State of the Economy' article, said high-frequency data for October suggest a broad-based increase in food prices. Rice, wheat, pulses, edible oil and tomato prices rose, while potato prices fell. Rural inflation exceeded urban in September, at 6.1% and 4.9% respectively. WPI inflation hit 11.4% in September 2026 in the new series.",
+      "why_it_matters": "Food prices drive household budgets and retail inflation, shaping the RBI's interest-rate decisions that affect loans and EMIs.",
+      "key_fact": "WPI inflation 11.4% in September 2026, new series",
+      "source_url": "https://www.thehindu.com/business/Economy/data-suggests-broad-based-increase-in-food-prices-rbi-bulletin/article71616686.ece",
+      "date": "2026-10-25",
+      "quiz": {
+        "q": "What was WPI inflation in September 2026 in the new base 2022-23 series?",
+        "options": [
+          "11.4%",
+          "9.9%",
+          "4.9%",
+          "6.1%"
+        ],
+        "answer": 0,
+        "explain": "The article states WPI inflation recorded its first double-digit rate in the new series at 11.4% in September 2026, up from 9.9% in August."
+      },
+      "tags": [
+        "economy",
+        "inflation",
+        "RBI"
+      ]
+    },
+    {
+      "id": "news-2026-10-25-13",
+      "type": "news",
+      "category": "economy",
+      "headline": "11 crore Farmer IDs created, five months ahead of target",
+      "body": "The Centre has completed 11 crore 'Farmer IDs', digital identities for farmers, under the Digital Agriculture Mission, five months before the March 31, 2027 target. Agriculture Minister Shivraj Singh Chouhan said the IDs will ease access to bank loans, Kisan Credit Cards, PM Fasal Bima Yojana claims, disaster relief and MSP procurement, reducing repeated paperwork. More than six crore farmers have already benefited.",
+      "why_it_matters": "A single verified digital identity can cut paperwork and middlemen so farmers get loans, insurance and relief payments faster.",
+      "key_fact": "11 crore Farmer IDs under Digital Agriculture Mission",
+      "source_url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2327890",
+      "date": "2026-10-25",
+      "quiz": {
+        "q": "Under which mission are Farmer IDs being created?",
+        "options": [
+          "Digital Agriculture Mission",
+          "Pradhan Mantri Fasal Bima Yojana",
+          "Kisan Credit Card scheme",
+          "Rashtriya Krishi Vikas Yojana"
+        ],
+        "answer": 0,
+        "explain": "The article states the Farmer IDs are prepared under the Digital Agriculture Mission, run by the Agriculture Ministry."
+      },
+      "tags": [
+        "agriculture",
+        "digital India",
+        "farmers"
+      ]
+    },
+    {
+      "id": "news-2026-10-25-14",
+      "type": "news",
+      "category": "economy",
+      "headline": "Centre backs Andhra Pradesh semiconductor push, port rail links",
+      "body": "Union Minister Ashwini Vaishnaw assured Andhra Pradesh of central support to become a semiconductor design and manufacturing hub, including help with R&D, skill training and AI. He approved connectivity for nine seaports. Chief Minister N. Chandrababu Naidu sought railway projects including a Vijayawada bypass (₹3,197 crore) and agreed Vande Bharat sleeper train between Visakhapatnam and Bengaluru via Tirupati.",
+      "why_it_matters": "Semiconductor manufacturing and better port-rail links can bring investment, jobs and faster freight movement in the state.",
+      "key_fact": "Nine seaports in Andhra Pradesh get approved rail connectivity",
+      "source_url": "https://www.thehindu.com/news/national/andhra-pradesh/centre-backs-aps-semiconductor-push-approves-rail-links-for-nine-ports/article71621247.ece",
+      "date": "2026-10-25",
+      "quiz": {
+        "q": "How many seaports in Andhra Pradesh had rail connectivity approved?",
+        "options": [
+          "Nine",
+          "Five",
+          "Seven",
+          "Twelve"
+        ],
+        "answer": 0,
+        "explain": "The article says the Union Minister approved the required connectivity for nine seaports to improve freight movement."
+      },
+      "tags": [
+        "semiconductors",
+        "Andhra Pradesh",
+        "railways"
+      ]
+    },
+    {
+      "id": "news-2026-10-25-15",
+      "type": "news",
+      "category": "economy",
+      "headline": "Telangana to launch Aerospace and Defence Policy 2.0",
+      "body": "Chief Minister A. Revanth Reddy said Telangana will soon unveil its Aerospace and Defence Policy 2.0, aligned with the Telangana Rising Vision 2047. Speaking at a curtain-raiser for Raksha Expo-2026, he invited domestic and global firms to invest in defence manufacturing, aerospace, space technology, cybersecurity, AI and drones, and urged companies to double their investment plans.",
+      "why_it_matters": "State industrial policies shape where defence manufacturing jobs and investment land, and signal how states compete to attract strategic industries.",
+      "key_fact": "Aerospace and Defence Policy 2.0, aligned with Telangana Rising Vision 2047",
+      "source_url": "https://www.thehindu.com/news/national/telangana/telangana-to-unveil-new-aerospace-and-defence-policy-20-soon-says-revanth/article71621205.ece",
+      "date": "2026-10-25",
+      "quiz": {
+        "q": "Which policy is Telangana preparing to unveil soon?",
+        "options": [
+          "Aerospace and Defence Policy 2.0",
+          "Semiconductor Policy 3.0",
+          "Green Hydrogen Policy 1.0",
+          "EV Manufacturing Policy 2025"
+        ],
+        "answer": 0,
+        "explain": "CM Revanth Reddy said the Aerospace and Defence Policy 2.0, aligned with the Telangana Rising Vision 2047, would be unveiled soon."
+      },
+      "tags": [
+        "Telangana",
+        "defence",
+        "policy",
+        "investment"
+      ]
+    },
+    {
+      "id": "news-2026-10-25-16",
+      "type": "news",
+      "category": "environment",
+      "headline": "Protests against 11,200 MW Siang hydro project turn violent",
+      "body": "Clashes over the Siang Upper Multipurpose Project in Arunachal Pradesh left at least 40 security personnel injured, with a police station, an NHPC office and nine police vehicles torched during a 12-hour bandh. The Adi community and groups such as the Siang Indigenous Farmers' Forum oppose the pre-feasibility survey over displacement, ecological and seismic risks. The government says the survey is not final approval.",
+      "why_it_matters": "Large hydro projects in the northeast pit energy security against tribal land, ecology and earthquake risks, making local consent a central question.",
+      "key_fact": "Siang Upper Multipurpose Project: 11,200 MW",
+      "source_url": "https://www.livemint.com/news/india/siang-dam-what-is-behind-protest-in-arunachal-pradesh-against-the-11-200-mw-hydroelectric-project-all-you-need-to-know-11792898495181.html",
+      "date": "2026-10-25",
+      "quiz": {
+        "q": "What is the proposed capacity of the Siang Upper Multipurpose Project?",
+        "options": [
+          "11,200 MW",
+          "2,000 MW",
+          "5,500 MW",
+          "18,000 MW"
+        ],
+        "answer": 0,
+        "explain": "The article describes the Siang Upper Multipurpose Project as an 11,200 MW hydroelectric project."
+      },
+      "tags": [
+        "Arunachal Pradesh",
+        "hydropower",
+        "protest",
+        "Siang"
+      ]
+    },
+    {
+      "id": "news-2026-10-25-17",
+      "type": "news",
+      "category": "polity",
+      "headline": "Road Ministry seeks forensic audit of VAHAN, SARATHI after data leak",
+      "body": "The Ministry of Road Transport and Highways has asked CERT-In to conduct a forensic security audit of the VAHAN, SARATHI, e-Challan and PUCC portals after reports that vehicle-owner data was being sold through apps and websites for as little as ₹5. The Ministry has asked app stores including Google to remove such apps and sought MeitY's review of its data-sharing policy.",
+      "why_it_matters": "Vehicle registration data linked to VAHAN can expose personal details like address and phone number, so leaks affect the privacy of millions of vehicle owners.",
+      "key_fact": "CERT-In to audit VAHAN, SARATHI, e-Challan and PUCC portals",
+      "source_url": "https://www.thehindu.com/news/national/road-ministry-seeks-forensic-audit-of-its-portals-after-vehicle-data-leak/article71620455.ece",
+      "date": "2026-10-25",
+      "quiz": {
+        "q": "Which agency was asked to conduct the forensic security audit of the transport portals?",
+        "options": [
+          "CERT-In",
+          "NIA",
+          "CBI",
+          "UIDAI"
+        ],
+        "answer": 0,
+        "explain": "The Road Ministry asked the Indian Computer Emergency Response Team (CERT-In) to conduct the forensic audit."
+      },
+      "tags": [
+        "data privacy",
+        "VAHAN",
+        "cybersecurity",
+        "MoRTH"
+      ]
+    },
+    {
+      "id": "news-2026-10-25-18",
+      "type": "news",
+      "category": "polity",
+      "headline": "NMC withdraws 2023 medical education standards rules",
+      "body": "The National Medical Commission withdrew the Maintenance of Standards of Medical Education Regulations, 2023, effective October 17, through a notification dated October 14. No single regulation replaces it, though Annual Disclosure Reports continue under the NMC Act, 2019. Activists warn that removal of penalties of up to ₹1 crore, verification of disclosures, and enforcement timelines could weaken accountability in medical colleges.",
+      "why_it_matters": "Medical college standards ultimately affect the competence of doctors and patient safety, so weaker enforcement can affect anyone seeking care.",
+      "key_fact": "MSMER-2023 withdrawn; ADRs continue under NMC Act, 2019",
+      "source_url": "https://www.thehindu.com/sci-tech/health/nmc-withdraws-2023-rules-on-medical-education-standards-raising-accountability-concerns/article71620086.ece",
+      "date": "2026-10-25",
+      "quiz": {
+        "q": "Which regulation did the NMC withdraw with effect from October 17?",
+        "options": [
+          "Maintenance of Standards of Medical Education Regulations, 2023",
+          "National Medical Commission Act, 2019",
+          "Indian Medical Council Act, 1956",
+          "Medical Termination of Pregnancy Rules"
+        ],
+        "answer": 0,
+        "explain": "The NMC withdrew the Maintenance of Standards of Medical Education Regulations, 2023, via a notification published on October 17."
+      },
+      "tags": [
+        "NMC",
+        "medical education",
+        "health",
+        "regulation"
+      ]
+    },
+    {
+      "id": "news-2026-10-25-19",
+      "type": "news",
+      "category": "polity",
+      "headline": "Madras High Court allows life convicts 40 days leave in two instalments",
+      "body": "A Division Bench of the Madras High Court ruled that life convicts who have completed 14 years of imprisonment can take 40 days of ordinary annual leave in two instalments, not just one spell a year. Reading 'spell' in Rule 22(2)(c) of the Tamil Nadu Suspension of Sentence Rules, 1982 as 'instalment', it allowed a convict's petition after he was denied 14 days of leave.",
+      "why_it_matters": "The ruling clarifies prisoners' leave rights, balancing rehabilitation and family ties with prison administration rules.",
+      "key_fact": "40 days ordinary leave in two instalments under TN Suspension of Sentence Rules, 1982",
+      "source_url": "https://www.thehindu.com/news/national/tamil-nadu/life-convicts-can-avail-40-days-of-annual-leave-in-two-instalments-rules-madras-high-court/article71619647.ece",
+      "date": "2026-10-25",
+      "quiz": {
+        "q": "How many days of ordinary annual leave can eligible life convicts take, per the Madras High Court?",
+        "options": [
+          "40 days",
+          "14 days",
+          "26 days",
+          "60 days"
+        ],
+        "answer": 0,
+        "explain": "The court held that life convicts who completed 14 years are entitled to 40 days of ordinary leave annually in two instalments."
+      },
+      "tags": [
+        "Madras High Court",
+        "prison reform",
+        "law",
+        "Tamil Nadu"
+      ]
+    }
+  ]
+}
