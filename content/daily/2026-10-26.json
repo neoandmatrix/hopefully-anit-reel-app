@@ -1,0 +1,507 @@
+{
+  "date": "2026-10-26",
+  "cards": [
+    {
+      "id": "news-2026-10-26-01",
+      "type": "news",
+      "category": "economy",
+      "headline": "PM Modi inaugurates RBI data centre and cyber security institute in Bhubaneswar",
+      "body": "Prime Minister Narendra Modi inaugurated the Reserve Bank of India's newly built data centre and a cyber security training institute in Bhubaneswar, Odisha. He congratulated the RBI and all those involved, saying the facilities would benefit the people of Odisha and the whole country. He linked the event to a shift in governance towards last-mile delivery of services.",
+      "why_it_matters": "The RBI's data centre supports the digital banking and payment systems that a large share of Indian households now rely on daily.",
+      "key_fact": "RBI data centre and cyber security training institute in Bhubaneswar",
+      "source_url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2328274",
+      "date": "2026-10-26",
+      "quiz": {
+        "q": "Where did the RBI set up the data centre and cyber security training institute inaugurated by PM Modi?",
+        "options": [
+          "Bhubaneswar, Odisha",
+          "Visakhapatnam, Andhra Pradesh",
+          "New Delhi",
+          "Ahmedabad, Gujarat"
+        ],
+        "answer": 0,
+        "explain": "The PIB release says both facilities were inaugurated in Bhubaneswar, Odisha."
+      },
+      "tags": [
+        "RBI",
+        "Bhubaneswar",
+        "cyber security",
+        "banking"
+      ]
+    },
+    {
+      "id": "news-2026-10-26-02",
+      "type": "news",
+      "category": "geography",
+      "headline": "Very severe cyclonic storm to cross Andhra Pradesh coast by October 28",
+      "body": "A deep depression over the eastcentral Bay of Bengal is forecast to intensify into a cyclonic storm, then a severe cyclonic storm around October 27, and a very severe cyclonic storm near the Andhra Pradesh coast by October 28. It is expected to cross between Bapatla and Visakhapatnam with winds of 115-125 kmph gusting to 140 kmph.",
+      "why_it_matters": "Coastal districts of Andhra Pradesh, Odisha, Telangana and Chhattisgarh face extremely heavy rain, so residents should follow local weather warnings.",
+      "key_fact": "Very severe cyclonic storm, winds 115-125 kmph gusting to 140 kmph",
+      "source_url": "https://www.thehindu.com/news/national/cyclone-andhra-pradesh-odisha-live-updates-october-25-2026/article71622459.ece",
+      "date": "2026-10-26",
+      "quiz": {
+        "q": "What maximum sustained wind speed is forecast when the storm crosses the Andhra Pradesh coast?",
+        "options": [
+          "115-125 kmph gusting to 140 kmph",
+          "60-70 kmph gusting to 80 kmph",
+          "150-160 kmph gusting to 180 kmph",
+          "200-210 kmph gusting to 220 kmph"
+        ],
+        "answer": 0,
+        "explain": "The weather bulletin forecasts a very severe cyclonic storm with winds of 115-125 kmph gusting to 140 kmph."
+      },
+      "tags": [
+        "cyclone",
+        "Andhra Pradesh",
+        "weather",
+        "Bay of Bengal"
+      ]
+    },
+    {
+      "id": "news-2026-10-26-03",
+      "type": "news",
+      "category": "polity",
+      "headline": "Supreme Court clarifies police custody rules under BNSS",
+      "body": "The Supreme Court, in State of Andhra Pradesh vs Suda Suresh Veera Venkata Naga Raju, held that Section 187(2) of the BNSS widens when police custody can be sought, allowing it in parts up to 15 days in aggregate during the first 40 or 60 days of detention, not only the first 15 days. Advocate presence during interrogation is also not continuous.",
+      "why_it_matters": "This clarifies how long an arrested person can be in police custody and what access to a lawyer they have under India's new criminal procedure law.",
+      "key_fact": "Section 187(2) of the BNSS on police custody",
+      "source_url": "https://www.thehindu.com/news/national/supreme-court-clarifies-scope-of-police-custody-under-bnss/article71338174.ece",
+      "date": "2026-10-26",
+      "quiz": {
+        "q": "Which provision of the BNSS did the Supreme Court interpret on police custody windows?",
+        "options": [
+          "Section 187(2)",
+          "Section 38",
+          "Section 58",
+          "Section 144"
+        ],
+        "answer": 0,
+        "explain": "The judgment held that Section 187(2) of the BNSS enlarges the window during which police custody may be sought."
+      },
+      "tags": [
+        "Supreme Court",
+        "BNSS",
+        "police custody",
+        "law"
+      ]
+    },
+    {
+      "id": "news-2026-10-26-04",
+      "type": "news",
+      "category": "international",
+      "headline": "India and EU target December 17-18 for signing free trade agreement",
+      "body": "India and the European Union are aiming to sign their Free Trade Agreement around December 17 or 18 in Brussels during an expected visit by PM Modi, according to a report. The European Commission has proposed a fast-track approval using the original English text to avoid translation delays. The deal was finalised at the political level in January 2026.",
+      "why_it_matters": "An India-EU FTA would affect tariffs and market access for Indian exporters in sectors such as textiles, chemicals, metals and machinery.",
+      "key_fact": "India-EU FTA signing targeted for December 17-18",
+      "source_url": "https://www.livemint.com/news/india/indiaeu-fta-signing-targeted-for-december-17-18-during-pm-modi-s-expected-brussels-visit-report-11792950197332.html",
+      "date": "2026-10-26",
+      "quiz": {
+        "q": "What date range is being targeted for signing the India-EU free trade agreement?",
+        "options": [
+          "December 17-18",
+          "October 27-28",
+          "January 27-28",
+          "November 5-6"
+        ],
+        "answer": 0,
+        "explain": "The report says the two sides aim to sign the pact around December 17 or 18 in Brussels."
+      },
+      "tags": [
+        "India-EU",
+        "FTA",
+        "trade",
+        "exports"
+      ]
+    },
+    {
+      "id": "news-2026-10-26-05",
+      "type": "news",
+      "category": "science",
+      "headline": "ISRO plans four launch pads by 2029, says chairman Narayanan",
+      "body": "ISRO Chairman V. Narayanan said India will have four functional launch pads by 2029, with a 2,000-acre Small Satellite Launch Vehicle complex at Kulasekarapattinam in Tuticorin district. He said ISRO will not be privatised but will partner with private firms. An uncrewed Gaganyaan test is planned within two months, and Chandrayaan-5 with Japan is in the works.",
+      "why_it_matters": "More launch pads mean more satellite launches, which support communications, weather forecasting and navigation services used across India.",
+      "key_fact": "Four ISRO launch pads by 2029",
+      "source_url": "https://www.thehindu.com/news/national/isro-to-add-four-launch-pads-by-2029/article71622643.ece",
+      "date": "2026-10-26",
+      "quiz": {
+        "q": "By which year does ISRO plan to have four functional launch pads?",
+        "options": [
+          "2029",
+          "2026",
+          "2035",
+          "2040"
+        ],
+        "answer": 0,
+        "explain": "ISRO Chairman V. Narayanan said India will have four functional launch pads by 2029."
+      },
+      "tags": [
+        "ISRO",
+        "launch pads",
+        "Gaganyaan",
+        "space"
+      ]
+    },
+    {
+      "id": "news-2026-10-26-06",
+      "type": "news",
+      "category": "science",
+      "headline": "Ashoke Sen becomes first Indian to win Oskar Klein Medal",
+      "body": "Theoretical physicist Ashoke Sen has been awarded the 2026 Oskar Klein Medal, becoming the first Indian laureate of the honour. The medal is given by Stockholm University and the Nobel Committee for Physics of the Royal Swedish Academy of Sciences, and recognises significant contributions to theoretical physics. Dr. Sen is the ICTS-Infosys Madhava Chair Professor at the International Centre for Theoretical Sciences in Bengaluru.",
+      "why_it_matters": "The award brings global recognition to Indian basic science research and to Sen, a leading figure in string theory.",
+      "key_fact": "Oskar Klein Medal 2026, awarded by Stockholm University and the Nobel Committee for Physics",
+      "source_url": "https://www.thehindu.com/sci-tech/science/award-winning-theoretical-physicist-ashoke-sen-has-focused-on-string-theory/article71623560.ece",
+      "date": "2026-10-26",
+      "quiz": {
+        "q": "Which body awards the Oskar Klein Medal?",
+        "options": [
+          "Indian Institute of Science, Bengaluru",
+          "Stockholm University and the Nobel Committee for Physics",
+          "International Centre for Theoretical Sciences",
+          "European Physical Society"
+        ],
+        "answer": 1,
+        "explain": "The article states the medal is awarded by Stockholm University and the Nobel Committee for Physics of the Royal Swedish Academy of Sciences."
+      },
+      "tags": [
+        "science",
+        "award",
+        "physics",
+        "string theory"
+      ]
+    },
+    {
+      "id": "news-2026-10-26-07",
+      "type": "news",
+      "category": "sports",
+      "headline": "PM Modi hails India's record 114 medals at Asian Para Games 2026",
+      "body": "Prime Minister Narendra Modi praised India's para-athletes for their performance at the recently concluded Asian Para Games 2026, where the contingent won a record 114 medals. He said this is India's best-ever showing at the Games and an occasion of pride for the country. Modi congratulated every member of the contingent for their determination and said each athlete had inspired countless Indians.",
+      "why_it_matters": "It highlights the growing strength of Indian para-sport and the visibility it gives to athletes with disabilities.",
+      "key_fact": "India won a record 114 medals at the Asian Para Games 2026",
+      "source_url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2328135",
+      "date": "2026-10-26",
+      "quiz": {
+        "q": "How many medals did India win at the Asian Para Games 2026?",
+        "options": [
+          "114",
+          "103",
+          "126",
+          "98"
+        ],
+        "answer": 0,
+        "explain": "The PIB release states India won a record 114 medals, its best-ever performance at the Games."
+      },
+      "tags": [
+        "sports",
+        "para-athletics",
+        "Asian Para Games"
+      ]
+    },
+    {
+      "id": "news-2026-10-26-08",
+      "type": "news",
+      "category": "polity",
+      "headline": "Lok Sabha to host 12th BRICS Parliamentary Forum from October 26",
+      "body": "The Indian Parliament is set to host the 12th BRICS Parliamentary Forum, a two-day event beginning 26 October 2026. Ahead of it, Lok Sabha Speaker Om Birla met a Russian delegation led by State Duma Chairman Vyacheslav Volodin. The two sides stressed cooperation on global platforms and joint efforts against terrorism. Birla also noted that India and Russia will mark 80 years of diplomatic relations in 2027.",
+      "why_it_matters": "Parliamentary diplomacy shapes India's ties with major partners, and the forum comes during India's 2026 BRICS chairship.",
+      "key_fact": "12th BRICS Parliamentary Forum hosted by Indian Parliament in October 2026",
+      "source_url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2328241",
+      "date": "2026-10-26",
+      "quiz": {
+        "q": "Which country's parliamentary delegation did Speaker Om Birla meet before the BRICS Parliamentary Forum?",
+        "options": [
+          "China",
+          "Brazil",
+          "Russia",
+          "South Africa"
+        ],
+        "answer": 2,
+        "explain": "The article says he met a Russian delegation led by State Duma Chairman Vyacheslav Volodin."
+      },
+      "tags": [
+        "parliament",
+        "BRICS",
+        "diplomacy",
+        "India-Russia"
+      ]
+    },
+    {
+      "id": "news-2026-10-26-09",
+      "type": "news",
+      "category": "economy",
+      "headline": "Government extends Agriculture Infrastructure Fund scheme to March 2027",
+      "body": "The government has approved continuing the Agriculture Infrastructure Fund scheme beyond 30 September 2026, extending it until 31 March 2027. The scheme supports post-harvest infrastructure such as cold storages, warehouses and grading units through interest subvention and credit guarantee benefits. Since its 2020-21 launch, about ₹1.03 trillion has been sanctioned for over 2.28 lakh projects, with India losing farm produce worth ₹1.53 trillion yearly to post-harvest inefficiency.",
+      "why_it_matters": "Better storage and processing near farms can cut crop waste and help farmers sell at better prices instead of distress sales.",
+      "key_fact": "AIF scheme extended until 31 March 2027",
+      "source_url": "https://www.livemint.com/economy/centre-extends-aif-scheme-to-boost-farm-infrastructure-investments-11792919083732.html",
+      "date": "2026-10-26",
+      "quiz": {
+        "q": "Until when has the Agriculture Infrastructure Fund scheme been extended?",
+        "options": [
+          "31 March 2027",
+          "30 September 2026",
+          "31 December 2026",
+          "31 March 2028"
+        ],
+        "answer": 0,
+        "explain": "The Department of Expenditure approved extension of the AIF scheme until 31 March 2027."
+      },
+      "tags": [
+        "agriculture",
+        "scheme",
+        "farm infrastructure"
+      ]
+    },
+    {
+      "id": "news-2026-10-26-10",
+      "type": "news",
+      "category": "environment",
+      "headline": "India's Ramsar wetland network grows to 103 sites",
+      "body": "India's network of wetlands of international importance under the Ramsar Convention has grown nearly fourfold since 2014, from 26 to 103 sites covering over 13.87 lakh hectares. India ranks first in Asia and third globally by number of sites. The government promotes conservation through the Wetlands (Conservation and Management) Rules, 2017, the National Plan for Conservation of Aquatic Eco-systems, Amrit Dharohar, Mishti and Mission Sahbhagita.",
+      "why_it_matters": "Wetlands store freshwater, recharge groundwater, reduce floods and support biodiversity and livelihoods, so their protection affects water security for ordinary Indians.",
+      "key_fact": "India has 103 Ramsar sites, the most in Asia",
+      "source_url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2328133",
+      "date": "2026-10-26",
+      "quiz": {
+        "q": "What is India's rank in Asia by number of Ramsar sites?",
+        "options": [
+          "Second",
+          "Third",
+          "First",
+          "Fifth"
+        ],
+        "answer": 2,
+        "explain": "The article states India's network ranks first in Asia and third in the world."
+      },
+      "tags": [
+        "environment",
+        "Ramsar",
+        "wetlands",
+        "conservation"
+      ]
+    },
+    {
+      "id": "news-2026-10-26-11",
+      "type": "news",
+      "category": "economy",
+      "headline": "Vaishnaw sets October 2028 target for an Indian-branded smartphone",
+      "body": "IT Minister Ashwini Vaishnaw said at the NDTV World Summit in Delhi that by 23 October 2028 India will have Indian-designed, Indian-manufactured and Indian-branded mobile phones. He said government challenges led two firms to develop a mobile PCB, and one design was picked by a major US telecom operator for a 5G-plus phone. No brand name, price or launch date was disclosed.",
+      "why_it_matters": "India assembles many smartphones but does not own most of the design, intellectual property or brands, so a homegrown handset would mark a shift up the electronics value chain.",
+      "key_fact": "Target: Indian-designed, manufactured and branded phones by 23 October 2028",
+      "source_url": "https://www.livemint.com/news/india/ashwini-vaishnaw-sets-october-2028-deadline-for-smartphones-designed-manufactured-branded-in-india-what-he-said-11792945874549.html",
+      "date": "2026-10-26",
+      "quiz": {
+        "q": "By when did IT Minister Ashwini Vaishnaw say India would have an Indian-designed, manufactured and branded smartphone?",
+        "options": [
+          "October 2028",
+          "October 2026",
+          "December 2030",
+          "August 2027"
+        ],
+        "answer": 0,
+        "explain": "Vaishnaw set 23 October 2028 as the target date."
+      },
+      "tags": [
+        "smartphones",
+        "Make in India",
+        "electronics",
+        "manufacturing"
+      ]
+    },
+    {
+      "id": "news-2026-10-26-12",
+      "type": "news",
+      "category": "international",
+      "headline": "Lula wins fourth term as Brazil president; Flavio Bolsonaro refuses to concede",
+      "body": "Brazil's leftist President Luiz Inacio Lula da Silva won the presidential runoff with 51.75% of votes against 48.25% for right-wing senator Flavio Bolsonaro, according to official results. Lula, who turns 81, secures an unprecedented fourth term. Bolsonaro, son of former president Jair Bolsonaro, refused to concede and asked for the results to be annulled after the Supreme Court extended voting by two hours.",
+      "why_it_matters": "Brazil is Latin America's largest country, and its election outcome affects the region's political direction and its ties with major partners including India.",
+      "key_fact": "Lula won Brazil's runoff with 51.75% of the vote",
+      "source_url": "https://www.thehindu.com/news/international/brazils-lula-da-silva-defies-odds-to-clinch-poll-victory-against-flavio-bolsonaro/article71625437.ece",
+      "date": "2026-10-26",
+      "quiz": {
+        "q": "What share of the vote did Lula da Silva win in Brazil's presidential runoff?",
+        "options": [
+          "51.75%",
+          "48.25%",
+          "61%",
+          "55.5%"
+        ],
+        "answer": 0,
+        "explain": "Official results gave Lula 51.75% to Flavio Bolsonaro's 48.25%."
+      },
+      "tags": [
+        "Brazil",
+        "elections",
+        "Lula",
+        "Latin America"
+      ]
+    },
+    {
+      "id": "news-2026-10-26-13",
+      "type": "news",
+      "category": "environment",
+      "headline": "UN Loss and Damage Fund approves first country payout, $21.6 million for Nepal",
+      "body": "The UN climate convention's Loss and Damage Fund approved $21.6 million (about ₹205 crore) for Nepal after August 2026 floods caused by an ice-and-rock avalanche. Nepal estimates losses of at least $2.69 billion and recovery needs of at least $4.71 billion. The Board decided this at its first extraordinary meeting on 22 October 2026, marking the Fund's first earmarking of money for a specific country.",
+      "why_it_matters": "The Loss and Damage Fund is meant to help climate-vulnerable developing countries recover from disasters, and this first payout tests whether it can deliver quickly.",
+      "key_fact": "Fund for Responding to Loss and Damage created at COP27 in 2022",
+      "source_url": "https://www.thehindu.com/sci-tech/energy-and-environment/what-is-the-importance-of-the-un-loss-and-damage-funds-payout-to-nepal-explained/article71615253.ece",
+      "date": "2026-10-26",
+      "quiz": {
+        "q": "At which COP was the Loss and Damage Fund agreed to be created?",
+        "options": [
+          "COP27 in 2022",
+          "COP28 in 2023",
+          "COP26 in 2021",
+          "COP31 in 2026"
+        ],
+        "answer": 0,
+        "explain": "Governments agreed to create the fund at COP27 in 2022, with its governing instrument adopted at COP28."
+      },
+      "tags": [
+        "climate",
+        "Loss and Damage Fund",
+        "Nepal",
+        "UNFCCC"
+      ]
+    },
+    {
+      "id": "news-2026-10-26-14",
+      "type": "news",
+      "category": "environment",
+      "headline": "Feral dogs threaten vultures at Bikaner carcass dumpsite, study finds",
+      "body": "A study in the journal Biological Conservation has found that free-ranging dogs pose a serious threat to vultures at a livestock carcass dumpsite in Bikaner's Jorbeer Conservation Reserve, Rajasthan. Vultures spent about half as long on carcasses where dogs were present and fed mostly in the afternoon. Dogs also eat large amounts of meat and chase birds away. India's vulture numbers fell over 90% in the 1990s, largely due to the veterinary drug diclofenac.",
+      "why_it_matters": "Vultures are nature's cleanup crew for dead livestock, and India's vulture recovery could be slowed by competition from a growing feral dog population.",
+      "key_fact": "Vulture populations in India fell over 90% in the 1990s",
+      "source_url": "https://www.thehindu.com/sci-tech/energy-and-environment/feral-dogs-a-major-threat-to-vultures-in-thar-desert-study-finds/article71617248.ece",
+      "date": "2026-10-26",
+      "quiz": {
+        "q": "By how much did India's vulture populations decline in the 1990s, according to the article?",
+        "options": [
+          "Over 90%",
+          "About 50%",
+          "About 25%",
+          "Over 99%"
+        ],
+        "answer": 0,
+        "explain": "The article states the raptor numbers plummeted by over 90% in the 1990s, largely due to veterinary use of diclofenac in livestock."
+      },
+      "tags": [
+        "vultures",
+        "wildlife",
+        "Rajasthan",
+        "conservation"
+      ]
+    },
+    {
+      "id": "news-2026-10-26-15",
+      "type": "news",
+      "category": "science",
+      "headline": "France reports first known human infection with Shamonda virus",
+      "body": "France reported the first known human infection with Shamonda virus on October 22, 2026. The patient, severely immunocompromised and treated at Hospices Civils de Lyon, died in early October; investigations continue into whether the virus caused the death. Authorities suspect a Culicoides midge bite in eastern France. The virus, first isolated from cattle in Nigeria in the mid-1960s, is a vector-borne Orthobunyavirus previously considered an animal pathogen only.",
+      "why_it_matters": "It shows how animal viruses can occasionally cross into humans, though the WHO says wider spread is unlikely based on current information.",
+      "key_fact": "Shamonda virus is an Orthobunyavirus first isolated in Nigeria",
+      "source_url": "https://www.thehindu.com/sci-tech/health/shamonda-virus-the-livestock-pathogen-detected-in-human-for-the-first-time-explained/article71615063.ece",
+      "date": "2026-10-26",
+      "quiz": {
+        "q": "Where was the Shamonda virus first isolated in the mid-1960s?",
+        "options": [
+          "Nigeria",
+          "France",
+          "Japan",
+          "Austria"
+        ],
+        "answer": 0,
+        "explain": "The article says the virus was first isolated from cattle in Nigeria in the mid-1960s."
+      },
+      "tags": [
+        "Shamonda virus",
+        "health",
+        "France",
+        "zoonotic"
+      ]
+    },
+    {
+      "id": "news-2026-10-26-16",
+      "type": "news",
+      "category": "science",
+      "headline": "Scientists create diamondiyne, a new three-dimensional form of carbon",
+      "body": "Researchers from the University of Gothenburg, Stock University and Chalmers University of Technology in Sweden have synthesised diamondiyne, a new carbon allotrope proposed over three decades ago. It resembles diamond but with a more open, cage-like structure. They made thin films at a water-chloroform boundary over about a week, with crystals present at only 1% of the reaction yield. The work was reported in Angewandte Chemie.",
+      "why_it_matters": "New carbon allotropes help scientists understand how atomic arrangement controls a material's properties, which can lead to future materials.",
+      "key_fact": "Diamondiyne is a new carbon allotrope proposed over 30 years ago",
+      "source_url": "https://www.thehindu.com/sci-tech/science/science-for-all-newsletter-new-form-of-carbon-found-diamondiyne/article71607112.ece",
+      "date": "2026-10-26",
+      "quiz": {
+        "q": "What kind of material is diamondiyne?",
+        "options": [
+          "A carbon allotrope",
+          "A metal alloy",
+          "A ceramic compound",
+          "A polymer plastic"
+        ],
+        "answer": 0,
+        "explain": "The article describes diamondiyne as a new three-dimensional network of carbon atoms, making it a carbon allotrope."
+      },
+      "tags": [
+        "carbon",
+        "science",
+        "materials",
+        "research"
+      ]
+    },
+    {
+      "id": "news-2026-10-26-17",
+      "type": "news",
+      "category": "polity",
+      "headline": "CCPA fines Hogar Technologies Rs 1 lakh over misleading walkie-talkie ads",
+      "body": "The Central Consumer Protection Authority fined Hogar Technologies and Innovation LLP Rs 1 lakh under the Consumer Protection Act, 2019. Its website listed and advertised walkie-talkies without clearly stating the operating frequency, licence requirements and regulatory approvals, which could mislead consumers. Under the 2018 rules, short-range personal mobile radios in the 446.0–446.2 MHz band are exempt from licensing, subject to conditions; other frequencies are regulated.",
+      "why_it_matters": "It shows that online product listings must disclose regulatory requirements, protecting consumers from buying devices they may not legally use.",
+      "key_fact": "Exempt unlicensed walkie-talkie band is 446.0–446.2 MHz",
+      "source_url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2328235",
+      "date": "2026-10-26",
+      "quiz": {
+        "q": "Which frequency band is exempt from licensing for short-range personal mobile radios under the 2018 rules?",
+        "options": [
+          "446.0–446.2 MHz",
+          "300–302 MHz",
+          "900–902 MHz",
+          "118–120 MHz"
+        ],
+        "answer": 0,
+        "explain": "The article states that devices operating in the 446.0–446.2 MHz range are exempted from licence requirements, subject to conditions."
+      },
+      "tags": [
+        "CCPA",
+        "consumer protection",
+        "walkie-talkie",
+        "regulation"
+      ]
+    },
+    {
+      "id": "news-2026-10-26-18",
+      "type": "news",
+      "category": "polity",
+      "headline": "National Urban Conference 2026 concludes in Bhubaneswar with urban governance ideas",
+      "body": "The National Urban Conference 2026 concluded in Bhubaneswar with practical suggestions on strengthening urban governance, planning and service delivery towards Viksit Bharat 2047. Union Housing and Urban Affairs Minister Manohar Lal spoke of progress through missions such as AMRUT, Swachh Bharat Mission-Urban and PM SVANidhi. Urban Development Secretary Satendra Singh said success should be judged by service quality, not just project completion. Over half of old legacy waste has been cleared.",
+      "why_it_matters": "Urban governance and service delivery directly affect the daily lives of India's growing city populations.",
+      "key_fact": "National Urban Conference 2026 was held in Bhubaneswar",
+      "source_url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2328260",
+      "date": "2026-10-26",
+      "quiz": {
+        "q": "Where was the National Urban Conference 2026 held?",
+        "options": [
+          "Bhubaneswar",
+          "New Delhi",
+          "Bikaner",
+          "Ahmedabad"
+        ],
+        "answer": 0,
+        "explain": "The article states the National Urban Conference 2026 concluded in Bhubaneswar."
+      },
+      "tags": [
+        "urban development",
+        "housing",
+        "Bhubaneswar",
+        "Viksit Bharat"
+      ]
+    }
+  ]
+}
