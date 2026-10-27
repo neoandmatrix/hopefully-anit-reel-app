@@ -1,0 +1,555 @@
+{
+  "date": "2026-10-27",
+  "cards": [
+    {
+      "id": "news-2026-10-27-01",
+      "type": "news",
+      "category": "environment",
+      "headline": "Cyclone Arnab to hit Andhra coast on October 28, IMD says",
+      "body": "Cyclone Arnab has intensified into a very severe cyclonic storm over the west-central Bay of Bengal, the India Meteorological Department said. It is expected to make landfall on the forenoon of October 28 between Bapatla and Visakhapatnam, crossing the Andhra Pradesh and Yanam coasts with winds of 115-125 kmph gusting up to 140 kmph. Red alerts were issued for Andhra Pradesh and Odisha.",
+      "why_it_matters": "Cyclones on India's east coast can cause heavy damage to life, crops and infrastructure, so timely IMD warnings help people and authorities prepare.",
+      "key_fact": "Landfall expected October 28, winds up to 140 kmph",
+      "source_url": "https://www.livemint.com/news/india/cyclone-arnab-tracker-red-alerts-in-andhra-odisha-as-very-severe-storm-nears-coast-landfall-likely-on-oct-28-11793062888123.html",
+      "date": "2026-10-27",
+      "quiz": {
+        "q": "According to the IMD, where is Cyclone Arnab expected to make landfall?",
+        "options": [
+          "Between Bapatla and Visakhapatnam",
+          "Between Mumbai and Ratnagiri",
+          "Between Kochi and Kollam",
+          "Between Paradip and Digha"
+        ],
+        "answer": 0,
+        "explain": "The IMD said the storm would cross the Andhra Pradesh and Yanam coasts between Bapatla and Visakhapatnam."
+      },
+      "tags": [
+        "cyclone",
+        "IMD",
+        "Andhra Pradesh"
+      ]
+    },
+    {
+      "id": "news-2026-10-27-02",
+      "type": "news",
+      "category": "polity",
+      "headline": "SC Collegium names four judges for High Court Chief Justiceships",
+      "body": "The Supreme Court Collegium has recommended four judges to be Chief Justices of the Gujarat, Delhi, Telangana and Uttarakhand High Courts. Justice Manash Ranjan Pathak is proposed for Gujarat, Justice P. Sam Koshy for Delhi, Justice Tapabrata Chakraborty for Telangana and Justice Sudhir Singh for Uttarakhand. The Collegium also approved two appointments as judges of the Bombay High Court.",
+      "why_it_matters": "The Collegium's recommendations shape the leadership of High Courts, which decide most cases that reach India's judicial system.",
+      "key_fact": "Supreme Court Collegium recommends High Court Chief Justices",
+      "source_url": "https://www.thehindu.com/news/national/supreme-court-collegium-proposes-four-judges-for-hc-chief-justiceships/article71629756.ece",
+      "date": "2026-10-27",
+      "quiz": {
+        "q": "Which body recommended four judges for appointment as High Court Chief Justices?",
+        "options": [
+          "The Supreme Court Collegium",
+          "The Union Cabinet",
+          "The Law Commission",
+          "The President's Secretariat"
+        ],
+        "answer": 0,
+        "explain": "The Collegium resolutions recommended the four judges for Chief Justiceships of Gujarat, Delhi, Telangana and Uttarakhand High Courts."
+      },
+      "tags": [
+        "judiciary",
+        "Supreme Court",
+        "High Courts"
+      ]
+    },
+    {
+      "id": "news-2026-10-27-03",
+      "type": "news",
+      "category": "polity",
+      "headline": "CEC can only be removed like a Supreme Court judge, ECI tells court",
+      "body": "The Election Commission of India filed a joint affidavit in the Supreme Court saying the Chief Election Commissioner cannot be removed except in the manner and on grounds identical to removing a Supreme Court judge. It said a media report on alleged internal friction was not evidence. The Commission said decisions follow majority rule under Section 18 of the 2023 CEC and Other ECs Act.",
+      "why_it_matters": "The CEC's security of tenure underpins the independence of the body that conducts India's elections.",
+      "key_fact": "CEC removal follows the same process as a Supreme Court judge",
+      "source_url": "https://www.thehindu.com/news/national/cec-can-be-removed-only-like-a-supreme-court-judge-eci-tells-top-court/article71628290.ece",
+      "date": "2026-10-27",
+      "quiz": {
+        "q": "According to the ECI affidavit, a CEC can be removed only in the manner used for which official?",
+        "options": [
+          "A Supreme Court judge",
+          "A Union Cabinet minister",
+          "A state Governor",
+          "The Comptroller and Auditor General"
+        ],
+        "answer": 0,
+        "explain": "The ECI said a CEC cannot be removed except in the manner and on grounds identical to ousting a Supreme Court judge."
+      },
+      "tags": [
+        "Election Commission",
+        "CEC",
+        "Supreme Court"
+      ]
+    },
+    {
+      "id": "news-2026-10-27-04",
+      "type": "news",
+      "category": "environment",
+      "headline": "SC warns Rajasthan of CBI probe over Jojari river pollution",
+      "body": "The Supreme Court pulled up the Rajasthan government over the Jojari-Luni-Bandi river system, noting mining leases were regularised even after violations were detected. Justices Vikram Nath and Sandeep Mehta warned of a CBI investigation if remedial steps were not taken. The case began as suo motu proceedings after a report flagged pollution in the Jojari river, which serves nearly two million people.",
+      "why_it_matters": "The Jojari is a lifeline for about two million people, so how the state handles pollution and illegal mining affects their water supply and health.",
+      "key_fact": "Jojari river serves nearly two million people in Rajasthan",
+      "source_url": "https://www.thehindu.com/news/national/supreme-court-pulls-up-rajasthan-over-jojari-river-pollution-warns-of-cbi-probe/article71627878.ece",
+      "date": "2026-10-27",
+      "quiz": {
+        "q": "Which river, at the centre of the Supreme Court case, serves nearly two million people in Rajasthan?",
+        "options": [
+          "Jojari",
+          "Chambal",
+          "Banas",
+          "Luni only"
+        ],
+        "answer": 0,
+        "explain": "The court case concerns the Jojari river, described as a lifeline for nearly two million people."
+      },
+      "tags": [
+        "Supreme Court",
+        "pollution",
+        "Rajasthan"
+      ]
+    },
+    {
+      "id": "news-2026-10-27-05",
+      "type": "news",
+      "category": "polity",
+      "headline": "Defence Acquisition Council clears ₹2.12 lakh crore procurements",
+      "body": "The Defence Acquisition Council, chaired by Defence Minister Rajnath Singh, gave Acceptance of Necessity to capital acquisitions worth about ₹2.12 lakh crore. These include light multi-role helicopters, long-range Kamikaze drones, VSHORADS, counter-drone systems and radars for the Army, Navy and Air Force. About 82 per cent of the procurements will be sourced from Indian industry.",
+      "why_it_matters": "Large defence orders boost the armed forces' capabilities and, with most sourcing from Indian industry, support domestic manufacturing and jobs.",
+      "key_fact": "₹2.12 lakh crore cleared; 82% from Indian industry",
+      "source_url": "https://www.livemint.com/news/world/govt-clears-rs-2-12-lakh-crore-defence-procurements-including-kamikaze-drones-and-helicopters-11793025542358.html",
+      "date": "2026-10-27",
+      "quiz": {
+        "q": "What share of the approved ₹2.12 lakh crore defence procurements will come from Indian industry?",
+        "options": [
+          "About 82 per cent",
+          "About 50 per cent",
+          "About 25 per cent",
+          "About 100 per cent"
+        ],
+        "answer": 0,
+        "explain": "The defence ministry said roughly 82 per cent of the procurements would be made from Indian industry."
+      },
+      "tags": [
+        "defence",
+        "DAC",
+        "procurement"
+      ]
+    },
+    {
+      "id": "news-2026-10-27-06",
+      "type": "news",
+      "category": "international",
+      "headline": "India, US fine-tuning trade deal after most talks concluded: Goyal",
+      "body": "Commerce and industry minister Piyush Goyal said India and the US have concluded most discussions on a proposed trade agreement and are now fine-tuning it, speaking at the India-Netherlands Business Forum in The Hague. US Secretary of State Marco Rubio earlier said the two sides were very close to a deal with a small number of items remaining. A deal could give Indian exporters more predictable pricing for US-bound shipments.",
+      "why_it_matters": "A trade agreement with the US, India's largest export market, would give exporters stability in an uncertain global tariff environment.",
+      "key_fact": "Bilateral India-US trade was $140.76 billion in FY26",
+      "source_url": "https://www.livemint.com/news/india/india-us-fine-tuning-trade-deal-after-concluding-most-discussions-says-minister-piyush-goyal-11793025706251.html",
+      "date": "2026-10-27",
+      "quiz": {
+        "q": "What was the value of bilateral trade between India and the US in fiscal year 2026?",
+        "options": [
+          "$132.2 billion",
+          "$140.76 billion",
+          "$85 trillion",
+          "$115 trillion"
+        ],
+        "answer": 1,
+        "explain": "Goyal said bilateral trade rose 6.53% to $140.76 billion in FY26 from $132.2 billion the previous year."
+      },
+      "tags": [
+        "India-US trade",
+        "Piyush Goyal",
+        "exports",
+        "FTA"
+      ]
+    },
+    {
+      "id": "news-2026-10-27-07",
+      "type": "news",
+      "category": "economy",
+      "headline": "Centre aims to cap national debt at 50% of GDP by 2030: Sitharaman",
+      "body": "Finance Minister Nirmala Sitharaman said the Centre remains committed to reducing the fiscal deficit and aims to limit the national debt to 50% of GDP by 2030, as outlined in successive Union budgets. Speaking in Tiruchirappalli, she said international organisations have acknowledged India's disciplined debt management. She also cited a group of ministers working on price stability through supply-chain management and measures such as restrictions on rice exports to protect consumers while ensuring MSP for farmers.",
+      "why_it_matters": "Lower government borrowing keeps interest rates and inflation in check, affecting loans, savings and prices for ordinary Indians.",
+      "key_fact": "Target: national debt capped at 50% of GDP by 2030",
+      "source_url": "https://www.livemint.com/economy/centre-committed-to-reducing-fiscal-deficit-national-debt-to-be-capped-at-50-of-gdp-by-2030-fm-sitharaman-11793017196193.html",
+      "date": "2026-10-27",
+      "quiz": {
+        "q": "By which year does the Centre aim to limit the national debt to 50% of GDP?",
+        "options": [
+          "2028",
+          "2029",
+          "2030",
+          "2032"
+        ],
+        "answer": 2,
+        "explain": "Sitharaman said the government aims to bring the national debt down to 50% of GDP by 2030."
+      },
+      "tags": [
+        "fiscal deficit",
+        "national debt",
+        "Sitharaman",
+        "economy"
+      ]
+    },
+    {
+      "id": "news-2026-10-27-08",
+      "type": "news",
+      "category": "economy",
+      "headline": "UPI is world's largest real-time payment system: FM Sitharaman",
+      "body": "Finance Minister Nirmala Sitharaman said UPI has become the world's largest real-time payment system, processing over 2,400 crore transactions a month. Speaking in Bhubaneswar after Prime Minister Modi inaugurated the RBI's data centre and Cybersecurity Training Institution, she said the campus will house RTGS and NEFT systems. She also cited over 59 crore Jan Dhan accounts, over Rs 43 lakh crore sanctioned under PM Mudra Yojana, and nearly 1.2 crore loans to street vendors under SVANidhi.",
+      "why_it_matters": "UPI's scale shows how digital payments have become part of daily life in India, backed by RBI infrastructure that must stay secure.",
+      "key_fact": "UPI processes over 2,400 crore transactions a month",
+      "source_url": "https://www.livemint.com/economy/worlds-largest-real-time-payment-system-2-400-crore-monthly-transactions-fm-sitharaman-on-indias-upi-revolution-11793016031941.html",
+      "date": "2026-10-27",
+      "quiz": {
+        "q": "How many transactions does UPI process every month, according to Sitharaman?",
+        "options": [
+          "More than 24 crore",
+          "More than 240 crore",
+          "More than 2,400 crore",
+          "More than 24,000 crore"
+        ],
+        "answer": 2,
+        "explain": "Sitharaman described UPI as the world's largest real-time payment system, processing over 2,400 crore transactions a month."
+      },
+      "tags": [
+        "UPI",
+        "digital payments",
+        "RBI",
+        "financial inclusion"
+      ]
+    },
+    {
+      "id": "news-2026-10-27-09",
+      "type": "news",
+      "category": "international",
+      "headline": "Lula wins record fourth term as Brazil's president",
+      "body": "Luiz Inacio Lula da Silva secured a historic fourth presidential term, defeating Flavio Bolsonaro of the Liberal Party in Brazil's runoff on October 26, 2026. Lula won 64 million votes, the highest ever in a Brazilian presidential election, defeating Bolsonaro by over four million votes. He trailed in the first round with 45.16% to Bolsonaro's 47.03%. Declaring it a defeat for lies and denialism, Lula pledged to protect Brazil's sovereignty, saying 'Brazil is nobody's backyard.'",
+      "why_it_matters": "Brazil is a major BRICS partner and emerging economy, so its political direction affects global trade and South-South cooperation.",
+      "key_fact": "Lula won a fourth term with 64 million votes",
+      "source_url": "https://www.thehindu.com/news/international/brazils-lula-da-silva-defies-odds-to-clinch-poll-victory-against-flavio-bolsonaro/article71625437.ece",
+      "date": "2026-10-27",
+      "quiz": {
+        "q": "How many votes did Lula secure in Brazil's 2026 presidential runoff?",
+        "options": [
+          "45.16 million",
+          "47.03 million",
+          "60 million",
+          "64 million"
+        ],
+        "answer": 3,
+        "explain": "Lula secured 64 million votes, the highest total ever recorded in a Brazilian presidential election."
+      },
+      "tags": [
+        "Brazil",
+        "Lula",
+        "elections",
+        "Latin America"
+      ]
+    },
+    {
+      "id": "news-2026-10-27-10",
+      "type": "news",
+      "category": "polity",
+      "headline": "PM Modi interacts with BRICS MPs at 12th Parliamentary Forum",
+      "body": "Prime Minister Narendra Modi held an interaction with parliamentarians from BRICS nations during the 12th BRICS Parliamentary Forum 2026 being held in New Delhi. Modi said the discussions involved an exchange of perspectives on a wide range of issues. The Prime Minister shared the interaction on social media, describing it as a wonderful exchange with MPs from the BRICS countries attending the forum in the capital.",
+      "why_it_matters": "The BRICS Parliamentary Forum brings lawmakers of member countries together, supporting parliamentary dialogue within the bloc that includes India, Brazil, Russia, China and South Africa.",
+      "key_fact": "12th BRICS Parliamentary Forum 2026 held in New Delhi",
+      "source_url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2328750",
+      "date": "2026-10-27",
+      "quiz": {
+        "q": "Which edition of the BRICS Parliamentary Forum was held in New Delhi in 2026?",
+        "options": [
+          "10th",
+          "11th",
+          "12th",
+          "13th"
+        ],
+        "answer": 2,
+        "explain": "The article refers to the 12th BRICS Parliamentary Forum 2026 being held in Delhi."
+      },
+      "tags": [
+        "BRICS",
+        "Parliamentary Forum",
+        "Modi",
+        "diplomacy"
+      ]
+    },
+    {
+      "id": "news-2026-10-27-11",
+      "type": "news",
+      "category": "polity",
+      "headline": "Harivansh welcomes delegates at 12th BRICS Parliamentary Forum",
+      "body": "Rajya Sabha Deputy Chairman Harivansh delivered the welcome address at the opening session of the 12th BRICS Parliamentary Forum, held in the Central Hall of the Indian Parliament in New Delhi. Lok Sabha Speaker Om Birla chairs the forum. Harivansh said BRICS, representing about 49.5% of the world's population, has become an effective multilateral platform for consultation and cooperation on global issues.",
+      "why_it_matters": "BRICS is a major bloc of emerging economies, and parliamentary forums like this shape how member countries coordinate on global governance reform.",
+      "key_fact": "BRICS represents about 49.5% of the world's population",
+      "source_url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2328669",
+      "date": "2026-10-27",
+      "quiz": {
+        "q": "According to Harivansh, what share of the world's population does BRICS represent?",
+        "options": [
+          "About 49.5%",
+          "About 25%",
+          "About 60%",
+          "About 35%"
+        ],
+        "answer": 0,
+        "explain": "Harivansh stated that BRICS represents nearly 49.5% of the global population."
+      },
+      "tags": [
+        "BRICS",
+        "Parliament",
+        "Diplomacy"
+      ]
+    },
+    {
+      "id": "news-2026-10-27-12",
+      "type": "news",
+      "category": "polity",
+      "headline": "Rajnath Singh calls for 'Atmanirbharta 2.0' in defence",
+      "body": "Defence Minister Rajnath Singh called for 'Atmanirbharta 2.0', the next phase of self-reliance in defence, at the fifth edition of 'Swavalamban', the Indian Navy's indigenisation seminar, in New Delhi. He stressed developing advanced technologies, strengthening R&D and building robust supply chains to cut import dependence. He identified limited domestic availability of rare earth elements and gaps in specific technologies as key sources of supply-chain dependence.",
+      "why_it_matters": "Reducing defence imports strengthens national security and supports India's goal of Viksit Bharat @ 2047.",
+      "key_fact": "Atmanirbharta 2.0 is the next phase of defence self-reliance",
+      "source_url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2328727",
+      "date": "2026-10-27",
+      "quiz": {
+        "q": "What did the Defence Minister call the next phase of defence self-reliance?",
+        "options": [
+          "Atmanirbharta 2.0",
+          "Swavalamban 2.0",
+          "Make in India 2.0",
+          "Viksit Bharat 2.0"
+        ],
+        "answer": 0,
+        "explain": "Rajnath Singh termed the next phase of defence self-reliance 'Atmanirbharta 2.0'."
+      },
+      "tags": [
+        "Defence",
+        "Atmanirbharta",
+        "Indian Navy"
+      ]
+    },
+    {
+      "id": "news-2026-10-27-13",
+      "type": "news",
+      "category": "science",
+      "headline": "PM Modi to open Science, Technology and Innovation Conclave 2026",
+      "body": "Prime Minister Narendra Modi will inaugurate the Emerging Science, Technology and Innovation Conclave 2026 on 27 October at Bharat Mandapam, New Delhi. The three-day event, running 27-29 October, will bring together scientists, researchers, industry leaders, startups and international experts across 12 themes including AI, biotechnology and energy. An exhibition will feature stalls of around 150 deep-tech startups, along with AR and VR experiences.",
+      "why_it_matters": "Such conclaves signal national research priorities and connect laboratory innovations to market and industry use.",
+      "key_fact": "Conclave runs 27-29 October 2026 at Bharat Mandapam",
+      "source_url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2328693",
+      "date": "2026-10-27",
+      "quiz": {
+        "q": "How many deep-tech startup stalls will feature at the conclave exhibition?",
+        "options": [
+          "Around 150",
+          "Around 50",
+          "Around 300",
+          "Around 500"
+        ],
+        "answer": 0,
+        "explain": "The article states there will be about 150 deep-tech startup stalls."
+      },
+      "tags": [
+        "Science",
+        "Innovation",
+        "Startups"
+      ]
+    },
+    {
+      "id": "news-2026-10-27-14",
+      "type": "news",
+      "category": "economy",
+      "headline": "Road Ministry amends rules to promote E85/E100 flex-fuel vehicles",
+      "body": "The Ministry of Road Transport and Highways has notified amendments to the Central Motor Vehicle Rules, 1989, to promote flex-fuel vehicles that can run on E85 and higher ethanol blends. Emission certification rules now explicitly cover E85 and E100. E85 is a blend of petrol and up to 85% ethanol by volume. Only vehicles specifically designed and certified for these fuels can use them; existing vehicle owners need not switch.",
+      "why_it_matters": "Higher ethanol use can cut India's dependence on imported crude oil and reduce harmful emissions.",
+      "key_fact": "E85 contains up to 85% ethanol by volume",
+      "source_url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2328676",
+      "date": "2026-10-27",
+      "quiz": {
+        "q": "What does E85 fuel contain?",
+        "options": [
+          "Up to 85% ethanol mixed with petrol",
+          "85% petrol and 15% diesel",
+          "85% diesel and 15% ethanol",
+          "85% ethanol and 15% water"
+        ],
+        "answer": 0,
+        "explain": "E85 is a blend of petrol and up to 85% ethanol by volume."
+      },
+      "tags": [
+        "Ethanol",
+        "Flex-fuel",
+        "Transport"
+      ]
+    },
+    {
+      "id": "news-2026-10-27-15",
+      "type": "news",
+      "category": "economy",
+      "headline": "Report: Budget 2027-28 may cut 12.5% long-term capital gains tax",
+      "body": "The government is reportedly considering lowering the long-term capital gains tax from the current 12.5% and allowing foreign investors to compute capital gains in dollars instead of rupees, ahead of the Union Budget 2027-28. The reported discussions follow two years of subdued stock market returns and sluggish wage growth. Finance Minister Nirmala Sitharaman earlier called the LTCG debate 'healthy' and said she was keen to hear different views.",
+      "why_it_matters": "LTCG tax affects returns on mutual funds and shares, so any change directly impacts ordinary retail investors' savings.",
+      "key_fact": "Current long-term capital gains tax rate is 12.5%",
+      "source_url": "https://www.livemint.com/news/india/budget-2027-28-may-consider-cutting-ltcg-to-boost-stock-market-sentiment-11793032875571.html",
+      "date": "2026-10-27",
+      "quiz": {
+        "q": "What is India's current long-term capital gains tax rate, as cited in the report?",
+        "options": [
+          "12.5%",
+          "10%",
+          "15%",
+          "20%"
+        ],
+        "answer": 0,
+        "explain": "The report says the government is considering lowering LTCG tax from the current 12.5%."
+      },
+      "tags": [
+        "LTCG",
+        "Budget",
+        "Stock market"
+      ]
+    },
+    {
+      "id": "news-2026-10-27-16",
+      "type": "news",
+      "category": "international",
+      "headline": "India's Siang project: strategic dam, local protests in Arunachal",
+      "body": "India proposes an 11,200-MW Siang Upper Multipurpose Project in Arunachal Pradesh, partly as a strategic safeguard against China's hydropower development upstream on the Yarlung Tsangpo in Tibet. China is reportedly building a 60,000-MW project at Medog. The proposal has triggered strong local opposition, escalating into violence in October, over fears of displacement and environmental damage.",
+      "why_it_matters": "Large dams on the Brahmaputra system affect flood risk and water flows for millions downstream in Assam and Bangladesh, while also reshaping India-China strategic rivalry.",
+      "key_fact": "Siang Upper Multipurpose Project: 11,200 MW in Arunachal Pradesh",
+      "source_url": "https://www.livemint.com/news/world/why-siang-project-matters-for-india-as-china-builds-mega-brahmaputra-dam-and-why-arunachal-locals-are-up-in-arms-11793024704737.html",
+      "date": "2026-10-27",
+      "quiz": {
+        "q": "What is the proposed power capacity of the Siang Upper Multipurpose Project?",
+        "options": [
+          "11,200 MW",
+          "60,000 MW",
+          "5,500 MW",
+          "22,500 MW"
+        ],
+        "answer": 0,
+        "explain": "The article states the Siang project is proposed at 11,200 megawatts."
+      },
+      "tags": [
+        "hydropower",
+        "Arunachal Pradesh",
+        "China",
+        "Brahmaputra"
+      ]
+    },
+    {
+      "id": "news-2026-10-27-17",
+      "type": "news",
+      "category": "environment",
+      "headline": "Chinese researchers warn of rising Brahmaputra runoff and flood risk",
+      "body": "Researchers from the Chinese Academy of Sciences and Yunnan University reconstructed the Yarlung Tsangpo's runoff history from 1325 to 2020 using tree-ring data, warning that runoff and high-flow events may increase this century. The findings come as China builds a $168-billion hydropower project at Medog with over 60,000 MW planned capacity, nearly three times the Three Gorges Dam.",
+      "why_it_matters": "Changes to the Brahmaputra's flows affect flood and drought conditions across India and Bangladesh, making upstream dam planning a shared water-security concern.",
+      "key_fact": "Medog project: over 60,000 MW, costing $168 billion",
+      "source_url": "https://www.livemint.com/news/world/chinas-168-billion-brahmaputra-dam-faces-fresh-concerns-as-researchers-warn-of-rising-flood-risks-11793014411104.html",
+      "date": "2026-10-27",
+      "quiz": {
+        "q": "How does the planned Medog dam's capacity compare with the Three Gorges Dam?",
+        "options": [
+          "Nearly three times its capacity",
+          "About half its capacity",
+          "Roughly equal capacity",
+          "One-tenth of its capacity"
+        ],
+        "answer": 0,
+        "explain": "The article says the Medog project would exceed 60,000 MW, nearly three times the Three Gorges Dam's installed capacity."
+      },
+      "tags": [
+        "Brahmaputra",
+        "China",
+        "floods",
+        "hydropower"
+      ]
+    },
+    {
+      "id": "news-2026-10-27-18",
+      "type": "news",
+      "category": "environment",
+      "headline": "Maharashtra to add two wildlife sanctuaries, 14 conservation reserves",
+      "body": "Maharashtra Chief Minister Devendra Fadnavis said two reserved forest areas will be declared wildlife sanctuaries after the 26th State Board for Wildlife meeting. The board approved Kolamarka Conservation Reserve in Gadchiroli, known for wild buffaloes, and the expanded Tansa Wildlife Sanctuary as sanctuaries, plus 14 conservation reserves across Pune, Raigad, Nashik, Nandurbar, Thane, Palghar and Chandrapur districts.",
+      "why_it_matters": "More protected areas strengthen habitat and wildlife conservation, but can also raise questions about forest rights and displacement of local communities.",
+      "key_fact": "Kolamarka Conservation Reserve in Gadchiroli is known for wild buffaloes",
+      "source_url": "https://www.thehindu.com/news/national/maharashtra/maharashtra-wildlife-board-approves-sanctuary-status-for-two-forest-areas-14-conservation-reserves/article71627043.ece",
+      "date": "2026-10-27",
+      "quiz": {
+        "q": "Which reserve is being upgraded to a wildlife sanctuary for its wild buffalo population?",
+        "options": [
+          "Kolamarka Conservation Reserve",
+          "Tansa Wildlife Sanctuary",
+          "Koka Wildlife Sanctuary",
+          "Jayakwadi Bird Wildlife Sanctuary"
+        ],
+        "answer": 0,
+        "explain": "The board approved declaring Kolamarka Conservation Reserve in Gadchiroli, known for wild buffaloes, as a wildlife sanctuary."
+      },
+      "tags": [
+        "Maharashtra",
+        "wildlife",
+        "conservation",
+        "forests"
+      ]
+    },
+    {
+      "id": "news-2026-10-27-19",
+      "type": "news",
+      "category": "environment",
+      "headline": "Gujarat declares four districts drought-affected after weak monsoon",
+      "body": "The Gujarat government declared Devbhoomi Dwarka, Kutch, Jamnagar and Porbandar districts drought-affected after the monsoon ended. Chief Minister Bhupendra Patel said the state received 89% rain this monsoon but these four districts got very little. Under central 2016 guidelines the declaration lasts six months. Farmers with crop failure get SDRF assistance of Rs 8,500 per hectare for two hectares.",
+      "why_it_matters": "Drought declarations unlock relief such as compensation, subsidised fodder and employment for affected farmers and cattle-rearers.",
+      "key_fact": "SDRF relief: Rs 8,500 per hectare for up to two hectares",
+      "source_url": "https://www.thehindu.com/news/national/gujarat/gujarat-govt-declares-devbhoomi-dwarka-kutch-jamnagar-and-porbandar-as-drought-affected/article71626790.ece",
+      "date": "2026-10-27",
+      "quiz": {
+        "q": "How much SDRF assistance per hectare will farmers with crop failure receive?",
+        "options": [
+          "Rs 8,500 per hectare for two hectares",
+          "Rs 2,500 per hectare for two hectares",
+          "Rs 8,500 per hectare for five hectares",
+          "Rs 80 per hectare for two hectares"
+        ],
+        "answer": 0,
+        "explain": "Chief Minister Bhupendra Patel said the state will give Rs 8,500 per hectare for two hectares under SDRF."
+      },
+      "tags": [
+        "Gujarat",
+        "drought",
+        "farmers",
+        "monsoon"
+      ]
+    },
+    {
+      "id": "news-2026-10-27-20",
+      "type": "news",
+      "category": "science",
+      "headline": "France reports first known human infection with Shamonda virus",
+      "body": "France reported the first known human infection with Shamonda virus on October 22, 2026. The patient, severely immunocompromised and treated at Hospices Civils de Lyon, died in early October. Authorities suspect infection via a Culicoides midge bite. The virus, first isolated from cattle in Nigeria in the mid-1960s, belongs to the Orthobunyavirus genus and was previously considered an animal pathogen.",
+      "why_it_matters": "A livestock virus appearing in humans shows how animal pathogens can cross species, though the WHO says wider spread is currently unlikely.",
+      "key_fact": "Shamonda virus first isolated from cattle in Nigeria in the mid-1960s",
+      "source_url": "https://www.thehindu.com/sci-tech/health/shamonda-virus-the-livestock-pathogen-detected-in-human-for-the-first-time-explained/article71615063.ece",
+      "date": "2026-10-27",
+      "quiz": {
+        "q": "Where was Shamonda virus first isolated?",
+        "options": [
+          "In cattle in Nigeria",
+          "In sheep in France",
+          "In horses in Japan",
+          "In alpacas in Belgium"
+        ],
+        "answer": 0,
+        "explain": "The article states the virus was first isolated from cattle in Nigeria in the mid-1960s."
+      },
+      "tags": [
+        "health",
+        "Shamonda virus",
+        "zoonosis",
+        "France"
+      ]
+    }
+  ]
+}
