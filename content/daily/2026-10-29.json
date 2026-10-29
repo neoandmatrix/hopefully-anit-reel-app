@@ -1,0 +1,560 @@
+{
+  "date": "2026-10-29",
+  "cards": [
+    {
+      "id": "news-2026-10-29-01",
+      "type": "news",
+      "category": "environment",
+      "headline": "Amit Shah assures help to states hit by Cyclone Arnab",
+      "body": "Union Home Minister Amit Shah spoke with the Chief Ministers of Andhra Pradesh, Puducherry, Odisha and Chhattisgarh about Cyclone Arnab. He promised all possible assistance to reduce people's hardship. Shah said NDRF and SDRF teams are carrying out rescue and relief operations on a war footing. Inter-Ministerial Central Teams (IMCTs) will soon be sent to assess the damage and decide further aid.",
+      "why_it_matters": "It shows how the Union government coordinates with states during a natural disaster, with central agencies like NDRF deployed for relief.",
+      "key_fact": "IMCTs are sent to assess disaster impact and further assistance.",
+      "source_url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2329882",
+      "date": "2026-10-29",
+      "quiz": {
+        "q": "What does IMCT stand for in disaster management?",
+        "options": [
+          "Inter-Ministerial Central Team",
+          "Intensive Monitoring and Coordination Team",
+          "Indian Medical Care Team",
+          "Integrated Management Committee Taskforce"
+        ],
+        "answer": 0,
+        "explain": "IMCT stands for Inter-Ministerial Central Team, sent to assess damage after a disaster and recommend further assistance."
+      },
+      "tags": [
+        "Cyclone Arnab",
+        "Amit Shah",
+        "Disaster relief",
+        "NDRF"
+      ]
+    },
+    {
+      "id": "news-2026-10-29-02",
+      "type": "news",
+      "category": "environment",
+      "headline": "Cyclone Arnab weakens, heavy rain to continue in Odisha",
+      "body": "Cyclone Arnab weakened into a deep depression and is likely to become a depression and then a low pressure area by October 29, 2026 evening, the IMD said. The storm crossed the Andhra Pradesh coast on October 28. Heavy rain affected 17 districts of southern Odisha. In Andhra Pradesh, five people died and Chief Minister N. Chandrababu Naidu announced compensation for affected families, farmers, fishermen and businesses.",
+      "why_it_matters": "Cyclone warnings and timely evacuation help protect lives and property in coastal states during the October-November storm season.",
+      "key_fact": "Cyclone Arnab crossed the Andhra Pradesh coast on October 28, 2026.",
+      "source_url": "https://www.thehindu.com/news/national/cyclone-arnab-weakens-into-depression-imd-alert-odisha-andhra-pradesh-telangana-live-updates-october-29-2026/article71638778.ece",
+      "date": "2026-10-29",
+      "quiz": {
+        "q": "Which state's coast did Cyclone Arnab cross on October 28, 2026?",
+        "options": [
+          "Odisha",
+          "Tamil Nadu",
+          "Andhra Pradesh",
+          "West Bengal"
+        ],
+        "answer": 2,
+        "explain": "The article states that Cyclone Arnab crossed the Andhra Pradesh coast early on October 28, 2026."
+      },
+      "tags": [
+        "Cyclone Arnab",
+        "IMD",
+        "Odisha",
+        "Andhra Pradesh"
+      ]
+    },
+    {
+      "id": "news-2026-10-29-03",
+      "type": "news",
+      "category": "states",
+      "headline": "Cyclone Arnab kills five in Andhra; crop damage across districts",
+      "body": "Cyclone Arnab crossed the Andhra Pradesh-Yanam coast on October 28, 2026 with winds of 125-135 kmph, the IMD said. Five people died in Andhra Pradesh, and Chief Minister N. Chandrababu Naidu briefed Union Home Minister Amit Shah on damage: over 70,000 hectares of agricultural crops and 10,500 hectares of horticulture crops were hit. In Odisha, 17 districts were affected by heavy rain, with Gajapati worst affected.",
+      "why_it_matters": "It highlights the scale of loss to farmers and infrastructure from a single cyclone, and the need for compensation and relief.",
+      "key_fact": "Over 70,000 hectares of agricultural crops were inundated in Andhra Pradesh.",
+      "source_url": "https://www.thehindu.com/news/national/cyclone-arnab-landfall-andhra-pradesh-odisha-rainfall-weather-imd-alert-live-updates-october-28-2026/article71634111.ece",
+      "date": "2026-10-29",
+      "quiz": {
+        "q": "How much agricultural crop area was inundated by Cyclone Arnab in Andhra Pradesh?",
+        "options": [
+          "10,500 hectares",
+          "70,000 hectares",
+          "1 lakh hectares",
+          "2.5 lakh hectares"
+        ],
+        "answer": 1,
+        "explain": "The article says agricultural crops covering over 70,000 hectares were inundated in Andhra Pradesh."
+      },
+      "tags": [
+        "Cyclone Arnab",
+        "Andhra Pradesh",
+        "Crop damage",
+        "Relief"
+      ]
+    },
+    {
+      "id": "news-2026-10-29-04",
+      "type": "news",
+      "category": "polity",
+      "headline": "Cabinet approves PM Viksit Gram Swaraj Yojana with ₹7,395 crore outlay",
+      "body": "The Union Cabinet approved the Pradhan Mantri Viksit Gram Swaraj Yojana (PM VGSY), a centrally sponsored scheme running from 2026-27 to 2030-31 with a total outlay of ₹7,395.55 crore. It aims to strengthen village-level governance, prepare 2.55 lakh Gram Panchayat Development Plans annually through eGramSwaraj, and support online audits via AuditOnline. It will benefit around 32 lakh elected representatives across over 2.55 lakh Panchayats.",
+      "why_it_matters": "Stronger Panchayats mean better planning and use of funds for local development, which benefits rural citizens directly.",
+      "key_fact": "PM VGSY has a total outlay of ₹7,395.55 crore for 2026-31.",
+      "source_url": "https://www.livemint.com/economy/cabinet-approves-pm-viksit-gram-swaraj-yojana-for-2026-31-with-7-395-crore-outlay-to-strengthen-panchayat-governance-11793189302320.html",
+      "date": "2026-10-29",
+      "quiz": {
+        "q": "What is the total outlay of the Pradhan Mantri Viksit Gram Swaraj Yojana?",
+        "options": [
+          "₹4,869.48 crore",
+          "₹7,395.55 crore",
+          "₹10,016 crore",
+          "₹29,267 crore"
+        ],
+        "answer": 1,
+        "explain": "The article states the total outlay is ₹7,395.55 crore, split between the Centre (₹4,869.48 crore) and states (₹2,526.07 crore)."
+      },
+      "tags": [
+        "Panchayati Raj",
+        "PM VGSY",
+        "Rural governance",
+        "Cabinet"
+      ]
+    },
+    {
+      "id": "news-2026-10-29-05",
+      "type": "news",
+      "category": "economy",
+      "headline": "Cabinet approves ₹29,267 crore for container and sports goods manufacturing",
+      "body": "The Union Cabinet approved ₹29,267 crore in schemes to expand domestic manufacturing of shipping containers and sports goods, and to strengthen rural local governments. A ₹10,000 crore container scheme offers a 3% interest subsidy and aims to give India a 15-20% share of the global container market over 13 years. The Cabinet also approved a 3% increase in DA and DR, costing ₹10,016 crore.",
+      "why_it_matters": "Boosting container manufacturing reduces India's dependence on imports, especially from China, and supports exporters and jobs.",
+      "key_fact": "India aims for a 15-20% share of global container manufacturing.",
+      "source_url": "https://www.livemint.com/news/india/union-cabinet-clears-29-267-crore-for-container-sports-goods-manufacturing-11793189508362.html",
+      "date": "2026-10-29",
+      "quiz": {
+        "q": "What global market share does the container manufacturing scheme target for India?",
+        "options": [
+          "5-10%",
+          "15-20%",
+          "25-30%",
+          "40-50%"
+        ],
+        "answer": 1,
+        "explain": "The scheme aims to give India a 15-20% share of the global container manufacturing market over the next 13 years."
+      },
+      "tags": [
+        "Manufacturing",
+        "Shipping containers",
+        "Cabinet",
+        "DA hike"
+      ]
+    },
+    {
+      "id": "news-2026-10-29-06",
+      "type": "news",
+      "category": "economy",
+      "headline": "Cabinet approves 3% hike in dearness allowance for central staff",
+      "body": "The Union Cabinet, chaired by Prime Minister Narendra Modi, approved a 3% increase in dearness allowance and dearness relief ahead of Diwali, benefiting over 1.17 crore central government employees and pensioners. Information and Broadcasting Minister Ashwini Vaishnaw announced the decision. The Cabinet also cleared the Container Manufacturing Promotion Scheme with a Rs 10,000 crore outlay up to FY40 and allocated Rs 7,395 crore to the Pradhan Mantri Viksit Gram Swaraj Yojana.",
+      "why_it_matters": "DA and DR hikes directly raise the take-home pay of central government employees and pensions of retirees, and are revised periodically to offset inflation.",
+      "key_fact": "3% DA/DR hike benefits over 1.17 crore employees and pensioners",
+      "source_url": "https://www.thehindu.com/news/national/cabinet-approves-3-hike-in-dearness-allowance-for-central-government-employees/article71635503.ece",
+      "date": "2026-10-29",
+      "quiz": {
+        "q": "By how much did the Cabinet raise dearness allowance and dearness relief?",
+        "options": [
+          "3%",
+          "5%",
+          "7%",
+          "2%"
+        ],
+        "answer": 0,
+        "explain": "The Cabinet approved a 3% hike in DA and DR, benefiting over 1.17 crore employees and pensioners."
+      },
+      "tags": [
+        "dearness allowance",
+        "central government",
+        "cabinet",
+        "pensioners"
+      ]
+    },
+    {
+      "id": "news-2026-10-29-07",
+      "type": "news",
+      "category": "economy",
+      "headline": "India's public debt ratio projected to fall to 75.1% of GDP by FY32",
+      "body": "RBI Deputy Governor Poonam Gupta said India is the only emerging market economy among nine with GDP above $1 trillion projected to reduce its public debt-to-GDP ratio between 2025 and 2031. General government debt is seen declining from 84.3% in 2025-26 to 75.1% in 2031-32, based on IMF October 2026 data. The decline reflects nominal GDP growth of about 11% outpacing an effective interest rate of around 7%.",
+      "why_it_matters": "A falling debt ratio lowers borrowing risks and gives the government more room to spend on public services and respond to economic shocks.",
+      "key_fact": "India's debt ratio projected to fall from 84.3% to 75.1% of GDP",
+      "source_url": "https://www.livemint.com/economy/indias-public-debt-ratio-to-fall-to-75-1-of-gdp-by-fy32-only-major-emerging-economy-set-for-a-decline-rbi-dg-11793206461504.html",
+      "date": "2026-10-29",
+      "quiz": {
+        "q": "By FY32, India's general government debt is projected to fall to what share of GDP?",
+        "options": [
+          "75.1%",
+          "84.3%",
+          "94%",
+          "102%"
+        ],
+        "answer": 0,
+        "explain": "Gupta projected a decline from 84.3% of GDP in 2025-26 to 75.1% in 2031-32."
+      },
+      "tags": [
+        "public debt",
+        "RBI",
+        "GDP",
+        "fiscal policy"
+      ]
+    },
+    {
+      "id": "news-2026-10-29-08",
+      "type": "news",
+      "category": "economy",
+      "headline": "India's industrial output growth slows to 6.7% in September",
+      "body": "India's industrial production grew 6.7% year-on-year in September, below the 7.3% expected by economists and the revised 7.8% in August, per MoSPI data. Manufacturing grew 7.6%, down from 8.6%, and electricity rose 11.2%. Mining contracted 6.2%, extending August's 4.6% decline. Consumer durables growth eased to 6% and capital goods to 10.4%. Industrial output still grew 6.8% in April-September, up from 4.4% a year earlier.",
+      "why_it_matters": "IIP is a key monthly gauge of factory and industrial activity, and its pace signals how strongly the economy and job-creating sectors are growing.",
+      "key_fact": "IIP growth slowed to 6.7% in September from revised 7.8% in August",
+      "source_url": "https://www.livemint.com/economy/indias-industrial-output-growth-slows-to-6-7-in-september-as-manufacturing-consumer-durables-lose-momentum-11793187860166.html",
+      "date": "2026-10-29",
+      "quiz": {
+        "q": "What was India's industrial production growth in September?",
+        "options": [
+          "6.7%",
+          "7.8%",
+          "4.4%",
+          "6.8%"
+        ],
+        "answer": 0,
+        "explain": "IIP rose 6.7% year-on-year in September, down from a revised 7.8% in August."
+      },
+      "tags": [
+        "IIP",
+        "industrial output",
+        "manufacturing",
+        "MoSPI"
+      ]
+    },
+    {
+      "id": "news-2026-10-29-09",
+      "type": "news",
+      "category": "economy",
+      "headline": "September IIP rises 6.7% on manufacturing and electricity growth",
+      "body": "India's Index of Industrial Production rose 6.7% year-on-year in September, down from a revised 7.8% in August, per provisional MoSPI data. Manufacturing, about three-quarters of the index, grew 7.6%, while electricity generation rose 11.2% and mining fell 6.2%. Capital goods output grew 10.4%. September was the sixth month of the new IIP series with 2022-23 as the base year, replacing the 2011-12 series.",
+      "why_it_matters": "The IIP tracks output across factories, mines and utilities, making it a headline indicator of industrial health and broader economic momentum.",
+      "key_fact": "New IIP series uses 2022-23 as base year, replacing 2011-12",
+      "source_url": "https://www.livemint.com/economy/industrial-output-growth-a-tad-slower-at-6-7-in-september-expansion-led-by-manufacturing-electricity-generation-11793186294012.html",
+      "date": "2026-10-29",
+      "quiz": {
+        "q": "What base year does the new IIP series use?",
+        "options": [
+          "2022-23",
+          "2011-12",
+          "2023-24",
+          "2021-22"
+        ],
+        "answer": 0,
+        "explain": "The new IIP series uses 2022-23 as its base year, replacing the earlier 2011-12 series."
+      },
+      "tags": [
+        "IIP",
+        "base year",
+        "manufacturing",
+        "MoSPI"
+      ]
+    },
+    {
+      "id": "news-2026-10-29-10",
+      "type": "news",
+      "category": "international",
+      "headline": "India and Mexico sign Terms of Reference for trade agreement talks",
+      "body": "India and Mexico signed the Terms of Reference to begin negotiations on a Preferential Trade Agreement, following an understanding between Prime Minister Narendra Modi and President Claudia Sheinbaum at the G7 Summit in Canada in June 2025. Commerce Secretary Rajesh Agrawal represented India. The ToR covers market access for goods, rules of origin, customs procedures, dispute settlement and technical barriers to trade. A Mexican business mission to India is being considered for early 2027.",
+      "why_it_matters": "A trade agreement with Mexico could expand market access for Indian exporters in sectors such as automobiles, pharmaceuticals, electronics and agri-food.",
+      "key_fact": "India and Mexico sign ToR for Preferential Trade Agreement talks",
+      "source_url": "https://www.thehindu.com/business/Economy/india-and-mexico-sign-terms-of-reference-for-preferential-trade-agreement-negotiations-to-begin/article71635915.ece",
+      "date": "2026-10-29",
+      "quiz": {
+        "q": "What kind of trade agreement will India and Mexico begin negotiating?",
+        "options": [
+          "Preferential Trade Agreement",
+          "Free Trade Agreement",
+          "Customs Union",
+          "Comprehensive Economic Partnership"
+        ],
+        "answer": 0,
+        "explain": "The signed Terms of Reference set the framework for negotiations on a Preferential Trade Agreement."
+      },
+      "tags": [
+        "India-Mexico",
+        "trade agreement",
+        "exports",
+        "commerce ministry"
+      ]
+    },
+    {
+      "id": "news-2026-10-29-11",
+      "type": "news",
+      "category": "economy",
+      "headline": "Textiles PLI reopens with lower ₹100 crore turnover threshold",
+      "body": "The textiles ministry will reopen the PLI scheme application portal from 1 November to 31 December, cutting the minimum turnover for the scheme's second category to ₹100 crore from ₹200 crore to bring in more MSMEs. The fourth round targets man-made fibre apparel, fabrics and technical textiles, and tenure for approved firms now runs to FY 2033-34.",
+      "why_it_matters": "The PLI scheme offers production-linked cash incentives to manufacturers, so a lower entry bar can let mid-sized and small textile firms invest and expand capacity.",
+      "key_fact": "Textiles PLI threshold halved to ₹100 crore",
+      "source_url": "https://www.livemint.com/news/india/textile-ministry-reopens-pli-scheme-halves-turnover-threshold-to-100-cr-11793197515898.html",
+      "date": "2026-10-29",
+      "quiz": {
+        "q": "By how much did the textiles ministry lower the minimum turnover requirement under the PLI scheme's second category?",
+        "options": [
+          "From ₹200 crore to ₹100 crore",
+          "From ₹500 crore to ₹100 crore",
+          "From ₹100 crore to ₹50 crore",
+          "From ₹300 crore to ₹200 crore"
+        ],
+        "answer": 0,
+        "explain": "The ministry halved the threshold, cutting it from ₹200 crore to ₹100 crore to widen MSME participation."
+      },
+      "tags": [
+        "PLI scheme",
+        "textiles",
+        "MSME",
+        "manufacturing"
+      ]
+    },
+    {
+      "id": "news-2026-10-29-12",
+      "type": "news",
+      "category": "economy",
+      "headline": "MSME ministry releases ₹1,000 crore margin money subsidy under PMEGP",
+      "body": "Union MSME Minister Jitan Ram Manjhi released ₹1,000 crore of margin money subsidy under the Prime Minister's Employment Generation Programme, supporting 11,333 new micro enterprises. PMEGP, implemented nationally by the Khadi and Village Industries Commission, gives subsidy on bank-approved project loans for non-farm micro units. Since FY 2014-15, over 8.38 lakh enterprises and about 75 lakh jobs have been supported.",
+      "why_it_matters": "PMEGP is a key credit-linked subsidy that helps ordinary Indians, especially in rural areas, start small non-farm businesses and create local jobs.",
+      "key_fact": "PMEGP: margin money subsidy, run by KVIC",
+      "source_url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2329876",
+      "date": "2026-10-29",
+      "quiz": {
+        "q": "Which agency implements the Prime Minister's Employment Generation Programme nationally?",
+        "options": [
+          "Khadi and Village Industries Commission",
+          "National Small Industries Corporation",
+          "SIDBI",
+          "NABARD"
+        ],
+        "answer": 0,
+        "explain": "The article states PMEGP is implemented nationally by KVIC, with bodies such as KVIB and District Industries Centres assisting."
+      },
+      "tags": [
+        "PMEGP",
+        "MSME",
+        "subsidy",
+        "employment"
+      ]
+    },
+    {
+      "id": "news-2026-10-29-13",
+      "type": "news",
+      "category": "economy",
+      "headline": "NPPA issues revised MRP list for 543 anti-cancer drug brands",
+      "body": "The National Pharmaceutical Pricing Authority released a list of revised maximum retail prices for 543 brands of anti-cancer medicines, effective 9 November 2026. The list reflects company submissions up to 27 October 2026 and will be updated as manufacturers file prices. This follows NPPA's October 17 trade margin rationalisation on 137 non-scheduled anti-cancer drugs to curb excessive margins.",
+      "why_it_matters": "Cancer drugs are expensive, so price regulation by NPPA directly affects how affordable treatment is for patients across India.",
+      "key_fact": "NPPA fixes ceiling prices of medicines under the DPCO",
+      "source_url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2329745",
+      "date": "2026-10-29",
+      "quiz": {
+        "q": "Which body issued the revised MRP list for 543 anti-cancer drug brands?",
+        "options": [
+          "National Pharmaceutical Pricing Authority",
+          "Central Drugs Standard Control Organisation",
+          "Indian Council of Medical Research",
+          "Department of Health Research"
+        ],
+        "answer": 0,
+        "explain": "The NPPA, under the Department of Pharmaceuticals, issued the revised MRP list."
+      },
+      "tags": [
+        "NPPA",
+        "cancer drugs",
+        "pricing",
+        "health"
+      ]
+    },
+    {
+      "id": "news-2026-10-29-14",
+      "type": "news",
+      "category": "economy",
+      "headline": "US Fed holds rates at 3.75-4.00% amid high inflation",
+      "body": "The US Federal Open Market Committee voted 10-2 to keep interest rates at 3.75-4.00% on 28 October 2026, days before midterm elections, after a September hike. Two members sought a 0.25-point increase. The Fed cited the need for more data to return inflation to its 2% goal; US consumer inflation was 3.7% in September, with energy prices and AI-related investment adding pressure.",
+      "why_it_matters": "The US Fed's policy rate influences global borrowing costs, currency values and capital flows, indirectly affecting Indian markets, loans and the rupee.",
+      "key_fact": "Fed funds target range: 3.75-4.00%",
+      "source_url": "https://www.thehindu.com/business/Economy/federal-reserve-likely-to-skip-rate-hike-despite-elevated-inflation/article71634402.ece",
+      "date": "2026-10-29",
+      "quiz": {
+        "q": "Where did the US Federal Reserve set its target interest rate range?",
+        "options": [
+          "3.75% to 4.00%",
+          "2.00% to 2.25%",
+          "4.25% to 4.50%",
+          "5.00% to 5.25%"
+        ],
+        "answer": 0,
+        "explain": "The FOMC voted 10-2 to hold rates at a target range of 3.75-4.00%."
+      },
+      "tags": [
+        "US Fed",
+        "interest rates",
+        "inflation",
+        "economy"
+      ]
+    },
+    {
+      "id": "news-2026-10-29-15",
+      "type": "news",
+      "category": "international",
+      "headline": "Netanyahu bloc leads Israeli vote but short of majority",
+      "body": "With over three-quarters of votes counted in Israel's 27 October 2026 election, Benjamin Netanyahu's right-wing bloc had 54 of 120 seats and Gadi Eisenkot's opposition 49, both short of the 61 needed. Arab-majority lists were set to rise to 17 seats. It was the first election since the October 7, 2023 Hamas attack. Coalition talks lie ahead.",
+      "why_it_matters": "Israel's election outcome shapes Middle East stability, which affects global oil prices, trade routes and India's diplomatic and energy interests.",
+      "key_fact": "Israel's Knesset has 120 seats; 61 needed for majority",
+      "source_url": "https://www.thehindu.com/news/international/israel-election-results-counting-trends-netanyahu-eisenkot-arab-parties/article71634899.ece",
+      "date": "2026-10-29",
+      "quiz": {
+        "q": "How many seats in Israel's Parliament are needed for a majority?",
+        "options": [
+          "61 out of 120",
+          "51 out of 100",
+          "71 out of 120",
+          "30 out of 60"
+        ],
+        "answer": 0,
+        "explain": "Neither bloc reached the 61-seat threshold in the 120-seat Knesset."
+      },
+      "tags": [
+        "Israel",
+        "election",
+        "Netanyahu",
+        "Knesset"
+      ]
+    },
+    {
+      "id": "news-2026-10-29-16",
+      "type": "news",
+      "category": "international",
+      "headline": "Two high-speed trains collide in Spain, 68 killed",
+      "body": "Two high-speed trains collided between Mora and Orgaz in Spain's Castilla-La Mancha region on October 28, 2026, killing at least 68 people. Over 100 were injured, with 58 hospitalised and 15 critical. State operator Renfe said its Madrid-to-southern Spain service collided with a train from private company Iryo. Spain's Transport Minister spoke of an \"error\" and \"inexplicable circumstances\", raising fresh questions about rail safety.",
+      "why_it_matters": "It is one of Europe's deadliest rail disasters this century and renews scrutiny of high-speed rail safety, a mode of travel India is expanding with its own bullet train project.",
+      "key_fact": "68 killed in Spain's October 2026 high-speed train collision",
+      "source_url": "https://www.thehindu.com/news/international/several-people-dead-in-crash-between-2-spanish-trains-in-toledo-province/article71635210.ece",
+      "date": "2026-10-29",
+      "quiz": {
+        "q": "How many people were reported killed in the October 2026 high-speed train collision in Spain?",
+        "options": [
+          "68",
+          "38",
+          "108",
+          "14"
+        ],
+        "answer": 0,
+        "explain": "Castilla-La Mancha leader Emiliano Garcia-Page raised the toll to 68 from an earlier 64."
+      },
+      "tags": [
+        "Spain",
+        "rail accident",
+        "high-speed rail"
+      ]
+    },
+    {
+      "id": "news-2026-10-29-17",
+      "type": "news",
+      "category": "international",
+      "headline": "22 Indians, including 14 seafarers, killed in West Asia conflict",
+      "body": "The Ministry of External Affairs confirmed that 22 Indian nationals, including 14 seafarers, have died in the ongoing West Asia conflict. Spokesperson Randhir Jaiswal said India remains \"deeply concerned\" and that missions are in close contact with the Indian community. Three Indians died in incidents in Saudi Arabia linked to regional tensions. The Jeddah consulate issued a travel advisory on added flights, including Flynas services, for stranded travellers and Umrah pilgrims.",
+      "why_it_matters": "Millions of Indians live and work in the Gulf, so regional conflict and flight disruptions directly affect their safety, jobs and travel home.",
+      "key_fact": "22 Indians killed in West Asia conflict, including 14 seafarers",
+      "source_url": "https://www.livemint.com/news/india/mea-confirms-22-indian-nationals-killed-amid-west-asia-conflict-we-remain-deeply-concerned-about-the-situation-11793209560427.html",
+      "date": "2026-10-29",
+      "quiz": {
+        "q": "According to the MEA, how many of the 22 Indians killed in the West Asia conflict were seafarers?",
+        "options": [
+          "14",
+          "3",
+          "22",
+          "58"
+        ],
+        "answer": 0,
+        "explain": "MEA spokesperson Randhir Jaiswal said 22 Indians died, including 14 seafarers."
+      },
+      "tags": [
+        "MEA",
+        "West Asia",
+        "Indians abroad"
+      ]
+    },
+    {
+      "id": "news-2026-10-29-18",
+      "type": "news",
+      "category": "international",
+      "headline": "Polish PM Tusk visits India, first in 16 years",
+      "body": "Polish Prime Minister Donald Tusk visited India, the first trip by a Polish PM in 16 years, at a time when Poland's \"strategic partnership\" with China is said to be under strain. The India-Poland strategic partnership, elevated during PM Narendra Modi's 2024 visit to Poland — the first by an Indian PM in 45 years — is expected to strengthen through economic and defence cooperation.",
+      "why_it_matters": "Closer India-Poland ties widen India's economic and defence links in Europe and reflect shifting alignments as Poland's relations with China strain.",
+      "key_fact": "First Polish PM visit to India in 16 years",
+      "source_url": "https://www.thehindu.com/news/national/poland-pivots-towards-india-as-strategic-partnership-with-china-develops-cracks/article71636517.ece",
+      "date": "2026-10-29",
+      "quiz": {
+        "q": "Donald Tusk's visit was the first by a Polish Prime Minister to India in how many years?",
+        "options": [
+          "16",
+          "45",
+          "10",
+          "25"
+        ],
+        "answer": 0,
+        "explain": "The article notes it was the first Polish PM visit in 16 years, while PM Modi's 2024 Poland trip was the first by an Indian PM in 45 years."
+      },
+      "tags": [
+        "Poland",
+        "diplomacy",
+        "strategic partnership"
+      ]
+    },
+    {
+      "id": "news-2026-10-29-19",
+      "type": "news",
+      "category": "international",
+      "headline": "Jaishankar holds talks with Austrian foreign minister in Delhi",
+      "body": "External Affairs Minister S. Jaishankar held wide-ranging talks with Austrian Foreign Minister Beate Meinl-Reisinger in New Delhi on October 28, 2026, covering trade and investment, infrastructure, technology, education and culture. They also discussed startups, space, skilling and mobility, and exchanged views on global developments. Total India-Austria bilateral trade stands at $2.93 billion, with Indian exports of $1.52 billion and imports of $1.41 billion.",
+      "why_it_matters": "Such visits deepen India's ties with European economies in trade, technology and mobility, areas that affect jobs, education and business opportunities.",
+      "key_fact": "India-Austria bilateral trade volume: $2.93 billion",
+      "source_url": "https://www.thehindu.com/news/national/s-jaishankar-holds-talks-with-austrian-counterpart-meinl-reisinger/article71637593.ece",
+      "date": "2026-10-29",
+      "quiz": {
+        "q": "What is the total bilateral trade volume between India and Austria, as stated in the article?",
+        "options": [
+          "$2.93 billion",
+          "$1.52 billion",
+          "$1.41 billion",
+          "$29.3 billion"
+        ],
+        "answer": 0,
+        "explain": "The article gives total trade of $2.93 billion, of which exports were $1.52 billion and imports $1.41 billion."
+      },
+      "tags": [
+        "Austria",
+        "MEA",
+        "bilateral trade"
+      ]
+    },
+    {
+      "id": "news-2026-10-29-20",
+      "type": "news",
+      "category": "international",
+      "headline": "North Korea fires about 10 ballistic missiles toward sea",
+      "body": "North Korea fired a barrage of about 10 short-range ballistic missiles from Wonsan toward the sea on October 29, 2026, South Korea's military said. The launches followed North Korea's threat to resume front-line propaganda broadcasts and deploy new weapons along the border, and leader Kim Jong Un's weekend visit to China. South Korea is sharing launch information with the U.S. and Japan. Pyongyang denies responsibility for September land mine blasts that injured three South Korean soldiers.",
+      "why_it_matters": "Rising Korean Peninsula tensions are a global security concern, and North Korea's weapons tests often serve as leverage in diplomacy with the United States.",
+      "key_fact": "North Korea fired about 10 short-range ballistic missiles from Wonsan",
+      "source_url": "https://www.thehindu.com/news/international/north-korea-fires-missile-barrage-toward-sea-as-tensions-with-south-rise/article71639190.ece",
+      "date": "2026-10-29",
+      "quiz": {
+        "q": "How many ballistic missiles did South Korea's military say North Korea fired from Wonsan?",
+        "options": [
+          "About 10",
+          "About 3",
+          "About 22",
+          "About 6"
+        ],
+        "answer": 0,
+        "explain": "South Korea's Joint Chiefs of Staff detected about 10 short-range ballistic missiles launched from the eastern coastal town of Wonsan."
+      },
+      "tags": [
+        "North Korea",
+        "missiles",
+        "South Korea"
+      ]
+    }
+  ]
+}
