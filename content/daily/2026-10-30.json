@@ -1,0 +1,531 @@
+{
+  "date": "2026-10-30",
+  "cards": [
+    {
+      "id": "news-2026-10-30-01",
+      "type": "news",
+      "category": "polity",
+      "headline": "Labour Ministry forms Social Security Boards for unorganised and gig workers",
+      "body": "The Union Labour Ministry constituted National Social Security Boards for Unorganised Workers and for Gig & Platform Workers on October 30, 2026. Union Labour Minister Mansukh Mandaviya chairs both boards, which include government, employer, aggregator, civil society and worker representatives. The boards will design, monitor and recommend welfare schemes, advise on the Social Security Code, and meet at least three times a year.",
+      "why_it_matters": "These boards will shape welfare schemes for crores of unorganised and gig workers who currently lack formal social security.",
+      "key_fact": "National Social Security Boards for unorganised and gig workers",
+      "source_url": "https://www.thehindu.com/news/national/labour-ministry-sets-up-national-social-security-boards-for-unorganised-gig-and-platform-workers/article71643865.ece",
+      "date": "2026-10-30",
+      "quiz": {
+        "q": "Which ministry constituted the National Social Security Boards for unorganised and gig workers?",
+        "options": [
+          "Ministry of Labour and Employment",
+          "Ministry of Social Justice and Empowerment",
+          "Ministry of Finance",
+          "Ministry of Electronics and IT"
+        ],
+        "answer": 0,
+        "explain": "The article states the Union Labour Ministry constituted the boards under Labour Minister Mansukh Mandaviya."
+      },
+      "tags": [
+        "labour",
+        "gig workers",
+        "social security"
+      ]
+    },
+    {
+      "id": "news-2026-10-30-02",
+      "type": "news",
+      "category": "polity",
+      "headline": "Supreme Court asks Government how E100 vehicles will get ethanol supply",
+      "body": "The Supreme Court on October 29, 2026 asked the Government how ethanol would be supplied if 100% ethanol-run vehicles were permitted. The Road Transport Ministry had notified rules on October 26 allowing flex-fuel vehicles up to E100, while the Petroleum Minister said there was no plan to raise blending beyond 20%. The Attorney General said large-scale manufacturing changes would be needed.",
+      "why_it_matters": "The case will influence India's ethanol blending policy, which affects fuel prices, farmers and the environment.",
+      "key_fact": "E100 vehicles allowed under Central Motor Vehicles Rules",
+      "source_url": "https://www.thehindu.com/news/national/supreme-court-questions-if-100-per-cent-ethanol-vehicles-are-allowed-how-supply-would-be-arranged-amid-farmer-empowerment-concerns/article71640160.ece",
+      "date": "2026-10-30",
+      "quiz": {
+        "q": "What percentage of ethanol can flex-fuel vehicles use under the October 26 notification?",
+        "options": [
+          "Up to 20% (E20)",
+          "Up to 50% (E50)",
+          "Up to 100% (E100)",
+          "Up to 10% (E10)"
+        ],
+        "answer": 2,
+        "explain": "The notification allowed flex-fuel vehicles that can run on up to E100, nearly pure ethanol."
+      },
+      "tags": [
+        "ethanol",
+        "Supreme Court",
+        "transport"
+      ]
+    },
+    {
+      "id": "news-2026-10-30-03",
+      "type": "news",
+      "category": "international",
+      "headline": "J&K Police arrest 10 in Shopian terror financing module",
+      "body": "Police in Shopian district of Jammu and Kashmir unearthed an intra-Union Territory terror financing module and arrested 10 overground workers, officials said on October 30, 2026. The investigation analysed suspicious online financial transactions and traced money trails across multiple layers. Officials said the network had links with terrorists and their associates lodged in different jails.",
+      "why_it_matters": "Terror financing networks fund militant activities, and breaking them is key to maintaining security in Jammu and Kashmir.",
+      "key_fact": "10 overground workers arrested in Shopian terror financing case",
+      "source_url": "https://www.thehindu.com/news/national/jammu-and-kashmir/terror-financing-module-10-associates-of-terrorists-arrested-in-jk/article71643754.ece",
+      "date": "2026-10-30",
+      "quiz": {
+        "q": "In which district of Jammu and Kashmir was the terror financing module unearthed?",
+        "options": [
+          "Shopian",
+          "Pulwama",
+          "Anantnag",
+          "Baramulla"
+        ],
+        "answer": 0,
+        "explain": "The article states police in Shopian district unearthed the module and arrested 10 workers."
+      },
+      "tags": [
+        "Jammu and Kashmir",
+        "terror financing",
+        "police"
+      ]
+    },
+    {
+      "id": "news-2026-10-30-04",
+      "type": "news",
+      "category": "science",
+      "headline": "ISRO counts down to GSLV-F18 launch carrying NVS-03 navigation satellite",
+      "body": "The 24-hour countdown for ISRO's GSLV-F18 mission carrying the NVS-03 navigation satellite began on October 29, 2026, for a launch at 11.51 pm on October 30 from Sriharikota. The 50-metre rocket will place the 2,232 kg satellite into a geosynchronous transfer orbit. NVS-03 will augment the NavIC constellation and carries an indigenous Rubidium atomic clock.",
+      "why_it_matters": "NVS-03 strengthens NavIC, India's own navigation system used for positioning services across the country.",
+      "key_fact": "NVS-03 satellite to augment NavIC constellation",
+      "source_url": "https://www.thehindu.com/sci-tech/science/isros-crucial-gslv-f18-launch-carrying-navigation-satellite-nvs-03/article71643519.ece",
+      "date": "2026-10-30",
+      "quiz": {
+        "q": "Which navigation constellation will the NVS-03 satellite augment?",
+        "options": [
+          "GPS",
+          "NavIC",
+          "Galileo",
+          "GLONASS"
+        ],
+        "answer": 1,
+        "explain": "The article states NVS-03 is a crucial addition to the Navigation with Indian Constellation (NavIC) system."
+      },
+      "tags": [
+        "ISRO",
+        "NavIC",
+        "space"
+      ]
+    },
+    {
+      "id": "news-2026-10-30-05",
+      "type": "news",
+      "category": "economy",
+      "headline": "Supreme Court questions RBI over cyberfraud liability, seeks bank accountability",
+      "body": "The Supreme Court on Thursday pulled up the RBI over cyberfrauds, saying banks must compensate victims when employees are involved. Hearing a suo motu case, the bench asked why banks could waive crores in one-time settlements but not compensate fraud victims. The Attorney General said the RBI must address bank liability and sought more time to finalise an SOP on mule accounts.",
+      "why_it_matters": "This case could decide whether banks must compensate customers for cyberfraud losses, affecting millions of account holders.",
+      "key_fact": "Supreme Court seeks bank liability for cyberfraud losses",
+      "source_url": "https://www.livemint.com/news/sc-pulls-up-rbi-over-cyberfrauds-seeks-strict-liability-for-losses-11793275028546.html",
+      "date": "2026-10-30",
+      "quiz": {
+        "q": "What kind of accounts was the RBI directed to address in its SOP, as mentioned in the article?",
+        "options": [
+          "Jan Dhan accounts",
+          "Mule accounts",
+          "Nostro accounts",
+          "Escrow accounts"
+        ],
+        "answer": 1,
+        "explain": "The Supreme Court had directed the RBI to set up a framework for banks dealing with mule accounts and cyber-enabled financial fraud."
+      },
+      "tags": [
+        "Supreme Court",
+        "RBI",
+        "cyberfraud"
+      ]
+    },
+    {
+      "id": "news-2026-10-30-06",
+      "type": "news",
+      "category": "economy",
+      "headline": "Finmin review retains Q2 FY27 GDP growth forecast at 7.35%",
+      "body": "The Union finance ministry's October economic review kept its nowcasting estimate for September-quarter GDP growth at 7.35%, after 7.8% growth in the June quarter. It said the economy can sustain its expansionary path through FY27, citing upward revisions by the IMF and World Bank to 7% or more. Recent GST Council process reforms are expected to ease compliance and working capital constraints for businesses.",
+      "why_it_matters": "GDP growth estimates signal how fast the economy, jobs and incomes may grow, and shape RBI and government policy decisions.",
+      "key_fact": "Q2 FY27 GDP growth nowcast at 7.35%",
+      "source_url": "https://www.livemint.com/economy/economy-can-sustain-high-growth-trajectory-in-fy27-recent-gst-reforms-to-help-finmin-review-11793284568464.html",
+      "date": "2026-10-30",
+      "quiz": {
+        "q": "What GDP growth rate did the finance ministry's nowcasting model estimate for Q2 FY27?",
+        "options": [
+          "6.5%",
+          "7.1%",
+          "7.35%",
+          "7.8%"
+        ],
+        "answer": 2,
+        "explain": "The review retained its September forecast of 7.35% for Q2 FY27, after 7.8% growth in Q1."
+      },
+      "tags": [
+        "economy",
+        "GDP",
+        "GST",
+        "finmin"
+      ]
+    },
+    {
+      "id": "news-2026-10-30-07",
+      "type": "news",
+      "category": "environment",
+      "headline": "Cyclone Arnab: over 55,000 evacuated across nine Odisha districts",
+      "body": "Cyclone Arnab caused widespread destruction in Odisha, prompting the state to deploy over 300 disaster response teams in flood-hit Ganjam and eight other districts, with more than 55,000 people evacuated. Rail services on the Howrah-Chennai route were disrupted after the Bahuda river crossed the danger mark, leading to 36 trains cancelled and 30 diverted. Andhra Pradesh estimated losses of ₹4,600 crore.",
+      "why_it_matters": "Cyclone preparedness and evacuation save lives, and disaster losses affect farmers, businesses and state finances.",
+      "key_fact": "Over 55,000 evacuated in Odisha's nine districts",
+      "source_url": "https://www.thehindu.com/news/national/cyclone-arnab-imd-alert-odisha-andhra-pradesh-telangana-odisha-today-rain-weather-news-live-updates-october-30-2026/article71643382.ece",
+      "date": "2026-10-30",
+      "quiz": {
+        "q": "How many people were evacuated across nine Odisha districts after Cyclone Arnab?",
+        "options": [
+          "Over 5,000",
+          "Over 15,000",
+          "Over 55,000",
+          "Over 3 lakh"
+        ],
+        "answer": 2,
+        "explain": "Officials reported that over 55,000 people were evacuated across nine districts."
+      },
+      "tags": [
+        "cyclone",
+        "Odisha",
+        "disaster"
+      ]
+    },
+    {
+      "id": "news-2026-10-30-08",
+      "type": "news",
+      "category": "environment",
+      "headline": "Bhutan glacial lake outburst triggers flood alert in West Bengal, Assam",
+      "body": "A glacial lake outburst flood in Bhutan sent nearly 7.4 million cubic metres of water from the breached Shintaphu Lake into the Mo River, raising fears of a sudden rise in the Sankosh, which flows along the West Bengal-Assam border. A high flood alert was issued for northern West Bengal, with evacuations in Alipurduar district and SDRF and NDRF teams kept on alert.",
+      "why_it_matters": "GLOFs are a growing Himalayan hazard linked to climate change, and downstream Indian communities need timely warnings to stay safe.",
+      "key_fact": "A glacial lake outburst flood (GLOF) in Bhutan",
+      "source_url": "https://www.thehindu.com/news/international/shintaphu-glacial-lake-bursting-gasa-tshachu-hot-springs/article71643533.ece",
+      "date": "2026-10-30",
+      "quiz": {
+        "q": "What caused the flood alert along the Sankosh River?",
+        "options": [
+          "A cloudburst over Sikkim",
+          "A glacial lake outburst flood in Bhutan",
+          "A dam breach in Assam",
+          "Heavy monsoon rainfall in Bihar"
+        ],
+        "answer": 1,
+        "explain": "A GLOF from the breached Shintaphu Lake in Bhutan sent water towards the Sankosh River."
+      },
+      "tags": [
+        "GLOF",
+        "flood",
+        "Bhutan",
+        "West Bengal"
+      ]
+    },
+    {
+      "id": "news-2026-10-30-09",
+      "type": "news",
+      "category": "international",
+      "headline": "Jaishankar in Atlanta for G20 Foreign Ministers' meeting",
+      "body": "External Affairs Minister S. Jaishankar attended the G20 Foreign Ministers' meeting in Atlanta, chaired by US Secretary of State Marco Rubio, focused on easing energy supply chains and cooperation on economic and security challenges. Quad foreign ministers were also due to meet on the sidelines. Jaishankar was then set to travel to Antigua and Barbuda for the Commonwealth Heads of Government Meeting on November 1-4.",
+      "why_it_matters": "G20 and Quad meetings shape cooperation on energy, trade and security that affect India's economy and global standing.",
+      "key_fact": "G20 Foreign Ministers' meeting in Atlanta, US",
+      "source_url": "https://www.thehindu.com/news/national/external-affairs-minister-jaishankar-g20-foreign-ministers-meet-in-atlanta/article71643686.ece",
+      "date": "2026-10-30",
+      "quiz": {
+        "q": "Who chaired the G20 Foreign Ministers' meeting that Jaishankar attended?",
+        "options": [
+          "António Guterres",
+          "Marco Rubio",
+          "Donald Trump",
+          "Narendra Modi"
+        ],
+        "answer": 1,
+        "explain": "US Secretary of State Marco Rubio chaired the G20 Foreign Ministers' meeting in Atlanta."
+      },
+      "tags": [
+        "G20",
+        "Jaishankar",
+        "diplomacy",
+        "Quad"
+      ]
+    },
+    {
+      "id": "news-2026-10-30-10",
+      "type": "news",
+      "category": "international",
+      "headline": "India picks AI, maritime security as priorities for 2028-29 UNSC bid",
+      "body": "India's Permanent Representative to the UN, Ambassador Harish Parvathaneni, said AI and maritime security will be key priorities for India's candidature for a non-permanent UN Security Council seat for 2028-29. He told a Security Council debate that technology must make shared maritime commons safer, not more contested. Elections are due in June next year, with India and Tajikistan contesting the sole Asia-Pacific Group seat.",
+      "why_it_matters": "A UNSC seat gives India a platform to shape global rules on maritime security and technology governance.",
+      "key_fact": "India's UNSC candidature for the 2028-29 term",
+      "source_url": "https://www.thehindu.com/news/national/india-says-ai-maritime-security-key-priorities-for-its-unsc-candidature-for202829/article71643547.ece",
+      "date": "2026-10-30",
+      "quiz": {
+        "q": "Which country is competing with India for the Asia-Pacific Group's UNSC seat?",
+        "options": [
+          "Tajikistan",
+          "Kazakhstan",
+          "Bhutan",
+          "Nepal"
+        ],
+        "answer": 0,
+        "explain": "India and Tajikistan will contest the sole Asia-Pacific Group seat in elections due in June next year."
+      },
+      "tags": [
+        "UNSC",
+        "United Nations",
+        "maritime security",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-2026-10-30-11",
+      "type": "news",
+      "category": "polity",
+      "headline": "PM to release 24th PM-Kisan instalment from Gujarat",
+      "body": "Prime Minister Narendra Modi will release the 24th instalment of the PM-Kisan Samman Nidhi on October 30, 2026, at Banaskantha in Gujarat. Over ₹18,690 crore will be transferred directly to the bank accounts of more than 9.34 crore farmers across the country. He will also dedicate 521 agriculture infrastructure units and inaugurate 12 horticulture clusters.",
+      "why_it_matters": "PM-Kisan gives eligible farmer families direct income support, so each instalment puts money straight into crores of rural bank accounts.",
+      "key_fact": "24th PM-Kisan instalment; over ₹18,690 crore to 9.34 crore farmers",
+      "source_url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2330251",
+      "date": "2026-10-30",
+      "quiz": {
+        "q": "How much money is being transferred in the 24th PM-Kisan instalment?",
+        "options": [
+          "Over ₹18,690 crore",
+          "Over ₹4.47 lakh crore",
+          "Over ₹1,100 crore",
+          "Over ₹2,346 crore"
+        ],
+        "answer": 0,
+        "explain": "The article says more than ₹18,690 crore will go to over 9.34 crore farmers' accounts in this instalment."
+      },
+      "tags": [
+        "PM-Kisan",
+        "agriculture",
+        "farmers",
+        "welfare"
+      ]
+    },
+    {
+      "id": "news-2026-10-30-12",
+      "type": "news",
+      "category": "states",
+      "headline": "Tamil Nadu Cabinet clears commission for Social Justice Survey",
+      "body": "The Tamil Nadu Cabinet, chaired by Chief Minister C. Joseph Vijay, decided to set up a multi-member commission headed by a retired High Court judge to conduct the Social Justice Survey. The survey will be held next year after the ongoing Census, with the commission expected by February or March. The Cabinet also decided to file a review petition against a recent Supreme Court order on reservation after conversion.",
+      "why_it_matters": "Caste and social data from such surveys are used to shape reservation and welfare policy, so the exercise is closely watched across states.",
+      "key_fact": "Social Justice Survey to be conducted by a retired High Court judge-led commission",
+      "source_url": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-cabinet-decides-to-form-commission-headed-by-retd-hc-judge-to-conduct-social-justice-survey/article71639709.ece",
+      "date": "2026-10-30",
+      "quiz": {
+        "q": "Who will head the commission for the Social Justice Survey in Tamil Nadu?",
+        "options": [
+          "A retired High Court judge",
+          "The Chief Minister",
+          "The Chief Secretary",
+          "A Supreme Court judge"
+        ],
+        "answer": 0,
+        "explain": "The Cabinet decided the multi-member commission would be headed by a retired judge of the High Court."
+      },
+      "tags": [
+        "Tamil Nadu",
+        "Social Justice Survey",
+        "reservation",
+        "Cabinet"
+      ]
+    },
+    {
+      "id": "news-2026-10-30-13",
+      "type": "news",
+      "category": "polity",
+      "headline": "ECI extends SIR claims and objections deadline in six States",
+      "body": "The Election Commission of India has re-scheduled the deadline for claims and objections in the Special Intensive Revision of electoral rolls in Delhi and five States — Maharashtra, Andhra Pradesh, Haryana, Telangana and Nagaland. In Delhi, the date moves from October 30 to November 25, with final rolls on December 22. The decision came a day after the Supreme Court suggested an extension in the Delhi SIR matter.",
+      "why_it_matters": "Voter roll revision decides who can vote, so extended deadlines give citizens more time to check their names and file claims if left out.",
+      "key_fact": "Delhi SIR claims deadline extended to November 25",
+      "source_url": "https://www.thehindu.com/news/national/eci-extends-sir-timelines-in-maharashtra-delhi-andhra-haryana-telangana-nagaland/article71642254.ece",
+      "date": "2026-10-30",
+      "quiz": {
+        "q": "What is the new deadline for filing claims and objections in the Delhi SIR?",
+        "options": [
+          "November 25",
+          "October 30",
+          "November 13",
+          "December 15"
+        ],
+        "answer": 0,
+        "explain": "The ECI moved Delhi's claims and objections deadline from October 30 to November 25."
+      },
+      "tags": [
+        "ECI",
+        "SIR",
+        "electoral rolls",
+        "Delhi"
+      ]
+    },
+    {
+      "id": "news-2026-10-30-14",
+      "type": "news",
+      "category": "environment",
+      "headline": "Heat-related deaths rose 36% since Paris Agreement: Lancet report",
+      "body": "The 10th Lancet Countdown report on Health and Climate Change says annual average heat-related deaths rose nearly 36% globally after the Paris Agreement entered into force. In 2023 alone, heat was linked to a record 710,000 deaths, over 70% of them attributable to human-caused climate change. Fossil fuels still supply over 80% of world energy, and emissions hit a record in 2024.",
+      "why_it_matters": "Rising heat deaths underline that slow climate action has direct public health costs, including in India where heatwaves are increasingly common.",
+      "key_fact": "Heat linked to a record 710,000 deaths in 2023",
+      "source_url": "https://www.thehindu.com/sci-tech/health/heat-related-deaths-up-36-since-paris-agreement-as-climate-action-lags-lancet/article71641259.ece",
+      "date": "2026-10-30",
+      "quiz": {
+        "q": "According to the Lancet Countdown report, how many deaths were linked to heat in 2023?",
+        "options": [
+          "710,000",
+          "2.8 million",
+          "36,000",
+          "1.1 billion"
+        ],
+        "answer": 0,
+        "explain": "The report says heat was linked to a record 710,000 deaths in 2023."
+      },
+      "tags": [
+        "climate change",
+        "heat",
+        "Lancet",
+        "public health"
+      ]
+    },
+    {
+      "id": "news-2026-10-30-15",
+      "type": "news",
+      "category": "economy",
+      "headline": "Coal India Q2 net profit jumps 57% to ₹6,547 crore",
+      "body": "Coal India's net profit surged 57% year-on-year to ₹6,547 crore in the September quarter, helped by higher offtake and better price realisations offsetting rising input costs. Offtake rose 12% to 186.34 million tonnes, mainly on higher power demand, while average price realisation rose 7% to ₹2,346.21 per tonne. The company declared a second interim dividend of ₹10.25 per share.",
+      "why_it_matters": "Coal India is a state-owned miner whose earnings reflect power demand and feed government dividends and revenue.",
+      "key_fact": "Coal India Q2 net profit ₹6,547 crore, up 57%",
+      "source_url": "https://www.thehindu.com/business/Economy/coal-india-profit-jumps-57-as-higher-offtake-prices-weigh-over-costs/article71641279.ece",
+      "date": "2026-10-30",
+      "quiz": {
+        "q": "By how much did Coal India's net profit rise year-on-year in Q2?",
+        "options": [
+          "57%",
+          "12%",
+          "21%",
+          "7%"
+        ],
+        "answer": 0,
+        "explain": "The article states net profit surged 57% year-on-year to ₹6,547 crore."
+      },
+      "tags": [
+        "Coal India",
+        "earnings",
+        "power demand",
+        "PSU"
+      ]
+    },
+    {
+      "id": "news-2026-10-30-16",
+      "type": "news",
+      "category": "economy",
+      "headline": "U.S. Fed holds rates at 3.75-4.0%, signals fewer FOMC meetings",
+      "body": "The U.S. Federal Reserve kept its benchmark interest rate unchanged between 3.75% and 4.0% at its October policy meeting, with two members voting for a 25 basis point hike. Chairman Kevin Warsh said the Fed will reduce FOMC meetings from 2027, with one meeting each year devoted to monetary policy strategy. He declined to give forward guidance. The Indian rupee weakened to roughly 95.30-95.36 per dollar.",
+      "why_it_matters": "U.S. interest rates influence foreign capital flows into India, the rupee's value and borrowing costs, so Fed decisions affect Indian markets and consumers.",
+      "key_fact": "Fed held rates at 3.75%-4.0%",
+      "source_url": "https://www.thehindu.com/business/Economy/fed-holds-rates-steady-and-cuts-future-meetings-stronger-dollar-outlook-pressures-emerging-markets/article71639815.ece",
+      "date": "2026-10-30",
+      "quiz": {
+        "q": "What benchmark interest rate range did the U.S. Federal Reserve keep unchanged at its October meeting?",
+        "options": [
+          "3.75%-4.0%",
+          "4.25%-4.5%",
+          "2.5%-3.0%",
+          "5.0%-5.25%"
+        ],
+        "answer": 0,
+        "explain": "The article states the Fed held its benchmark interest rates unchanged between 3.75% and 4.0%."
+      },
+      "tags": [
+        "Federal Reserve",
+        "interest rates",
+        "rupee",
+        "emerging markets"
+      ]
+    },
+    {
+      "id": "news-2026-10-30-17",
+      "type": "news",
+      "category": "international",
+      "headline": "India votes for UNGA resolution to end U.S. embargo on Cuba",
+      "body": "India voted in favour of a UN General Assembly resolution calling for an end to the U.S. economic, commercial and financial embargo on Cuba. The 193-member Assembly adopted it with 130 votes in favour, 17 against and 25 abstentions. India's Counsellor Soumya Nair said the embargo harms Cuba's development and essential services, citing shortages of over 60% of essential medicines.",
+      "why_it_matters": "The vote reflects India's stated support for multilateralism and its opposition to unilateral sanctions with extraterritorial effects that affect other countries' sovereignty.",
+      "key_fact": "UNGA resolution adopted 130-17 with 25 abstentions",
+      "source_url": "https://www.thehindu.com/news/international/india-votes-in-favour-of-unga-resolution-calling-for-end-to-us-embargo-on-cuba/article71642069.ece",
+      "date": "2026-10-30",
+      "quiz": {
+        "q": "How did the 193-member UN General Assembly vote on the resolution against the U.S. embargo on Cuba?",
+        "options": [
+          "130 in favour, 17 against, 25 abstentions",
+          "100 in favour, 40 against, 53 abstentions",
+          "150 in favour, 10 against, 33 abstentions",
+          "120 in favour, 30 against, 43 abstentions"
+        ],
+        "answer": 0,
+        "explain": "The resolution was adopted with 130 countries voting in favour, 17 against and 25 abstaining."
+      },
+      "tags": [
+        "United Nations",
+        "Cuba",
+        "embargo",
+        "diplomacy"
+      ]
+    },
+    {
+      "id": "news-2026-10-30-18",
+      "type": "news",
+      "category": "international",
+      "headline": "Rajnath offers India's counter-terrorism expertise to ASEAN partners",
+      "body": "Defence Minister Rajnath Singh, addressing the 13th ASEAN Defence Ministers' Meeting-Plus in Cebu, Philippines, said India is ready to share its battle-tested counter-terrorism expertise with ASEAN partners through joint exercises, capacity-building and intelligence sharing. He cited Operation Sindoor as proof of India's proactive doctrine. He also proposed a defence 'Youth Bridge' and noted India designated 2026 as the ASEAN-India Year of Maritime Cooperation.",
+      "why_it_matters": "Closer defence ties with ASEAN support India's Act East policy and its push for a free, open and rules-based Indo-Pacific.",
+      "key_fact": "13th ADMM-Plus held in Cebu, Philippines",
+      "source_url": "https://www.thehindu.com/news/national/india-ready-to-share-battle-tested-counter-terrorism-expertise-with-asean-partners-rajnath/article71640582.ece",
+      "date": "2026-10-30",
+      "quiz": {
+        "q": "Where was the 13th ASEAN Defence Ministers' Meeting-Plus, addressed by Rajnath Singh, held?",
+        "options": [
+          "Cebu, Philippines",
+          "Hanoi, Vietnam",
+          "New Delhi, India",
+          "Singapore"
+        ],
+        "answer": 0,
+        "explain": "The article says Mr. Singh addressed the ADMM-Plus in Cebu, Philippines."
+      },
+      "tags": [
+        "ASEAN",
+        "defence",
+        "counter-terrorism",
+        "Rajnath Singh"
+      ]
+    },
+    {
+      "id": "news-2026-10-30-19",
+      "type": "news",
+      "category": "economy",
+      "headline": "CBDT plans ₹5,000-crore land purchase for offices and staff quarters",
+      "body": "The Central Board of Direct Taxes plans to buy land worth around ₹5,000 crore in Delhi, Mumbai and Bengaluru to build income-tax offices and staff quarters. It has identified an MTNL plot in Connaught Place, New Delhi, valued at about ₹2,000 crore, and is eyeing parcels in Santa Cruz and Powai in Mumbai and in Bengaluru. The move aims to cut spending on rented premises.",
+      "why_it_matters": "Direct taxes are budgeted to contribute 61.2% of gross tax revenue this fiscal, so efficient tax administration supports government finances.",
+      "key_fact": "CBDT is the apex body for direct taxes",
+      "source_url": "https://www.livemint.com/news/cbdt-central-board-of-direct-taxes-income-tax-department-government-land-acquisition-office-infrastructure-11793268076332.html",
+      "date": "2026-10-30",
+      "quiz": {
+        "q": "Which body administers and sets policy for direct taxes in India?",
+        "options": [
+          "Central Board of Direct Taxes (CBDT)",
+          "Central Board of Indirect Taxes and Customs",
+          "Reserve Bank of India",
+          "Securities and Exchange Board of India"
+        ],
+        "answer": 0,
+        "explain": "The article describes the CBDT as the apex body for administration and policy of direct taxes."
+      },
+      "tags": [
+        "CBDT",
+        "income tax",
+        "real estate",
+        "government offices"
+      ]
+    }
+  ]
+}
