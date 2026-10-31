@@ -1,0 +1,474 @@
+{
+  "date": "2026-10-31",
+  "cards": [
+    {
+      "id": "news-2026-10-31-01",
+      "type": "news",
+      "category": "science",
+      "headline": "GSLV-F18 launches NavIC satellite NVS-03 successfully",
+      "body": "ISRO's GSLV-F18 rocket lifted off from Sriharikota on Friday and placed the 2,250 kg NVS-03 satellite into a geosynchronous transfer orbit after about 18 minutes. NVS-03 is the third satellite in the next-generation NavIC series and carries indigenous atomic clocks plus an L1 signal. Its 12-year mission is expected to restore the NavIC constellation to its minimum operational configuration of four satellites.",
+      "why_it_matters": "NavIC is India's own regional navigation system, so a healthy constellation supports position and timing services used across the country and 1,500 km beyond its borders.",
+      "key_fact": "NavIC: India's independent regional navigation satellite system",
+      "source_url": "https://www.thehindu.com/sci-tech/science/nvs-03-satellite-launch-successful-isro/article71646807.ece",
+      "date": "2026-10-31",
+      "quiz": {
+        "q": "What is NavIC?",
+        "options": [
+          "India's independent regional navigation satellite system",
+          "ISRO's lunar lander programme",
+          "A weather satellite launched by the IMD",
+          "A private telecom network"
+        ],
+        "answer": 0,
+        "explain": "The article describes NavIC as India's independent regional navigation satellite system providing position, navigation and timing services."
+      },
+      "tags": [
+        "ISRO",
+        "NavIC",
+        "space",
+        "GSLV"
+      ]
+    },
+    {
+      "id": "news-2026-10-31-02",
+      "type": "news",
+      "category": "economy",
+      "headline": "Centre forms banking review panel chaired by Suresh N. Patel",
+      "body": "The Union finance ministry has set up a high-level committee, chaired by former central vigilance commissioner Suresh N. Patel, to review India's banking sector and recommend structural, institutional, regulatory and legislative reforms by 2047. Announced in the Budget 2026-27 speech, the six-month panel includes RBI deputy governor Shirish Chandra Murmu and former RBI deputy governor N.S. Vishwanathan. It will examine prudential norms, capital needs and priority sector lending.",
+      "why_it_matters": "Banking reforms shape how easily ordinary Indians and small businesses get credit, and the panel's roadmap will guide policy for years.",
+      "key_fact": "Suresh N. Patel, former central vigilance commissioner, chairs the panel",
+      "source_url": "https://www.livemint.com/economy/govt-sets-up-high-level-banking-panel-under-suresh-n-patel-11793380648683.html",
+      "date": "2026-10-31",
+      "quiz": {
+        "q": "Who chairs the new high-level committee reviewing India's banking sector?",
+        "options": [
+          "Suresh N. Patel",
+          "Shaktikanta Das",
+          "N.S. Vishwanathan",
+          "Padmaja Chunduru"
+        ],
+        "answer": 0,
+        "explain": "The finance ministry named Suresh N. Patel, a former central vigilance commissioner, as chair, with the others as members."
+      },
+      "tags": [
+        "banking",
+        "finance ministry",
+        "reforms"
+      ]
+    },
+    {
+      "id": "news-2026-10-31-03",
+      "type": "news",
+      "category": "economy",
+      "headline": "Fiscal deficit hits 42.1% of FY27 target in first half",
+      "body": "India's fiscal deficit stood at ₹7.14 trillion at the end of September, or 42.1% of the full-year budget estimate, according to Controller General of Accounts data. That is higher than 36.5% in the same period last year, reflecting front-loaded capital spending and larger subsidy outlays. The Centre has budgeted a deficit of ₹16.96 trillion, or 4.3% of GDP, for FY27 and expects strong tax and non-tax receipts.",
+      "why_it_matters": "The fiscal deficit drives government borrowing, which can influence interest rates and the cost of loans for households and businesses.",
+      "key_fact": "FY27 fiscal deficit target: 4.3% of GDP",
+      "source_url": "https://www.livemint.com/news/fiscal-deficit-rises-to-rs-7-14-trillion-or-42-1-of-fy27-target-in-first-six-months-11793359509116.html",
+      "date": "2026-10-31",
+      "quiz": {
+        "q": "What fiscal deficit has the Centre budgeted for FY27?",
+        "options": [
+          "4.3% of GDP",
+          "5.9% of GDP",
+          "3.0% of GDP",
+          "6.4% of GDP"
+        ],
+        "answer": 0,
+        "explain": "The article states the Centre has budgeted a fiscal deficit of ₹16.96 trillion, or 4.3% of GDP, for FY27."
+      },
+      "tags": [
+        "fiscal deficit",
+        "economy",
+        "CGA"
+      ]
+    },
+    {
+      "id": "news-2026-10-31-04",
+      "type": "news",
+      "category": "economy",
+      "headline": "World Bank: extreme poverty in India fell to 2.6%",
+      "body": "A World Bank Poverty & Equity Brief shows extreme poverty at $3 a day fell to 2.6% in 2023 from 27.1% in 2011, while the $4.20 line rate dropped to 16.1% from 57.7%, lifting about 496 million people out of poverty. Finance Minister Nirmala Sitharaman credited sustained policy efforts. The report attributes progress to consumption growth, rising employment, especially among women, and expanded social transfers.",
+      "why_it_matters": "Poverty numbers guide government spending on welfare, food subsidies and jobs, and show how widely growth is being shared.",
+      "key_fact": "496 million people moved above the $4.20-a-day poverty line",
+      "source_url": "https://www.livemint.com/economy/india-extreme-poverty-rate-declines-2011-to-2023-world-bank-11793375500521.html",
+      "date": "2026-10-31",
+      "quiz": {
+        "q": "How many people moved above the $4.20-a-day poverty line between 2011 and 2023, per the World Bank?",
+        "options": [
+          "496 million",
+          "134 million",
+          "57.7 million",
+          "27.1 million"
+        ],
+        "answer": 0,
+        "explain": "The brief says 496 million people moved above the lower-middle-income poverty line of $4.20 a day in this period."
+      },
+      "tags": [
+        "poverty",
+        "World Bank",
+        "economy"
+      ]
+    },
+    {
+      "id": "news-2026-10-31-05",
+      "type": "news",
+      "category": "polity",
+      "headline": "Supreme Court: Failed relationships do not make consensual sex rape",
+      "body": "The Supreme Court held that physical intimacy in a consensual relationship cannot be retrospectively labelled rape merely because the relationship later soured. Justice B.V. Nagarathna made the observation in a judgment on a Kerala case involving a seven-year relationship. The court said a line must be drawn between consent obtained by deception and regret over past consent, while cautioning that rape remains a serious, under-reported crime.",
+      "why_it_matters": "It clarifies how courts treat allegations arising after break-ups and sets limits on when consent obtained during a relationship can be treated as invalid.",
+      "key_fact": "Justice B.V. Nagarathna authored the judgment",
+      "source_url": "https://www.thehindu.com/news/national/physical-intimacy-cant-be-branded-as-rape-if-consensual-relationship-turns-sour-supreme-court/article71645439.ece",
+      "date": "2026-10-31",
+      "quiz": {
+        "q": "Which judge authored the Supreme Court judgment on consensual relationships and rape allegations?",
+        "options": [
+          "Justice B.V. Nagarathna",
+          "Chief Justice of India Surya Kant",
+          "Justice D.Y. Chandrachud",
+          "Justice Sanjiv Khanna"
+        ],
+        "answer": 0,
+        "explain": "The judgment was authored by Justice B.V. Nagarathna, as stated in the article."
+      },
+      "tags": [
+        "Supreme Court",
+        "rape law",
+        "consent",
+        "judiciary"
+      ]
+    },
+    {
+      "id": "news-2026-10-31-06",
+      "type": "news",
+      "category": "polity",
+      "headline": "Supreme Court asks ECI for report on misuse of Form 7",
+      "body": "The Election Commission told the Supreme Court it found some false Form 7 voter-deletion forms during the Uttar Pradesh SIR but rejected all of them and took corrective steps. The submission came on a petition by Congress MP Tanuj Punia alleging bulk misuse of Form 7. The court directed the ECI to examine the issues, act and file a compliance report, amid upcoming State Assembly election preparations.",
+      "why_it_matters": "Form 7 is the official form used to object to a voter's inclusion in the electoral roll, so its alleged misuse affects the fairness of voter lists.",
+      "key_fact": "Form 7 is used to object to voter entries",
+      "source_url": "https://www.thehindu.com/news/national/supreme-court-seeks-report-from-eci-on-form-7-misuse-allegations/article71644823.ece",
+      "date": "2026-10-31",
+      "quiz": {
+        "q": "What is Form 7 used for in the electoral process?",
+        "options": [
+          "Objecting to a voter's inclusion in the roll",
+          "Registering a new voter",
+          "Applying for a postal ballot",
+          "Filing a nomination for elections"
+        ],
+        "answer": 0,
+        "explain": "The article shows Form 7 being used for deletion of voters through claims and objections."
+      },
+      "tags": [
+        "Election Commission",
+        "Supreme Court",
+        "SIR",
+        "voter rolls"
+      ]
+    },
+    {
+      "id": "news-2026-10-31-07",
+      "type": "news",
+      "category": "states",
+      "headline": "45 new road projects approved in Mizoram under PMGSY-IV",
+      "body": "The Ministry approved 45 road works spanning 509.54 km in Mizoram under PMGSY-IV (Batch-1, financial year 2026-27), valued at ₹710.40 crore. These will give 48 habitations all-weather road connectivity for the first time, improving access to schools, hospitals and rural markets. So far, 367 road works of 4,935 km and seven bridges worth ₹3,412 crore have been approved in the State under PMGSY.",
+      "why_it_matters": "All-weather roads connect remote villages to schools, health facilities and markets, supporting rural livelihoods and development.",
+      "key_fact": "PMGSY-IV provides all-weather road connectivity to rural habitations",
+      "source_url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2330726",
+      "date": "2026-10-31",
+      "quiz": {
+        "q": "What does PMGSY stand for in Indian rural development?",
+        "options": [
+          "Pradhan Mantri Gram Sadak Yojana",
+          "Pradhan Mantri Grameen Swasthya Yojana",
+          "Pradhan Mantri Gram Swaraj Yojana",
+          "Pradhan Mantri Grameen Shiksha Yojana"
+        ],
+        "answer": 0,
+        "explain": "PMGSY is the Pradhan Mantri Gram Sadak Yojana, a rural road connectivity scheme."
+      },
+      "tags": [
+        "PMGSY",
+        "Mizoram",
+        "rural roads",
+        "infrastructure"
+      ]
+    },
+    {
+      "id": "news-2026-10-31-08",
+      "type": "news",
+      "category": "international",
+      "headline": "INS Tarkash reaches Port Louis on Indian Ocean deployment",
+      "body": "Indian Navy ship INS Tarkash arrived at Port Louis, Mauritius on October 30, 2026, as part of its regular deployment in the southern Indian Ocean. The crew will take part in joint training with the Mauritius Coast Guard, cultural exchanges and community outreach. The ship will also join events for Mauritius's 192nd Aapravasi Diwas on November 2, marking the 1834 arrival of the first indentured labourers from India.",
+      "why_it_matters": "Such port visits strengthen India's maritime partnership with Mauritius, a key Indian Ocean neighbour with deep historical and cultural ties to India.",
+      "key_fact": "Aapravasi Diwas marks the 1834 arrival of Indian indentured labourers",
+      "source_url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2330667",
+      "date": "2026-10-31",
+      "quiz": {
+        "q": "What does Mauritius's Aapravasi Diwas commemorate?",
+        "options": [
+          "Arrival of the first Indian indentured labourers in 1834",
+          "Mauritius gaining independence",
+          "The founding of Port Louis",
+          "A naval treaty with India"
+        ],
+        "answer": 0,
+        "explain": "The article says the day marks the first batch of indentured labourers arriving from India on November 2, 1834."
+      },
+      "tags": [
+        "Indian Navy",
+        "Mauritius",
+        "INS Tarkash",
+        "maritime ties"
+      ]
+    },
+    {
+      "id": "news-2026-10-31-09",
+      "type": "news",
+      "category": "international",
+      "headline": "Jaishankar holds bilateral meetings at G20 Foreign Ministers' Meeting",
+      "body": "External Affairs Minister S. Jaishankar met several counterparts in Atlanta on the sidelines of the G20 Foreign Ministers' Meeting on October 30, 2026, including Canada's Anita Anand, with whom he assessed the steady growth of India-Canada cooperation. He also met the foreign ministers of Argentina, Mexico, Brazil and Germany, discussing issues such as trade, critical minerals, defence and nuclear cooperation, and multilateral matters.",
+      "why_it_matters": "The G20 Foreign Ministers' Meeting is a key forum for India to advance bilateral ties and discuss global issues with major economies.",
+      "key_fact": "G20 Foreign Ministers' Meeting held in Atlanta",
+      "source_url": "https://www.thehindu.com/news/national/jaishankar-bilateral-meetings-with-foreign-ministers-from-g20-nations/article71648061.ece",
+      "date": "2026-10-31",
+      "quiz": {
+        "q": "Where was the G20 Foreign Ministers' Meeting held?",
+        "options": [
+          "Atlanta",
+          "New Delhi",
+          "Rio de Janeiro",
+          "Johannesburg"
+        ],
+        "answer": 0,
+        "explain": "The article states Jaishankar attended the meeting in Atlanta."
+      },
+      "tags": [
+        "Jaishankar",
+        "G20",
+        "diplomacy",
+        "foreign policy"
+      ]
+    },
+    {
+      "id": "news-2026-10-31-10",
+      "type": "news",
+      "category": "environment",
+      "headline": "Bhutan GLOF damages roads, washes away India-built bridge",
+      "body": "A glacial lake outburst flood from Shintapu Tsho in Gasa district, northwestern Bhutan, on October 29, 2026 sent floodwaters down the Mochhu river, damaging roads, bridges and public infrastructure in two districts. No casualties were reported. Officials feared a large artificial lake near Taktsemakhang could burst again. A Bailey bridge built in Punakha in 2022 with Indian support was swept away.",
+      "why_it_matters": "GLOFs in the Himalayan region can endanger downstream communities in Bhutan and India, and India has funded infrastructure that such floods can destroy.",
+      "key_fact": "Shintapu Tsho is among Bhutan's 17 potentially dangerous glacial lakes",
+      "source_url": "https://www.thehindu.com/news/international/glof-damages-roads-washes-away-bridge-in-bhutan/article71646476.ece",
+      "date": "2026-10-31",
+      "quiz": {
+        "q": "How many glacial lakes in Bhutan have been identified as potentially dangerous?",
+        "options": [
+          "17",
+          "7",
+          "27",
+          "47"
+        ],
+        "answer": 0,
+        "explain": "The article states Shintaphu Tsho is among Bhutan's 17 glacial lakes identified as potentially dangerous."
+      },
+      "tags": [
+        "Bhutan",
+        "GLOF",
+        "disaster",
+        "India-Bhutan"
+      ]
+    },
+    {
+      "id": "news-2026-10-31-11",
+      "type": "news",
+      "category": "international",
+      "headline": "Netanyahu bloc loses majority in Israel election results",
+      "body": "Final results released on October 29, 2026 showed Israeli Prime Minister Benjamin Netanyahu's bloc winning 53 of 120 Knesset seats, down from 68 at its peak. The main opposition won 48 and Arab-led parties 19. Likud alleged, without evidence, that Arab-led parties had 'stolen' the election. The opposition accused Netanyahu of demonising Arab citizens. The results still need certification and submission to the President.",
+      "why_it_matters": "Israel is a key partner for India in defence and technology, so a possible change of government there matters for bilateral ties and West Asia stability.",
+      "key_fact": "Netanyahu's bloc won 53 of 120 Knesset seats",
+      "source_url": "https://www.thehindu.com/news/international/netanyahus-party-claims-election-stolen-as-results-show-him-losing-majority/article71643395.ece",
+      "date": "2026-10-31",
+      "quiz": {
+        "q": "How many seats did Netanyahu's bloc win in the 120-member Knesset?",
+        "options": [
+          "53",
+          "48",
+          "68",
+          "19"
+        ],
+        "answer": 0,
+        "explain": "Election officials showed his bloc winning 53 seats, below the 68 it had held at its peak in the previous parliament."
+      },
+      "tags": [
+        "Israel",
+        "election",
+        "Netanyahu",
+        "Knesset"
+      ]
+    },
+    {
+      "id": "news-2026-10-31-12",
+      "type": "news",
+      "category": "sports",
+      "headline": "New Zealand beat India by 87 runs in fourth T20I",
+      "body": "Century-maker Glenn Phillips (107 off 49 balls) and Michael Bracewell (65 off 25) helped New Zealand post 259 for seven, the highest T20I total against India, in the fourth T20I on October 30, 2026. Fast bowler Jacob Duffy took 4/23, dismissing Sanju Samson and Ishan Kishan in the first over. India, led by Shreyas Iyer, were bowled out for 172 for nine, but still lead the series 3-1.",
+      "why_it_matters": "India had already sealed the five-match series, but the heavy defeat highlights batting fragility ahead of future major tournaments.",
+      "key_fact": "259 for seven is the highest T20I total against India",
+      "source_url": "https://www.thehindu.com/sport/cricket/india-vs-new-zealand-fourth-t20-international-in-auckland-on-october-30-2026/article71643999.ece",
+      "date": "2026-10-31",
+      "quiz": {
+        "q": "What was New Zealand's total, the highest T20I score against India?",
+        "options": [
+          "259 for seven",
+          "249 for seven",
+          "172 for nine",
+          "295 for seven"
+        ],
+        "answer": 0,
+        "explain": "Phillips and Bracewell powered New Zealand to 259 for seven after being asked to bat."
+      },
+      "tags": [
+        "cricket",
+        "India",
+        "New Zealand",
+        "T20I"
+      ]
+    },
+    {
+      "id": "news-2026-10-31-13",
+      "type": "news",
+      "category": "sports",
+      "headline": "Manisha Bhanwala becomes first Indian woman wrestling world champion",
+      "body": "Manisha Bhanwala rallied from 0-6 down to beat USA's Abigail Elizabeth Nette 8-6 in the 59kg final at the World wrestling championships in Astana on October 30, 2026. The 29-year-old from Haryana became the first Indian woman to win a Worlds gold and the second Indian after Sushil Kumar, who won in Moscow in 2010. Indian women recorded their best-ever showing at the event.",
+      "why_it_matters": "It is a landmark moment for Indian women's sport and could inspire more athletes from wrestling heartlands such as Haryana.",
+      "key_fact": "First Indian woman to win a World wrestling gold",
+      "source_url": "https://www.thehindu.com/sport/manisha-wins-historic-world-title/article71646117.ece",
+      "date": "2026-10-31",
+      "quiz": {
+        "q": "Whom did Manisha Bhanwala beat in the 59kg final?",
+        "options": [
+          "Abigail Elizabeth Nette",
+          "Sushil Kumar",
+          "Neelam Sirohi",
+          "Kajal Dhochak"
+        ],
+        "answer": 0,
+        "explain": "She defeated USA's Pan-American champion Abigail Elizabeth Nette 8-6 in the final."
+      },
+      "tags": [
+        "wrestling",
+        "Manisha Bhanwala",
+        "sports",
+        "India"
+      ]
+    },
+    {
+      "id": "news-2026-10-31-14",
+      "type": "news",
+      "category": "sports",
+      "headline": "Rashid Khan first man to 200 T20 international wickets",
+      "body": "Afghanistan's Rashid Khan became the first men's player to claim 200 Twenty20 international wickets, reaching the mark in the second T20 against Zimbabwe in Sharjah by trapping Tadiwanashe Marumani lbw. The leg-spinner got there in his 120th T20I, with an average of 13.96 and economy of 6.13. He leads England's Adil Rashid by 39 wickets.",
+      "why_it_matters": "It is a durable world record in the shortest format, showing how Afghanistan has produced a top-tier spin bowler.",
+      "key_fact": "First men's player with 200 T20I wickets",
+      "source_url": "https://www.thehindu.com/sport/cricket/afghanistans-rashid-khan-becomes-first-mens-player-to-claim-200-t20i-wickets/article71643780.ece",
+      "date": "2026-10-31",
+      "quiz": {
+        "q": "Rashid Khan became the first men's player to reach how many T20 international wickets?",
+        "options": [
+          "100",
+          "150",
+          "200",
+          "250"
+        ],
+        "answer": 2,
+        "explain": "He reached 200 T20I wickets, the first man to do so."
+      },
+      "tags": [
+        "cricket",
+        "Rashid Khan",
+        "T20"
+      ]
+    },
+    {
+      "id": "news-2026-10-31-15",
+      "type": "news",
+      "category": "economy",
+      "headline": "Regulators halt Sun Pharma eye-drug output at Assam plant",
+      "body": "The Central Drugs Standard Control Organisation and the Drugs Controller Assam ordered Sun Pharmaceutical Industries to stop making, selling and distributing ophthalmic products from its Assam facility after a joint inspection found failures in its quality management system. The August 20 order followed the company's July recall of about 11 eye-care brands. Sun Pharma says it voluntarily paused manufacturing and has submitted a compliance report.",
+      "why_it_matters": "It shows tighter scrutiny of Indian drug quality, which matters to patients who rely on domestically made medicines.",
+      "key_fact": "CDSCO ordered halt at Sun Pharma's Assam eye-care plant",
+      "source_url": "https://www.thehindu.com/business/india-orders-sun-pharma-to-halt-eye-care-drug-production-at-plant-after-quality-lapses/article71646516.ece",
+      "date": "2026-10-31",
+      "quiz": {
+        "q": "Which regulator ordered Sun Pharma to stop eye-care production at its Assam plant?",
+        "options": [
+          "CDSCO",
+          "SEBI",
+          "TRAI",
+          "FSSAI"
+        ],
+        "answer": 0,
+        "explain": "The Central Drugs Standard Control Organisation, with the Assam drugs office, issued the order."
+      },
+      "tags": [
+        "pharma",
+        "Sun Pharma",
+        "drug regulation"
+      ]
+    },
+    {
+      "id": "news-2026-10-31-16",
+      "type": "news",
+      "category": "science",
+      "headline": "TRAI drafts AI rules for telecom firms, incident reporting",
+      "body": "TRAI released draft guidelines on responsible use of AI in telecom networks for stakeholder comments. The framework would require service providers to adopt board-approved AI policies, set up governance and safety committees, classify AI systems by risk, keep human oversight, and report critical and high-severity AI incidents to the regulator. Firms must also maintain databases of AI incidents and related consumer complaints.",
+      "why_it_matters": "As AI spreads into phone networks and services, such rules aim to make companies accountable to consumers when systems fail.",
+      "key_fact": "TRAI draft guidelines on responsible AI use in telecom",
+      "source_url": "https://www.thehindu.com/sci-tech/trai-proposes-board-approved-ai-policies-mandatory-reporting-of-serious-incidents-by-telcos/article71645192.ece",
+      "date": "2026-10-31",
+      "quiz": {
+        "q": "Which body released the draft guidelines on responsible AI use in telecom networks?",
+        "options": [
+          "MeitY",
+          "TRAI",
+          "RBI",
+          "NITI Aayog"
+        ],
+        "answer": 1,
+        "explain": "The Telecom Regulatory Authority of India issued the draft framework for consultation."
+      },
+      "tags": [
+        "TRAI",
+        "AI",
+        "telecom"
+      ]
+    },
+    {
+      "id": "news-2026-10-31-17",
+      "type": "news",
+      "category": "science",
+      "headline": "NIPGR scientists find protein in plants' alarm system",
+      "body": "Researchers at the National Institute of Plant Genome Research in Delhi identified a previously uncharacterised protein that helps a plant warn its undamaged leaves when an insect attacks one leaf. Plants lack a nervous system and cannot flee, yet a bite on one leaf sets off an alarm reaching other leaves within minutes. The finding may help design crop chemicals for pest attack.",
+      "why_it_matters": "Understanding plant defence could lead to better ways to protect crops from pests without relying only on pesticides.",
+      "key_fact": "NIPGR identifies protein in plant defence signalling",
+      "source_url": "https://www.thehindu.com/sci-tech/science/indian-scientists-find-new-gateway-in-plants-alarm-system/article71639981.ece",
+      "date": "2026-10-31",
+      "quiz": {
+        "q": "Which institute identified the protein involved in plants' warning system?",
+        "options": [
+          "IISc Bengaluru",
+          "NIPGR, Delhi",
+          "IARI, Delhi",
+          "CSIR-CCMB"
+        ],
+        "answer": 1,
+        "explain": "The National Institute of Plant Genome Research in Delhi carried out the study."
+      },
+      "tags": [
+        "science",
+        "plants",
+        "NIPGR"
+      ]
+    }
+  ]
+}
