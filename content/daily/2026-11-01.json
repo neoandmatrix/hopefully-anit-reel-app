@@ -1,0 +1,530 @@
+{
+  "date": "2026-11-01",
+  "cards": [
+    {
+      "id": "news-2026-11-01-01",
+      "type": "news",
+      "category": "science",
+      "headline": "GSLV-F18 launches NVS-03, restoring NavIC to four satellites",
+      "body": "ISRO's GSLV-F18 launched the 2,250 kg NVS-03 navigation satellite from Sriharikota on October 30, 2026, placing it in a geosynchronous transfer orbit 18 minutes after lift-off. NVS-03 is the third satellite in the next-generation NavIC series. With it, ISRO says the constellation returns to its minimum operational configuration of four satellites. NVS-03 carries an indigenous atomic clock and adds an L1 signal band.",
+      "why_it_matters": "NavIC is India's own regional navigation system, so restoring it means India can again provide independent positioning and timing services without relying only on foreign systems like GPS.",
+      "key_fact": "NVS-03 restores NavIC to four satellites, its minimum operational configuration",
+      "source_url": "https://www.thehindu.com/sci-tech/science/nvs-03-satellite-launch-successful-isro/article71646807.ece",
+      "date": "2026-11-01",
+      "quiz": {
+        "q": "How many satellites does NavIC need for its minimum operational configuration?",
+        "options": [
+          "Two",
+          "Three",
+          "Four",
+          "Seven"
+        ],
+        "answer": 2,
+        "explain": "ISRO said NVS-03 brought the constellation back to four working satellites, the minimum needed for positioning services."
+      },
+      "tags": [
+        "ISRO",
+        "NavIC",
+        "space",
+        "navigation"
+      ]
+    },
+    {
+      "id": "news-2026-11-01-02",
+      "type": "news",
+      "category": "science",
+      "headline": "NVS-03 adds L1 signal to make NavIC easier to use",
+      "body": "ISRO's NVS-03, launched on October 30, 2026, has a 12-year mission life and is the third in the next-generation NavIC series. It carries an indigenous Rubidium atomic clock built by ISRO's Space Applications Centre, alongside imported clocks, and transmits on the L1 band in addition to L5 and S. L1 is widely used in commercial GPS receivers, so everyday mobile chipsets can access NavIC signals more easily.",
+      "why_it_matters": "L1 support could let ordinary smartphones use Indian Standard Time and NavIC positioning without special hardware, while Indigenous atomic clocks reduce dependence on failed imported ones.",
+      "key_fact": "NVS-03 carries an indigenous Rubidium atomic clock built by ISRO's Space Applications Centre",
+      "source_url": "https://www.thehindu.com/sci-tech/science/isro-nvs-03-launch-navic-constellation-5-things-to-know-about-india-next-generation-satellite/article71648294.ece",
+      "date": "2026-11-01",
+      "quiz": {
+        "q": "Which new frequency band does NVS-03 transmit on, besides L5 and S?",
+        "options": [
+          "L1",
+          "C2",
+          "Ka",
+          "X-band"
+        ],
+        "answer": 0,
+        "explain": "NVS-03 adds the L1 band, which is widely used in commercial GPS receivers."
+      },
+      "tags": [
+        "NavIC",
+        "ISRO",
+        "technology",
+        "atomic clock"
+      ]
+    },
+    {
+      "id": "news-2026-11-01-03",
+      "type": "news",
+      "category": "economy",
+      "headline": "Petrol export duty cut to nil, diesel export levy raised",
+      "body": "On October 31, 2026, the government set the export duty on petrol to nil while raising the diesel export levy by ₹3 to ₹11.5 per litre and the ATF levy by 50 paise to ₹11 per litre for the next fortnight. Domestic excise duty on petrol and diesel was unchanged. Export levies are reviewed fortnightly since March 27 to keep retail fuel available at home by discouraging exports.",
+      "why_it_matters": "These levies influence how much fuel India sells abroad versus keeps at home, which affects domestic supply and the government's efforts to shield consumers from global price shocks.",
+      "key_fact": "Diesel export levy raised to ₹11.5 per litre; petrol export duty nil",
+      "source_url": "https://www.thehindu.com/business/petrol-export-duty-cut-to-nil-diesel-levy-raised-by-3-a-litre/article71649004.ece",
+      "date": "2026-11-01",
+      "quiz": {
+        "q": "What is the new export levy on diesel per litre, as per the fortnightly revision?",
+        "options": [
+          "₹8.5",
+          "₹10.5",
+          "₹11",
+          "₹11.5"
+        ],
+        "answer": 3,
+        "explain": "The diesel export levy was raised by ₹3, from ₹8.5 to ₹11.5 per litre."
+      },
+      "tags": [
+        "petrol",
+        "diesel",
+        "export duty",
+        "economy"
+      ]
+    },
+    {
+      "id": "news-2026-11-01-04",
+      "type": "news",
+      "category": "economy",
+      "headline": "Centre releases ₹1,09,019 crore extra tax devolution to states",
+      "body": "On October 31, 2026, the central government released an additional tax devolution instalment of ₹1,09,019 crore to state governments, over and above the regular monthly transfer. This is the second extra instalment in the current financial year. It was released keeping the upcoming festive season in mind, so states can speed up capital expenditure and fund development and welfare spending.",
+      "why_it_matters": "Tax devolution is a core way states get money to build infrastructure and run welfare schemes, and an early release helps them spend ahead of the festive season.",
+      "key_fact": "₹1,09,019 crore released as extra tax devolution on October 31, 2026",
+      "source_url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2331028",
+      "date": "2026-11-01",
+      "quiz": {
+        "q": "How much did the Centre release to states as an additional tax devolution instalment?",
+        "options": [
+          "₹1,090 crore",
+          "₹10,901 crore",
+          "₹1,09,019 crore",
+          "₹1,09,019 lakh"
+        ],
+        "answer": 2,
+        "explain": "The PIB release puts the additional devolution at ₹1,09,019 crore."
+      },
+      "tags": [
+        "tax devolution",
+        "states",
+        "finance",
+        "PIB"
+      ]
+    },
+    {
+      "id": "news-2026-11-01-05",
+      "type": "news",
+      "category": "science",
+      "headline": "Pranos Fusion builds small tokamak PRAGYA to test plasma control",
+      "body": "Bengaluru-based startup Pranos Fusion has built PRAGYA, a small doughnut-shaped tokamak, to test plasma control and superconducting magnets. It is a step towards PRANIK, a larger tokamak where plasma would be heated to millions of degrees to fuse hydrogen atoms. CEO Shaurya Kaushal said the company expects to finalise a PRANIK blueprint by 2027. Unlike fission, fusion needs no uranium.",
+      "why_it_matters": "Fusion research matters because a working fusion reactor would offer a large, cleaner power source, and a private Indian startup entering the field is a notable step for deeptech in the country.",
+      "key_fact": "PRAGYA is a small tokamak; PRANIK is the planned larger fusion reactor",
+      "source_url": "https://www.thehindu.com/sci-tech/science/indias-first-fusion-power-company-takes-key-steps/article71649266.ece",
+      "date": "2026-11-01",
+      "quiz": {
+        "q": "What is the name of Pranos Fusion's small tokamak built to test plasma control?",
+        "options": [
+          "PRANIK",
+          "PRAGYA",
+          "NavIC",
+          "IRNSS"
+        ],
+        "answer": 1,
+        "explain": "The article says PRAGYA is the small tokamak, a gateway to the larger PRANIK reactor."
+      },
+      "tags": [
+        "fusion energy",
+        "deeptech",
+        "startup",
+        "tokamak"
+      ]
+    },
+    {
+      "id": "news-2026-11-01-06",
+      "type": "news",
+      "category": "environment",
+      "headline": "Record Pacific heat fuels strong El Niño, NOAA says",
+      "body": "The Niño 3.4 region of the central-equatorial Pacific crossed 30°C on October 5, the first time on record, and global ocean surfaces away from the poles hit a record average of 21.18°C on August 22. The U.S. NOAA Climate Prediction Center puts the chance of a 'strong to very strong' El Niño at 83%, with a high likelihood of a historic event stronger than any since 1950.",
+      "why_it_matters": "El Niño influences monsoon rainfall in India and raises the risk of heatwaves and disrupted rains, so its strength matters for farmers, water supply and food prices.",
+      "key_fact": "Niño 3.4 crossed 30°C for the first time on record",
+      "source_url": "https://www.thehindu.com/sci-tech/energy-and-environment/a-ferocious-el-nino-is-brewing-thanks-to-record-pacific-heat/article71610222.ece",
+      "date": "2026-11-01",
+      "quiz": {
+        "q": "Which Pacific region is the primary index area used to define El Niño and La Niña phases?",
+        "options": [
+          "Niño 1+2 region",
+          "Niño 3.4 region",
+          "Indian Ocean Dipole region",
+          "Bay of Bengal region"
+        ],
+        "answer": 1,
+        "explain": "The article identifies the Niño 3.4 region in the central-equatorial Pacific as the primary index area for the El Niño Southern Oscillation."
+      },
+      "tags": [
+        "El Niño",
+        "climate",
+        "Pacific",
+        "NOAA"
+      ]
+    },
+    {
+      "id": "news-2026-11-01-07",
+      "type": "news",
+      "category": "environment",
+      "headline": "Delhi to bar pre-BS-VI outside vehicles from November 1",
+      "body": "Under revised GRAP rules, vehicles registered outside Delhi that do not meet BS-VI emission standards will be barred from the city from November 1, 2026 to January 31, 2027, per Delhi Traffic Police. BS-VI, CNG, electric and exempted vehicles remain allowed. Transport Department estimates cited by PTI suggest over 10 lakh vehicles in Gurugram, Faridabad, Noida, Greater Noida and Ghaziabad may be affected.",
+      "why_it_matters": "Lakhs of commuters from NCR towns drive into Delhi daily, so the restriction affects travel plans, routes and vehicle choices for many ordinary people.",
+      "key_fact": "Entry bar runs November 1, 2026 to January 31, 2027",
+      "source_url": "https://www.livemint.com/news/india/delhi-pollution-curbs-from-nov-1-50-wfh-will-your-car-bike-from-noida-gurugram-ghaziabad-be-allowed-full-guide-11793504801912.html",
+      "date": "2026-11-01",
+      "quiz": {
+        "q": "Which vehicles will remain allowed into Delhi under the revised GRAP rules?",
+        "options": [
+          "All petrol vehicles regardless of standard",
+          "Only vehicles registered in Delhi",
+          "BS-VI, CNG, electric and exempted vehicles",
+          "Only commercial goods vehicles"
+        ],
+        "answer": 2,
+        "explain": "The rules allow BS-VI compliant, CNG and electric vehicles, plus exempted ones such as ambulances, fire tenders and police vehicles."
+      },
+      "tags": [
+        "Delhi",
+        "GRAP",
+        "air pollution",
+        "BS-VI"
+      ]
+    },
+    {
+      "id": "news-2026-11-01-08",
+      "type": "news",
+      "category": "environment",
+      "headline": "Delhi's October average AQI lowest in eight years at 166",
+      "body": "Delhi recorded a monthly average AQI of 166 for October 2026, the lowest for the month in eight years, compared with 223 in 2025 and 234 in 2024. For January 1 to October 31, the average AQI was 167. The city had 220 days rated 'good to moderate' and 84 days in the 'poor to severe plus' range, as the CAQM continues anti-pollution measures across Delhi-NCR.",
+      "why_it_matters": "Air quality directly affects the health of Delhi residents, and the data shows whether measures taken by the Commission for Air Quality Management are working.",
+      "key_fact": "Delhi's October 2026 average AQI: 166",
+      "source_url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2331059",
+      "date": "2026-11-01",
+      "quiz": {
+        "q": "What was Delhi's monthly average AQI in October 2026?",
+        "options": [
+          "166",
+          "223",
+          "234",
+          "269"
+        ],
+        "answer": 0,
+        "explain": "The PIB release states October 2026 recorded an average AQI of 166, the lowest for the month in eight years."
+      },
+      "tags": [
+        "Delhi",
+        "AQI",
+        "CAQM",
+        "air pollution"
+      ]
+    },
+    {
+      "id": "news-2026-11-01-09",
+      "type": "news",
+      "category": "environment",
+      "headline": "CAQM team reviews paddy stubble steps in Punjab districts",
+      "body": "A high-level CAQM team led by technical member Dr S.D. Atri and scientist Vijay Kumar reviewed stubble-management preparations in Sangrur, Patiala and Malerkotla on October 31, 2026, with district officials, the Punjab Pollution Control Board, the Agriculture Department and CPCB flying squads. The team visited an ex-situ unit in Malerkotla that will burn about 17,000 metric tonnes of paddy straw yearly in a 20 TPH boiler, and saw in-situ machines including the Super Seeder.",
+      "why_it_matters": "Paddy stubble burning in Punjab is a major seasonal contributor to Delhi-NCR's winter air pollution, so how effectively it is managed affects air quality across north India.",
+      "key_fact": "About 17,000 tonnes of straw used yearly by one unit",
+      "source_url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2331063",
+      "date": "2026-11-01",
+      "quiz": {
+        "q": "How much paddy straw will the Malerkotla ex-situ unit use as boiler fuel each year?",
+        "options": [
+          "1,700 metric tonnes",
+          "7,000 metric tonnes",
+          "17,000 metric tonnes",
+          "70,000 metric tonnes"
+        ],
+        "answer": 2,
+        "explain": "Industry representatives told the CAQM team that about 17,000 metric tonnes of paddy straw would be used annually in its boiler furnace."
+      },
+      "tags": [
+        "CAQM",
+        "stubble burning",
+        "Punjab",
+        "air pollution"
+      ]
+    },
+    {
+      "id": "news-2026-11-01-10",
+      "type": "news",
+      "category": "environment",
+      "headline": "COP17 nations agree on biodiversity texts, but progress criticised",
+      "body": "Nearly 200 nations reached hard-fought agreements at the UN biodiversity summit COP17 in Yerevan, Armenia, on October 30, 2026, seeking to revive the 2030 commitment to halt and reverse nature loss. Delegates approved two major texts in overtime after two weeks of debate. However, France's ecological transition minister said the outcome was \"not commensurate\" with the crisis, calling it a series of missed opportunities.",
+      "why_it_matters": "The 2030 biodiversity targets affect global efforts to protect land, oceans and species, and shortfalls in meeting them have consequences for ecosystems that sustain human life.",
+      "key_fact": "COP17 biodiversity summit held in Yerevan, Armenia",
+      "source_url": "https://www.thehindu.com/news/international/nations-commit-to-get-nature-goals-back-on-track-at-un-nature-summit/article71648500.ece",
+      "date": "2026-11-01",
+      "quiz": {
+        "q": "Where was the COP17 UN biodiversity summit held?",
+        "options": [
+          "Yerevan, Armenia",
+          "Montreal, Canada",
+          "Cali, Colombia",
+          "Nairobi, Kenya"
+        ],
+        "answer": 0,
+        "explain": "The article states the COP17 summit under the Convention on Biological Diversity took place in the Armenian capital, Yerevan."
+      },
+      "tags": [
+        "biodiversity",
+        "COP17",
+        "UN",
+        "environment"
+      ]
+    },
+    {
+      "id": "news-2026-11-01-11",
+      "type": "news",
+      "category": "economy",
+      "headline": "Modi cites World Bank report on India's fast poverty decline",
+      "body": "Prime Minister Narendra Modi highlighted a World Bank report stating that 49.6 crore people moved out of poverty between 2011 and 2023, with India's extreme poverty rate falling from 27.1% to 2.6%. The World Bank's 'India Poverty and Equity Brief: October 2026' used a $3 per day extreme poverty line at 2021 purchasing power parity. Modi also said the Gini Index fell to 23.0.",
+      "why_it_matters": "Poverty estimates by the World Bank are a key benchmark for assessing living standards and the reach of welfare and growth in India.",
+      "key_fact": "Extreme poverty rate fell from 27.1% to 2.6%",
+      "source_url": "https://www.thehindu.com/news/national/pm-modi-cities-world-bank-report-to-highlight-historic-fall-in-indias-extreme-poverty/article71652106.ece",
+      "date": "2026-11-01",
+      "quiz": {
+        "q": "According to the report cited by PM Modi, India's extreme poverty rate in 2023 was:",
+        "options": [
+          "2.6%",
+          "10.2%",
+          "15.5%",
+          "27.1%"
+        ],
+        "answer": 0,
+        "explain": "The World Bank brief cited says extreme poverty fell from 27.1% in 2011 to 2.6% in 2023."
+      },
+      "tags": [
+        "poverty",
+        "World Bank",
+        "economy"
+      ]
+    },
+    {
+      "id": "news-2026-11-01-12",
+      "type": "news",
+      "category": "economy",
+      "headline": "IBBI notifies rules to exclude healthy real estate projects from insolvency",
+      "body": "The Insolvency and Bankruptcy Board of India notified rules on October 30 allowing a committee of creditors to recommend excluding financially sound real estate projects from a developer's corporate insolvency resolution process. Exclusion requires approval from creditors holding at least 66% of voting share and clearance from the National Company Law Tribunal. The aim is to protect homebuyers in healthy projects from a developer's wider distress.",
+      "why_it_matters": "Real estate accounts for 22% of insolvency cases, so shielding sound projects can protect homebuyers from delays caused by defaults elsewhere in a developer's portfolio.",
+      "key_fact": "66% creditor vote needed to exclude a project",
+      "source_url": "https://www.livemint.com/news/india/ibbi-notifies-new-rules-to-shield-healthy-real-estate-projects-from-developer-insolvency-11793449278405.html",
+      "date": "2026-11-01",
+      "quiz": {
+        "q": "What creditor voting share is required for a committee of creditors to recommend excluding a project from insolvency?",
+        "options": [
+          "At least 50%",
+          "At least 66%",
+          "At least 75%",
+          "At least 90%"
+        ],
+        "answer": 1,
+        "explain": "The IBBI notification requires creditors holding at least 66% of the voting share to approve exclusion, followed by NCLT clearance."
+      },
+      "tags": [
+        "IBBI",
+        "insolvency",
+        "real estate",
+        "NCLT"
+      ]
+    },
+    {
+      "id": "news-2026-11-01-13",
+      "type": "news",
+      "category": "international",
+      "headline": "Jaishankar criticises energy supply disruptions from sanctions at G20",
+      "body": "External Affairs Minister S. Jaishankar, at the G20 Foreign Ministers' Meeting in Atlanta on October 30, 2026, criticised disruptions to global oil supplies through sanctions and chokepoints, calling deliberate attacks on energy trade a strategy to hold prices hostage. He said the G20 must keep energy markets open and predictable, and reaffirmed India's need for reliable LPG supplies for clean cooking.",
+      "why_it_matters": "India imports much of its crude oil, so unpredictable global energy markets directly affect fuel and cooking gas prices for ordinary households.",
+      "key_fact": "G20 Foreign Ministers' Meeting held in Atlanta",
+      "source_url": "https://www.thehindu.com/news/national/india-slams-global-energy-disruptions-through-sanctions-chokepoints/article71648072.ece",
+      "date": "2026-11-01",
+      "quiz": {
+        "q": "Where was the G20 Foreign Ministers' Meeting at which Jaishankar made these remarks held?",
+        "options": [
+          "Atlanta",
+          "New Delhi",
+          "Riyadh",
+          "Rio de Janeiro"
+        ],
+        "answer": 0,
+        "explain": "The meeting, convened by US Secretary of State Marco Rubio, took place in Atlanta."
+      },
+      "tags": [
+        "energy",
+        "G20",
+        "Jaishankar",
+        "sanctions"
+      ]
+    },
+    {
+      "id": "news-2026-11-01-14",
+      "type": "news",
+      "category": "international",
+      "headline": "Jaishankar, Anita Anand discuss Modi's December Canada visit",
+      "body": "External Affairs Minister S. Jaishankar met Canadian counterpart Anita Anand in Atlanta on the sidelines of the G20 Foreign Ministers' Meeting on October 30, 2026. They assessed the steady growth in India-Canada cooperation and agreed that Prime Minister Narendra Modi's visit to Canada on December 11 and 12 will be another building block in the relationship.",
+      "why_it_matters": "A prime ministerial visit signals a rebuilding of India-Canada ties, which affects trade, education and diaspora links between the two countries.",
+      "key_fact": "Modi to visit Canada on December 11 and 12",
+      "source_url": "https://www.thehindu.com/news/national/jaishankar-bilateral-meetings-with-foreign-ministers-from-g20-nations/article71648061.ece",
+      "date": "2026-11-01",
+      "quiz": {
+        "q": "On which dates is PM Modi scheduled to visit Canada?",
+        "options": [
+          "December 11 and 12",
+          "November 20 and 21",
+          "January 5 and 6",
+          "October 30 and 31"
+        ],
+        "answer": 0,
+        "explain": "The Indian High Commission in Ottawa and Canadian PM Mark Carney confirmed the visit for December 11 and 12."
+      },
+      "tags": [
+        "India-Canada",
+        "diplomacy",
+        "Modi visit"
+      ]
+    },
+    {
+      "id": "news-2026-11-01-15",
+      "type": "news",
+      "category": "international",
+      "headline": "Quad foreign ministers meet in Atlanta, review Indo-Pacific progress",
+      "body": "US Secretary of State Marco Rubio met External Affairs Minister S. Jaishankar, Japan's Toshimitsu Motegi and Australia's Penny Wong in Atlanta on October 31, 2026, on the sidelines of the G20 Foreign Ministers' Meeting. Rubio said the grouping is delivering on open supply chains, next-generation technologies, maritime cooperation and critical minerals. This was the third Quad foreign ministers' meeting this year, after New Delhi in May and Manila in July.",
+      "why_it_matters": "The Quad is a diplomatic grouping of India, the US, Japan and Australia that coordinates on Indo-Pacific security and economic priorities, making its meetings relevant to India's regional strategy.",
+      "key_fact": "Quad: India, US, Japan, Australia",
+      "source_url": "https://www.thehindu.com/news/national/quad-delivering-results-for-people-in-indo-pacific-rubio/article71650303.ece",
+      "date": "2026-11-01",
+      "quiz": {
+        "q": "Which four countries make up the Quad?",
+        "options": [
+          "India, US, Japan, Australia",
+          "India, China, Russia, Brazil",
+          "India, US, UK, France",
+          "India, Japan, South Korea, Australia"
+        ],
+        "answer": 0,
+        "explain": "The Quad consists of India, the United States, Japan and Australia."
+      },
+      "tags": [
+        "Quad",
+        "diplomacy",
+        "Indo-Pacific"
+      ]
+    },
+    {
+      "id": "news-2026-11-01-16",
+      "type": "news",
+      "category": "international",
+      "headline": "Seven Rameswaram fishermen detained by Sri Lankan Navy near Katchatheevu",
+      "body": "Sri Lankan Navy personnel detained seven fishermen from Rameswaram and Thangachimadam in Ramanathapuram district early on November 1, 2026, while they were fishing between the Katchatheevu islet and Mannar North. They were taken with their trawler to a naval port. Fishermen leaders condemned the incident and urged governments to secure their release, noting it came just ahead of Deepavali.",
+      "why_it_matters": "Katchatheevu is a small islet ceded by India to Sri Lanka in 1974, and arrests of Indian fishermen near it are a recurring bilateral irritant affecting livelihoods in coastal Tamil Nadu.",
+      "key_fact": "Katchatheevu islet ceded to Sri Lanka in 1974",
+      "source_url": "https://www.thehindu.com/news/national/tamil-nadu/seven-rameswaram-fishermen-detained-by-sri-lankan-navy-near-katchatheevu-islet/article71652111.ece",
+      "date": "2026-11-01",
+      "quiz": {
+        "q": "Near which islet were the seven Tamil Nadu fishermen detained?",
+        "options": [
+          "Katchatheevu",
+          "Sagar Island",
+          "Diu",
+          "Minicoy"
+        ],
+        "answer": 0,
+        "explain": "The fishermen were apprehended between the Katchatheevu islet and Mannar North."
+      },
+      "tags": [
+        "fishermen",
+        "Sri Lanka",
+        "Tamil Nadu"
+      ]
+    },
+    {
+      "id": "news-2026-11-01-17",
+      "type": "news",
+      "category": "international",
+      "headline": "COVID criticism hardened China's stance, says Foreign Secretary Misri",
+      "body": "Foreign Secretary Vikram Misri said China felt blamed and stigmatised by the international community during COVID-19, leading to a harsh attitude abroad and a draconian lockdown at home. Speaking in Srinagar at an event organised by a Kashmiri Pandits' association, he recalled his tenure as Ambassador to China during the Galwan Valley clash, where lives were lost on both sides for the first time in nearly 50 years.",
+      "why_it_matters": "His remarks offer a senior Indian official's account of how the pandemic and the 2020 Galwan clash shaped India-China relations.",
+      "key_fact": "Galwan Valley clash in eastern Ladakh, 2020",
+      "source_url": "https://www.thehindu.com/news/national/global-criticism-during-covid-19-hardened-chinas-attitude-towards-world-foreign-secretary-misri/article71652042.ece",
+      "date": "2026-11-01",
+      "quiz": {
+        "q": "In which border area did Misri recall an unprecedented India-China confrontation?",
+        "options": [
+          "Galwan Valley",
+          "Nathu La",
+          "Doklam",
+          "Tawang"
+        ],
+        "answer": 0,
+        "explain": "Misri referred to the Galwan Valley clash in eastern Ladakh during his posting in China."
+      },
+      "tags": [
+        "India-China",
+        "diplomacy",
+        "COVID-19"
+      ]
+    },
+    {
+      "id": "news-2026-11-01-18",
+      "type": "news",
+      "category": "international",
+      "headline": "Netanyahu's bloc loses majority; coalition talks ahead in Israel",
+      "body": "Israel's final election results showed Prime Minister Benjamin Netanyahu's bloc won 53 seats in the 120-member Knesset, the main Opposition bloc 48 and Arab-led parties 19, a historic showing. Forming a government requires at least 61 seats, so weeks of bargaining lie ahead. Results must be certified and submitted to President Isaac Herzog, who will then task someone with forming the government.",
+      "why_it_matters": "Israel's coalition arithmetic affects its government's stability and policies, which matter for India given close defence and technology ties.",
+      "key_fact": "Knesset has 120 seats; majority is 61",
+      "source_url": "https://www.thehindu.com/news/international/difficult-negotiations-lie-ahead-in-israel-after-netanyahus-bloc-lost-its-parliamentary-majority/article71645164.ece",
+      "date": "2026-11-01",
+      "quiz": {
+        "q": "How many seats are needed for a majority in Israel's 120-seat Knesset?",
+        "options": [
+          "61",
+          "51",
+          "60",
+          "72"
+        ],
+        "answer": 0,
+        "explain": "A coalition needs at least 61 of the 120 Knesset seats."
+      },
+      "tags": [
+        "Israel",
+        "elections",
+        "Knesset"
+      ]
+    },
+    {
+      "id": "news-2026-11-01-19",
+      "type": "news",
+      "category": "polity",
+      "headline": "Madras High Court bar body challenges 1965 English-language decision",
+      "body": "The Madras High Court Advocates Association has filed a PIL challenging a 1965 Union Cabinet Committee decision that English continue as the common language for the Supreme Court and all High Courts until Hindi could replace it. The association says barring regional languages violates Articles 14, 19 and 21, and wants Tamil as the Madras High Court's official language. The First Division Bench will hear the case on November 2, 2026.",
+      "why_it_matters": "The petition touches on whether courts can use regional languages, a long-standing demand affecting litigants' access to justice.",
+      "key_fact": "1965 decision: English as common language of courts",
+      "source_url": "https://www.thehindu.com/news/national/tamil-nadu/madras-high-court-advocates-association-challenges-1965-union-cabinet-decision-to-continue-english-as-common-language-for-supreme-court-and-all-high-courts/article71648537.ece",
+      "date": "2026-11-01",
+      "quiz": {
+        "q": "What does the 1965 Cabinet decision challenged in the PIL say?",
+        "options": [
+          "English should continue as common language of courts until Hindi replaces it",
+          "Hindi should immediately replace English in all courts",
+          "Regional languages should be used in all High Courts",
+          "Only the Supreme Court should use English"
+        ],
+        "answer": 0,
+        "explain": "The 1965 decision retained English as the common language of the Supreme Court and High Courts until Hindi was ready to replace it."
+      },
+      "tags": [
+        "judiciary",
+        "language",
+        "Madras High Court"
+      ]
+    }
+  ]
+}
