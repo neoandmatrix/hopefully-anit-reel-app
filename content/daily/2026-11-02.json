@@ -1,0 +1,524 @@
+{
+  "date": "2026-11-02",
+  "cards": [
+    {
+      "id": "news-2026-11-02-01",
+      "type": "news",
+      "category": "economy",
+      "headline": "GST collections rise 23% to ₹2.31 lakh crore in October",
+      "body": "Government data released on November 1 shows gross GST collections rose 22.9% year-on-year to over ₹2.31 lakh crore in October, the second-highest monthly mop-up after the record ₹2.43 lakh crore in April. Domestic sales contributed over ₹1.59 lakh crore while import revenues jumped 42% to ₹72,246 crore. Net collections after refunds grew 26% to over ₹2.03 lakh crore.",
+      "why_it_matters": "GST is the Centre and states' main indirect tax and a key indicator of consumer demand and compliance in the economy.",
+      "key_fact": "₹2.31 lakh crore gross GST in October 2026",
+      "source_url": "https://www.thehindu.com/business/Economy/gst-collections-in-october/article71652320.ece",
+      "date": "2026-11-02",
+      "quiz": {
+        "q": "What was India's gross GST collection in October 2026?",
+        "options": [
+          "Over ₹2.31 lakh crore",
+          "Over ₹1.59 lakh crore",
+          "Over ₹2.43 lakh crore",
+          "Over ₹14.77 lakh crore"
+        ],
+        "answer": 0,
+        "explain": "The article states October's gross GST mop-up was over ₹2.31 lakh crore, second only to the April record of about ₹2.43 lakh crore."
+      },
+      "tags": [
+        "GST",
+        "economy",
+        "taxation"
+      ]
+    },
+    {
+      "id": "news-2026-11-02-02",
+      "type": "news",
+      "category": "economy",
+      "headline": "Centre releases ₹1.09 lakh crore additional tax devolution to states",
+      "body": "The Finance Ministry said the Centre released an additional tax devolution instalment of ₹1,09,019 crore to states on October 31, over and above the regular monthly transfer, to accelerate capital spending and welfare expenditure. Uttar Pradesh received the largest share at ₹19,208 crore, followed by Bihar at ₹10,845 crore and Madhya Pradesh at ₹8,010 crore. It is the second such additional instalment this fiscal year.",
+      "why_it_matters": "Tax devolution is how states fund infrastructure and welfare schemes, so these transfers directly affect public services.",
+      "key_fact": "States receive 41% of the divisible pool of central taxes",
+      "source_url": "https://www.livemint.com/economy/states-get-addition-instalment-of-tax-devolution-of-rs-1-09-lakh-crore-supported-by-strong-economy-taxes-see-breakup-11793503116157.html",
+      "date": "2026-11-02",
+      "quiz": {
+        "q": "As per the 16th Finance Commission framework, what share of central taxes goes to states?",
+        "options": [
+          "41%",
+          "32%",
+          "50%",
+          "14%"
+        ],
+        "answer": 0,
+        "explain": "The article says states are entitled to 41% of the divisible pool of central taxes, devolved in 14 instalments a year."
+      },
+      "tags": [
+        "tax devolution",
+        "Finance Ministry",
+        "states"
+      ]
+    },
+    {
+      "id": "news-2026-11-02-03",
+      "type": "news",
+      "category": "economy",
+      "headline": "Petrol export duty cut to nil, diesel export levy raised by ₹3",
+      "body": "On October 31, the government cut the export duty on petrol to nil while raising the levy on diesel exports by ₹3 a litre to ₹11.5 and on ATF by 50 paise to ₹11 for the next fortnight. Domestic excise rates were unchanged. India's diesel exports hit 700 thousand barrels per day in October, the highest since September 2025, amid a global supply crunch.",
+      "why_it_matters": "Export levies are reviewed fortnightly to keep fuel available domestically, which affects retail prices and energy security.",
+      "key_fact": "Diesel export levy raised to ₹11.5 per litre",
+      "source_url": "https://www.thehindu.com/business/petrol-export-duty-cut-to-nil-diesel-levy-raised-by-3-a-litre/article71649004.ece",
+      "date": "2026-11-02",
+      "quiz": {
+        "q": "What is the new export levy on diesel per litre?",
+        "options": [
+          "₹11.5",
+          "₹8.5",
+          "₹10.5",
+          "₹3"
+        ],
+        "answer": 0,
+        "explain": "The levy rose from ₹8.5 to ₹11.5 per litre, an increase of ₹3, while petrol's export duty was cut to nil."
+      },
+      "tags": [
+        "petrol",
+        "diesel",
+        "export duty",
+        "energy"
+      ]
+    },
+    {
+      "id": "news-2026-11-02-04",
+      "type": "news",
+      "category": "environment",
+      "headline": "Delhi air quality slips to 'very poor' with AQI of 310",
+      "body": "Delhi's 24-hour average Air Quality Index was 310, in the 'very poor' category, at 8 a.m. on November 2, the worst in recent days, according to Central Pollution Control Board data. Noida, Kaithal and Hapur also recorded very poor air. The Centre's Air Quality Early Warning System expects poor to very poor air for about five to six days, as winter conditions trap pollutants.",
+      "why_it_matters": "Winter pollution spikes in Delhi-NCR raise serious health risks for residents and are a recurring seasonal public health issue.",
+      "key_fact": "Delhi AQI of 310 falls in the 'very poor' category",
+      "source_url": "https://www.thehindu.com/news/cities/Delhi/air-quality-worsens-to-very-poor-category-in-delhi-parts-of-north-india/article71655252.ece",
+      "date": "2026-11-02",
+      "quiz": {
+        "q": "An AQI between 301 and 400 is classified as which category?",
+        "options": [
+          "Very poor",
+          "Poor",
+          "Severe",
+          "Moderate"
+        ],
+        "answer": 0,
+        "explain": "As per CPCB, 301-400 is 'very poor'; 201-300 is 'poor' and 401-500 is 'severe'."
+      },
+      "tags": [
+        "Delhi",
+        "air pollution",
+        "AQI"
+      ]
+    },
+    {
+      "id": "news-2026-11-02-05",
+      "type": "news",
+      "category": "environment",
+      "headline": "Delhi AQI worsens to 'poor' ahead of Diwali, curbs begin",
+      "body": "Delhi recorded a 24-hour average AQI of 261 on Sunday, up from 117 a day earlier, as temperatures dropped to 18°C and fog trapped pollutants. Stubble burning's share of Delhi's pollution rose to 18.57%. The Air Quality Early Warning System expects 'very poor' air by midweek. Curbs from November 1 include restrictions on some outside-Delhi vehicles, a dust-generating construction ban, doubled parking charges and a 50% cap on office attendance.",
+      "why_it_matters": "These recurring winter measures show how pollution affects daily life, transport and work in the capital region.",
+      "key_fact": "AQI of 261 is in the 'poor' category (201-300)",
+      "source_url": "https://www.livemint.com/news/india/delhi-aqi-falls-to-poor-ahead-of-diwali-likely-to-deteriorate-further-this-week-pollution-control-curbs-kick-in-11793583369109.html",
+      "date": "2026-11-02",
+      "quiz": {
+        "q": "Which AQI range is classified as 'poor' by the CPCB?",
+        "options": [
+          "201 to 300",
+          "101 to 200",
+          "301 to 400",
+          "401 to 500"
+        ],
+        "answer": 0,
+        "explain": "Per CPCB, 101-200 is 'moderate', 201-300 'poor', 301-400 'very poor' and 401-500 'severe'."
+      },
+      "tags": [
+        "Delhi",
+        "AQI",
+        "Diwali",
+        "pollution"
+      ]
+    },
+    {
+      "id": "news-2026-11-02-06",
+      "type": "news",
+      "category": "environment",
+      "headline": "Centre bans NCR construction from November 5 to 20",
+      "body": "The Centre has suspended all construction and demolition activity across the National Capital Region from November 5 to 20 to curb winter air pollution. Union Environment Minister Bhupender Yadav said industries failing pollution norms and traffic hotspots will face prompt action through a new monitoring system. Delhi's permanent winter anti-pollution framework takes effect from November 1 and runs every year to February 28.",
+      "why_it_matters": "Construction bans and parking hikes affect daily life, jobs and travel for crores of people in Delhi-NCR every winter.",
+      "key_fact": "NCR construction banned November 5 to 20",
+      "source_url": "https://www.livemint.com/news/delhincr-pollution-curbs-construction-work-banned-for-16-days-to-tackle-rising-air-pollution-11793550362470.html",
+      "date": "2026-11-02",
+      "quiz": {
+        "q": "For which period has the Centre suspended construction and demolition work across NCR?",
+        "options": [
+          "November 1 to 10",
+          "November 5 to 20",
+          "December 10 to January 20",
+          "November 1 to February 28"
+        ],
+        "answer": 1,
+        "explain": "The article says construction and demolition activities are fully suspended from November 5 to 20."
+      },
+      "tags": [
+        "Delhi pollution",
+        "NCR",
+        "construction ban",
+        "GRAP"
+      ]
+    },
+    {
+      "id": "news-2026-11-02-07",
+      "type": "news",
+      "category": "environment",
+      "headline": "Cyclone Murasu intensifies into severe cyclonic storm over Bay of Bengal",
+      "body": "Cyclonic Storm Murasu intensified into a Severe Cyclonic Storm over the west-central and southwest Bay of Bengal in the early hours of Monday, November 2. The IMD said the system lay about 260 km east-northeast of Chennai and may cross the south Andhra Pradesh coast near Ongole with winds of 100-110 kmph, gusting to 120 kmph. Rainfall has begun in parts of Andhra Pradesh.",
+      "why_it_matters": "Cyclone warnings help coastal residents in Andhra Pradesh prepare for heavy rain, wind damage and possible evacuation.",
+      "key_fact": "Murasu intensified into a Severe Cyclonic Storm",
+      "source_url": "https://www.thehindu.com/news/national/andhra-pradesh/cyclone-murasu-live-updates-november-2-2026/article71655112.ece",
+      "date": "2026-11-02",
+      "quiz": {
+        "q": "What category did Cyclone Murasu reach according to the IMD?",
+        "options": [
+          "Deep depression",
+          "Cyclonic storm",
+          "Severe cyclonic storm",
+          "Super cyclonic storm"
+        ],
+        "answer": 2,
+        "explain": "The IMD observations state Murasu intensified into a Severe Cyclonic Storm."
+      },
+      "tags": [
+        "Cyclone Murasu",
+        "IMD",
+        "Andhra Pradesh",
+        "weather"
+      ]
+    },
+    {
+      "id": "news-2026-11-02-08",
+      "type": "news",
+      "category": "environment",
+      "headline": "Andhra Pradesh deploys NDRF, SDRF teams as Murasu nears Ongole",
+      "body": "Andhra Pradesh has deployed six NDRF and seven SDRF teams in districts likely to be hit as Cyclone Murasu moves towards the coast. The state disaster management authority expects landfall near Ongole in the early hours of November 3 with winds of 100-120 kmph. Murasu is the second cyclonic storm to hit Andhra Pradesh in under a week. Schools in NTR and Guntur districts are closed on Monday.",
+      "why_it_matters": "Pre-positioning rescue teams and closing schools are standard steps that save lives during a cyclone landfall.",
+      "key_fact": "Landfall near Ongole on November 3",
+      "source_url": "https://www.thehindu.com/news/national/andhra-pradesh/cyclonic-storm-murasu-to-make-landfall-close-to-ongole/article71654237.ece",
+      "date": "2026-11-02",
+      "quiz": {
+        "q": "Where is Cyclone Murasu expected to make landfall?",
+        "options": [
+          "Near Chennai",
+          "Near Machilipatnam",
+          "Near Ongole",
+          "Near Visakhapatnam"
+        ],
+        "answer": 2,
+        "explain": "The IMD and APSDMA said the landfall point is likely to be close to Ongole."
+      },
+      "tags": [
+        "Cyclone Murasu",
+        "NDRF",
+        "Andhra Pradesh",
+        "landfall"
+      ]
+    },
+    {
+      "id": "news-2026-11-02-09",
+      "type": "news",
+      "category": "environment",
+      "headline": "Cyclone Murasu to make landfall between Nellore and Narsapur on November 3",
+      "body": "Less than a week after Cyclone Arnab, another deep depression intensified into Cyclonic Storm Murasu. The IMD expects landfall on the morning of November 3 between Nellore and Narsapur near Ongole, with winds of 100-110 kmph gusting to 120 kmph. Andhra Pradesh, Odisha, Tamil Nadu and Telangana are on alert for heavy rain. Murasu is a Tamil word for a traditional percussion drum.",
+      "why_it_matters": "Back-to-back cyclones within a week strain relief resources and affect millions of people along India's east coast.",
+      "key_fact": "Landfall on November 3 between Nellore and Narsapur",
+      "source_url": "https://www.livemint.com/news/india/imd-weather-update-cyclone-murasu-to-make-landfall-on-nov-3-tamil-nadu-odisha-on-high-alert-11793580778128.html",
+      "date": "2026-11-02",
+      "quiz": {
+        "q": "What does the name 'Murasu' mean?",
+        "options": [
+          "A Tamil word for a traditional percussion drum",
+          "A Telugu word for thunder",
+          "A Sanskrit word for wind",
+          "An Odia word for rain"
+        ],
+        "answer": 0,
+        "explain": "The article states Murasu is a Tamil word for a traditional percussion drum once used for public announcements."
+      },
+      "tags": [
+        "Cyclone Murasu",
+        "IMD",
+        "landfall",
+        "Bay of Bengal"
+      ]
+    },
+    {
+      "id": "news-2026-11-02-10",
+      "type": "news",
+      "category": "polity",
+      "headline": "Rail Minister flags off Bengaluru-Mumbai Vande Bharat Sleeper Express",
+      "body": "Union Railway Minister Ashwini Vaishnaw flagged off the Bengaluru-Mumbai Vande Bharat Sleeper Express, the third such service after the Howrah-Guwahati and Varanasi-New Delhi routes. The train links Bengaluru and Mumbai via Anantapur, Guntakal, Raichur, Yadgir, Kalaburagi, Solapur, Pune and Kalyan, giving north Karnataka its first premium overnight rail service. Vaishnaw also announced a Bengaluru-Hubballi sleeper service and, later, a Bengaluru-Mangaluru Vande Bharat.",
+      "why_it_matters": "New overnight Vande Bharat services give business travellers and students faster, more comfortable intercity options.",
+      "key_fact": "Bengaluru-Mumbai Vande Bharat Sleeper Express",
+      "source_url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2331353",
+      "date": "2026-11-02",
+      "quiz": {
+        "q": "Which two cities does the newly flagged Vande Bharat Sleeper Express connect?",
+        "options": [
+          "Howrah and Guwahati",
+          "Varanasi and New Delhi",
+          "Bengaluru and Mumbai",
+          "Bengaluru and Mangaluru"
+        ],
+        "answer": 2,
+        "explain": "The flagged service runs between SMVT Bengaluru and Mumbai's CSMT."
+      },
+      "tags": [
+        "Vande Bharat",
+        "Railways",
+        "Bengaluru",
+        "Mumbai"
+      ]
+    },
+    {
+      "id": "news-2026-11-02-11",
+      "type": "news",
+      "category": "science",
+      "headline": "Digi Yatra trials for international flyers begin at seven airports",
+      "body": "The Civil Aviation Ministry said Digi Yatra trials for international passengers started at Delhi, Bengaluru, Hyderabad, Cochin, Mumbai, Chennai and Amritsar. Indian nationals holding e-passports can use the facial-recognition facility on select Air India and IndiGo international flights. Feedback from November-December will guide a wider rollout in 2027. The ministry said the facility complements, not replaces, existing travel and immigration checks.",
+      "why_it_matters": "Digi Yatra offers paperless, contactless airport checkpoints, so this trial signals that the service may soon extend to overseas travel for e-passport holders.",
+      "key_fact": "Digi Yatra uses facial recognition technology for contactless airport checkpoints",
+      "source_url": "https://www.thehindu.com/news/national/digi-yatra-trials-start-at-7-airports-for-international-passengers/article71655283.ece",
+      "date": "2026-11-02",
+      "quiz": {
+        "q": "What technology does Digi Yatra rely on at airport checkpoints?",
+        "options": [
+          "Facial recognition",
+          "Iris scanning",
+          "Fingerprint matching",
+          "QR-code scanning"
+        ],
+        "answer": 0,
+        "explain": "The ministry described Digi Yatra as facial-recognition based, enabling contactless passenger movement."
+      },
+      "tags": [
+        "Digi Yatra",
+        "aviation",
+        "e-passport"
+      ]
+    },
+    {
+      "id": "news-2026-11-02-12",
+      "type": "news",
+      "category": "environment",
+      "headline": "PM Modi to open India Renewable Energy Summit and Expo 2026",
+      "body": "Prime Minister Narendra Modi will inaugurate the India Renewable Energy Summit and Expo 2026 at Bharat Mandapam in New Delhi on November 2. The four-day event runs to November 5 with the theme 'Invest, Innovate, Inspire'. Participants from over 130 countries, including more than 40 ministers, will attend, alongside nine partner countries and 13 Indian states. It is held with the 9th International Solar Alliance Assembly and the fourth International Conference on Green Hydrogen.",
+      "why_it_matters": "The summit is a global platform for clean-energy investment and technology partnerships, which matters as India expands solar, wind and green hydrogen capacity.",
+      "key_fact": "India RE 2026 theme: 'Invest, Innovate, Inspire'",
+      "source_url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2331293",
+      "date": "2026-11-02",
+      "quiz": {
+        "q": "What is the theme of the India Renewable Energy Summit and Expo 2026?",
+        "options": [
+          "Invest, Innovate, Inspire",
+          "Green Growth for All",
+          "Powering a Sustainable Future",
+          "Clean Energy, Clean India"
+        ],
+        "answer": 0,
+        "explain": "The PIB release states the summit's theme is 'Invest, Innovate, Inspire'."
+      },
+      "tags": [
+        "renewable energy",
+        "summit",
+        "green hydrogen"
+      ]
+    },
+    {
+      "id": "news-2026-11-02-13",
+      "type": "news",
+      "category": "polity",
+      "headline": "Air Chief Marshal Ashutosh Dixit takes charge as 29th IAF chief",
+      "body": "Air Chief Marshal Ashutosh Dixit assumed charge as the 29th Chief of the Air Staff on November 1, after paying tribute at the National War Memorial and receiving a guard of honour in New Delhi. A test pilot and qualified flying instructor with over 3,500 flying hours, he has held roles including Chief of Integrated Defence Staff. He outlined a guiding approach called 'VAYU' covering vigilance, self-reliance, innovation and jointness.",
+      "why_it_matters": "The IAF chief sets operational priorities and indigenisation goals for the force, which bears on India's air defence and defence manufacturing plans.",
+      "key_fact": "Air Chief Marshal Ashutosh Dixit: 29th Chief of the Air Staff",
+      "source_url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2331270",
+      "date": "2026-11-02",
+      "quiz": {
+        "q": "As which Chief of the Air Staff did Air Chief Marshal Ashutosh Dixit take charge?",
+        "options": [
+          "29th",
+          "27th",
+          "28th",
+          "30th"
+        ],
+        "answer": 0,
+        "explain": "The release says he assumed charge as the 29th Chief of the Indian Air Force."
+      },
+      "tags": [
+        "Indian Air Force",
+        "defence"
+      ]
+    },
+    {
+      "id": "news-2026-11-02-14",
+      "type": "news",
+      "category": "science",
+      "headline": "Rafale Marine lands on INS Vikrant in maiden attempt",
+      "body": "A Rafale Marine fighter jet landed on India's indigenous aircraft carrier INS Vikrant on October 29, on its maiden attempt, during trials. The Navy called it the first step towards operationalising the Rafale-M fleet. India signed a deal with France on April 28, 2025, for 26 Rafale-M jets worth about ₹63,000 crore, comprising 22 single-seat fighters and four twin-seat trainers, with training and technology transfer provisions.",
+      "why_it_matters": "Carrier-based fighters extend the Navy's air defence and maritime strike reach, and the deal includes technology transfer linked to Aatmanirbhar Bharat.",
+      "key_fact": "26 Rafale-M jets procured from France for about ₹63,000 crore",
+      "source_url": "https://www.livemint.com/news/india/why-rafale-landing-on-ins-vikrant-matters-how-french-fighter-jet-will-boost-indian-navys-carrier-capabilities-11793550684522.html",
+      "date": "2026-11-02",
+      "quiz": {
+        "q": "How many Rafale-M fighter jets is India procuring from France?",
+        "options": [
+          "26",
+          "22",
+          "36",
+          "18"
+        ],
+        "answer": 0,
+        "explain": "The April 28, 2025 agreement covers 26 Rafale-M jets: 22 single-seat and four twin-seat trainers."
+      },
+      "tags": [
+        "Rafale-M",
+        "Indian Navy",
+        "INS Vikrant"
+      ]
+    },
+    {
+      "id": "news-2026-11-02-15",
+      "type": "news",
+      "category": "science",
+      "headline": "GSLV-F18 success brings relief to ISRO and NavIC",
+      "body": "The successful GSLV-F18 launch and the healthy NVS-03 satellite give ISRO relief after two PSLV failures in 18 months; F18 was only its second successful launch of 2026. If NVS-03 reaches its orbital slot, NavIC will recover from being at least one functional satellite short for six months. The second-generation NVS satellites carry at least one indigenous atomic clock. The article urges higher space funding.",
+      "why_it_matters": "NavIC provides standalone positioning over the Indian subcontinent, so restoring satellites affects navigation services that support everyday and strategic uses.",
+      "key_fact": "NVS-03: second-generation NavIC satellite with an indigenous atomic clock",
+      "source_url": "https://www.thehindu.com/opinion/editorial/the-hindu-editorial-november-2-2026-slow-recovery-on-the-isros-gslv-f18-mission/article71654004.ece",
+      "date": "2026-11-02",
+      "quiz": {
+        "q": "Which satellite did the GSLV-F18 mission carry?",
+        "options": [
+          "NVS-03",
+          "NVS-01",
+          "IRNSS-1A",
+          "GSAT-20"
+        ],
+        "answer": 0,
+        "explain": "The article says the GSLV-F18 mission launched the NVS-03 satellite."
+      },
+      "tags": [
+        "ISRO",
+        "NavIC",
+        "GSLV"
+      ]
+    },
+    {
+      "id": "news-2026-11-02-16",
+      "type": "news",
+      "category": "international",
+      "headline": "Jaishankar meets Russian, Polish, South Korean ministers at G20",
+      "body": "External Affairs Minister S. Jaishankar held separate meetings with the foreign ministers of Russia, Poland and South Korea on the sidelines of the G20 Foreign Ministers' Meeting in Atlanta. With Russian Foreign Minister Sergey Lavrov, he discussed the Ukraine conflict, the Gulf situation and multilateral issues. Talks with Poland's Radoslaw Sikorski focused on Ukraine, India-EU ties and the G20.",
+      "why_it_matters": "Such bilateral meetings show how India conducts diplomacy with major powers on global conflicts while advancing its own ties.",
+      "key_fact": "G20 Foreign Ministers' Meeting held in Atlanta",
+      "source_url": "https://www.thehindu.com/news/international/s-jaishankar-meets-russian-polish-south-korean-counterparts-discusses-ukraine-west-asia/article71653057.ece",
+      "date": "2026-11-02",
+      "quiz": {
+        "q": "Where did the G20 Foreign Ministers' Meeting, on whose sidelines Jaishankar held these talks, take place?",
+        "options": [
+          "Atlanta",
+          "New Delhi",
+          "Moscow",
+          "Seoul"
+        ],
+        "answer": 0,
+        "explain": "The article states the meetings took place on the sidelines of the G20 Foreign Ministers' Meeting in Atlanta."
+      },
+      "tags": [
+        "diplomacy",
+        "G20",
+        "Jaishankar"
+      ]
+    },
+    {
+      "id": "news-2026-11-02-17",
+      "type": "news",
+      "category": "culture",
+      "headline": "Bhutan builds 108 stupas in nine hours, dedicates No. 76 to PM Modi",
+      "body": "About 40,000 trained volunteers built 108 Buddhist stupas, known as Jangchub Chortens, in nine hours at Gelephu in Bhutan. King Jigme Khesar Namgyel Wangchuk dedicated Chorten No. 76 to Prime Minister Narendra Modi, marking his recent 76th birthday, in appreciation of India's support for the Gelephu Mindfulness City project. Each stupa is 15 metres tall and 108 metres apart along the Mau Chhu River.",
+      "why_it_matters": "It highlights the close India-Bhutan relationship and Bhutan's plan to build a spirituality-driven economic hub near the Assam border.",
+      "key_fact": "108 stupas built in nine hours in Bhutan",
+      "source_url": "https://www.thehindu.com/news/international/bhutan-builds-108-stupas-in-9-hours-dedicates-no-76-to-pm-modi/article71653715.ece",
+      "date": "2026-11-02",
+      "quiz": {
+        "q": "How many Buddhist stupas were built in nine hours in Bhutan under Project 108?",
+        "options": [
+          "108",
+          "76",
+          "100",
+          "40"
+        ],
+        "answer": 0,
+        "explain": "The article says 108 Jangchub Chortens were built between 3 a.m. and 12 noon."
+      },
+      "tags": [
+        "India-Bhutan",
+        "Gelephu",
+        "Buddhism"
+      ]
+    },
+    {
+      "id": "news-2026-11-02-18",
+      "type": "news",
+      "category": "sports",
+      "headline": "Kimi Antonelli becomes youngest Formula 1 world champion",
+      "body": "Italian driver Kimi Antonelli was crowned the youngest-ever Formula 1 world champion after finishing third at the Mexico City Grand Prix, won by Max Verstappen ahead of Lewis Hamilton. Antonelli, at 20 years and 68 days old, broke Sebastian Vettel's 2010 record. He has nine wins and 16 podiums this season, with four races remaining.",
+      "why_it_matters": "It is a record in one of the world's most-watched sports, and marks the first Italian F1 world champion.",
+      "key_fact": "Antonelli youngest-ever F1 champion at 20 years, 68 days",
+      "source_url": "https://www.thehindu.com/sport/motorsport/kimi-antonelli-becomes-youngest-f1-champion-max-verstappen-wins-in-mexico/article71655119.ece",
+      "date": "2026-11-02",
+      "quiz": {
+        "q": "Whose record did Kimi Antonelli break to become the youngest F1 world champion?",
+        "options": [
+          "Sebastian Vettel",
+          "Max Verstappen",
+          "Lewis Hamilton",
+          "Michael Schumacher"
+        ],
+        "answer": 0,
+        "explain": "The article says Antonelli was more than three years younger than Germany's Sebastian Vettel when he set the previous record in 2010."
+      },
+      "tags": [
+        "Formula 1",
+        "sport",
+        "record"
+      ]
+    },
+    {
+      "id": "news-2026-11-02-19",
+      "type": "news",
+      "category": "sports",
+      "headline": "Manisha Bhanwala becomes India's first woman wrestling world champion",
+      "body": "Haryana's Manisha Bhanwala, 29, defeated American Abigail Nette in the 59kg freestyle final at the World Wrestling Championships in Astana on October 30, 2026, becoming India's first woman world champion in wrestling. She is only the second Indian after Sushil Kumar, who won the men's 66kg title in 2010. Her father, who introduced her to wrestling, died in 2022.",
+      "why_it_matters": "It is a landmark first for Indian women in wrestling and puts a Haryana athlete on the sport's highest podium.",
+      "key_fact": "First Indian woman world champion in wrestling, 59kg freestyle",
+      "source_url": "https://www.thehindu.com/sport/wrestler-manisha-bhanwala-profile-biography-asian-games-kazakhstan-world-championship-news/article71649354.ece",
+      "date": "2026-11-02",
+      "quiz": {
+        "q": "Which weight category did Manisha Bhanwala win at the World Wrestling Championships?",
+        "options": [
+          "59kg freestyle",
+          "66kg freestyle",
+          "49kg freestyle",
+          "57kg freestyle"
+        ],
+        "answer": 0,
+        "explain": "The article says she won gold in the 59kg freestyle category in Astana."
+      },
+      "tags": [
+        "wrestling",
+        "sport",
+        "women"
+      ]
+    }
+  ]
+}
