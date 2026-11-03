@@ -1,0 +1,525 @@
+{
+  "date": "2026-11-03",
+  "cards": [
+    {
+      "id": "news-2026-11-03-01",
+      "type": "news",
+      "category": "geography",
+      "headline": "Cyclone Murasu's eye crosses Andhra Pradesh coast",
+      "body": "The eye of severe cyclonic storm Murasu crossed the Andhra Pradesh coast at 5.30 a.m. on Tuesday, November 3, 2026, according to a Met Department official. The system lay near Ongole and was expected to weaken gradually, with winds up to 90 kmph. Heavy rain and strong winds collapsed thatched houses and stranded residents in Prakasam district; the state's 'Mana Mitra' WhatsApp platform was opened for cyclone grievances.",
+      "why_it_matters": "Cyclone landfalls disrupt lives, power and transport across coastal districts, making timely warnings and grievance channels essential for residents.",
+      "key_fact": "Cyclone Murasu made landfall on November 3, 2026",
+      "source_url": "https://www.thehindu.com/news/national/cyclone-murasu-landfall-live-updates-november-3-2026-rain-andhra-pradesh-telangana-odisha-weather/article71659195.ece",
+      "date": "2026-11-03",
+      "quiz": {
+        "q": "When did the eye of Cyclone Murasu cross the Andhra Pradesh coast?",
+        "options": [
+          "November 3, 2026",
+          "November 13, 2026",
+          "October 3, 2026",
+          "December 3, 2026"
+        ],
+        "answer": 0,
+        "explain": "The Met Department official said the eye crossed the coast at 5.30 a.m. on Tuesday, November 3, 2026."
+      },
+      "tags": [
+        "Cyclone Murasu",
+        "Andhra Pradesh",
+        "weather"
+      ]
+    },
+    {
+      "id": "news-2026-11-03-02",
+      "type": "news",
+      "category": "environment",
+      "headline": "PM Modi opens India Renewable Energy Summit 2026",
+      "body": "Prime Minister Narendra Modi inaugurated the India Renewable Energy Summit and Exhibition 2026 at Bharat Mandapam, New Delhi. He said energy security's future lies in clean, renewable energy, and urged startups and innovators to develop round-the-clock solar models such as rooftop solar cooking and home solar charging. Minister Pralhad Joshi noted the PM Surya Sarovar Yojana, approved with over ₹5,000 crore for 5,000 MW.",
+      "why_it_matters": "Renewable energy adoption affects household electricity costs and India's push to reduce dependence on imported fossil fuels.",
+      "key_fact": "PM Surya Sarovar Yojana approved with over ₹5,000 crore",
+      "source_url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2331871",
+      "date": "2026-11-03",
+      "quiz": {
+        "q": "Which scheme, mentioned at the summit, was approved with an outlay of over ₹5,000 crore for 5,000 MW?",
+        "options": [
+          "PM Surya Sarovar Yojana",
+          "PM Kisan Samman Nidhi",
+          "National Green Hydrogen Mission",
+          "Ujjwala Yojana"
+        ],
+        "answer": 0,
+        "explain": "Minister Pralhad Joshi said the PM Surya Sarovar Yojana was approved with an outlay of over ₹5,000 crore for 5,000 MW."
+      },
+      "tags": [
+        "renewable energy",
+        "PM Modi",
+        "summit"
+      ]
+    },
+    {
+      "id": "news-2026-11-03-03",
+      "type": "news",
+      "category": "polity",
+      "headline": "India signs ₹53,866 crore deal for eight next-generation corvettes",
+      "body": "India signed defence contracts worth ₹53,866 crore to build eight next-generation corvettes for the Indian Navy. GRSE will build five and Goa Shipyard Limited three. It is the first project where the Indian Navy designs the ships itself and defence PSUs construct them. Defence Minister Rajnath Singh said the project would generate large employment at shipyards and in MSMEs.",
+      "why_it_matters": "It strengthens indigenous warship-building and naval surveillance amid growing maritime security concerns in the Indian Ocean Region.",
+      "key_fact": "₹53,866 crore for eight next-generation corvettes",
+      "source_url": "https://www.livemint.com/news/why-india-inked-53-866-crore-deal-for-8-new-warships-how-next-generation-corvettes-will-boost-navys-capabilities-11793642579701.html",
+      "date": "2026-11-03",
+      "quiz": {
+        "q": "How many next-generation corvettes will be built under the ₹53,866 crore contracts?",
+        "options": [
+          "Eight",
+          "Five",
+          "Three",
+          "Twelve"
+        ],
+        "answer": 0,
+        "explain": "GRSE will build five corvettes and Goa Shipyard Limited three, making eight in total."
+      },
+      "tags": [
+        "Indian Navy",
+        "defence",
+        "corvettes"
+      ]
+    },
+    {
+      "id": "news-2026-11-03-04",
+      "type": "news",
+      "category": "international",
+      "headline": "Indian Navy rescues hijacked fishing vessel off Somalia",
+      "body": "The Indian Navy rescued the hijacked fishing vessel Azini from armed pirates off northeastern Somalia in an operation lasting over 48 hours, freeing all 20 crew members without casualties. A warship and maritime reconnaissance aircraft tracked the vessel, which was suspected of being used as a 'mother ship'. Marine Commandos were airdropped by an IAF C-17 aircraft before securing the vessel.",
+      "why_it_matters": "It underscores India's role as a first responder protecting seafarers and trade routes in the Indian Ocean Region.",
+      "key_fact": "All 20 crew members of vessel Azini rescued",
+      "source_url": "https://www.thehindu.com/news/national/indian-navy-rescues-hijacked-fishing-vessel-off-somalia-frees-all-20-crew-members/article71659504.ece",
+      "date": "2026-11-03",
+      "quiz": {
+        "q": "How many crew members were freed from the hijacked vessel Azini?",
+        "options": [
+          "20",
+          "48",
+          "15",
+          "30"
+        ],
+        "answer": 0,
+        "explain": "The Indian Navy said all 20 crew members were rescued without any casualties or injuries."
+      },
+      "tags": [
+        "Indian Navy",
+        "Somalia",
+        "piracy"
+      ]
+    },
+    {
+      "id": "news-2026-11-03-05",
+      "type": "news",
+      "category": "economy",
+      "headline": "Government to continue capex push, says FM Sitharaman",
+      "body": "Finance Minister Nirmala Sitharaman said the Government will keep pushing capital expenditure to support growth until the private sector expands capacity, citing strong multiplier effects over the past four to five years. Speaking at an HSBC India event in Mumbai, she stressed that fiscal prudence remains non-negotiable and that spending must be done responsibly, while urging more optimism about India's economy.",
+      "why_it_matters": "Public capex decisions affect infrastructure, jobs and growth, while fiscal prudence shapes borrowing costs and the government's credibility.",
+      "key_fact": "Fiscal prudence is non-negotiable, says Nirmala Sitharaman",
+      "source_url": "https://www.thehindu.com/business/Economy/capex-push-to-continue-but-fiscal-prudence-non-negotiable-fm/article71657701.ece",
+      "date": "2026-11-03",
+      "quiz": {
+        "q": "According to Nirmala Sitharaman, which principle will remain non-negotiable alongside higher spending?",
+        "options": [
+          "Fiscal prudence",
+          "Lower GST",
+          "Sovereign rating upgrade",
+          "Decreased capex"
+        ],
+        "answer": 0,
+        "explain": "She said the Government would remain fiscally prudent even while sustaining capital expenditure."
+      },
+      "tags": [
+        "capes",
+        "fiscal policy",
+        "Nirmala Sitharaman"
+      ]
+    },
+    {
+      "id": "news-2026-11-03-06",
+      "type": "news",
+      "category": "economy",
+      "headline": "RBI revives licensing of urban cooperative banks after 22 years",
+      "body": "The Reserve Bank of India has decided to reopen the process of licensing urban cooperative banks (UCBs) after keeping it on hold for 22 years. The move is seen as a significant shift, coming after the sector's troubled history of regulatory lapses and governance failures. The government is reportedly keen to put safety guardrails in place before the sector grows again.",
+      "why_it_matters": "Urban cooperative banks serve many small depositors and borrowers, so tighter licensing rules can affect how safely their money is held.",
+      "key_fact": "UCB licensing was on hold for 22 years",
+      "source_url": "https://www.thehindu.com/business/Economy/after-22-years-rbi-reopens-ucb-licensing-can-new-audit-rules-ensure-a-safer-banking-sector-explained/article71659655.ece",
+      "date": "2026-11-03",
+      "quiz": {
+        "q": "For how long had the RBI kept UCB licensing on hold before deciding to revive it?",
+        "options": [
+          "10 years",
+          "15 years",
+          "22 years",
+          "32 years"
+        ],
+        "answer": 2,
+        "explain": "The article states the RBI kept UCB licensing on hold for 22 years."
+      },
+      "tags": [
+        "RBI",
+        "urban cooperative banks",
+        "banking regulation"
+      ]
+    },
+    {
+      "id": "news-2026-11-03-07",
+      "type": "news",
+      "category": "environment",
+      "headline": "Delhi air quality turns 'very poor', GRAP Stage 2 invoked",
+      "body": "Delhi's air quality fell to the 'very poor' category for the first time this winter, with the 24-hour average AQI at 324 on November 2, 2026. The Commission for Air Quality Management invoked Stage 2 of the Graded Response Action Plan. It requires higher parking fees, staggered office timings in NCR districts, and more Delhi Metro trips on weekdays to promote public transport.",
+      "why_it_matters": "GRAP stages directly affect daily life in Delhi-NCR through vehicle, parking and work-timing curbs, and very poor air can cause respiratory illness on prolonged exposure.",
+      "key_fact": "GRAP is a four-stage emergency plan to curb air pollution",
+      "source_url": "https://www.thehindu.com/news/cities/Delhi/delhi-chokes-aqi-324-plunges-to-very-poor-stage-ii-grap-invoked/article71657232.ece",
+      "date": "2026-11-03",
+      "quiz": {
+        "q": "How many stages does the Graded Response Action Plan (GRAP) have?",
+        "options": [
+          "Two",
+          "Three",
+          "Four",
+          "Five"
+        ],
+        "answer": 2,
+        "explain": "The article notes GRAP is divided into four stages, announced by the CAQM based on pollution levels."
+      },
+      "tags": [
+        "Delhi",
+        "air pollution",
+        "GRAP",
+        "AQI"
+      ]
+    },
+    {
+      "id": "news-2026-11-03-08",
+      "type": "news",
+      "category": "international",
+      "headline": "India, Israel vote against UNGA draft on regional arms control",
+      "body": "India and Israel were the only countries to vote against a UN General Assembly First Committee draft on conventional arms control at regional and subregional levels, which was approved 180-2. India said its security concerns extend beyond regional borders and questioned why the UN Disarmament Commission should restart work on a subject it has already addressed through three consensus outcomes.",
+      "why_it_matters": "India's vote signals its position that arms control must be viewed globally, not confined to regions, which shapes how it negotiates disarmament at the UN.",
+      "key_fact": "Draft approved 180-2, with India and Israel opposing",
+      "source_url": "https://www.thehindu.com/news/national/india-israel-vote-against-unga-draft-on-regional-conventional-arms-control/article71659577.ece",
+      "date": "2026-11-03",
+      "quiz": {
+        "q": "How many countries voted against the UNGA First Committee draft on regional conventional arms control?",
+        "options": [
+          "One",
+          "Two",
+          "Five",
+          "None"
+        ],
+        "answer": 1,
+        "explain": "The draft was approved with 180 votes in favour and two against — India and Israel."
+      },
+      "tags": [
+        "United Nations",
+        "disarmament",
+        "India foreign policy"
+      ]
+    },
+    {
+      "id": "news-2026-11-03-09",
+      "type": "news",
+      "category": "science",
+      "headline": "GSLV-F18 success could restore NavIC navigation capability",
+      "body": "The successful GSLV-F18 mission could restore the capabilities of NavIC, India's independent navigation system, according to The Hindu's editorial. However, experts say that bigger reforms, more funding and greater manufacturing capacity will be needed if India is to achieve its long-term space ambitions. The article does not give further details of the mission.",
+      "why_it_matters": "NavIC supports navigation services in India and the region, so restoring it strengthens the country's self-reliance in satellite-based positioning.",
+      "key_fact": "NavIC is India's independent satellite navigation system",
+      "source_url": "https://www.thehindu.com/videos/why-isros-latest-success-matters-more-than-it-appears-the-hindu-editorial/article71655983.ece",
+      "date": "2026-11-03",
+      "quiz": {
+        "q": "Which Indian navigation system could the GSLV-F18 mission help restore?",
+        "options": [
+          "GPS",
+          "Galileo",
+          "NavIC",
+          "GLONASS"
+        ],
+        "answer": 2,
+        "explain": "The editorial says the mission could restore NavIC's capabilities and strengthen India's independent navigation system."
+      },
+      "tags": [
+        "ISRO",
+        "NavIC",
+        "space"
+      ]
+    },
+    {
+      "id": "news-2026-11-03-10",
+      "type": "news",
+      "category": "international",
+      "headline": "Foreign Secretary Misri to visit Nepal on November 4-5",
+      "body": "Foreign Secretary Vikram Misri will visit Kathmandu on November 4 and 5, his first trip to Nepal since Prime Minister Balendra Shah took charge in March this year. Talks are expected to cover a possible India visit by Mr. Shah and the appointment of Nepal's new ambassador to New Delhi. India's assistance after the Bhote Koshi river disaster is also likely to be discussed.",
+      "why_it_matters": "The visit sets the tone for India-Nepal ties under Nepal's new government and could lead to a bilateral visit by its Prime Minister.",
+      "key_fact": "Foreign Secretary Vikram Misri visits Nepal on November 4-5",
+      "source_url": "https://www.thehindu.com/news/national/in-first-high-level-visit-after-new-governments-arrival-foreign-secretary-misri-to-visit-nepal-on-november-4-5/article71657751.ece",
+      "date": "2026-11-03",
+      "quiz": {
+        "q": "Who is travelling to Kathmandu on November 4-5?",
+        "options": [
+          "External Affairs Minister S. Jaishankar",
+          "Foreign Secretary Vikram Misri",
+          "Prime Minister Balendra Shah",
+          "Ambassador Nischal Nath Pandey"
+        ],
+        "answer": 1,
+        "explain": "The Ministry of External Affairs announced Foreign Secretary Vikram Misri's two-day visit to Kathmandu."
+      },
+      "tags": [
+        "India-Nepal",
+        "diplomacy",
+        "MEA"
+      ]
+    },
+    {
+      "id": "news-2026-11-03-11",
+      "type": "news",
+      "category": "international",
+      "headline": "Russian strike on aid school in Ukraine kills 26",
+      "body": "Ukrainian officials said Russian strikes hit a school distributing humanitarian aid in a village in Zaporizhzhia, killing at least 26 people, including two rescue workers and four police officers. The attack came hours after a US-brokered local ceasefire in the neighbouring Kherson region ended. President Zelensky said Russia was sending a signal against progress toward peace.",
+      "why_it_matters": "It illustrates how fragile local truces can be in the ongoing Russia-Ukraine war and the risks to civilians and aid workers in conflict zones.",
+      "key_fact": "US-brokered local ceasefire in Kherson ran Oct 27 to Nov 1, 2026",
+      "source_url": "https://www.thehindu.com/news/international/russia-ukraine-war-strikes-on-a-school-by-russia-kills-26-derailing-hopes-of-progress-toward-peace/article71659505.ece",
+      "date": "2026-11-03",
+      "quiz": {
+        "q": "According to the report, who brokered the local ceasefire that ended before the Zaporizhzhia strike?",
+        "options": [
+          "U.S. First Lady Melania Trump",
+          "The United Nations",
+          "The European Union",
+          "Turkey"
+        ],
+        "answer": 0,
+        "explain": "The article states the truce was brokered by U.S. First Lady Melania Trump to enable a mission to Oleshky."
+      },
+      "tags": [
+        "Russia-Ukraine war",
+        "ceasefire",
+        "civilian casualties"
+      ]
+    },
+    {
+      "id": "news-2026-11-03-12",
+      "type": "news",
+      "category": "international",
+      "headline": "US midterms: Senate now within reach of Democrats",
+      "body": "Ahead of the November 3 US midterm elections, forecasts suggest Republicans could lose the House of Representatives and that the Senate is now within reach of Democrats. The GOP holds a 53-47 Senate majority, with 35 seats contested this year. The Cook Political Report lists seven toss-up seats in Iowa, Arkansas, Kansas, Maine, Michigan, Ohio and Texas, all but Michigan currently Republican-held.",
+      "why_it_matters": "US midterm results shape the balance of power in Washington and can influence American foreign and trade policy that affects India.",
+      "key_fact": "Republicans hold a 53-47 majority in the US Senate",
+      "source_url": "https://www.thehindu.com/news/international/republicans-defend-their-bastions-as-senate-comes-within-reach-of-democrats/article71641257.ece",
+      "date": "2026-11-03",
+      "quiz": {
+        "q": "What is the current Republican majority in the US Senate, according to the article?",
+        "options": [
+          "53-47",
+          "51-49",
+          "55-45",
+          "50-50"
+        ],
+        "answer": 0,
+        "explain": "The report states the GOP has a 53-47 majority in the Senate."
+      },
+      "tags": [
+        "US midterms",
+        "Senate",
+        "elections"
+      ]
+    },
+    {
+      "id": "news-2026-11-03-13",
+      "type": "news",
+      "category": "polity",
+      "headline": "Law Ministry to hold workshop on e-Filing 3.0 platform",
+      "body": "The Department of Justice, under the Ministry of Law and Justice, will hold a workshop on 'e-Filing 3.0: From Process to Practice' on November 4, 2026, at Vigyan Bhawan, New Delhi. Part of the e-Courts Mission Mode Project, it aims to familiarise government officials with the platform. Minister of State Arjun Ram Meghwal is expected to attend, with technical sessions by NIC.",
+      "why_it_matters": "Wider e-filing by government departments can reduce pending litigation, speed up court processes and support the push for paperless, citizen-centric justice.",
+      "key_fact": "e-Courts Mission Mode Project's Phase III aims for paperless courts",
+      "source_url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2331878",
+      "date": "2026-11-03",
+      "quiz": {
+        "q": "Which ministry's Department of Justice is organising the e-Filing 3.0 workshop?",
+        "options": [
+          "Ministry of Law and Justice",
+          "Ministry of Electronics and IT",
+          "Ministry of Home Affairs",
+          "Ministry of Finance"
+        ],
+        "answer": 0,
+        "explain": "The article states the Department of Justice falls under the Ministry of Law and Justice."
+      },
+      "tags": [
+        "e-Courts",
+        "e-filing",
+        "judiciary",
+        "Law Ministry"
+      ]
+    },
+    {
+      "id": "news-2026-11-03-14",
+      "type": "news",
+      "category": "economy",
+      "headline": "India's manufacturing PMI eases to 54.7 in October",
+      "body": "The HSBC India Manufacturing Purchasing Managers' Index fell to 54.7 in October from 55.1 in September, but stayed well above the neutral 50 mark and its long-run average. New export orders rose at a six-month high, input cost inflation eased to its lowest since February, and factory employment rose for a second straight month, though hiring remained subdued and business confidence weakened.",
+      "why_it_matters": "The PMI is a monthly gauge of factory activity, and a reading above 50 signals expansion, which matters for jobs, prices and overall economic growth.",
+      "key_fact": "Manufacturing PMI 54.7 in October, down from 55.1 in September",
+      "source_url": "https://www.livemint.com/economy/india-manufacturing-pmi-october-2026-growth-new-export-orders-11793598601253.html",
+      "date": "2026-11-03",
+      "quiz": {
+        "q": "What does a PMI reading above 50 indicate?",
+        "options": [
+          "Expansion in activity",
+          "Contraction in activity",
+          "No change in activity",
+          "Rising unemployment"
+        ],
+        "answer": 0,
+        "explain": "The article notes that 50 is the neutral mark, so readings above it signal expansion."
+      },
+      "tags": [
+        "PMI",
+        "manufacturing",
+        "economy"
+      ]
+    },
+    {
+      "id": "news-2026-11-03-15",
+      "type": "news",
+      "category": "economy",
+      "headline": "SBI Research says Centre can afford to abolish LTCG tax",
+      "body": "An SBI Research report argues the Centre could abolish long-term capital gains tax without derailing fiscal consolidation, since the revenue loss would be 0.1-0.2% of GDP. It estimates the loss at ₹40,000-50,000 crore for FY28, noting FY25's ₹1.3 lakh crore collection was unusually high due to strong market returns and FII outflows of ₹4.8 lakh crore now.",
+      "why_it_matters": "LTCG tax applies to profits from selling assets like shares and mutual funds held over a year, so any change affects the returns of ordinary investors.",
+      "key_fact": "LTCG abolition loss estimated at 0.1-0.2% of GDP",
+      "source_url": "https://www.livemint.com/economy/can-india-abolish-ltgc-tax-sbi-research-say-centre-fiscal-headroom-absorb-50000-cr-loss-alternatives-high-exemptions-stt-11793673980549.html",
+      "date": "2026-11-03",
+      "quiz": {
+        "q": "According to SBI Research, abolishing LTCG tax would cost how much as a share of GDP?",
+        "options": [
+          "0.1-0.2% of GDP",
+          "1-2% of GDP",
+          "0.5-1% of GDP",
+          "3-4% of GDP"
+        ],
+        "answer": 0,
+        "explain": "The report said the shortfall would be 0.1-0.2% of GDP, which the government could absorb while staying on its fiscal glide path."
+      },
+      "tags": [
+        "LTCG tax",
+        "SBI Research",
+        "capital gains",
+        "fiscal policy"
+      ]
+    },
+    {
+      "id": "news-2026-11-03-16",
+      "type": "news",
+      "category": "international",
+      "headline": "WHO chief cites Ebola outbreak to push pandemic treaty",
+      "body": "As the ninth round of talks opened in Geneva, WHO chief Tedros Adhanom Ghebreyesus urged countries to finalise a pandemic treaty, citing the Ebola epidemic in the Democratic Republic of Congo and an earlier hantavirus outbreak. The Ebola outbreak, declared in May, has killed nearly 5,000 of over 10,000 infected. A Pandemic Agreement was adopted in May 2025 but left the PABS mechanism unresolved.",
+      "why_it_matters": "A pandemic treaty governs how pathogens and benefits like vaccines are shared globally, which shapes how quickly countries including India can access vaccines and treatments in a future pandemic.",
+      "key_fact": "PABS: Pathogen Access and Benefit-Sharing system",
+      "source_url": "https://www.thehindu.com/sci-tech/health/ebola-reminder-of-urgent-need-to-finish-pandemic-treaty-who-chief/article71656911.ece",
+      "date": "2026-11-03",
+      "quiz": {
+        "q": "What does the PABS system under the pandemic treaty cover?",
+        "options": [
+          "Sharing access to pathogens and benefits like vaccines",
+          "Funding for WHO staff salaries",
+          "Rules for international travel bans",
+          "Setting global drug prices"
+        ],
+        "answer": 0,
+        "explain": "PABS stands for Pathogen Access and Benefit-Sharing, covering how to share pathogens with pandemic potential and the vaccines, tests and treatments derived from them."
+      },
+      "tags": [
+        "WHO",
+        "pandemic treaty",
+        "Ebola",
+        "global health"
+      ]
+    },
+    {
+      "id": "news-2026-11-03-17",
+      "type": "news",
+      "category": "environment",
+      "headline": "Indonesia wildfires burn 1.9 million hectares; protests erupt",
+      "body": "More than 1.9 million hectares burned across Indonesia between January and September 2026, with the year's hotspot count already exceeding every annual total from 2019 to 2025. Land clearing for plantations and drained, flammable peatlands, worsened by a strong El Niño that cut rainfall, fuelled the fires. On October 28, thousands protested the government's response and broader policies.",
+      "why_it_matters": "Such fires release large amounts of stored carbon and toxic haze, making them a regional air-quality and climate concern beyond Indonesia.",
+      "key_fact": "Over 1.9 million hectares burned in Indonesia in 2026",
+      "source_url": "https://www.thehindu.com/data/indonesias-wildfires-scorch-19-million-hectares/article71659435.ece",
+      "date": "2026-11-03",
+      "quiz": {
+        "q": "How much area burned in Indonesia between January and September 2026?",
+        "options": [
+          "More than 1.9 million hectares",
+          "About 886,172 hectares",
+          "About 1.39 million hectares",
+          "More than 10 million hectares"
+        ],
+        "answer": 0,
+        "explain": "Nusantara Atlas FireWatch data showed over 1.9 million hectares burned, higher than the 1.39 million hectares in 2019 and 886,172 hectares in 2023."
+      },
+      "tags": [
+        "Indonesia",
+        "wildfires",
+        "El Nino",
+        "peatlands"
+      ]
+    },
+    {
+      "id": "news-2026-11-03-18",
+      "type": "news",
+      "category": "sports",
+      "headline": "Kimi Antonelli becomes youngest-ever F1 world champion",
+      "body": "Mercedes driver Kimi Antonelli of Italy won his first Formula 1 world championship at the Mexico City Grand Prix, finishing third behind Max Verstappen and Lewis Hamilton. At 20 years and 68 days, he broke Sebastian Vettel's 2010 record for the youngest champion by more than three years. Antonelli has nine wins, 16 podiums and 380 points with four races left.",
+      "why_it_matters": "Antonelli is also the first Italian world champion, a record that football-and-motorsport fans in India can file as a milestone in F1 history.",
+      "key_fact": "Youngest F1 champion at 20 years and 68 days",
+      "source_url": "https://www.thehindu.com/sport/motorsport/kimi-antonelli-becomes-youngest-f1-champion-max-verstappen-wins-in-mexico/article71655119.ece",
+      "date": "2026-11-03",
+      "quiz": {
+        "q": "Whose record did Kimi Antonelli break to become the youngest F1 world champion?",
+        "options": [
+          "Sebastian Vettel",
+          "Lewis Hamilton",
+          "Max Verstappen",
+          "Michael Schumacher"
+        ],
+        "answer": 0,
+        "explain": "Antonelli was more than three years younger than Germany's Sebastian Vettel, who set the previous record in 2010."
+      },
+      "tags": [
+        "Formula 1",
+        "Kimi Antonelli",
+        "world championship",
+        "motorsport"
+      ]
+    },
+    {
+      "id": "news-2026-11-03-19",
+      "type": "news",
+      "category": "sports",
+      "headline": "India thrash Korea 8-0 to end Asian Champions Trophy league stage",
+      "body": "The Indian men's hockey team beat Korea 8-0 on Monday, with seven different scorers and eight penalty corners, to stay unbeaten in the league stage of the Asian Champions Trophy. Dilpreet Singh opened the scoring in the eighth minute and Angad Bir Singh finished it near full time. India had 19 attempts to Korea's four. The teams meet again in the semifinal.",
+      "why_it_matters": "Hockey is a core Olympic sport for India, so India's form at a continental tournament is a marker of how strong the team looks for bigger events.",
+      "key_fact": "India beat Korea 8-0 with seven different scorers",
+      "source_url": "https://www.thehindu.com/sport/hockey/asian-champions-trophy-india-ends-league-phase-with-a-thumping-win-over-korea/article71658184.ece",
+      "date": "2026-11-03",
+      "quiz": {
+        "q": "How many different players scored in India's 8-0 win over Korea?",
+        "options": [
+          "Seven",
+          "Eight",
+          "Five",
+          "Six"
+        ],
+        "answer": 0,
+        "explain": "Eight goals came from seven different scorers, from Dilpreet Singh's opener to Angad Bir Singh's late strike."
+      },
+      "tags": [
+        "hockey",
+        "Asian Champions Trophy",
+        "India",
+        "Korea"
+      ]
+    }
+  ]
+}
