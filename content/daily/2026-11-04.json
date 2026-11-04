@@ -1,0 +1,530 @@
+{
+  "date": "2026-11-04",
+  "cards": [
+    {
+      "id": "news-2026-11-04-01",
+      "type": "news",
+      "category": "science",
+      "headline": "IndiaAI Mission releases indigenous foundation models EKA-1 and Dhīr",
+      "body": "The IndiaAI Mission, under the Ministry of Electronics and IT, released three homegrown foundation models in New Delhi: EKA-1 by Soket Labs and Dhīr 2B and Dhīr 5B by ZenteiQ AiTech Innovations. EKA-1, with 26.3 billion parameters trained on about 7.5 trillion tokens, supports all 22 scheduled Indian languages. Both firms were selected under the IndiaAI Innovation Centre (Foundation Models) pillar.",
+      "why_it_matters": "These are India's own large language models, showing progress in building AI suited to Indian languages, banking and cybersecurity rather than depending only on foreign models.",
+      "key_fact": "EKA-1: 26.3 billion parameters, trained on ~7.5 trillion tokens",
+      "source_url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332358",
+      "date": "2026-11-04",
+      "quiz": {
+        "q": "How many parameters does the indigenous model EKA-1 have?",
+        "options": [
+          "2.6 billion",
+          "7.5 billion",
+          "26.3 billion",
+          "75 billion"
+        ],
+        "answer": 2,
+        "explain": "The article states EKA-1 has 26.3 billion parameters and was trained on about 7.5 trillion tokens."
+      },
+      "tags": [
+        "IndiaAI",
+        "AI models",
+        "MeitY",
+        "indigenous technology"
+      ]
+    },
+    {
+      "id": "news-2026-11-04-02",
+      "type": "news",
+      "category": "science",
+      "headline": "IndiaAI Mission releases EKA-1, Dhīr 2B and Dhīr 5B models",
+      "body": "The IndiaAI Mission under MeitY released indigenous foundation models: EKA-1 from Soket Labs and Dhīr 2B and Dhīr 5B from ZenteiQ AiTech Innovations. EKA-1, with 26.3 billion parameters trained on about 7.5 trillion tokens, covers all 22 scheduled Indian languages plus English, and can do some inferencing on-device even without data or WiFi. Dhīr supports English and 10 Indian languages.",
+      "why_it_matters": "Subsidised public AI compute infrastructure helped build these models, showing how government-funded resources can speed up homegrown AI innovation.",
+      "key_fact": "Dhīr models support English and 10 Indian languages",
+      "source_url": "https://www.thehindu.com/sci-tech/technology/indiaai-mission-releases-indigenous-foundation-models-eka-1-dhir-2b-and-dhir-5b/article71663984.ece",
+      "date": "2026-11-04",
+      "quiz": {
+        "q": "Besides English, how many Indian languages do ZenteiQ's Dhīr 2B and Dhīr 5B support?",
+        "options": [
+          "5",
+          "10",
+          "12",
+          "22"
+        ],
+        "answer": 1,
+        "explain": "The article says the Dhīr models are open-source and support English and 10 Indian languages."
+      },
+      "tags": [
+        "IndiaAI",
+        "foundation models",
+        "MeitY",
+        "technology"
+      ]
+    },
+    {
+      "id": "news-2026-11-04-03",
+      "type": "news",
+      "category": "international",
+      "headline": "Democrats win full control of U.S. Congress in midterms",
+      "body": "Democrats won both the House of Representatives and Senate in the November 3, 2026 midterm elections, delivering a rebuke to President Donald Trump and his Republican Party. Voter anger over living costs, tariffs and the U.S. war against Iran weighed on Republicans. Democrats gained Senate seats in Kansas and Iowa among others. Trump said he would accept the results but signalled he would use vetoes.",
+      "why_it_matters": "A divided or opposition-controlled U.S. Congress affects American lawmaking and foreign policy, which can shape trade, tariffs and global markets that matter to India.",
+      "key_fact": "Democrats won both the House and Senate in 2026 midterms",
+      "source_url": "https://www.thehindu.com/news/international/us-midterm-elections-2026-senate-governor-races-winners-losers-trump-republicans-democrats-news/article71663818.ece",
+      "date": "2026-11-04",
+      "quiz": {
+        "q": "Which two chambers did Democrats win in the 2026 U.S. midterms?",
+        "options": [
+          "House and Senate",
+          "Senate and Supreme Court",
+          "House and Presidency",
+          "Senate only"
+        ],
+        "answer": 0,
+        "explain": "The article states Democrats won full control of Congress, taking both the House of Representatives and the Senate."
+      },
+      "tags": [
+        "US midterms",
+        "Democrats",
+        "Donald Trump",
+        "Congress"
+      ]
+    },
+    {
+      "id": "news-2026-11-04-04",
+      "type": "news",
+      "category": "polity",
+      "headline": "Supreme Court questions two-child norm as fertility rate falls",
+      "body": "The Supreme Court on November 4, 2026 held that laws penalising having more than two children have lost relevance as India's total fertility rate fell from 3 to 1.9, below the replacement rate of 2.1. The Bench noted that population-limiting laws rest on a fear of overpopulation that has crumbled. It referred to a larger Bench the question whether the two-child norm must continue.",
+      "why_it_matters": "With fertility below the replacement rate, India may soon have an ageing population and a smaller working-age share, so laws barring people from office for having more than two children may need a rethink.",
+      "key_fact": "India's total fertility rate: 1.9; replacement rate: 2.1",
+      "source_url": "https://www.thehindu.com/news/national/supreme-court-judgment-questions-two-child-norm-with-falling-fertility-rate/article71664320.ece",
+      "date": "2026-11-04",
+      "quiz": {
+        "q": "What is India's total fertility rate according to the Supreme Court's observation?",
+        "options": [
+          "2.1",
+          "1.9",
+          "3.0",
+          "2.5"
+        ],
+        "answer": 1,
+        "explain": "The Court noted India's total fertility rate has fallen from 3 to 1.9, below the replacement rate of 2.1."
+      },
+      "tags": [
+        "Supreme Court",
+        "fertility rate",
+        "two-child norm",
+        "demography"
+      ]
+    },
+    {
+      "id": "news-2026-11-04-05",
+      "type": "news",
+      "category": "economy",
+      "headline": "RBI revives urban cooperative bank licensing after 22-year pause",
+      "body": "The Reserve Bank of India has decided to resume licensing of urban cooperative banks (UCBs) after keeping the process on hold for 22 years. The article notes that UCBs have faced troubled episodes, regulatory lapses and governance failures in the past. The Government appears determined to put guardrails in place before allowing the sector to grow again, with new audit rules seen as key to a safer banking sector.",
+      "why_it_matters": "Urban cooperative banks serve many small depositors and local borrowers, so stronger licensing and audit rules affect the safety of ordinary people's savings.",
+      "key_fact": "RBI licensing of urban cooperative banks was on hold for 22 years",
+      "source_url": "https://www.thehindu.com/business/Economy/after-22-years-rbi-reopens-ucb-licensing-can-new-audit-rules-ensure-a-safer-banking-sector-explained/article71659655.ece",
+      "date": "2026-11-04",
+      "quiz": {
+        "q": "How long had the RBI kept urban cooperative bank licensing on hold before reviving it?",
+        "options": [
+          "10 years",
+          "22 years",
+          "15 years",
+          "30 years"
+        ],
+        "answer": 1,
+        "explain": "The article states the RBI kept UCB licensing on hold for 22 years before deciding to revive the process."
+      },
+      "tags": [
+        "RBI",
+        "urban cooperative banks",
+        "banking regulation"
+      ]
+    },
+    {
+      "id": "news-2026-11-04-06",
+      "type": "news",
+      "category": "international",
+      "headline": "Ganga Water Treaty expires December 12; MEA cites Joint Rivers Commission",
+      "body": "Weeks before the Ganga Water Treaty expires on December 12, MEA spokesperson Randhir Jaiswal said India and Bangladesh have a structured mechanism, the Joint Rivers Commission, for discussions on all cross-boundary rivers including the Ganga. There is no update yet on renewal or on Bangladesh PM Tarique Rahman's visit to New Delhi. The 1996 treaty was signed by PMs Sheikh Hasina and H.D. Deve Gowda.",
+      "why_it_matters": "The treaty governs how Ganga water is shared between India and Bangladesh, a long-standing arrangement that affects both countries' water security.",
+      "key_fact": "Ganga Water Treaty signed in 1996, set to expire December 12",
+      "source_url": "https://www.thehindu.com/news/national/weeks-before-expiry-of-ganga-water-treaty-mea-says-structured-mechanism-remains-in-place-for-pact/article71661782.ece",
+      "date": "2026-11-04",
+      "quiz": {
+        "q": "In which year was the Ganga Water Treaty between India and Bangladesh signed?",
+        "options": [
+          "1996",
+          "1992",
+          "2001",
+          "1988"
+        ],
+        "answer": 0,
+        "explain": "The article states the treaty was signed in 1996 when Sheikh Hasina first became Bangladesh's Prime Minister."
+      },
+      "tags": [
+        "India-Bangladesh",
+        "Ganga Water Treaty",
+        "MEA"
+      ]
+    },
+    {
+      "id": "news-2026-11-04-07",
+      "type": "news",
+      "category": "environment",
+      "headline": "India to push equitable climate finance and practical solutions at COP31",
+      "body": "Environment Minister Bhupender Yadav said India will push for equitable climate action, predictable climate finance and practical solutions for developing countries at COP31 in Antalya, Türkiye, from November 9-20, 2026. India will work with the G-77 and China, the LMDC group and the BASIC bloc. New Delhi seeks a Climate Finance Work Programme and says developed countries must meet obligations under Article 9.1 of the Paris Agreement.",
+      "why_it_matters": "Climate finance decisions at COP31 can shape funding for clean energy and adaptation in developing countries like India.",
+      "key_fact": "COP31 to be held in Antalya, Türkiye, November 9-20, 2026",
+      "source_url": "https://www.livemint.com/news/india/india-to-push-for-equitable-climate-finance-practical-solutions-at-cop31-11793707012705.html",
+      "date": "2026-11-04",
+      "quiz": {
+        "q": "Where is COP31 scheduled to take place?",
+        "options": [
+          "Antalya, Türkiye",
+          "New Delhi, India",
+          "Baku, Azerbaijan",
+          "Dubai, UAE"
+        ],
+        "answer": 0,
+        "explain": "The article states COP31 to the UNFCCC will be held in Antalya, Türkiye, from 9-20 November 2026."
+      },
+      "tags": [
+        "COP31",
+        "climate finance",
+        "environment"
+      ]
+    },
+    {
+      "id": "news-2026-11-04-08",
+      "type": "news",
+      "category": "environment",
+      "headline": "Cyclone Murasu: all 70 Prakasam Barrage gates opened, 71,000 cusecs released",
+      "body": "Heavy rain from Cyclone Murasu swelled the Krishna basin, prompting the Water Resources Department to open all 70 gates of the Prakasam Barrage in Vijayawada. The barrage was receiving 71,000 cusecs on Wednesday morning, all released downstream towards the Bay of Bengal, with the water level at 12 feet. Canal releases were stopped as a precaution, and residents in low-lying areas were asked to stay cautious.",
+      "why_it_matters": "Barrage releases during cyclones affect flood safety for people living along the Krishna river in Andhra Pradesh.",
+      "key_fact": "71,000 cusecs released through all 70 Prakasam Barrage gates",
+      "source_url": "https://www.thehindu.com/news/national/andhra-pradesh/cyclone-murasu-all-70-gates-of-prakasam-barrage-opened-71000-cusecs-released-into-krishna/article71663867.ece",
+      "date": "2026-11-04",
+      "quiz": {
+        "q": "How many gates of the Prakasam Barrage were opened due to Cyclone Murasu rains?",
+        "options": [
+          "50",
+          "70",
+          "40",
+          "30"
+        ],
+        "answer": 1,
+        "explain": "The article says all 70 gates of the Prakasam Barrage were opened to release the surplus flow."
+      },
+      "tags": [
+        "Cyclone Murasu",
+        "Prakasam Barrage",
+        "Andhra Pradesh"
+      ]
+    },
+    {
+      "id": "news-2026-11-04-09",
+      "type": "news",
+      "category": "environment",
+      "headline": "Delhi AQI hits 'very poor' first time this winter; GRAP Stage 2 invoked",
+      "body": "Delhi's air quality fell to the 'very poor' category for the first time this winter, with a 24-hour average AQI of 324 on November 2, 2026. The Commission for Air Quality Management announced Stage 2 of the Graded Response Action Plan, which includes higher parking fees and staggered timings for public offices. The Delhi Metro will run additional weekday trips to encourage public transport use.",
+      "why_it_matters": "GRAP stages directly affect daily life in Delhi-NCR, from transport and parking rules to public health risks from polluted air.",
+      "key_fact": "GRAP has four stages; Delhi AQI 324 triggered Stage 2",
+      "source_url": "https://www.thehindu.com/news/cities/Delhi/delhi-chokes-aqi-324-plunges-to-very-poor-stage-ii-grap-invoked/article71657232.ece",
+      "date": "2026-11-04",
+      "quiz": {
+        "q": "Into how many stages is the Graded Response Action Plan (GRAP) divided?",
+        "options": [
+          "Three",
+          "Four",
+          "Five",
+          "Two"
+        ],
+        "answer": 1,
+        "explain": "The article states GRAP is a set of short-term emergency measures divided into four stages."
+      },
+      "tags": [
+        "Delhi air pollution",
+        "GRAP",
+        "CAQM"
+      ]
+    },
+    {
+      "id": "news-2026-11-04-10",
+      "type": "news",
+      "category": "environment",
+      "headline": "GRAP Stage 2 imposed in Delhi as AQI turns 'very poor'",
+      "body": "Delhi's average AQI rose from 117 on October 31 to 324 on November 2, 2026, prompting the Commission for Air Quality Management to invoke Stage 2 of the Graded Response Action Plan. GRAP-2 applies when AQI is between 301 and 400. Measures include more mechanical road cleaning, water sprinkling, anti-smog guns and higher parking fees; BS-IV and above petrol and diesel cars with valid PUC certificates, EVs and CNG vehicles are allowed.",
+      "why_it_matters": "GRAP restrictions directly affect daily commuting, parking costs and vehicle use for lakhs of residents in Delhi-NCR every winter.",
+      "key_fact": "GRAP-2 applies when Delhi AQI is between 301 and 400",
+      "source_url": "https://www.thehindu.com/news/cities/Delhi/grap-stage-2-restrictions-in-delhi-what-is-allowed-and-what-is-not-allowed-full-list/article71660783.ece",
+      "date": "2026-11-04",
+      "quiz": {
+        "q": "Under GRAP, Stage 2 restrictions are invoked when the AQI falls in which range?",
+        "options": [
+          "201 to 300",
+          "301 to 400",
+          "401 to 450",
+          "Above 450"
+        ],
+        "answer": 1,
+        "explain": "CAQM's GRAP stages: GRAP-1 is 201-300, GRAP-2 is 301-400, GRAP-3 is 401-500 and GRAP-4 above 450."
+      },
+      "tags": [
+        "Delhi",
+        "air pollution",
+        "GRAP",
+        "AQI"
+      ]
+    },
+    {
+      "id": "news-2026-11-04-11",
+      "type": "news",
+      "category": "economy",
+      "headline": "Cabinet to weigh capex support for critical mineral processing, storage VGF",
+      "body": "The Union Cabinet is expected to consider two schemes on November 4, 2026: capital expenditure support for critical mineral processing plants and a viability gap funding scheme for grid-scale energy storage, according to a memo seen by The Hindu. The mineral scheme could offer about 30% support, with lithium and nickel identified for domestic processing. Grid-scale storage helps absorb surplus renewable power; about 1,835 million units of renewable energy were curtailed in July-August.",
+      "why_it_matters": "Domestic processing of critical minerals and better storage support India's electric vehicle battery chain and reduce renewable energy waste.",
+      "key_fact": "Potential scheme may give about 30% support for mineral processing plants",
+      "source_url": "https://www.thehindu.com/business/union-cabinet-discussion-capex-support-for-critical-mineral-processing-vgf-re-grid-scale-storage-system/article71664202.ece",
+      "date": "2026-11-04",
+      "quiz": {
+        "q": "Which two minerals were indicated for India's domestic processing scheme, as per the article?",
+        "options": [
+          "Copper and iron",
+          "Lithium and nickel",
+          "Gold and silver",
+          "Cobalt and zinc"
+        ],
+        "answer": 1,
+        "explain": "The Ministry of Mines secretary had indicated a scheme for domestic processing of lithium and nickel."
+      },
+      "tags": [
+        "critical minerals",
+        "energy storage",
+        "Union Cabinet",
+        "renewables"
+      ]
+    },
+    {
+      "id": "news-2026-11-04-12",
+      "type": "news",
+      "category": "economy",
+      "headline": "NITI Aayog and TEXMiN sign intent pact on critical minerals",
+      "body": "NITI Aayog and TEXMiN, a technology translation research park at IIT (ISM) Dhanbad under the Department of Science and Technology, signed a Statement of Intent to strengthen cooperation in critical and strategic minerals. The partnership aligns with the National Critical Mineral Mission and covers joint research, technology development, policy support, capacity building and knowledge exchange. NITI Aayog member Prof. Govardhan Das signed during a visit to IIT (ISM) Dhanbad.",
+      "why_it_matters": "Critical minerals are vital for national security and clean-energy technology, and India currently depends heavily on imports for many of them.",
+      "key_fact": "National Critical Mineral Mission (NCMM)",
+      "source_url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332374",
+      "date": "2026-11-04",
+      "quiz": {
+        "q": "The NITI Aayog-TEXMiN partnership aligns with which mission?",
+        "options": [
+          "National Solar Mission",
+          "National Critical Mineral Mission",
+          "Make in India 2.0",
+          "National Hydrogen Mission"
+        ],
+        "answer": 1,
+        "explain": "The article states the tie-up aligns with the objectives of the National Critical Mineral Mission (NCMM)."
+      },
+      "tags": [
+        "NITI Aayog",
+        "TEXMiN",
+        "critical minerals",
+        "NCMM"
+      ]
+    },
+    {
+      "id": "news-2026-11-04-13",
+      "type": "news",
+      "category": "polity",
+      "headline": "Health Ministry proposes amending Drugs Rules for batch release accountability",
+      "body": "The Union Health Ministry has proposed amendments to the Drugs Rules, 1945, requiring drug manufacturers to formally authorise a person with suitable qualifications and experience for releasing medicine batches, and to maintain records for each batch. A prescribed format for a 'certificate of batch release' is also proposed. Batch release involves reviewing quality standards and documents before distribution. Comments can be sent to the ministry by post or email.",
+      "why_it_matters": "Clearer accountability for who approves each drug batch can improve medicine quality assurance for patients across the country.",
+      "key_fact": "Drugs Rules, 1945",
+      "source_url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332261",
+      "date": "2026-11-04",
+      "quiz": {
+        "q": "Which rules does the Health Ministry propose to amend on batch release of drugs?",
+        "options": [
+          "Drugs Rules, 1945",
+          "Drugs and Cosmetics Act, 1940",
+          "Medical Devices Rules, 2017",
+          "Pharmacy Act, 1948"
+        ],
+        "answer": 0,
+        "explain": "The proposed amendments are to the Drugs Rules, 1945, which govern drug manufacturing licensing."
+      },
+      "tags": [
+        "health ministry",
+        "drugs",
+        "quality control"
+      ]
+    },
+    {
+      "id": "news-2026-11-04-14",
+      "type": "news",
+      "category": "polity",
+      "headline": "Centre proposes 10 new import gateways for drugs and devices",
+      "body": "The Union Health Ministry has proposed adding 10 inland container depots, SEZ Bommasandra and Noida International Airport to the authorised entry points for importing drugs, medical devices and cosmetics. The draft amendment to Rule 43A of the Drugs Rules, 1945, aims to reduce inland transport distances, cut logistics costs and ease clearances, with new ICDs proposed in Haryana, Uttar Pradesh, Gujarat, Telangana and Karnataka. Stakeholder objections are invited.",
+      "why_it_matters": "More import gateways can mean faster, cheaper availability of medicines and medical devices for Indian patients.",
+      "key_fact": "Rule 43A of the Drugs Rules, 1945",
+      "source_url": "https://www.thehindu.com/news/national/centre-proposes-10-new-import-gateways-for-drugs-medical-devices/article71659502.ece",
+      "date": "2026-11-04",
+      "quiz": {
+        "q": "Which rule of the Drugs Rules, 1945, lists authorised import entry points?",
+        "options": [
+          "Rule 43A",
+          "Rule 65",
+          "Rule 96",
+          "Rule 122"
+        ],
+        "answer": 0,
+        "explain": "Rule 43A specifies the ports, airports and other entry points through which drugs can be imported."
+      },
+      "tags": [
+        "drug imports",
+        "medical devices",
+        "Rule 43A",
+        "logistics"
+      ]
+    },
+    {
+      "id": "news-2026-11-04-15",
+      "type": "news",
+      "category": "science",
+      "headline": "US FDA approves India-made generic HIV prevention shot lenacapavir",
+      "body": "The US FDA has approved a generic version of lenacapavir, the world's only twice-a-year shot to prevent HIV, made by India's Dr. Reddy's Laboratories. The approval, announced on Monday, follows an agreement brokered by Unitaid, the Clinton Health Access Initiative and Wits RHI. It aims to make the drug available inexpensively in 120 low- and middle-income countries at about USD 40 a year per person.",
+      "why_it_matters": "Cheaper, longer-acting HIV prevention could reach millions in poorer countries who struggle to take daily preventive pills.",
+      "key_fact": "Lenacapavir: twice-a-year HIV prevention shot, USD 40 a year",
+      "source_url": "https://www.thehindu.com/sci-tech/health/approval-of-india-made-version-of-hiv-prevention-shot-raises-hopes-in-low-income-countries/article71660754.ece",
+      "date": "2026-11-04",
+      "quiz": {
+        "q": "How often is the lenacapavir shot for HIV prevention taken?",
+        "options": [
+          "Once a month",
+          "Twice a year",
+          "Once a week",
+          "Once a year"
+        ],
+        "answer": 1,
+        "explain": "The article describes lenacapavir as the world's only twice-a-year shot to prevent HIV."
+      },
+      "tags": [
+        "HIV",
+        "health",
+        "Dr Reddy's",
+        "FDA"
+      ]
+    },
+    {
+      "id": "news-2026-11-04-16",
+      "type": "news",
+      "category": "economy",
+      "headline": "Government targets doubling coastal and inland waterway freight share to 12% by 2047",
+      "body": "Union Minister Sarbananda Sonowal said the government aims to raise the share of coastal and inland waterway shipping in India's freight from 6% to 12% by 2047. Plans include the Coastal Cargo Incentive Scheme and the Cruise India Mission, targeting 10 lakh sea cruise passengers by 2029. A Puri International Cruise Terminal, costing about Rs 1,500 crore, is planned by the Paradip Port Authority with Odisha.",
+      "why_it_matters": "Shifting freight to water can cut road congestion and emissions and create jobs along India's 11,000 km coastline.",
+      "key_fact": "Target: 12% freight share via coastal and inland waterways by 2047",
+      "source_url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332287",
+      "date": "2026-11-04",
+      "quiz": {
+        "q": "By which year does the government aim to double coastal and inland waterway freight share to 12%?",
+        "options": [
+          "2030",
+          "2035",
+          "2047",
+          "2029"
+        ],
+        "answer": 2,
+        "explain": "The minister set 2047 as the target year for raising the share from 6% to 12%."
+      },
+      "tags": [
+        "shipping",
+        "waterways",
+        "Sonowal",
+        "ports"
+      ]
+    },
+    {
+      "id": "news-2026-11-04-17",
+      "type": "news",
+      "category": "international",
+      "headline": "Russian strike on Ukrainian aid site kills 31, dozens missing",
+      "body": "The death toll from a Russian attack on a humanitarian aid site in Komyushuvakha, Zaporizhzhia region, rose to 31 on November 3, 2026, with more than 45 residents missing. Russia launched 289 attack drones, 17 ballistic missiles and 59 cruise missiles across nine regions, triggering emergency power cuts and damaging hospitals, President Zelenskyy said. Three days of mourning were declared in Zaporizhzhia.",
+      "why_it_matters": "It shows the war's toll on civilians and Ukraine's reliance on air-defence support from allies.",
+      "key_fact": "Russia launched 289 drones, 17 ballistic and 59 cruise missiles",
+      "source_url": "https://www.thehindu.com/news/international/death-toll-hits-31-after-russian-strike-on-ukrainian-aid-site-with-dozens-still-missing/article71662599.ece",
+      "date": "2026-11-04",
+      "quiz": {
+        "q": "How many attack drones did Russia launch in the wave of strikes described?",
+        "options": [
+          "59",
+          "17",
+          "289",
+          "31"
+        ],
+        "answer": 2,
+        "explain": "Zelenskyy said Russia launched 289 attack drones along with ballistic and cruise missiles."
+      },
+      "tags": [
+        "Russia",
+        "Ukraine",
+        "war",
+        "Zaporizhzhia"
+      ]
+    },
+    {
+      "id": "news-2026-11-04-18",
+      "type": "news",
+      "category": "international",
+      "headline": "Russian strike on aid school in Ukraine kills 26 after ceasefire ends",
+      "body": "Ukraine said Russian strikes on a school distributing humanitarian aid in Zaporizhzhia's Komyshuvakha village killed at least 26 people on November 2, 2026. The attack followed the expiry of a ceasefire in Kherson, brokered by US First Lady Melania Trump, which had enabled an evacuation from Russian-occupied Oleshky. Among the dead were two rescue workers and four police officers, officials said.",
+      "why_it_matters": "It dashes hopes of peace progress and highlights the danger to civilians and aid workers in the war.",
+      "key_fact": "At least 26 killed in strike on aid-distribution school",
+      "source_url": "https://www.thehindu.com/news/international/russia-ukraine-war-strikes-on-a-school-by-russia-kills-26-derailing-hopes-of-progress-toward-peace/article71659505.ece",
+      "date": "2026-11-04",
+      "quiz": {
+        "q": "What ceasefire preceded the strike on the aid-distribution school?",
+        "options": [
+          "A ceasefire in Zaporizhzhia brokered by the UN",
+          "A ceasefire in Kherson brokered by Melania Trump",
+          "A nationwide truce brokered by NATO",
+          "A ceasefire in Kharkiv brokered by Turkey"
+        ],
+        "answer": 1,
+        "explain": "The article says a rare ceasefire in Kherson was brokered by US First Lady Melania Trump for an evacuation mission."
+      },
+      "tags": [
+        "Russia",
+        "Ukraine",
+        "ceasefire",
+        "Zaporizhzhia"
+      ]
+    },
+    {
+      "id": "news-2026-11-04-19",
+      "type": "news",
+      "category": "international",
+      "headline": "Indian and Sri Lankan coast guards hold 9th high-level meeting in Mirissa",
+      "body": "The 9th high-level meeting between the Indian Coast Guard and the Sri Lanka Coast Guard was held on 3 November 2026 in Mirissa, Sri Lanka. The Indian delegation was led by Director General Paramesh Shivamani and the Sri Lankan side by Director General Rear Admiral Ruwan Rupasinghe. Talks covered marine pollution response, search and rescue, maritime law enforcement, capacity building and technical assistance, and joint commitment to regional maritime security.",
+      "why_it_matters": "Closer India-Sri Lanka coast guard cooperation supports safer seas and disaster response in the Indian Ocean region.",
+      "key_fact": "9th India-Sri Lanka Coast Guard high-level meeting, Mirissa",
+      "source_url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332216",
+      "date": "2026-11-04",
+      "quiz": {
+        "q": "Where was the 9th India-Sri Lanka Coast Guard high-level meeting held?",
+        "options": [
+          "Mirissa, Sri Lanka",
+          "Chennai, India",
+          "Colombo, Sri Lanka",
+          "New Delhi, India"
+        ],
+        "answer": 0,
+        "explain": "The meeting was held on 3 November 2026 in Mirissa, Sri Lanka."
+      },
+      "tags": [
+        "coast guard",
+        "Sri Lanka",
+        "maritime security"
+      ]
+    }
+  ]
+}
