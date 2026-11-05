@@ -1,0 +1,478 @@
+{
+  "date": "2026-11-05",
+  "cards": [
+    {
+      "id": "news-2026-11-05-01",
+      "type": "news",
+      "category": "international",
+      "headline": "Democrats win both houses of U.S. Congress in midterms",
+      "body": "In the November 3, 2026 midterm elections, Democrats won control of both the House of Representatives and the Senate, a six-seat Senate gain that networks projected as a takeover. Breakthroughs came in Kansas and Iowa, states that had not elected a Democratic senator in decades. The result lets Democrats block President Donald Trump's agenda and investigate his administration in his final two years.",
+      "why_it_matters": "U.S. midterm results shape American policy on trade, tariffs and foreign affairs, which directly affect India's exports, fuel prices and strategic ties.",
+      "key_fact": "Democrats won both House and Senate in November 2026 midterms",
+      "source_url": "https://www.thehindu.com/news/international/us-midterm-elections-2026-senate-governor-races-winners-losers-trump-republicans-democrats-news/article71663818.ece",
+      "date": "2026-11-05",
+      "quiz": {
+        "q": "Which chamber(s) of the U.S. Congress did Democrats win in the 2026 midterms?",
+        "options": [
+          "Only the House of Representatives",
+          "Only the Senate",
+          "Both the House and the Senate",
+          "Neither chamber"
+        ],
+        "answer": 2,
+        "explain": "The article says Democrats won full control of Congress, taking both the House and the Senate."
+      },
+      "tags": [
+        "US politics",
+        "midterms",
+        "Democrats",
+        "Donald Trump"
+      ]
+    },
+    {
+      "id": "news-2026-11-05-02",
+      "type": "news",
+      "category": "polity",
+      "headline": "Cabinet approves ₹4,371 crore VISTAR scheme for statistics overhaul",
+      "body": "The Union Cabinet approved the VISTAR scheme, worth ₹4,371 crore, to modernise India's statistical system from 2026-27 to 2030-31. It has three parts: statistical operations, support to States for statistical strengthening, and the 8th Economic Census. The Ministry of Statistics and Programme Implementation plans 59 surveys, up from 43, and will digitalise processes and use AI and alternative data sources.",
+      "why_it_matters": "Better, faster official data improves policymaking on jobs, growth and welfare, and affects how accurately India's economy is measured.",
+      "key_fact": "VISTAR scheme: ₹4,371 crore, 2026-27 to 2030-31",
+      "source_url": "https://www.thehindu.com/business/Economy/union-cabinet-approves-new-vistar-scheme-to-overhaul-indias-statistical-system/article71665494.ece",
+      "date": "2026-11-05",
+      "quiz": {
+        "q": "What is the outlay of the VISTAR statistical scheme approved by the Union Cabinet?",
+        "options": [
+          "₹2,814 crore",
+          "₹4,371 crore",
+          "₹14,500 crore",
+          "₹25,473 crore"
+        ],
+        "answer": 1,
+        "explain": "The article states the VISTAR scheme was approved with an outlay of ₹4,371 crore."
+      },
+      "tags": [
+        "statistics",
+        "MoSPI",
+        "VISTAR",
+        "Economic Census"
+      ]
+    },
+    {
+      "id": "news-2026-11-05-03",
+      "type": "news",
+      "category": "economy",
+      "headline": "Cabinet clears ₹14,500 crore VGF scheme for energy storage",
+      "body": "The Union Cabinet approved a ₹14,500 crore Viability Gap Funding scheme for grid-scale energy storage from 2026-27 to 2030-31. It will support 92 GWh of new capacity: 60 GWh of pumped storage, 30 GWh of battery storage and 2 GWh from alternative technologies, with estimated investment of ₹97,600 crore. Capacity will be allocated through tariff-based competitive bidding, and battery projects must meet 40% domestic content requirement.",
+      "why_it_matters": "Large-scale storage helps India use more renewable power round the clock, supporting the shift away from fossil fuels and improving peak-hour electricity supply.",
+      "key_fact": "₹14,500 crore VGF for 92 GWh of energy storage",
+      "source_url": "https://www.thehindu.com/business/Economy/union-cabinet-approves-14500-crore-vgf-scheme-to-develop-large-scale-energy-storage-in-india/article71665406.ece",
+      "date": "2026-11-05",
+      "quiz": {
+        "q": "How much new energy storage capacity will the ₹14,500 crore VGF scheme support?",
+        "options": [
+          "30 GWh",
+          "60 GWh",
+          "92 GWh",
+          "411 GWh"
+        ],
+        "answer": 2,
+        "explain": "The scheme aims to support 92 GWh of fresh energy storage capacity, split across pumped storage, batteries and alternative technologies."
+      },
+      "tags": [
+        "energy storage",
+        "VGF",
+        "renewables",
+        "batteries"
+      ]
+    },
+    {
+      "id": "news-2026-11-05-04",
+      "type": "news",
+      "category": "economy",
+      "headline": "₹2,814 crore scheme approved for lithium and nickel processing",
+      "body": "The Union Cabinet approved a ₹2,814 crore capital expenditure support scheme to build domestic processing facilities for lithium and nickel over five years. It offers a 30% capital subsidy for four plants, two each for lithium and nickel, capped at ₹500 crore and ₹900 crore respectively. Beneficiaries will be chosen through least-cost bidding. The government aims to cut import dependence in critical minerals.",
+      "why_it_matters": "Domestic lithium and nickel processing supports batteries, EV and electronics manufacturing, and reduces India's reliance on imported critical minerals.",
+      "key_fact": "30% capital subsidy for lithium and nickel processing plants",
+      "source_url": "https://www.thehindu.com/business/Economy/centre-earmarks-2814-crore-to-boost-lithium-nickel-processing/article71666803.ece",
+      "date": "2026-11-05",
+      "quiz": {
+        "q": "What capital subsidy rate does the critical minerals processing scheme offer?",
+        "options": [
+          "20%",
+          "30%",
+          "40%",
+          "50%"
+        ],
+        "answer": 1,
+        "explain": "The government will provide a capital subsidy of 30% of the investment required to set up the four processing plants."
+      },
+      "tags": [
+        "critical minerals",
+        "lithium",
+        "nickel",
+        "manufacturing"
+      ]
+    },
+    {
+      "id": "news-2026-11-05-05",
+      "type": "news",
+      "category": "economy",
+      "headline": "Cabinet approves ₹25,473 crore package across four sectors",
+      "body": "The Union Cabinet, chaired by Prime Minister Narendra Modi, approved schemes worth ₹25,473 crore covering energy storage, critical minerals, fast track special courts and the statistical system. It also extended the 'Second Tour of Duty' for Agniveers by two years. The fast track special courts scheme, including exclusive POCSO courts, gets ₹3,788.04 crore for 2026 to 2031, expanding 779 courts to 850.",
+      "why_it_matters": "The package links clean energy, mineral self-reliance, faster trials in sexual offence cases and better data, all areas that affect daily life and governance.",
+      "key_fact": "Combined Cabinet package of ₹25,473 crore across four sectors",
+      "source_url": "https://www.livemint.com/news/cabinet-energy-storage-critical-minerals-fast-track-courts-agniveer-11793792794809.html",
+      "date": "2026-11-05",
+      "quiz": {
+        "q": "What is the combined outlay of the Cabinet's four-sector package?",
+        "options": [
+          "₹14,500 crore",
+          "₹25,473 crore",
+          "₹3,788 crore",
+          "₹2,814 crore"
+        ],
+        "answer": 1,
+        "explain": "The article states the cabinet approved schemes with a combined outlay of ₹25,473 crore."
+      },
+      "tags": [
+        "Cabinet",
+        "Agnipath",
+        "POCSO",
+        "energy storage"
+      ]
+    },
+    {
+      "id": "news-2026-11-05-06",
+      "type": "news",
+      "category": "polity",
+      "headline": "Supreme Court: 24-hour production clock starts from detention",
+      "body": "The Supreme Court has held that the 24-hour limit for producing a person before a Magistrate begins at the moment of detention, not formal arrest. A Bench headed by Justice Ujjal Bhuyan said both detention and arrest restrict the fundamental right to liberty. It ruled that fundamental rights override special laws like UAPA and PMLA, and that a Magistrate must record the exact date and time of detention.",
+      "why_it_matters": "This strengthens a basic constitutional safeguard under Article 22, protecting any person held by the police from being kept in custody beyond a day without judicial scrutiny.",
+      "key_fact": "24-hour production limit runs from detention, not formal arrest",
+      "source_url": "https://www.thehindu.com/news/national/24-hour-to-produce-before-magistrate-starts-from-detention-not-formal-arrest-supreme-court/article71668833.ece",
+      "date": "2026-11-05",
+      "quiz": {
+        "q": "According to the Supreme Court, from when does the 24-hour period for producing a person before a Magistrate begin?",
+        "options": [
+          "From the moment of formal arrest",
+          "From the moment of detention",
+          "From when the charge sheet is filed",
+          "From when the Magistrate takes cognisance"
+        ],
+        "answer": 1,
+        "explain": "The Court held that the clock starts at detention, since both detention and arrest restrict the right to liberty."
+      },
+      "tags": [
+        "Supreme Court",
+        "Article 22",
+        "arrest",
+        "fundamental rights"
+      ]
+    },
+    {
+      "id": "news-2026-11-05-07",
+      "type": "news",
+      "category": "polity",
+      "headline": "Two-child penalties outdated as fertility rate falls: Supreme Court",
+      "body": "The Supreme Court held that laws penalising people for having more than two children have lost relevance because India's Total Fertility Rate fell from 3.02 to 1.9, below the replacement rate of 2.1. A Bench led by Justice P.S. Narasimha said its 2003 judgment in Javed versus State of Haryana, which upheld such laws, needs review by a larger Bench. The share of people aged 60 and above rose from about 8.3% in 2014 to 9.7% in 2024.",
+      "why_it_matters": "These laws affect access to jobs, elections and benefits for families with more than two children, and the ruling signals a shift in how India views population policy.",
+      "key_fact": "India's TFR fell from 3.02 to 1.9; replacement rate is 2.1",
+      "source_url": "https://www.thehindu.com/news/national/rolling-effect-of-decelerating-population-growth-very-hard-to-reverse-supreme-court/article71666136.ece",
+      "date": "2026-11-05",
+      "quiz": {
+        "q": "What is the replacement-level Total Fertility Rate mentioned in the judgment?",
+        "options": [
+          "1.9",
+          "2.0",
+          "2.1",
+          "3.02"
+        ],
+        "answer": 2,
+        "explain": "A TFR of 2.1 is the replacement rate at which one generation fully replaces itself."
+      },
+      "tags": [
+        "Supreme Court",
+        "fertility rate",
+        "population",
+        "two-child norm"
+      ]
+    },
+    {
+      "id": "news-2026-11-05-08",
+      "type": "news",
+      "category": "polity",
+      "headline": "Supreme Court says States' additional sales tax power stands",
+      "body": "A seven-judge Constitution Bench headed by Chief Justice Surya Kant held that the 1974 ruling in S. Kodar vs State of Kerala, which upheld States' power to levy additional sales tax or surcharge, continues to hold the field. The Court said the reference made nearly 27 years ago had become academic since the challenged provisions were replaced or amended and GST had come into force.",
+      "why_it_matters": "It clarifies the division of taxing powers between States and the Centre, a question that shaped India's tax system before GST consolidated indirect taxes.",
+      "key_fact": "S. Kodar vs State of Kerala (1974) ruling continues to hold",
+      "source_url": "https://www.thehindu.com/news/national/supreme-court-upholds-states-power-to-levy-additional-sales-tax-says-case-has-become-academic/article71664975.ece",
+      "date": "2026-11-05",
+      "quiz": {
+        "q": "Which 1974 Constitution Bench judgment did the Supreme Court say continues to hold the field?",
+        "options": [
+          "Javed vs State of Haryana",
+          "S. Kodar vs State of Kerala",
+          "Kesavananda Bharati case",
+          "Golaknath case"
+        ],
+        "answer": 1,
+        "explain": "The Court said the 1974 S. Kodar ruling upholding additional sales tax remains valid."
+      },
+      "tags": [
+        "Supreme Court",
+        "sales tax",
+        "GST",
+        "federalism"
+      ]
+    },
+    {
+      "id": "news-2026-11-05-09",
+      "type": "news",
+      "category": "polity",
+      "headline": "Agniveers to get two more years of service: CDS",
+      "body": "Chief of Defence Staff General NS Raja Subramani announced that 75% of Agniveers, who earlier had to leave after four years, will now be offered two additional years of service. After that, they can be considered for enrolment subject to selection criteria. Under the Agnipath scheme introduced on June 14, 2022, only 25% were eligible for regular enrolment on merit. The CDS cited positive performance feedback from the first batch.",
+      "why_it_matters": "The Agnipath scheme affects thousands of young Indians who join the armed forces each year, and the extension changes their career prospects and job security.",
+      "key_fact": "75% of Agniveers to get two extra years of service",
+      "source_url": "https://www.livemint.com/news/india/agniveers-get-2-year-service-extension-what-changes-under-the-revised-agnipath-scheme-11793795338688.html",
+      "date": "2026-11-05",
+      "quiz": {
+        "q": "Under the revised Agnipath arrangement, what share of Agniveers will get an additional two-year engagement period?",
+        "options": [
+          "25%",
+          "50%",
+          "75%",
+          "100%"
+        ],
+        "answer": 2,
+        "explain": "The 75% who earlier had to exit after four years will now be offered two more years."
+      },
+      "tags": [
+        "Agnipath",
+        "defence",
+        "Agniveers",
+        "armed forces"
+      ]
+    },
+    {
+      "id": "news-2026-11-05-10",
+      "type": "news",
+      "category": "international",
+      "headline": "India and Canada hold first defence dialogue virtually",
+      "body": "The first India-Canada Defence Dialogue was held virtually on November 3, 2026, co-chaired by Dr. Amit Telang, Joint Secretary (International Cooperation) in the Defence Ministry, and Scott Miller, Assistant Deputy Minister (Policy) in Canada's National Defence Department. The two sides discussed strengthening bilateral defence cooperation, defence industrial ties, military and technical engagement, and defence research and development, and agreed to stay in touch on next steps.",
+      "why_it_matters": "A structured defence dialogue gives India and Canada a regular channel to deepen strategic and military cooperation, which also matters for trade and technology ties.",
+      "key_fact": "First India-Canada Defence Dialogue held on November 3, 2026",
+      "source_url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332838",
+      "date": "2026-11-05",
+      "quiz": {
+        "q": "When was the first India-Canada Defence Dialogue held?",
+        "options": [
+          "March 2, 2026",
+          "November 3, 2026",
+          "June 14, 2022",
+          "November 5, 2026"
+        ],
+        "answer": 1,
+        "explain": "The PIB release says the first edition of the dialogue took place virtually on November 3, 2026."
+      },
+      "tags": [
+        "India-Canada",
+        "defence",
+        "diplomacy"
+      ]
+    },
+    {
+      "id": "news-2026-11-05-11",
+      "type": "news",
+      "category": "international",
+      "headline": "Jaishankar asks Commonwealth partners to de-risk, diversify supply chains",
+      "body": "External Affairs Minister S. Jaishankar, attending the Commonwealth Heads of Government Meeting in Antigua and Barbuda, urged member nations to de-risk and diversify and build shorter, trusted supply chains. He called for more connectivity corridors, local distribution, training and capacity building, and highlighted India's digital public infrastructure, the International Solar Alliance and the Coalition for Disaster Resilient Infrastructure.",
+      "why_it_matters": "'De-risking' supply chains is a key plank of Indian trade diplomacy, aiming to reduce dependence on single countries for critical goods.",
+      "key_fact": "CHOGM theme: accelerating partnerships and investment for a prosperous Commonwealth",
+      "source_url": "https://www.thehindu.com/news/national/jaishankar-urges-commonwealth-partners-to-de-risk-and-diversify/article71668549.ece",
+      "date": "2026-11-05",
+      "quiz": {
+        "q": "What is the theme of this year's Commonwealth Heads of Government Meeting, as reported?",
+        "options": [
+          "Accelerating partnerships and investment for a prosperous Commonwealth",
+          "Climate justice and small island states",
+          "Commonwealth trade and tariff reform",
+          "Youth, skills and digital inclusion"
+        ],
+        "answer": 0,
+        "explain": "The article states the theme is accelerating partnerships and investment for a prosperous Commonwealth."
+      },
+      "tags": [
+        "Commonwealth",
+        "Jaishankar",
+        "trade",
+        "supply chains"
+      ]
+    },
+    {
+      "id": "news-2026-11-05-12",
+      "type": "news",
+      "category": "international",
+      "headline": "U.S. sanctions Indian and Turkish firms for supporting Iran",
+      "body": "The U.S. Treasury sanctioned India-based Suniel Kumar Sharma, his wife Jaspreet Preeti Shahid and two other Indian citizens heading their businesses, plus nine linked entities, for allegedly providing false flags and certifications to sanctioned vessels carrying Iranian petroleum. Turkey-based Fugo Ground Services was also sanctioned. The action is part of the Trump administration's 'Operation Economic Outcast' targeting Iran's oil revenue.",
+      "why_it_matters": "U.S. secondary sanctions can affect Indian businesses and individuals, making compliance with American rules a real concern for Indian exporters.",
+      "key_fact": "U.S. 'Operation Economic Outcast' targets Iran's oil revenue",
+      "source_url": "https://www.thehindu.com/news/international/us-slaps-sanctions-on-indian-turkish-firms-and-people-for-aiding-iran/article71668431.ece",
+      "date": "2026-11-05",
+      "quiz": {
+        "q": "What is the name of the Trump administration's operation under which the new Iran-related sanctions were issued?",
+        "options": [
+          "Operation Economic Outcast",
+          "Operation Desert Shield",
+          "Operation Maximum Pressure",
+          "Operation Sea Breeze"
+        ],
+        "answer": 0,
+        "explain": "The article says the sanctions are part of 'Operation Economic Outcast', aimed at cutting off Iran's oil sales."
+      },
+      "tags": [
+        "sanctions",
+        "Iran",
+        "US Treasury",
+        "India"
+      ]
+    },
+    {
+      "id": "news-2026-11-05-13",
+      "type": "news",
+      "category": "science",
+      "headline": "ISRO's NVS-03 navigation satellite reaches geosynchronous orbit",
+      "body": "ISRO said the NVS-03 satellite, launched on October 30, 2026, reached Geo Synchronous Orbit after four successful orbit manoeuvres with a cumulative LAM engine burn of 6164 seconds. NVS-03 is the third satellite in the next-generation navigation system providing continuity to the IRNSS series, and carries an indigenous atomic clock plus L1, L5 and S band signals.",
+      "why_it_matters": "The NVS series sustains India's NavIC regional navigation service, which supports positioning for transport, disaster management and mobile users.",
+      "key_fact": "NVS-03 carries an indigenous atomic clock for the NavIC navigation series",
+      "source_url": "https://www.thehindu.com/sci-tech/science/nvs-03-reaches-geosynchronous-orbit-satellite-in-good-health/article71667218.ece",
+      "date": "2026-11-05",
+      "quiz": {
+        "q": "What does the NVS-03 satellite carry alongside procured clocks, according to ISRO?",
+        "options": [
+          "An indigenous atomic clock",
+          "A lunar rover",
+          "A humanoid robot",
+          "A solar sail"
+        ],
+        "answer": 0,
+        "explain": "The article notes NVS-03 carries an indigenous atomic clock along with the procured clocks."
+      },
+      "tags": [
+        "ISRO",
+        "NavIC",
+        "space",
+        "NVS-03"
+      ]
+    },
+    {
+      "id": "news-2026-11-05-14",
+      "type": "news",
+      "category": "science",
+      "headline": "IndiaAI Mission releases indigenous models EKA-1, Dhīr 2B and Dhīr 5B",
+      "body": "The IndiaAI Mission under MeitY released three indigenous foundation models: EKA-1 by Soket Labs, and Dhīr 2B and Dhīr 5B by ZenteiQ. EKA-1 has 26.3 billion parameters, was trained on about 7.5 trillion tokens and covers all 22 scheduled Indian languages plus English. The Dhīr models are open-source and support English and 10 Indian languages for low-connectivity settings.",
+      "why_it_matters": "Homegrown AI models built for Indian languages and sectors can reduce dependence on foreign AI platforms and widen access in low-connectivity areas.",
+      "key_fact": "EKA-1 has 26.3 billion parameters, trained on about 7.5 trillion tokens",
+      "source_url": "https://www.thehindu.com/sci-tech/technology/indiaai-mission-releases-indigenous-foundation-models-eka-1-dhir-2b-and-dhir-5b/article71663984.ece",
+      "date": "2026-11-05",
+      "quiz": {
+        "q": "How many parameters does the EKA-1 model have?",
+        "options": [
+          "26.3 billion",
+          "7.5 billion",
+          "2 billion",
+          "70 billion"
+        ],
+        "answer": 0,
+        "explain": "The article says EKA-1 has 26.3 billion parameters and was trained on about 7.5 trillion tokens."
+      },
+      "tags": [
+        "IndiaAI",
+        "AI models",
+        "MeitY",
+        "technology"
+      ]
+    },
+    {
+      "id": "news-2026-11-05-15",
+      "type": "news",
+      "category": "environment",
+      "headline": "India releases guidelines for Other Effective Area-based Conservation Measures 2026",
+      "body": "Environment Minister Bhupendra Yadav released guidelines for identifying India's Other Effective Area-based Conservation Measures (OECMs) 2026 at a side event of the CBD COP-17 in Yerevan, Armenia, on November 3, 2026. Prepared by MoEFCC with the National Biodiversity Authority, the framework covers areas outside legally protected zones that deliver long-term in-situ biodiversity conservation, such as biodiversity parks, sacred groves, community-managed tanks and seasonal fishing closures.",
+      "why_it_matters": "OECMs let India count conserved landscapes outside national parks and sanctuaries towards its biodiversity targets, bringing community-managed areas into formal recognition.",
+      "key_fact": "OECMs are conservation areas outside legally protected zones",
+      "source_url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332846",
+      "date": "2026-11-05",
+      "quiz": {
+        "q": "Which of these is a condition for an area to be recognised as an OECM under India's draft guidelines?",
+        "options": [
+          "It must be a legally protected national park",
+          "It must not be a legally protected or reserved area",
+          "It must be owned by the Union government",
+          "It must be listed in the World Database on Protected Areas"
+        ],
+        "answer": 1,
+        "explain": "The guidelines require that an OECM area is not legally protected or reserved and does not overlap with sites in the World Database on Protected Areas."
+      },
+      "tags": [
+        "biodiversity",
+        "environment",
+        "CBD COP-17",
+        "conservation"
+      ]
+    },
+    {
+      "id": "news-2026-11-05-16",
+      "type": "news",
+      "category": "environment",
+      "headline": "Investors pledge $400 billion in India's renewable energy sector",
+      "body": "Renewable energy minister Pralhad Joshi said global and domestic investors and companies committed $400 billion at a CEO roundtable of the Bharat Renewable Energy Summit, though the pledges are preliminary. The amount is nearly double the projected $220 billion requirement by the end of the decade. Interest spans renewable energy, green hydrogen, battery storage and transmission. India's non-fossil capacity is 308GW against a 500GW target for 2030.",
+      "why_it_matters": "Large investment inflows into renewables and storage affect India's energy security, electricity prices and its climate commitments for 2030.",
+      "key_fact": "$400 billion in preliminary renewable investment pledges",
+      "source_url": "https://www.livemint.com/news/india-receives-investment-commitment-worth-400-billion-at-bharat-renewable-energy-summit-pralhad-joshi-11793806667651.html",
+      "date": "2026-11-05",
+      "quiz": {
+        "q": "How much did investors commit at the Bharat Renewable Energy Summit CEO roundtable?",
+        "options": [
+          "$220 billion",
+          "$308 billion",
+          "$400 billion",
+          "$1,800 billion"
+        ],
+        "answer": 2,
+        "explain": "Minister Pralhad Joshi said the CEO roundtable produced commitments of $400 billion, nearly double the $220 billion requirement projected by the end of the decade."
+      },
+      "tags": [
+        "renewable energy",
+        "investment",
+        "energy"
+      ]
+    },
+    {
+      "id": "news-2026-11-05-17",
+      "type": "news",
+      "category": "polity",
+      "headline": "Health Ministry proposes immediate suspension of licences for substandard drugs",
+      "body": "The Union Health Ministry has proposed amending the Drugs Rules, 1945, so that manufacturing licences of drugs declared Not of Standard Quality on critical parameters can be suspended immediately. Currently, a show-cause notice and prescribed procedure precede suspension, allowing a gap during which the drug may stay in circulation. Suspension would continue until the manufacturer completes a root cause analysis and corrective and preventive action verified by the licensing authority.",
+      "why_it_matters": "Faster action against substandard medicines reduces the risk of patients consuming unsafe drugs and speeds up recalls from the market.",
+      "key_fact": "Proposed amendment to the Drugs Rules, 1945",
+      "source_url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332837",
+      "date": "2026-11-05",
+      "quiz": {
+        "q": "Which law does the government propose to amend to allow immediate suspension of licences of NSQ drugs?",
+        "options": [
+          "The Drugs and Cosmetics Act, 1940",
+          "The Drugs Rules, 1945",
+          "The Pharmacy Act, 1948",
+          "The Clinical Establishments Act, 2010"
+        ],
+        "answer": 1,
+        "explain": "The Health Ministry has proposed amendments to the Drugs Rules, 1945, to enable immediate suspension of manufacturing licences for drugs declared Not of Standard Quality."
+      },
+      "tags": [
+        "health",
+        "drugs",
+        "regulation"
+      ]
+    }
+  ]
+}
