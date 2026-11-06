@@ -1,0 +1,556 @@
+{
+  "date": "2026-11-06",
+  "cards": [
+    {
+      "id": "news-2026-11-06-01",
+      "type": "news",
+      "category": "science",
+      "headline": "DRDO successfully test-flights Pralay quasi-ballistic missile off Odisha",
+      "body": "DRDO conducted a successful flight test of the indigenously developed Pralay quasi-ballistic missile on 5 November 2026 from Dr APJ Abdul Kalam Island off the Odisha coast. Data from the Integrated Test Range at Chandipur confirmed all objectives were met. Developed by Research Centre Imarat, Hyderabad, with other DRDO labs and Bharat Dynamics Limited, the test clears the way for induction into the Indian Army.",
+      "why_it_matters": "A successful user trial moves Pralay closer to induction, strengthening India's conventional strike capability and demonstrating home-grown defence technology.",
+      "key_fact": "Pralay: India's indigenously developed quasi-ballistic missile",
+      "source_url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2333323",
+      "date": "2026-11-06",
+      "quiz": {
+        "q": "Which organisation developed the Pralay missile?",
+        "options": [
+          "DRDO",
+          "ISRO",
+          "HAL",
+          "Bharat Electronics Limited"
+        ],
+        "answer": 0,
+        "explain": "Research Centre Imarat, a DRDO laboratory in Hyderabad, developed Pralay with other DRDO labs."
+      },
+      "tags": [
+        "DRDO",
+        "Pralay missile",
+        "defence",
+        "Odisha"
+      ]
+    },
+    {
+      "id": "news-2026-11-06-02",
+      "type": "news",
+      "category": "science",
+      "headline": "ISRO says navigation satellite NVS-03 is fully healthy in orbit",
+      "body": "ISRO Chairman V. Narayanan said on 5 November 2026 that NVS-03, launched on 30 October to strengthen the NavIC regional navigation system, is fully healthy. The satellite was placed in an elliptical orbit, then moved to a circular orbit with a 6,400-second engine burn. In-orbit testing of the payload remains. He was speaking at the unveiling of a Yuri Gagarin statue in Chennai.",
+      "why_it_matters": "NavIC provides positioning and timing services across India and the surrounding region, so a healthy next-generation satellite supports everyday navigation and disaster response.",
+      "key_fact": "NVS-03 is part of NavIC, India's regional navigation system",
+      "source_url": "https://www.thehindu.com/news/cities/chennai/isros-latest-navigation-satellite-nvs-03-is-fully-healthy-says-chairman-v-narayanan/article71670095.ece",
+      "date": "2026-11-06",
+      "quiz": {
+        "q": "NVS-03 is a satellite of which Indian system?",
+        "options": [
+          "NavIC",
+          "Gaganyaan",
+          "RISAT",
+          "GSAT"
+        ],
+        "answer": 0,
+        "explain": "NVS-03 is the next-generation satellite for NavIC, India's regional satellite navigation system."
+      },
+      "tags": [
+        "ISRO",
+        "NavIC",
+        "NVS-03",
+        "space"
+      ]
+    },
+    {
+      "id": "news-2026-11-06-03",
+      "type": "news",
+      "category": "polity",
+      "headline": "Supreme Court says two-child penalties outdated as fertility falls",
+      "body": "The Supreme Court on 4 November 2026 held that laws penalising people for having more than two children have lost relevance because India's fertility rate has fallen. A Bench led by Justice P.S. Narasimha noted that India's Total Fertility Rate dropped from 3.02 to 1.9, below the 2.1 replacement rate. It said its 2003 judgment upholding such laws needs review by a larger Bench.",
+      "why_it_matters": "The ruling signals a shift from population control to concerns about an ageing population, affecting how states and employers use two-child rules for benefits and jobs.",
+      "key_fact": "India's Total Fertility Rate fell from 3.02 to 1.9",
+      "source_url": "https://www.thehindu.com/news/national/rolling-effect-of-decelerating-population-growth-very-hard-to-reverse-supreme-court/article71666136.ece",
+      "date": "2026-11-06",
+      "quiz": {
+        "q": "What is India's Total Fertility Rate mentioned in the judgment?",
+        "options": [
+          "1.9",
+          "2.1",
+          "3.02",
+          "2.5"
+        ],
+        "answer": 0,
+        "explain": "The court cited a fall in TFR from 3.02 to 1.9, below the 2.1 replacement rate."
+      },
+      "tags": [
+        "Supreme Court",
+        "fertility rate",
+        "population"
+      ]
+    },
+    {
+      "id": "news-2026-11-06-04",
+      "type": "news",
+      "category": "polity",
+      "headline": "SC says March 2026 OBC creamy layer verdict will not apply retrospectively",
+      "body": "The Supreme Court on 6 November 2026 clarified that its 11 March 2026 judgment on reassessing OBC non-creamy layer status, excluding parental salary and agricultural income from the income test, will not apply retrospectively. It, however, declined the government's request for two years to frame a new policy. The Court said service allocation for the 2025 batch would follow the March judgment.",
+      "why_it_matters": "The clarification protects past recruitments and seniority from disruption while changing how creamy layer status is assessed for future OBC reservations.",
+      "key_fact": "March 11, 2026 judgment on OBC creamy layer",
+      "source_url": "https://www.thehindu.com/news/national/sc-clarifies-its-march-2026-verdict-on-obc-creamy-layer-policy-will-not-apply-retrospectively/article71673040.ece",
+      "date": "2026-11-06",
+      "quiz": {
+        "q": "What did the Supreme Court clarify about its March 2026 OBC creamy layer judgment?",
+        "options": [
+          "It will not apply retrospectively",
+          "It applies from 1993",
+          "It is stayed entirely",
+          "It applies only to railways"
+        ],
+        "answer": 0,
+        "explain": "The Court said the ratio of the March 2026 judgment would not operate retrospectively."
+      },
+      "tags": [
+        "Supreme Court",
+        "OBC",
+        "creamy layer",
+        "reservation"
+      ]
+    },
+    {
+      "id": "news-2026-11-06-05",
+      "type": "news",
+      "category": "economy",
+      "headline": "Mines Ministry offers 20 critical mineral blocks in ninth auction",
+      "body": "The Ministry of Mines on 5 November 2026 launched the ninth tranche of mineral block auctions with 20 critical and strategic mineral blocks, plus a third tranche of exploration licence auctions for 11 blocks. Minerals on offer include graphite, vanadium, gallium, titanium, rare earth elements, tungsten and potash. Of 100 critical blocks offered in the first eight tranches, 64 have been auctioned.",
+      "why_it_matters": "Critical minerals are essential for batteries, electronics and clean energy, so domestic auctions aim to reduce India's dependence on imports, mainly from China.",
+      "key_fact": "Ninth tranche offers 20 critical and strategic mineral blocks",
+      "source_url": "https://www.thehindu.com/business/Economy/ninth-tranche-of-mineral-block-auctions-offers-20-blocks/article71671174.ece",
+      "date": "2026-11-06",
+      "quiz": {
+        "q": "How many critical and strategic mineral blocks are on offer in the ninth tranche?",
+        "options": [
+          "20",
+          "11",
+          "64",
+          "100"
+        ],
+        "answer": 0,
+        "explain": "The ninth mineral block auction features 20 critical and strategic mineral blocks."
+      },
+      "tags": [
+        "Mines Ministry",
+        "critical minerals",
+        "auction",
+        "mining"
+      ]
+    },
+    {
+      "id": "news-2026-11-06-06",
+      "type": "news",
+      "category": "economy",
+      "headline": "India nears 100 MT finished steel consumption in April-October 2026",
+      "body": "During April-October 2026, India remained a net importer of finished steel by volume, and consumption approached 100 million tonnes over the seven months. The Steel Ministry exempted 162 grades of semi-finished stainless steel under IS 14650 from QCO compliance until March 31, 2027, to ease MSME concerns and improve availability of intermediate inputs for stainless steel production.",
+      "why_it_matters": "Steel is a core industrial input, so consumption, imports and quality-control rules affect manufacturers, small businesses and infrastructure costs nationwide.",
+      "key_fact": "QCO exemption covers 162 stainless steel grades till March 31, 2027",
+      "source_url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2333407",
+      "date": "2026-11-06",
+      "quiz": {
+        "q": "Until when is the QCO compliance exemption for 162 semi-finished stainless steel grades valid?",
+        "options": [
+          "March 31, 2027",
+          "December 31, 2026",
+          "April 1, 2026",
+          "October 31, 2027"
+        ],
+        "answer": 0,
+        "explain": "The Steel Ministry said the exemption under IS 14650 applies until March 31, 2027."
+      },
+      "tags": [
+        "steel",
+        "trade",
+        "MSME"
+      ]
+    },
+    {
+      "id": "news-2026-11-06-07",
+      "type": "news",
+      "category": "economy",
+      "headline": "Centre releases ₹1.09 trillion in tax devolution to states ahead of festivals",
+      "body": "The Union government released ₹1.09 trillion to states as their share of central taxes, advancing the monthly transfer by five days to support festival season spending and capital expenditure. Uttar Pradesh received the largest share at ₹19,208 crore, followed by Bihar and Madhya Pradesh. Under the 16th Finance Commission's recommendations, states will get 41% of the divisible pool of central taxes from FY27 to FY31.",
+      "why_it_matters": "Tax devolution is a major revenue source for states, funding welfare and development spending that directly affects public services for ordinary citizens.",
+      "key_fact": "States to receive 41% of divisible pool of central taxes",
+      "source_url": "https://www.livemint.com/news/india/centre-advances-1-09-trillion-tax-devolution-states-festive-season-11793884761686.html",
+      "date": "2026-11-06",
+      "quiz": {
+        "q": "What share of the divisible pool of central taxes will states receive under the 16th Finance Commission recommendations?",
+        "options": [
+          "41%",
+          "32%",
+          "50%",
+          "29%"
+        ],
+        "answer": 0,
+        "explain": "The Centre accepted the 16th Finance Commission's recommendation of 41% for FY27 to FY31."
+      },
+      "tags": [
+        "tax devolution",
+        "finance commission",
+        "states"
+      ]
+    },
+    {
+      "id": "news-2026-11-06-08",
+      "type": "news",
+      "category": "states",
+      "headline": "Madhya Pradesh approves ₹63,296 crore plan for five expressway corridors",
+      "body": "The Madhya Pradesh government is proceeding with five greenfield expressway corridors at an estimated cost of ₹63,296 crore. The 49th board meeting of the MP Road Development Corporation, chaired by Chief Minister Mohan Yadav, reviewed the plan. The four-lane, access-controlled corridors will cover 1,398 km, including Bhopal–Mandsaur, Sagar–Satna, Jabalpur–Ashapur, Bhopal–Gwalior and Katni–Singrauli. The Highway Fund was renamed 'Viksit Madhya Pradesh Sankalp Path'.",
+      "why_it_matters": "Expressway corridors improve freight movement and travel times, and large public works shape regional connectivity and local economic activity.",
+      "key_fact": "Five greenfield corridors totalling 1,398 km",
+      "source_url": "https://www.thehindu.com/news/national/madhya-pradesh/madhya-pradesh-cabinet-approves-63296-crore-plan-for-five-greenfield-corridors/article71672808.ece",
+      "date": "2026-11-06",
+      "quiz": {
+        "q": "What is the total length of the five proposed greenfield expressway corridors in Madhya Pradesh?",
+        "options": [
+          "1,398 km",
+          "1,083 km",
+          "2,158 km",
+          "985 km"
+        ],
+        "answer": 0,
+        "explain": "The four-lane, access-controlled corridors will span a total length of 1,398 km."
+      },
+      "tags": [
+        "Madhya Pradesh",
+        "expressways",
+        "infrastructure"
+      ]
+    },
+    {
+      "id": "news-2026-11-06-09",
+      "type": "news",
+      "category": "culture",
+      "headline": "Maratha Military Landscapes inscribed on UNESCO World Heritage List",
+      "body": "'Maratha Military Landscapes' was inscribed on the UNESCO World Heritage List during the 47th session of the World Heritage Committee in Paris. It has 12 components, including Salher, Shivneri, Raigad, Pratapgad, Panhala and Sindhudurg forts in Maharashtra and Gingee Fort in Tamil Nadu. The fortification and military system was developed between the 17th and 19th centuries under Maratha rule.",
+      "why_it_matters": "World Heritage status boosts global recognition and tourism, and highlights India's architectural and military history for general knowledge.",
+      "key_fact": "12 components, including 11 forts in Maharashtra and Gingee in Tamil Nadu",
+      "source_url": "https://www.thehindu.com/news/national/indias-maratha-military-landscapes-inscribed-on-unesco-world-heritage-list/article69802028.ece",
+      "date": "2026-11-06",
+      "quiz": {
+        "q": "How many components make up the 'Maratha Military Landscapes' World Heritage site?",
+        "options": [
+          "12",
+          "8",
+          "15",
+          "10"
+        ],
+        "answer": 0,
+        "explain": "The inscription includes 12 components: 11 forts in Maharashtra and Gingee Fort in Tamil Nadu."
+      },
+      "tags": [
+        "UNESCO",
+        "heritage",
+        "Maharashtra"
+      ]
+    },
+    {
+      "id": "news-2026-11-06-10",
+      "type": "news",
+      "category": "culture",
+      "headline": "Bhagavad Gita and Natyashastra manuscripts added to UNESCO Memory of the World",
+      "body": "Manuscripts of the Bhagavad Gita and Bharat Muni's Natyashastra are among 74 new documentary heritage collections added to UNESCO's Memory of the World Register, taking the total to 570. Prime Minister Narendra Modi called it a proud moment for every Indian, and Culture Minister Gajendra Singh Shekhawat said India now has 14 inscriptions on the international register.",
+      "why_it_matters": "The register recognises documentary heritage of global significance, and this listing adds international recognition to India's ancient texts.",
+      "key_fact": "India now has 14 inscriptions on UNESCO's Memory of the World Register",
+      "source_url": "https://www.thehindu.com/news/national/manuscripts-of-bhagavad-gita-natyashastra-inscribed-on-unescos-memory-of-the-world-register/article69463876.ece",
+      "date": "2026-11-06",
+      "quiz": {
+        "q": "How many inscriptions from India are on UNESCO's Memory of the World Register after the new additions?",
+        "options": [
+          "14",
+          "10",
+          "18",
+          "12"
+        ],
+        "answer": 0,
+        "explain": "Culture Minister Gajendra Singh Shekhawat said India now has 14 inscriptions on the register."
+      },
+      "tags": [
+        "UNESCO",
+        "heritage",
+        "culture"
+      ]
+    },
+    {
+      "id": "news-2026-11-06-11",
+      "type": "news",
+      "category": "international",
+      "headline": "India extends $500 million credit line to Guyana",
+      "body": "External Affairs Minister S. Jaishankar announced an extension of a $500 million line of credit for roads, health and defence projects in Guyana, during a meeting with President Mohamed Irfaan Ali on the sidelines of CHOGM in Antigua and Barbuda. The two countries also signed three agreements, including one on a UPI-like digital payments system in Guyana.",
+      "why_it_matters": "Lines of credit like this are a key tool of India's development diplomacy, helping New Delhi build influence and goodwill among Global South partners.",
+      "key_fact": "$500 million line of credit for Guyana",
+      "source_url": "https://www.thehindu.com/news/national/india-announces-extension-of-500-million-line-of-credit-for-guyana/article71668982.ece",
+      "date": "2026-11-06",
+      "quiz": {
+        "q": "What size of line of credit did India announce for Guyana?",
+        "options": [
+          "$100 million",
+          "$250 million",
+          "$500 million",
+          "$1 billion"
+        ],
+        "answer": 2,
+        "explain": "Jaishankar announced an extension of a $500 million line of credit for roads, health and defence projects in Guyana."
+      },
+      "tags": [
+        "diplomacy",
+        "Guyana",
+        "line of credit",
+        "CHOGM"
+      ]
+    },
+    {
+      "id": "news-2026-11-06-12",
+      "type": "news",
+      "category": "international",
+      "headline": "Jaishankar asks Commonwealth to 'de-risk and diversify'",
+      "body": "At the Commonwealth Heads of Government and Business Leaders breakfast meeting in Antigua and Barbuda, External Affairs Minister S. Jaishankar urged Commonwealth partners to \"de-risk and diversify\" and build shorter, trusted supply chains. He also pitched digital public infrastructure, local disaster-response hubs and skill mobility as priorities, and discussed CETA with UK Prime Minister Andy Burnham.",
+      "why_it_matters": "Supply-chain diversification and digital public infrastructure shape trade, jobs and the cost of goods for ordinary Indians.",
+      "key_fact": "CHOGM theme: accelerating partnerships and investment",
+      "source_url": "https://www.thehindu.com/news/national/jaishankar-urges-commonwealth-partners-to-de-risk-and-diversify/article71668549.ece",
+      "date": "2026-11-06",
+      "quiz": {
+        "q": "What phrase did Jaishankar use for Commonwealth supply chains?",
+        "options": [
+          "De-risk and diversify",
+          "Buy local first",
+          "One world, one market",
+          "Make in Commonwealth"
+        ],
+        "answer": 0,
+        "explain": "Jaishankar posted that Commonwealth partners need to de-risk and diversify, which requires shorter and trusted supply chains."
+      },
+      "tags": [
+        "CHOGM",
+        "trade",
+        "supply chains",
+        "Jaishankar"
+      ]
+    },
+    {
+      "id": "news-2026-11-06-13",
+      "type": "news",
+      "category": "international",
+      "headline": "Iran eases Strait of Hormuz transit for Indian vessels",
+      "body": "Iran has exempted Indian, Chinese, Iraqi and Qatari ships from transit restrictions in the Strait of Hormuz, a parliament committee official said. Iran expects returns, such as medicines from India and political support from China. Before the 2026 conflict, about 45% of India's crude oil imports and nearly 90% of imported LPG passed through the strait.",
+      "why_it_matters": "The Strait of Hormuz carries most of India's imported LPG and much of its crude oil, so passage there directly affects energy security and fuel prices at home.",
+      "key_fact": "~45% of India's crude imports pass through Hormuz",
+      "source_url": "https://www.livemint.com/economy/india-gets-strait-of-hormuz-passage-reprieve-from-iran-what-does-tehran-expect-in-return-11793871532686.html",
+      "date": "2026-11-06",
+      "quiz": {
+        "q": "According to the Union Petroleum Ministry, roughly what share of India's crude oil imports passed through the Strait of Hormuz before the 2026 conflict?",
+        "options": [
+          "About 15 per cent",
+          "About 45 per cent",
+          "About 70 per cent",
+          "About 90 per cent"
+        ],
+        "answer": 1,
+        "explain": "The article cites the Petroleum Ministry saying about 45 per cent of India's crude oil imports passed through the waterway."
+      },
+      "tags": [
+        "energy security",
+        "Iran",
+        "Strait of Hormuz",
+        "oil imports"
+      ]
+    },
+    {
+      "id": "news-2026-11-06-14",
+      "type": "news",
+      "category": "economy",
+      "headline": "MSME Ministry, TRIFED tie up for tribal artisans",
+      "body": "The Ministry of Micro, Small and Medium Enterprises signed an MoU with TRIFED, under the Ministry of Tribal Affairs, to boost market access for tribal artisans registered under the PM Vishwakarma scheme. The tie-up links the PM Vishwakarma framework with TRIFED's Tribes India marketplace and retail network, helping artisans display products and reach wider markets.",
+      "why_it_matters": "It gives traditional tribal craftspeople a direct route to buyers, potentially raising incomes for artisans who often depend on middlemen.",
+      "key_fact": "PM Vishwakarma scheme launched 17 September 2023",
+      "source_url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2333409",
+      "date": "2026-11-06",
+      "quiz": {
+        "q": "When was the PM Vishwakarma scheme launched?",
+        "options": [
+          "17 September 2023",
+          "15 August 2022",
+          "1 April 2024",
+          "2 October 2023"
+        ],
+        "answer": 0,
+        "explain": "The article states the PM Vishwakarma scheme was launched on 17 September 2023 to support traditional artisans and craftspeople."
+      },
+      "tags": [
+        "PM Vishwakarma",
+        "tribal artisans",
+        "TRIFED",
+        "MSME"
+      ]
+    },
+    {
+      "id": "news-2026-11-06-15",
+      "type": "news",
+      "category": "economy",
+      "headline": "MSME Ministry and Samsung India sign skilling MoU",
+      "body": "The MSME Ministry signed an MoU with Samsung India Electronics to provide industry-oriented training in electronics, mobile phones and home appliance servicing at 15 MSME Technology Centres for an initial three years. The programme targets 1,600 trainees in the first year, with three-month internships carrying a Rs 12,000 monthly stipend paid via DBT, plus support for women and persons with disabilities.",
+      "why_it_matters": "Industry-linked skilling improves employability for young Indians and supplies MSMEs in electronics servicing with trained workers.",
+      "key_fact": "Rs 12,000 monthly stipend for three-month internships",
+      "source_url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2333410",
+      "date": "2026-11-06",
+      "quiz": {
+        "q": "What monthly stipend will trainees get during the three-month internship under the Samsung-MSMEE partnership?",
+        "options": [
+          "Rs 5,000",
+          "Rs 8,000",
+          "Rs 12,000",
+          "Rs 20,000"
+        ],
+        "answer": 2,
+        "explain": "Successful trainees receive a three-month internship with a Rs 12,000 per month stipend paid through Direct Benefit Transfer."
+      },
+      "tags": [
+        "skill development",
+        "Samsung",
+        "MSME",
+        "internships"
+      ]
+    },
+    {
+      "id": "news-2026-11-06-16",
+      "type": "news",
+      "category": "science",
+      "headline": "Hyderabad startup opens India's first private space debris facility",
+      "body": "Cosmoserve Space, a Hyderabad-based startup, unveiled 'Base 1', described as India's first private facility and only the sixth in the world for satellite servicing and space debris recovery. Inaugurated by Union Minister Dr. Jitendra Singh and Telangana Minister D. Sridhar Babu, it houses an orbital capture lab, a space robotics lab, an ISO Class 8 clean room and a mission simulation centre.",
+      "why_it_matters": "Space debris threatens active satellites, and private Indian firms entering this niche signals the growing role of the country's spacetech sector.",
+      "key_fact": "Base 1 is India's first private space debris recovery facility",
+      "source_url": "https://www.thehindu.com/news/national/telangana/hyderabad-startup-opens-indias-first-private-space-debris-recovery-facility/article71670668.ece",
+      "date": "2026-11-06",
+      "quiz": {
+        "q": "What is 'Base 1'?",
+        "options": [
+          "India's first private space debris recovery facility",
+          "A new ISRO launch pad in Sriharikota",
+          "A government satellite integration centre",
+          "A private space museum in Hyderabad"
+        ],
+        "answer": 0,
+        "explain": "The article describes Base 1 as India's first private facility for satellite servicing and space debris recovery."
+      },
+      "tags": [
+        "spacetech",
+        "Hyderabad",
+        "space debris",
+        "startups"
+      ]
+    },
+    {
+      "id": "news-2026-11-06-17",
+      "type": "news",
+      "category": "sports",
+      "headline": "India retains Asian Champions Trophy hockey title, beats Japan 4-1",
+      "body": "India defended its Asian Champions Trophy title with a 4-1 win over Japan in the final at the Olympian Balbir Singh stadium. Japan led early through Kazumasa Matsumoto in the third minute and defended stubbornly, but India broke through in the 42nd minute and pulled away late. It was a scrappy Indian performance despite heavy possession.",
+      "why_it_matters": "A title defence in a continental tournament builds momentum for Indian hockey ahead of bigger international competitions.",
+      "key_fact": "India beat Japan 4-1 to retain the Asian Champions Trophy",
+      "source_url": "https://www.thehindu.com/sport/hockey/asian-champions-trophy-india-retains-crown-with-a-late-surge/article71671356.ece",
+      "date": "2026-11-06",
+      "quiz": {
+        "q": "What was the score in the Asian Champions Trophy final?",
+        "options": [
+          "India 4-1 Japan",
+          "India 3-1 Japan",
+          "India 2-0 Japan",
+          "India 3-2 Japan"
+        ],
+        "answer": 0,
+        "explain": "India won the final 4-1, defending its Asian Champions Trophy title."
+      },
+      "tags": [
+        "hockey",
+        "Asian Champions Trophy",
+        "sports"
+      ]
+    },
+    {
+      "id": "news-2026-11-06-18",
+      "type": "news",
+      "category": "sports",
+      "headline": "Tanvi Patri becomes first Indian in Youth Olympic badminton final",
+      "body": "Fifteen-year-old Tanvi Patri of Odisha became the first Indian badminton player to reach the women's singles final of the Youth Olympic Games, beating Japan's second seed Yuzuno Watanabe 21-14, 11-21, 21-19 in a 54-minute semifinal. She faces China's Yi Xin Zhang, the reigning World Junior champion, for gold. Earlier, she was the first Indian woman to reach the semifinals.",
+      "why_it_matters": "It marks a historic first for Indian badminton at the Youth Olympics, where H.S. Prannoy and Lakshya Sen earlier won silver.",
+      "key_fact": "Tanvi Patri is the first Indian in a Youth Olympic badminton final",
+      "source_url": "https://www.thehindu.com/sport/tanvi-patri-becomes-first-indian-badminton-player-to-reach-youth-olympic-badminton-final/article71668839.ece",
+      "date": "2026-11-06",
+      "quiz": {
+        "q": "Which badminton player reached India's first Youth Olympic women's singles final?",
+        "options": [
+          "Tanvi Patri",
+          "P.V. Sindhu",
+          "Saina Nehwal",
+          "Aakarshi Kashyap"
+        ],
+        "answer": 0,
+        "explain": "Tanvi Patri, 15, became the first Indian badminton player to reach the Youth Olympic women's singles final."
+      },
+      "tags": [
+        "badminton",
+        "Youth Olympics",
+        "Tanvi Patri"
+      ]
+    },
+    {
+      "id": "news-2026-11-06-19",
+      "type": "news",
+      "category": "sports",
+      "headline": "India beats Pakistan 3-2 in SAFF Championship opener",
+      "body": "Defending champion India began its SAFF Championship campaign with a 3-2 win over Pakistan in a Group B match. Suhail Ahmad Bhat scored in the 13th and 19th minutes and Manglenthang Kipgen added a third as India led 3-0 at half time. Pakistan scored twice in stoppage time through Najeeb Ullah and Alamgir Ghazi.",
+      "why_it_matters": "The win starts India's title defence on a positive note despite a thin squad, with ISL clubs yet to release players outside the FIFA window.",
+      "key_fact": "India beat Pakistan 3-2 in the SAFF Championship opener",
+      "source_url": "https://www.thehindu.com/sport/football/india-beats-pakistan-in-saff-championship-opener/article71671770.ece",
+      "date": "2026-11-06",
+      "quiz": {
+        "q": "Who scored a brace in India's 3-2 win over Pakistan?",
+        "options": [
+          "Suhail Ahmad Bhat",
+          "Manglenthang Kipgen",
+          "Najeeb Ullah",
+          "Alamgir Ghazi"
+        ],
+        "answer": 0,
+        "explain": "Suhail Ahmad Bhat scored in the 13th and 19th minutes for India."
+      },
+      "tags": [
+        "football",
+        "SAFF Championship",
+        "India vs Pakistan"
+      ]
+    },
+    {
+      "id": "news-2026-11-06-20",
+      "type": "news",
+      "category": "environment",
+      "headline": "Delhi air quality stays 'very poor', several areas hit 'severe'",
+      "body": "Delhi's overall air quality remained in the 'very poor' category on Friday morning, with areas including IIT Delhi, ITO, Dwarka, Rohini and Jahangirpuri recording 'severe' pollution. The 24-hour average Air Quality Index was 391 at 9 a.m., per CPCB data. Noida, Gurugram and Faridabad also logged 'very poor' air quality.",
+      "why_it_matters": "Severe air pollution affects healthy people and seriously harms those with existing diseases, making winter air quality a major public health concern in north India.",
+      "key_fact": "Delhi's 24-hour average AQI was 391 (very poor)",
+      "source_url": "https://www.thehindu.com/news/cities/Delhi/air-quality-of-delhi-worsens-many-parts-reel-under-severe-level-air-pollution/article71672802.ece",
+      "date": "2026-11-06",
+      "quiz": {
+        "q": "What was Delhi's 24-hour average AQI on Friday morning?",
+        "options": [
+          "391",
+          "369",
+          "377",
+          "301"
+        ],
+        "answer": 0,
+        "explain": "As per CPCB data, Delhi's 24-hour average AQI was 391 at 9 a.m. on Friday."
+      },
+      "tags": [
+        "air pollution",
+        "Delhi",
+        "AQI",
+        "health"
+      ]
+    }
+  ]
+}
