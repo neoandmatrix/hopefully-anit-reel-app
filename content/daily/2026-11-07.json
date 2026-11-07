@@ -1,0 +1,533 @@
+{
+  "date": "2026-11-07",
+  "cards": [
+    {
+      "id": "news-2026-11-07-01",
+      "type": "news",
+      "category": "international",
+      "headline": "U.S. strikes Iran air defence site; Iran reviews Qatar proposals",
+      "body": "On November 6, 2026, President Donald Trump said the U.S. military carried out limited strikes on an Iranian air defence system, with explosions reported near Qeshm Island in the Strait of Hormuz. Trump called the action minor. The strikes came days after Republican midterm losses and as Iran reviewed proposals from mediator Qatar on its nuclear programme.",
+      "why_it_matters": "The Strait of Hormuz carries a large share of global oil, so military escalation there can raise fuel prices far beyond West Asia.",
+      "key_fact": "Qatar is the chief mediator between Iran and the U.S.",
+      "source_url": "https://www.thehindu.com/news/international/us-military-carries-out-fresh-targeted-strikes-on-iran-as-tehran-weighs-mediators-proposals/article71677274.ece",
+      "date": "2026-11-07",
+      "quiz": {
+        "q": "Which country's officials presented proposals for addressing Iran-U.S. differences?",
+        "options": [
+          "Oman",
+          "Qatar",
+          "Turkey",
+          "United Arab Emirates"
+        ],
+        "answer": 1,
+        "explain": "The article names Qatar as the chief mediator whose proposals Iran was reviewing."
+      },
+      "tags": [
+        "Iran",
+        "U.S.",
+        "West Asia",
+        "oil"
+      ]
+    },
+    {
+      "id": "news-2026-11-07-02",
+      "type": "news",
+      "category": "international",
+      "headline": "Seafarer killed on tanker in Gulf; Iran reports Hormuz fires",
+      "body": "A seafarer on the Marshall Islands-flagged tanker Velos Sapphire was killed in an apparent missile attack in the Gulf on November 5, 2026, its Greek owner said. Iran's Revolutionary Guards claimed tankers caught fire after hitting mines in the Strait of Hormuz. Since the West Asia war began on February 28, Tehran has sought to restrict traffic through the waterway.",
+      "why_it_matters": "Attacks on shipping in Hormuz, which normally carries about a fifth of global oil consumption, threaten both seafarers and world energy supplies.",
+      "key_fact": "Strait of Hormuz carries about one-fifth of global oil consumption",
+      "source_url": "https://www.thehindu.com/news/international/sailor-killed-in-gulf-as-iran-says-tankers-on-fire/article71676046.ece",
+      "date": "2026-11-07",
+      "quiz": {
+        "q": "About how much of global oil consumption normally passes through the Strait of Hormuz?",
+        "options": [
+          "One-tenth",
+          "One-fifth",
+          "One-third",
+          "Half"
+        ],
+        "answer": 1,
+        "explain": "The article states the waterway normally carries about one-fifth of global oil consumption."
+      },
+      "tags": [
+        "Hormuz",
+        "shipping",
+        "Iran",
+        "oil"
+      ]
+    },
+    {
+      "id": "news-2026-11-07-03",
+      "type": "news",
+      "category": "international",
+      "headline": "Iran Guards claim two tankers caught fire in Hormuz",
+      "body": "Iran's Revolutionary Guards said on November 6, 2026, that two oil tankers caught fire in the Strait of Hormuz after hitting mines, a day after Iranian media reported five tankers and a tugboat in similar incidents. The U.S. has blockaded Iranian ports and escorted tankers. Maritime officials have not confirmed the incidents. U.S. Central Command said mines had been cleared.",
+      "why_it_matters": "Disruption in the Strait of Hormuz, a key oil route, can push up fuel and transport costs across the world, including in India.",
+      "key_fact": "IRGC claimed two tankers struck mines in Hormuz",
+      "source_url": "https://www.thehindu.com/news/international/iran-guards-say-two-tankers-caught-fire-in-hormuz/article71675787.ece",
+      "date": "2026-11-07",
+      "quiz": {
+        "q": "Who claimed that two oil tankers hit mines and caught fire in the Strait of Hormuz?",
+        "options": [
+          "U.S. Central Command",
+          "UKMTO",
+          "Iran's Revolutionary Guards",
+          "Velos Tankers"
+        ],
+        "answer": 2,
+        "explain": "The statement was carried by state TV from the Islamic Revolutionary Guard Corps."
+      },
+      "tags": [
+        "Hormuz",
+        "Iran",
+        "tankers",
+        "oil"
+      ]
+    },
+    {
+      "id": "news-2026-11-07-04",
+      "type": "news",
+      "category": "international",
+      "headline": "Trump names Stephen Miller chief of staff after midterm defeat",
+      "body": "President Donald Trump said on November 6, 2026, that Stephen Miller would replace Susie Wiles as White House chief of staff, days after Republicans lost control of Congress in the midterm elections. Wiles, the first woman to hold the post and Trump's longest-serving chief of staff, said she would keep working for his political organisation. Miller is a key architect of hard-line immigration policy.",
+      "why_it_matters": "The White House chief of staff is a top adviser who coordinates the president's staff and agenda, so the change signals the administration's direction on issues like immigration.",
+      "key_fact": "Susie Wiles was the first woman White House chief of staff",
+      "source_url": "https://www.thehindu.com/news/international/trump-replaces-susie-wiles-with-stephen-miller-as-chief-of-staff-after-gops-midterm-defeat/article71676063.ece",
+      "date": "2026-11-07",
+      "quiz": {
+        "q": "Who was the first woman to serve as White House chief of staff?",
+        "options": [
+          "Susie Wiles",
+          "Stephen Miller",
+          "Jeff Sessions",
+          "None before Stephen Miller"
+        ],
+        "answer": 0,
+        "explain": "The article notes Susie Wiles was the first woman ever to serve in that post."
+      },
+      "tags": [
+        "U.S.",
+        "White House",
+        "Trump",
+        "politics"
+      ]
+    },
+    {
+      "id": "news-2026-11-07-05",
+      "type": "news",
+      "category": "economy",
+      "headline": "Nasdaq 100 loses $2.5 trillion as AI stocks slump",
+      "body": "The Nasdaq-100 fell 6.36% on November 5, 2026, wiping about $2.53 trillion from its aggregate adjusted market value, as AI-related infrastructure investment fears grew after U.S. midterm results. Semiconductor stocks fell sharply, and Asian markets slipped. Indian equities bucked the trend, with the Sensex rising 1,718 points, or 2.17%, to close at 81,028.02.",
+      "why_it_matters": "A global tech sell-off affects investor portfolios, pension funds and the cost of capital for AI projects, while showing how Indian markets can move independently.",
+      "key_fact": "Nasdaq-100 fell 6.36% on November 5, 2026",
+      "source_url": "https://www.thehindu.com/business/us-midterm-results-add-to-global-ai-linked-stock-sell-off-25-trillion-wiped-off-nasdaq-100/article71674646.ece",
+      "date": "2026-11-07",
+      "quiz": {
+        "q": "By how much did the Nasdaq-100 fall on November 5, 2026?",
+        "options": [
+          "2.17%",
+          "5.52%",
+          "6.36%",
+          "12.2%"
+        ],
+        "answer": 2,
+        "explain": "The index plunged 6.36%, erasing roughly $2.53 trillion in aggregate adjusted market value."
+      },
+      "tags": [
+        "Nasdaq",
+        "AI",
+        "stock market",
+        "Sensex"
+      ]
+    },
+    {
+      "id": "news-2026-11-07-06",
+      "type": "news",
+      "category": "environment",
+      "headline": "Supreme Court flags vehicular emissions in Delhi-NCR air pollution",
+      "body": "The Supreme Court on November 6, 2026, termed vehicular emissions a major contributor to air pollution in Delhi-NCR and called for immediate, medium- and long-term measures as the air quality index touched 400. Hearing a suo motu case on the regulatory framework, a Bench led by Chief Justice of India Surya Kant expressed concern over bumper-to-bumper traffic on roads connecting Delhi with Ghaziabad, Greater Noida, Gurugram and Faridabad. The Centre cited measures including geo-tagging of PUC certificates and said stubble burning accounted for 14% of Delhi's pollution on November 5.",
+      "why_it_matters": "The Supreme Court's observations can push authorities to act faster on vehicular pollution, a key source of the winter smog that affects the health of millions in Delhi-NCR.",
+      "key_fact": "Vehicular emissions a major contributor to Delhi-NCR air pollution: Supreme Court",
+      "source_url": "https://www.thehindu.com/news/national/supreme-court-terms-vehicular-emissions-major-contributor-to-air-pollution-in-delhi-ncr/article71673419.ece",
+      "date": "2026-11-07",
+      "quiz": {
+        "q": "What did the Supreme Court identify as a major contributor to air pollution in Delhi-NCR?",
+        "options": [
+          "Vehicular emissions",
+          "Industrial emissions",
+          "Construction dust",
+          "Stubble burning"
+        ],
+        "answer": 0,
+        "explain": "The Supreme Court termed vehicular emissions a major contributor to air pollution in Delhi-NCR and called for urgent measures."
+      },
+      "tags": [
+        "Supreme Court",
+        "air pollution",
+        "Delhi-NCR",
+        "vehicular emissions"
+      ]
+    },
+    {
+      "id": "news-2026-11-07-07",
+      "type": "news",
+      "category": "environment",
+      "headline": "CAQM invokes GRAP Stage III in Delhi-NCR as AQI hits 382",
+      "body": "The Commission for Air Quality Management (CAQM) on Friday invoked Stage III of the Graded Response Action Plan (GRAP) in Delhi-NCR after the average Air Quality Index climbed to 382, in the 'very poor' category, two days before Diwali. Stage III, usually linked to 'severe' AQI, was invoked as a precaution amid forecasts of worsening pollution. Restrictions include hybrid classes for schools up to Class 5 in Delhi and four NCR districts, and advice for 50% work-from-home in offices. Metro and bus services will continue, with increased frequency.",
+      "why_it_matters": "GRAP Stage III brings direct changes for residents, such as hybrid schooling for young children and work-from-home advisories, showing how emergency pollution measures affect daily life.",
+      "key_fact": "GRAP Stage III invoked at AQI 382",
+      "source_url": "https://www.livemint.com/news/india/caqm-imposes-grap-iii-in-delhi-ncr-ahead-of-diwali-as-aqi-soars-to-382-here-s-what-s-allowed-and-restricted-11794022821945.html",
+      "date": "2026-11-07",
+      "quiz": {
+        "q": "Under which GRAP stage were hybrid classes for schools up to Class 5 ordered in Delhi-NCR?",
+        "options": [
+          "Stage I",
+          "Stage II",
+          "Stage III",
+          "Stage IV"
+        ],
+        "answer": 2,
+        "explain": "The CAQM invoked GRAP Stage III, which includes hybrid classes for schools up to Class 5 in Delhi and specified NCR districts."
+      },
+      "tags": [
+        "GRAP",
+        "CAQM",
+        "Delhi air quality",
+        "Diwali"
+      ]
+    },
+    {
+      "id": "news-2026-11-07-08",
+      "type": "news",
+      "category": "environment",
+      "headline": "Delhi AQI at 364 on November 7, a day before Diwali",
+      "body": "Delhi's air quality index stood at 364 (very poor) at 9 a.m. on November 7, 2026, a day before Diwali, compared with a 24-hour average of 382 at 4 p.m. on November 6, according to Central Pollution Control Board data. Of 59 monitoring stations, 18 recorded 'severe' AQI. The Air Quality Early Warning System forecast the AQI could reach the 'severe' category on November 7. The Delhi Directorate of Education directed schools to hold classes up to Class 5 in hybrid mode, complying with CAQM's GRAP Stage III order.",
+      "why_it_matters": "With Diwali firecrackers and stubble burning likely to worsen air quality, the AQI reading helps citizens and authorities decide on precautions and school arrangements.",
+      "key_fact": "Delhi AQI 364 at 9 a.m. on November 7, 2026",
+      "source_url": "https://www.thehindu.com/news/cities/Delhi/delhi-air-very-poor-with-aqi-reading-of-364/article71677336.ece",
+      "date": "2026-11-07",
+      "quiz": {
+        "q": "What was Delhi's AQI at 9 a.m. on November 7, 2026, according to CPCB?",
+        "options": [
+          "382",
+          "364",
+          "391",
+          "369"
+        ],
+        "answer": 1,
+        "explain": "The CPCB data showed Delhi's AQI at 364 (very poor) at 9 a.m. on November 7, 2026."
+      },
+      "tags": [
+        "Delhi AQI",
+        "CPCB",
+        "Diwali",
+        "schools"
+      ]
+    },
+    {
+      "id": "news-2026-11-07-09",
+      "type": "news",
+      "category": "environment",
+      "headline": "Delhi air 'very poor' on November 6, several areas 'severe'",
+      "body": "Delhi's overall air quality remained 'very poor' on November 6, 2026, morning, while areas including IIT Delhi, ITO, Dwarka, Rohini, Punjabi Bagh, Alipur, Bawana and Jahangirpuri recorded 'severe' pollution, according to official data. The 24-hour average AQI was 391 at 9 a.m., as per CPCB. Noida, Gurugram and Faridabad also had 'very poor' air. The Air Quality Early Warning System forecast 'severe' conditions for three days. Every winter, lower wind speeds and temperatures, stubble burning and firecrackers worsen Delhi-NCR's air.",
+      "why_it_matters": "The data shows how unevenly severe pollution is spread across Delhi, helping residents and authorities target local action and take health precautions.",
+      "key_fact": "Delhi's 24-hour average AQI 391 on November 6, 2026",
+      "source_url": "https://www.thehindu.com/news/cities/Delhi/air-quality-of-delhi-worsens-many-parts-reel-under-severe-level-air-pollution/article71672802.ece",
+      "date": "2026-11-07",
+      "quiz": {
+        "q": "What was Delhi's 24-hour average AQI at 9 a.m. on November 6, 2026, as per CPCB?",
+        "options": [
+          "369",
+          "377",
+          "391",
+          "382"
+        ],
+        "answer": 2,
+        "explain": "The CPCB data showed a 24-hour average AQI of 391 (very poor) for Delhi at 9 a.m. on November 6, 2026."
+      },
+      "tags": [
+        "Delhi air quality",
+        "CPCB",
+        "severe pollution",
+        "winter smog"
+      ]
+    },
+    {
+      "id": "news-2026-11-07-10",
+      "type": "news",
+      "category": "economy",
+      "headline": "Centre mandates weekly rice, paddy stock declaration as prices rise",
+      "body": "With rice prices rising due to a deficient and uneven monsoon, the Centre on November 7, 2026, directed traders, retailers, wholesalers, processors and millers nationwide to declare rice and paddy stocks weekly on the Food Stock Portal. A November 6 order requires disclosure under six categories. Five southern States—Andhra Pradesh, Karnataka, Kerala, Tamil Nadu and Telangana—can impose stock limits till January 31, 2027. The Centre doubled the Open Market Sale Scheme target to 50 lakh tonnes and is allocating extra rice to NAFED, NCCF and Kendriya Bhandar for Bharat Rice. Retail rice inflation was 8.25% in September.",
+      "why_it_matters": "These measures aim to curb hoarding and improve rice supply, which can help stabilise prices for ordinary households that depend on rice as a staple.",
+      "key_fact": "Weekly rice and paddy stock declaration on Food Stock Portal",
+      "source_url": "https://www.thehindu.com/news/national/amid-price-rise-centre-mandates-rice-paddy-stock-declaration/article71675997.ece",
+      "date": "2026-11-07",
+      "quiz": {
+        "q": "How often must units holding rice and paddy stocks update details on the Food Stock Portal?",
+        "options": [
+          "Every day",
+          "Every week",
+          "Every fortnight",
+          "Every month"
+        ],
+        "answer": 1,
+        "explain": "The Food Ministry said every unit holding stocks must update details on the Food Stock Portal every Friday."
+      },
+      "tags": [
+        "rice prices",
+        "Food Ministry",
+        "stock limits",
+        "Essential Commodities Act"
+      ]
+    },
+    {
+      "id": "news-2026-11-07-11",
+      "type": "news",
+      "category": "economy",
+      "headline": "India rules out fresh curbs on broken rice exports",
+      "body": "India will not impose new restrictions on broken rice exports, officials said, citing comfortable foodgrain stocks. India exported 8.08 lakh tonnes of broken rice in 2025, after a ban imposed in September 2022 was lifted on 7 March 2025. Central rice stocks stood at 39.05 million tonnes as of 1 September, and the rice-wheat combined stock at 87.05 million tonnes. Paddy procurement for KMS 2026-27 is estimated at 70.86 million tonnes.",
+      "why_it_matters": "India is the world's largest rice exporter, so its export policy directly shapes global rice prices and food inflation in importing countries.",
+      "key_fact": "India is the world's largest rice exporter",
+      "source_url": "https://www.livemint.com/economy/no-fresh-curbs-on-broken-rice-exports-as-india-banks-on-paddy-procurement-11793964472557.html",
+      "date": "2026-11-07",
+      "quiz": {
+        "q": "What is India's position in the global rice trade?",
+        "options": [
+          "World's largest rice exporter",
+          "World's largest rice importer",
+          "World's second-largest rice exporter",
+          "Not a significant rice trader"
+        ],
+        "answer": 0,
+        "explain": "The article states India is the world's largest rice exporter, shipping out 8.08 lakh tonnes of broken rice in 2025."
+      },
+      "tags": [
+        "rice exports",
+        "food security",
+        "agriculture"
+      ]
+    },
+    {
+      "id": "news-2026-11-07-12",
+      "type": "news",
+      "category": "economy",
+      "headline": "Finmin asks ministries to prioritise capex amid external risks",
+      "body": "The Union finance ministry has asked departments to prioritise capital expenditure and meet annual targets, as the economy faces external headwinds such as high energy prices amid West Asia tensions. Centre's capex rose 12.7% year-on-year to ₹6.55 trillion in the first half of FY27, but fell in August and September. It must rise 16.2% in October-March to meet the ₹12.2 trillion target.",
+      "why_it_matters": "Public spending on roads, railways and ports creates durable assets and jobs, and the Economic Survey estimates every rupee spent on infrastructure returns ₹2.5 to ₹3.5 to the economy.",
+      "key_fact": "FY27 capex target: ₹12.2 trillion",
+      "source_url": "https://www.livemint.com/news/finance-ministry-tells-central-ministries-and-depts-to-keep-capex-engine-running-11793955240379.html",
+      "date": "2026-11-07",
+      "quiz": {
+        "q": "What is the Centre's budgeted capital expenditure target for FY27?",
+        "options": [
+          "₹12.2 trillion",
+          "₹6.55 trillion",
+          "₹8.7 trillion",
+          "₹2.5 trillion"
+        ],
+        "answer": 0,
+        "explain": "Official data cited in the article show the FY27 budgeted capex target is ₹12.2 trillion."
+      },
+      "tags": [
+        "capex",
+        "finance ministry",
+        "economy"
+      ]
+    },
+    {
+      "id": "news-2026-11-07-13",
+      "type": "news",
+      "category": "economy",
+      "headline": "Adnoc signs 10-year LNG deal with Gujarat Energy",
+      "body": "Abu Dhabi National Oil Company (ADNOC) signed a 10-year sales and purchase agreement with Gujarat Energy to supply up to four million tonnes of LNG from 2028. It is ADNOC's fifth LNG supply deal with an Indian company, after Bharat Petroleum, Indian Oil Corporation, GAIL and Hindustan Petroleum. The gas will come from XRG's international portfolio outside the Gulf. Gujarat Energy runs city gas distribution across 44 districts in six states.",
+      "why_it_matters": "Long-term LNG contracts help secure reliable gas supply for city gas and industry as India shifts toward cleaner energy.",
+      "key_fact": "ADNOC-Gujarat Energy: 4 mt LNG from 2028",
+      "source_url": "https://www.thehindu.com/business/Industry/adnoc-inks-10-year-lng-supply-and-purchase-agreement-with-gujarat-energy/article71674806.ece",
+      "date": "2026-11-07",
+      "quiz": {
+        "q": "How much LNG will Gujarat Energy receive under its deal with ADNOC?",
+        "options": [
+          "Up to 4 million tonnes",
+          "Up to 47 million tonnes",
+          "Up to 10 million tonnes",
+          "Up to 1.4 million tonnes"
+        ],
+        "answer": 0,
+        "explain": "The agreement covers up to 4.0 million tonnes of LNG over ten years, starting in 2028."
+      },
+      "tags": [
+        "LNG",
+        "ADNOC",
+        "energy"
+      ]
+    },
+    {
+      "id": "news-2026-11-07-14",
+      "type": "news",
+      "category": "international",
+      "headline": "India, EU conclude Horizon Europe association talks",
+      "body": "The European Commission and India have concluded negotiations on India's association with Horizon Europe, a €93.5 billion research and innovation programme. Once the agreement is signed, Indian researchers and organisations can receive funding directly and lead collaborative projects under Pillar II on global challenges. The formal agreement is likely to be signed in January, weeks before a planned India-EU free trade agreement.",
+      "why_it_matters": "Association lets Indian researchers take part on equal terms with EU counterparts, opening direct access to major research funding and cross-border collaboration.",
+      "key_fact": "Horizon Europe: €93.5 billion research programme",
+      "source_url": "https://www.thehindu.com/news/national/india-eu-conclude-multi-billion-euro-global-innovation-programme/article71677171.ece",
+      "date": "2026-11-07",
+      "quiz": {
+        "q": "What is the size of the Horizon Europe programme India is associating with?",
+        "options": [
+          "€93.5 billion",
+          "€47 billion",
+          "€2 billion",
+          "€10 billion"
+        ],
+        "answer": 0,
+        "explain": "The article describes Horizon Europe as a €93.5 billion flagship research and innovation programme."
+      },
+      "tags": [
+        "Horizon Europe",
+        "India-EU",
+        "research"
+      ]
+    },
+    {
+      "id": "news-2026-11-07-15",
+      "type": "news",
+      "category": "international",
+      "headline": "First BIMSTEC maritime security exercise concludes in Sri Vijaya Puram",
+      "body": "The first BIMSTEC maritime security exercise was held from October 30 to November 3, 2026, under the Andaman and Nicobar Command, India's only operational tri-service command. Ships included INS Taragiri, INS Karmuk and INS Saryu, along with Myanmar's UMS King Ang Zeya and Sri Lanka's SLNS Gajabahu. A harbour phase in Sri Vijaya Puram was followed by a sea phase on November 2-3.",
+      "why_it_matters": "It shows BIMSTEC members working together on shared maritime security in the Bay of Bengal, a region central to India's trade and security.",
+      "key_fact": "First BIMSTEC maritime security exercise, October 30 to November 3, 2026",
+      "source_url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2333778",
+      "date": "2026-11-07",
+      "quiz": {
+        "q": "Which command oversaw the first BIMSTEC maritime security exercise?",
+        "options": [
+          "Andaman and Nicobar Command",
+          "Western Naval Command",
+          "Southern Naval Command",
+          "Eastern Naval Command"
+        ],
+        "answer": 0,
+        "explain": "The exercise was conducted under the Andaman and Nicobar Command, India's only operational tri-service command."
+      },
+      "tags": [
+        "BIMSTEC",
+        "navy",
+        "maritime security",
+        "Andaman"
+      ]
+    },
+    {
+      "id": "news-2026-11-07-16",
+      "type": "news",
+      "category": "international",
+      "headline": "India and Myanmar launch first tri-service HADR exercise 'Rahat Mitra'",
+      "body": "India and Myanmar began their first bilateral tri-service Humanitarian Assistance and Disaster Relief exercise, 'Rahat Mitra', in Chennai on November 5, 2026. Held on November 5-6 under the theme 'Together for Humanity, Stronger Through Partnership', it involves over 300 personnel from the three services of both countries. The Indian Navy is coordinating the exercise, which aims to improve coordination in disaster relief operations.",
+      "why_it_matters": "Joint disaster relief drills help neighbours respond faster and better when cyclones or other disasters strike the region.",
+      "key_fact": "First India-Myanmar tri-service HADR exercise 'Rahat Mitra'",
+      "source_url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2333746",
+      "date": "2026-11-07",
+      "quiz": {
+        "q": "What is the name of India and Myanmar's first tri-service HADR exercise?",
+        "options": [
+          "Rahat Mitra",
+          "Sampriti",
+          "Mitra Shakti",
+          "Surya Kiran"
+        ],
+        "answer": 0,
+        "explain": "The exercise, launched in Chennai, is called 'Rahat Mitra'."
+      },
+      "tags": [
+        "India-Myanmar",
+        "HADR",
+        "defence",
+        "Chennai"
+      ]
+    },
+    {
+      "id": "news-2026-11-07-17",
+      "type": "news",
+      "category": "polity",
+      "headline": "SC: temporary and non-resident silk cotton cultivators not forest dwellers",
+      "body": "The Supreme Court held that people with temporary residence in the Agasthyamalai biosphere, or living entirely outside forest boundaries, cannot be treated as traditional forest dwellers merely for cultivating silk cotton inside the forest. Tamil Nadu's affidavit listed 232 such temporary residents and 2,767 persons living outside the boundary. The court gave the State 30 days to form remaining gram sabhas and set up a committee chaired by former CJI B.R. Gavai.",
+      "why_it_matters": "The order affects how Forest Rights Act claims are decided, balancing tribal rights with forest conservation.",
+      "key_fact": "Scheduled Tribes and Other Traditional Forest Dwellers (Recognition of Forest Rights) Act, 2006",
+      "source_url": "https://www.thehindu.com/news/national/agasthyamalai-conservation-case-sc-directs-temporary-and-non-resident-silk-cotton-cultivators-not-eligible-for-protection-under-fra-act/article71675811.ece",
+      "date": "2026-11-07",
+      "quiz": {
+        "q": "Which law governs the forest dweller claims discussed in the Agasthyamalai case?",
+        "options": [
+          "Forest Rights Act, 2006",
+          "Wildlife Protection Act, 1972",
+          "Forest Conservation Act, 1980",
+          "Biological Diversity Act, 2002"
+        ],
+        "answer": 0,
+        "explain": "The court applied the Scheduled Tribes and Other Traditional Forest Dwellers (Recognition of Forest Rights) Act, 2006."
+      },
+      "tags": [
+        "Supreme Court",
+        "Forest Rights Act",
+        "Agasthyamalai",
+        "conservation"
+      ]
+    },
+    {
+      "id": "news-2026-11-07-18",
+      "type": "news",
+      "category": "polity",
+      "headline": "SC orders Punjab and Haryana to pay Himachal 11,973 million units",
+      "body": "The Supreme Court directed Punjab and Haryana to supply 11,973 million units of electricity to Himachal Pradesh over 20 years towards outstanding dues from the Bhakra-Nangal and Beas hydroelectric projects. The order settles a decades-old dispute over Himachal's 7.19% share. Chief Minister Sukhvinder Singh Sukhu called it a historic victory, estimating revenue of ₹10,000 crore to ₹20,000 crore.",
+      "why_it_matters": "The extra power and revenue can fund education, health and roads in Himachal, and the case shows how shared river projects divide benefits between states.",
+      "key_fact": "Himachal's 7.19% share in Bhakra-Nangal and Beas projects",
+      "source_url": "https://www.thehindu.com/news/national/himachal-pradesh/supreme-court-decision-on-bbmb-arrears-a-victory-for-himachal-says-cm-sukhu/article71675039.ece",
+      "date": "2026-11-07",
+      "quiz": {
+        "q": "What share does Himachal Pradesh hold in power from the Bhakra-Nangal and Beas projects?",
+        "options": [
+          "7.19%",
+          "12%",
+          "5.5%",
+          "9.5%"
+        ],
+        "answer": 0,
+        "explain": "The dispute concerned Himachal Pradesh's 7.19% share in power from these projects."
+      },
+      "tags": [
+        "Himachal Pradesh",
+        "BBMB",
+        "Supreme Court",
+        "hydropower"
+      ]
+    },
+    {
+      "id": "news-2026-11-07-19",
+      "type": "news",
+      "category": "polity",
+      "headline": "Calcutta High Court halts KMC poll notification over delimitation challenge",
+      "body": "The Calcutta High Court restrained the West Bengal State Election Commission from issuing any notification for Kolkata Municipal Corporation elections based on newly redrawn wards until a petition challenging the delimitation is decided. The State had increased KMC wards from 144 to 209 through a law passed on August 12. Former councillor Dipu Das challenged the exercise; a Division Bench modified an earlier single-judge order that had refused to stay the notification.",
+      "why_it_matters": "It delays civic elections in Kolkata and tests how far state governments can redraw municipal wards before a court ruling.",
+      "key_fact": "KMC wards increased from 144 to 209",
+      "source_url": "https://www.thehindu.com/news/cities/kolkata/calcutta-high-court-restrains-kmc-polls-until-challenge-on-delimitation-decided/article71675339.ece",
+      "date": "2026-11-07",
+      "quiz": {
+        "q": "By how much did the West Bengal law increase the number of KMC wards?",
+        "options": [
+          "From 144 to 209",
+          "From 141 to 200",
+          "From 144 to 200",
+          "From 150 to 209"
+        ],
+        "answer": 0,
+        "explain": "The legislation redrew wards and raised their number from 144 to 209."
+      },
+      "tags": [
+        "Calcutta High Court",
+        "KMC",
+        "delimitation",
+        "West Bengal"
+      ]
+    }
+  ]
+}
