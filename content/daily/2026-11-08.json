@@ -1,0 +1,564 @@
+{
+  "date": "2026-11-08",
+  "cards": [
+    {
+      "id": "news-2026-11-08-01",
+      "type": "news",
+      "category": "environment",
+      "headline": "CAQM sub-committee invokes GRAP Stage-III across Delhi-NCR as AQI hits 382",
+      "body": "The CAQM's GRAP sub-committee met on 6 November 2026 and reviewed Delhi-NCR air quality along with IMD/IITM forecasts. With Delhi's daily average AQI at 382 — 'very poor' — and AQI expected to reach 'severe', the panel ordered GRAP Stage-III measures across the NCR with immediate effect, in addition to existing Stage-I and Stage-II curbs.",
+      "why_it_matters": "GRAP restrictions under Stage-III affect everyday life in the NCR, including vehicle use and construction work, so residents should know which stage is active and what it curbs.",
+      "key_fact": "Delhi AQI 382; GRAP Stage III invoked",
+      "source_url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2333918",
+      "date": "2026-11-08",
+      "quiz": {
+        "q": "Which GRAP stage did the CAQM sub-committee invoke after Delhi's AQI of 382?",
+        "options": [
+          "Stage I",
+          "Stage II",
+          "Stage III",
+          "Stage IV"
+        ],
+        "answer": 2,
+        "explain": "The sub-committee decided to enforce GRAP Stage-III measures across the NCR with immediate effect."
+      },
+      "tags": [
+        "air pollution",
+        "GRAP",
+        "Delhi-NCR",
+        "CAQM"
+      ]
+    },
+    {
+      "id": "news-2026-11-08-02",
+      "type": "news",
+      "category": "environment",
+      "headline": "Supreme Court calls vehicular emissions major cause of Delhi-NCR air pollution",
+      "body": "Hearing a suo motu case on air pollution regulation, a Bench led by Chief Justice of India Surya Kant said on 6 November 2026 that vehicular emissions are a major contributor to Delhi-NCR's bad air, flagging 'bumper-to-bumper' traffic. The Centre told the court stubble burning caused 14% of Delhi's pollution a day earlier. The matter is listed next on November 16.",
+      "why_it_matters": "Judicial scrutiny of transport and pollution sources can shape policies on vehicles, stubble burning and school closures that directly affect residents of the NCR.",
+      "key_fact": "Stubble burning 14% of Delhi pollution (Nov 5)",
+      "source_url": "https://www.thehindu.com/news/national/supreme-court-terms-vehicular-emissions-major-contributor-to-air-pollution-in-delhi-ncr/article71673419.ece",
+      "date": "2026-11-08",
+      "quiz": {
+        "q": "According to the Centre's submission to the Supreme Court, what share of Delhi's pollution came from stubble burning on November 5, 2026?",
+        "options": [
+          "4%",
+          "14%",
+          "24%",
+          "40%"
+        ],
+        "answer": 1,
+        "explain": "Additional Solicitor General Aishwarya Bhati told the Bench that stubble burning accounted for 14% of Delhi's pollution."
+      },
+      "tags": [
+        "Supreme Court",
+        "air pollution",
+        "Delhi",
+        "vehicles"
+      ]
+    },
+    {
+      "id": "news-2026-11-08-03",
+      "type": "news",
+      "category": "environment",
+      "headline": "Delhi's AQI near 'severe' at 383 on Deepavali morning",
+      "body": "Delhi woke to toxic haze on Deepavali morning with an AQI of 383, close to the 'severe' threshold of 401, The Hindu reported. Of 54 monitoring stations, 24 recorded 'severe' air quality, with Jahangirpuri highest at 450. The city's AQI had improved from 382 on Friday to 369 on Saturday. The Early Warning System expected 'severe' conditions on November 8 and 9.",
+      "why_it_matters": "Knowing the AQI scale helps citizens judge pollution risk and respond to official advisories on outdoor activity and health precautions.",
+      "key_fact": "AQI 301–400 is 'very poor'; 401–500 is 'severe'",
+      "source_url": "https://www.thehindu.com/news/cities/Delhi/delhi-wakes-up-to-toxic-haze-on-deepavali-close-to-severe-aqi-at-383/article71680540.ece",
+      "date": "2026-11-08",
+      "quiz": {
+        "q": "As per CPCB, an AQI between 401 and 500 falls in which category?",
+        "options": [
+          "Poor",
+          "Very poor",
+          "Severe",
+          "Satisfactory"
+        ],
+        "answer": 2,
+        "explain": "The CPCB classifies an AQI of 401 to 500 as 'severe'."
+      },
+      "tags": [
+        "Delhi",
+        "AQI",
+        "Deepavali",
+        "air pollution"
+      ]
+    },
+    {
+      "id": "news-2026-11-08-04",
+      "type": "news",
+      "category": "economy",
+      "headline": "Ten years on, demonetisation has not reduced cash use: RBI data",
+      "body": "Ten years after demonetisation, RBI data indicate the move had little effect on reducing cash in circulation, while detection of counterfeit notes, especially ₹500 notes, has increased, The Hindu reported. Meanwhile, the value of UPI transactions has grown steadily year after year, even as a share of India's GDP.",
+      "why_it_matters": "The data are useful context for debates on India's shift to digital payments and on how much currency still circulates in the economy.",
+      "key_fact": "Demonetisation announced in 2016; RBI tracks currency and fake notes",
+      "source_url": "https://www.thehindu.com/business/10-years-since-demonetisation-cash-usage-unchanged-fake-notes-on-the-rise/article71673986.ece",
+      "date": "2026-11-08",
+      "quiz": {
+        "q": "What do RBI data indicate about cash in circulation ten years after demonetisation?",
+        "options": [
+          "Cash use fell sharply",
+          "Cash use was largely unchanged",
+          "Cash was fully phased out",
+          "Only ₹2,000 notes remain"
+        ],
+        "answer": 1,
+        "explain": "The report said the exercise had little impact on reducing cash in circulation."
+      },
+      "tags": [
+        "demonetisation",
+        "RBI",
+        "UPI",
+        "currency"
+      ]
+    },
+    {
+      "id": "news-2026-11-08-05",
+      "type": "news",
+      "category": "economy",
+      "headline": "EPFO completes Special Campaign 6 across offices nationwide",
+      "body": "The Employees' Provident Fund Organisation completed Special Campaign 6, held during October 2026, with participation from its headquarters, training academies, 21 zonal offices and various regional and district offices. Activities included monitoring of progress, collective pledges, grievance redressal with follow-up calls to complainants, and cleanliness and records-management drives.",
+      "why_it_matters": "EPFO handles provident fund savings for crores of salaried Indians, so improvements in its grievance handling and office efficiency affect ordinary members directly.",
+      "key_fact": "EPFO Special Campaign 6 held in October 2026",
+      "source_url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334077",
+      "date": "2026-11-08",
+      "quiz": {
+        "q": "During which month was EPFO's Special Campaign 6 held?",
+        "options": [
+          "August 2026",
+          "September 2026",
+          "October 2026",
+          "November 2026"
+        ],
+        "answer": 2,
+        "explain": "The EPFO said Special Campaign 6 was organised during October 2026."
+      },
+      "tags": [
+        "EPFO",
+        "Special Campaign",
+        "governance"
+      ]
+    },
+    {
+      "id": "news-2026-11-08-06",
+      "type": "news",
+      "category": "polity",
+      "headline": "NPPA caps trade margin on 137 cancer drugs from 9 November",
+      "body": "The National Pharmaceutical Pricing Authority has limited trade margins on 137 cancer drugs, following recommendations of an expert committee set up by the Directorate General of Health Services. Revised maximum retail prices take effect from 9 November 2026. Of 1,225 formulations disclosed by 76 companies, 1,031 saw price cuts, 600 brands by over 50%, with the steepest cut at 96.45%. Consumers are expected to save about ₹3,502.31 crore a year.",
+      "why_it_matters": "Cancer treatment is expensive in India, and capping trade margins on essential cancer drugs can make medicines more affordable for patients.",
+      "key_fact": "NPPA caps trade margin on 137 cancer drugs",
+      "source_url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2333968",
+      "date": "2026-11-08",
+      "quiz": {
+        "q": "Which body has fixed trade margins on 137 anti-cancer drugs?",
+        "options": [
+          "National Pharmaceutical Pricing Authority",
+          "Central Drugs Standard Control Organisation",
+          "Directorate General of Health Services",
+          "Indian Council of Medical Research"
+        ],
+        "answer": 0,
+        "explain": "The NPPA, under the Department of Pharmaceuticals, set the margin cap based on an expert committee's recommendations."
+      },
+      "tags": [
+        "health",
+        "cancer drugs",
+        "NPPA",
+        "drug pricing"
+      ]
+    },
+    {
+      "id": "news-2026-11-08-07",
+      "type": "news",
+      "category": "economy",
+      "headline": "OMCs say E20 petrol meets quality standards, counter Karnataka claims",
+      "body": "Three public sector oil marketing companies — IOCL, BPCL and HPCL — rejected Karnataka's claim that petrol at some retail outlets contained 26-31% ethanol. They said E20 petrol supplied nationwide conforms to the Bureau of Indian Standards specification IS 17021 for ethanol-blended motor gasoline. The OMCs also flagged concerns over the October 2026 sampling and testing method, noting that laid-down procedures under the Control Order were not followed.",
+      "why_it_matters": "The dispute matters to motorists, since fuel quality affects vehicle performance and both the state and oil companies are publicly staking claims.",
+      "key_fact": "E20 petrol must conform to BIS standard IS 17021",
+      "source_url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2333951",
+      "date": "2026-11-08",
+      "quiz": {
+        "q": "Which BIS standard governs ethanol-blended petrol in India?",
+        "options": [
+          "IS 17021",
+          "IS 1460",
+          "IS 2705",
+          "IS 1030"
+        ],
+        "answer": 0,
+        "explain": "The oil marketing companies said E20 petrol conforms to IS 17021, the BIS standard for ethanol-blended motor gasoline."
+      },
+      "tags": [
+        "petroleum",
+        "ethanol",
+        "E20",
+        "BIS"
+      ]
+    },
+    {
+      "id": "news-2026-11-08-08",
+      "type": "news",
+      "category": "economy",
+      "headline": "MSME ministry plans to amend Coir Industry Act of 1953",
+      "body": "The MSME ministry is considering amending the Coir Industry Act, 1953, to broaden product definitions and ease compliance for a sector employing over 750,000 people. Coir exports rose 52% to a record ₹6,614 crore in FY26 from ₹4,343 crore in FY25, with key markets including the US, China, the Netherlands and Spain. About 80% of workers in fibre extraction and spinning are women.",
+      "why_it_matters": "Coir is a biodegradable natural fibre with growing export demand, so updating a decades-old law can help workers, farmers and small firms benefit more.",
+      "key_fact": "Coir exports rose 52% to ₹6,614 crore in FY26",
+      "source_url": "https://www.livemint.com/news/msme-ministry-plans-to-amend-coir-industry-act-1953-to-modernise-infra-ease-compliance-burden-11793957436679.html",
+      "date": "2026-11-08",
+      "quiz": {
+        "q": "By how much did coir exports grow in FY26 compared with FY25?",
+        "options": [
+          "52%",
+          "26%",
+          "80%",
+          "12%"
+        ],
+        "answer": 0,
+        "explain": "Shipments rose 52% to ₹6,614 crore in FY26 from ₹4,343 crore in FY25."
+      },
+      "tags": [
+        "MSME",
+        "coir",
+        "exports",
+        "law reform"
+      ]
+    },
+    {
+      "id": "news-2026-11-08-09",
+      "type": "news",
+      "category": "science",
+      "headline": "VISTAR initiative to overhaul India's official statistical system",
+      "body": "The Viksit Bharat Initiative for Statistical Transformation, Analytics & Research (VISTAR) is a major overhaul of India's official statistical system at the Centre and state levels. It aims to move beyond periodic surveys and administrative records by using interoperable datasets, bridging data gaps and generating timely, reliable socioeconomic indicators for evidence-based policymaking, while guarding against the risks of synthetic data.",
+      "why_it_matters": "Official statistics shape policy, budgeting and investment decisions, so faster and more reliable data affects the everyday lives of citizens.",
+      "key_fact": "VISTAR: Viksit Bharat Initiative for Statistical Transformation, Analytics & Research",
+      "source_url": "https://www.thehindu.com/business/Economy/vistar-indias-shift-towards-a-real-time-technology-driven-statistical-system-explained/article71672990.ece",
+      "date": "2026-11-08",
+      "quiz": {
+        "q": "What does the acronym VISTAR stand for?",
+        "options": [
+          "Viksit Bharat Initiative for Statistical Transformation, Analytics & Research",
+          "Village Information System for Tracking Agricultural Returns",
+          "Viksit Bharat Institute for Survey Training and Analysis of Records",
+          "Viksit Bharat Integrated Scheme for Trade Analysis and Reporting"
+        ],
+        "answer": 0,
+        "explain": "The article spells out VISTAR as the Viksit Bharat Initiative for Statistical Transformation, Analytics & Research."
+      },
+      "tags": [
+        "statistics",
+        "VISTAR",
+        "data",
+        "governance"
+      ]
+    },
+    {
+      "id": "news-2026-11-08-10",
+      "type": "news",
+      "category": "international",
+      "headline": "IAF IL-76 lands at Nyoma, setting high-altitude record",
+      "body": "An IAF IL-76MD heavy-lift transport aircraft landed at Nyoma airbase in eastern Ladakh at 13,629 feet, a record for aircraft of its class. Located about 25 km from the Line of Actual Control with China, Nyoma is emerging as key forward military infrastructure. The aircraft can carry roughly 40–45 tonnes of cargo, improving troop and equipment movement to forward areas.",
+      "why_it_matters": "The landing shows India can airlift heavy equipment close to the China border, reducing dependence on distant bases like Leh and Thoise.",
+      "key_fact": "Nyoma airbase is at 13,629 feet in eastern Ladakh",
+      "source_url": "https://www.livemint.com/news/india/how-nyoma-airbase-boosts-india-s-military-readiness-on-china-border-why-iaf-s-highest-ever-il-76-landing-matters-11794074926940.html",
+      "date": "2026-11-08",
+      "quiz": {
+        "q": "At what altitude is the Nyoma airbase located, where the IL-76 landed?",
+        "options": [
+          "13,629 feet",
+          "11,000 feet",
+          "15,200 feet",
+          "9,500 feet"
+        ],
+        "answer": 0,
+        "explain": "The article states the IL-76MD landed at Nyoma at an altitude of 13,629 feet."
+      },
+      "tags": [
+        "IAF",
+        "Nyoma",
+        "Ladakh",
+        "defence"
+      ]
+    },
+    {
+      "id": "news-2026-11-08-11",
+      "type": "news",
+      "category": "international",
+      "headline": "India and EU conclude talks on Horizon Europe association",
+      "body": "India and the European Union have successfully concluded negotiations on India's association with Horizon Europe, the EU's flagship research and innovation programme. The move builds on the India-EU Science and Technology Cooperation Agreement and the Trade and Technology Council. Indian researchers, institutions and industry would be able to join funded collaborative projects and access EU consortia and research infrastructure. The talks were prompted by the January 2026 India-EU summit and a July 2026 TTC ministerial in Brussels.",
+      "why_it_matters": "It gives Indian scientists and firms a formal channel to join Europe-funded research in health, digital tech, climate and energy.",
+      "key_fact": "Horizon Europe is the EU's main research and innovation funding programme",
+      "source_url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2333911",
+      "date": "2026-11-08",
+      "quiz": {
+        "q": "India's negotiations concluded for association with which EU programme?",
+        "options": [
+          "Erasmus Mundus",
+          "Horizon Europe",
+          "Copernicus",
+          "Galileo"
+        ],
+        "answer": 1,
+        "explain": "The article states the talks were for India's association with Horizon Europe, the EU's flagship research and innovation programme."
+      },
+      "tags": [
+        "India-EU",
+        "research",
+        "Horizon Europe",
+        "science"
+      ]
+    },
+    {
+      "id": "news-2026-11-08-12",
+      "type": "news",
+      "category": "polity",
+      "headline": "PM Modi to mark Deepavali with security forces in Bastar",
+      "body": "Prime Minister Narendra Modi said he will celebrate Deepavali on November 8, 2026 with security personnel in Chhattisgarh's Bastar, an area once dominated by Maoists. In a post on X, he said Bastar is now seeing development flourish and that he would salute the sacrifices of security personnel. Central Armed Police Forces and Chhattisgarh Police are deployed there. On March 31 this year, the government announced the country was free from the menace of Maoism.",
+      "why_it_matters": "The visit signals the government's claim that Maoist insurgency has ended in Bastar after decades of conflict.",
+      "key_fact": "Government announced India free from Maoism on March 31, 2026",
+      "source_url": "https://www.thehindu.com/news/national/pm-modi-deepavali-celebration-soldiers-bastar-november-8-2026/article71680574.ece",
+      "date": "2026-11-08",
+      "quiz": {
+        "q": "Where will PM Modi celebrate Deepavali in 2026?",
+        "options": [
+          "Bastar, Chhattisgarh",
+          "Sukna, West Bengal",
+          "Kargil, Ladakh",
+          "Kohima, Nagaland"
+        ],
+        "answer": 0,
+        "explain": "The article states Modi will celebrate Deepavali with security personnel in Chhattisgarh's Bastar."
+      },
+      "tags": [
+        "Bastar",
+        "Deepavali",
+        "Maoism",
+        "security forces"
+      ]
+    },
+    {
+      "id": "news-2026-11-08-13",
+      "type": "news",
+      "category": "polity",
+      "headline": "Rajnath Singh calls for top military readiness on Deepavali eve",
+      "body": "Defence Minister Rajnath Singh visited armed forces personnel at multiple locations in West Bengal on November 7, 2026. At Bagdogra Air Force station, near the frontier with China, he said the security landscape has grown complex and the forces must maintain the highest operational readiness. He called the northeast India's \"first edge\" and urged focus on domain awareness, cyber resilience and information integrity. He later reviewed the Army's Trishakti Corps at Sukna.",
+      "why_it_matters": "It reflects official emphasis on cyber and information security alongside conventional preparedness on the China border.",
+      "key_fact": "Trishakti Corps, based at Sukna, handles the eastern LAC sector",
+      "source_url": "https://www.thehindu.com/news/national/from-strategic-eastern-airbase-rajnath-calls-for-highest-military-preparedness/article71678566.ece",
+      "date": "2026-11-08",
+      "quiz": {
+        "q": "Which Army corps did Rajnath Singh review at Sukna?",
+        "options": [
+          "Strike Corps",
+          "Trishakti Corps",
+          "Kharga Corps",
+          "Sudarshan Chakra Corps"
+        ],
+        "answer": 1,
+        "explain": "The article says he reviewed the operational preparedness of the Army's Trishakti Corps at Sukna."
+      },
+      "tags": [
+        "defence",
+        "Rajnath Singh",
+        "Bagdogra",
+        "LAC"
+      ]
+    },
+    {
+      "id": "news-2026-11-08-14",
+      "type": "news",
+      "category": "polity",
+      "headline": "Bombay HC allows BNS Section 75 charge for trans woman",
+      "body": "The Bombay High Court refused to discharge Vishal Ingle, holding that Section 75 of the Bharatiya Nyay Sanhita, which deals with outraging a woman's modesty, can apply when the complainant is a transgender person who identifies as a woman after hormone therapy. Justice Mehroz Pathan passed the order on November 3. The court also rejected the argument that the Transgender Persons (Protection of Rights) Act, 2019 requires a certificate of identity at the time of the offence.",
+      "why_it_matters": "The ruling clarifies that protections for women under the new criminal code can extend to transgender complainants who identify as women.",
+      "key_fact": "Section 75 of the Bharatiya Nyay Sanhita covers outraging a woman's modesty",
+      "source_url": "https://www.thehindu.com/news/national/maharashtra/bombay-high-court-allows-bns-section-75-charge-where-complainant-identifies-as-woman/article71678923.ece",
+      "date": "2026-11-08",
+      "quiz": {
+        "q": "Which BNS section was at issue in the Bombay High Court order?",
+        "options": [
+          "Section 296",
+          "Section 75",
+          "Section 223",
+          "Section 18(D)"
+        ],
+        "answer": 1,
+        "explain": "The court held that Section 75 of the BNS can apply where the complainant is a transgender person identifying as a woman."
+      },
+      "tags": [
+        "Bombay HC",
+        "BNS",
+        "transgender rights",
+        "law"
+      ]
+    },
+    {
+      "id": "news-2026-11-08-15",
+      "type": "news",
+      "category": "polity",
+      "headline": "Karnataka HC says ED not a 'super cop', limits PMLA powers",
+      "body": "The High Court of Karnataka held that the Directorate of Enforcement is \"not a super cop\" and cannot file a private complaint to start a money-laundering probe when competent agencies decline to prosecute a scheduled offence. Justice M.I. Arun said the ED's power under the Prevention of Money-Laundering Act is \"derivative and not original\". The order allowed writ petitions, including by Congress MLA K.Y. Nanjegowda, challenging an ECIR registered in November 2023.",
+      "why_it_matters": "The ruling reinforces checks on the ED's powers, relevant to anyone facing a money-laundering probe.",
+      "key_fact": "Karnataka HC: ED's PMLA power is derivative, not original",
+      "source_url": "https://www.thehindu.com/news/national/karnataka/enforcement-directorate-is-not-a-super-cop-says-karnataka-high-court/article71677912.ece",
+      "date": "2026-11-08",
+      "quiz": {
+        "q": "How did the Karnataka High Court describe the ED's power under the PMLA?",
+        "options": [
+          "Original and unlimited",
+          "Derivative and not original",
+          "Equivalent to a super cop",
+          "Purely advisory"
+        ],
+        "answer": 1,
+        "explain": "The court ruled that the ED's power under the PMLA is derivative, not original."
+      },
+      "tags": [
+        "ED",
+        "PMLA",
+        "Karnataka HC",
+        "money laundering"
+      ]
+    },
+    {
+      "id": "news-2026-11-08-16",
+      "type": "news",
+      "category": "polity",
+      "headline": "Supreme Court keeps non-veg food ban near Somnath Temple",
+      "body": "The Supreme Court declined to lift restrictions on preparing, selling and storing non-vegetarian food near Gujarat's Somnath Temple. A bench of Justices MM Sundresh and PB Varale said a balance must be maintained and asked the Gujarat High Court to decide appeals within two months. The ban, issued by the Gir Somnath District Magistrate on August 10, covers areas within 500 metres of the temple. Restaurant owners challenged it.",
+      "why_it_matters": "It shows courts weighing religious sensitivities against the fundamental right to carry on a trade, a balance that affects many livelihoods and limits on food business near places of worship.",
+      "key_fact": "Article 19(1)(g) guarantees the right to carry on a trade or business",
+      "source_url": "https://www.livemint.com/news/india/somnath-temple-non-veg-food-ban-why-supreme-court-refused-to-lift-restrictions-and-what-the-judges-said-11794075226820.html",
+      "date": "2026-11-08",
+      "quiz": {
+        "q": "Which constitutional article did the Gujarat High Court cite while setting aside the notification?",
+        "options": [
+          "Article 19(1)(g)",
+          "Article 21",
+          "Article 25",
+          "Article 14"
+        ],
+        "answer": 0,
+        "explain": "The single-judge bench said the restrictions affected the owners' fundamental right to carry on a trade under Article 19(1)(g)."
+      },
+      "tags": [
+        "Somnath Temple",
+        "Supreme Court",
+        "food ban",
+        "fundamental rights"
+      ]
+    },
+    {
+      "id": "news-2026-11-08-17",
+      "type": "news",
+      "category": "polity",
+      "headline": "FSSAI seizes 3,280 tonnes of food, cancels 52 licences",
+      "body": "The Food Safety and Standards Authority of India seized 3,280 tonnes of banned and non-compliant food products worth ₹82 crore during a nationwide drive that began September 1 to check adulteration during the festive season. The regulator inspected 56,431 food establishments between September 1 and November 5, cancelled 52 licences, suspended 1,133 and sealed 314 establishments. Seized items included paneer, ghee, milk and sweets.",
+      "why_it_matters": "Food adulteration is a routine consumer safety concern in India, and FSSAI is the national regulator responsible for enforcing food safety standards.",
+      "key_fact": "FSSAI inspected 56,431 food establishments in its drive",
+      "source_url": "https://www.thehindu.com/news/national/fssai-seizes-3280-tonne-food-items-cancels-52-licences-in-nationwide-inspection-drive/article71680460.ece",
+      "date": "2026-11-08",
+      "quiz": {
+        "q": "How many food establishments did FSSAI inspect during its nationwide drive?",
+        "options": [
+          "56,431",
+          "3,280",
+          "1,133",
+          "314"
+        ],
+        "answer": 0,
+        "explain": "The FSSAI said it inspected 56,431 food establishments between September 1 and November 5."
+      },
+      "tags": [
+        "FSSAI",
+        "food safety",
+        "adulteration",
+        "consumer"
+      ]
+    },
+    {
+      "id": "news-2026-11-08-18",
+      "type": "news",
+      "category": "states",
+      "headline": "TDP-led NDA sweeps Andhra ZPTC and MPTC elections",
+      "body": "The TDP, JSP and BJP alliance was set for a decisive win over the YSRCP in Andhra Pradesh's Zilla and Mandal Parishad Territorial Constituency elections. Polling was held on November 5 for 582 ZPTCs and 7,767 MPTCs across 28 districts. By 9 p.m. on November 7, the TDP had won 229 ZPTCs, the JSP 36, the BJP 8 and the YSRCP 20. Counting was still under way.",
+      "why_it_matters": "These local body results show the current political mood in Andhra Pradesh and test the ruling alliance's strength ahead of future elections.",
+      "key_fact": "Polling held for 582 ZPTCs and 7,767 MPTCs on November 5",
+      "source_url": "https://www.thehindu.com/news/national/andhra-pradesh/nda-continues-its-winning-streak-set-to-crush-ysrcp-in-zptc-and-mptc-elections-as-well/article71678807.ece",
+      "date": "2026-11-08",
+      "quiz": {
+        "q": "How many ZPTC seats went to polling on November 5?",
+        "options": [
+          "582",
+          "7,767",
+          "229",
+          "28"
+        ],
+        "answer": 0,
+        "explain": "Elections were conducted for 582 ZPTCs and 7,767 MPTCs across 28 districts."
+      },
+      "tags": [
+        "Andhra Pradesh",
+        "TDP",
+        "YSRCP",
+        "local elections"
+      ]
+    },
+    {
+      "id": "news-2026-11-08-19",
+      "type": "news",
+      "category": "states",
+      "headline": "Tamil Nadu reservoirs low as northeast monsoon hopes rest on November",
+      "body": "Tamil Nadu faces a possible water crisis and lower rice output if the northeast monsoon does not bring more rain. Storage in the 15 major irrigation reservoirs is about a third of capacity, against around 92% a year earlier. The Mettur dam holds about 23 tmcft, not enough for sustained releases to Cauvery delta farmers beyond a week. Farmers have sown paddy on about 3.62 lakh hectares.",
+      "why_it_matters": "Reservoir levels and monsoon rainfall decide irrigation water and crop output, directly affecting farmers' incomes and drinking water supply in the state.",
+      "key_fact": "Mettur dam holds about 23 tmcft of water",
+      "source_url": "https://www.thehindu.com/news/national/tamil-nadu/tn-may-be-heading-towards-a-water-crisis-unless-northeast-monsoon-comes-to-the-rescue/article71678260.ece",
+      "date": "2026-11-08",
+      "quiz": {
+        "q": "What is the current storage at the Mettur dam, Tamil Nadu's largest?",
+        "options": [
+          "About 23 tmcft",
+          "About 92 tmcft",
+          "About 240 tmcft",
+          "About 3.62 tmcft"
+        ],
+        "answer": 0,
+        "explain": "The article says Mettur has about 23 thousand million cubic feet, not enough for sustained releases beyond a week."
+      },
+      "tags": [
+        "Tamil Nadu",
+        "monsoon",
+        "water",
+        "agriculture"
+      ]
+    },
+    {
+      "id": "news-2026-11-08-20",
+      "type": "news",
+      "category": "environment",
+      "headline": "Assam bans drones near Amur falcon roosting sites",
+      "body": "The Assam government on November 6 banned drone operations within and around identified Amur falcon congregation and roosting sites, after reports of content creators flying drones close to the birds for social media. The order prohibits unauthorised recreational, commercial and non-essential drone flying, photography and videography. Forest officers must demarcate sensitive areas and coordinate with district administrations and police for enforcement.",
+      "why_it_matters": "It highlights the growing conflict between wildlife safety and social media content creation, and shows how states use forest powers to protect migratory species.",
+      "key_fact": "Amur falcons make a round-trip of at least 22,000 km every year",
+      "source_url": "https://www.thehindu.com/news/national/assam/assam-prohibits-drone-operations-near-amur-falcon-roosting-sites/article71674015.ece",
+      "date": "2026-11-08",
+      "quiz": {
+        "q": "Roughly how long is the Amur falcon's annual round-trip migration?",
+        "options": [
+          "At least 22,000 km",
+          "About 2,200 km",
+          "At least 5,000 km",
+          "About 500 km"
+        ],
+        "answer": 0,
+        "explain": "The article states these birds make a round-trip of at least 22,000 km every year between breeding and wintering grounds."
+      },
+      "tags": [
+        "Assam",
+        "Amur falcon",
+        "wildlife",
+        "drones"
+      ]
+    }
+  ]
+}
