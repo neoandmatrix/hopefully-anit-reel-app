@@ -1,0 +1,525 @@
+{
+  "date": "2026-11-09",
+  "cards": [
+    {
+      "id": "news-2026-11-09-01",
+      "type": "news",
+      "category": "polity",
+      "headline": "Monsoon session unprorogued for record 88 days",
+      "body": "Both Houses of Parliament were adjourned indefinitely on August 13, but neither has been formally prorogued, leaving the Monsoon session technically alive for 88 days. This breaks the previous record of 87 days set in 2008. The government has kept the option of a short-notice sitting open, amid speculation about a constitutional amendment linked to the Women's Reservation Bill and delimitation.",
+      "why_it_matters": "An unprorogued session lets the government reconvene Parliament with just two days' notice instead of 14, which matters when a controversial constitutional amendment may be brought.",
+      "key_fact": "88 days unprorogued, breaking 2008's record of 87 days",
+      "source_url": "https://www.thehindu.com/news/national/parliaments-monsoon-session-remains-unprorogued-for-record-88-days/article71681364.ece",
+      "date": "2026-11-09",
+      "quiz": {
+        "q": "What was the previous record for the longest period Parliament remained unprorogued, which the current 88 days has broken?",
+        "options": [
+          "87 days in 2008",
+          "76 days in 1987",
+          "54 days in 1989",
+          "41 days in 1963"
+        ],
+        "answer": 0,
+        "explain": "The article states Parliament had remained unprorogued for 87 days in 2008, before the current 88-day stretch."
+      },
+      "tags": [
+        "Parliament",
+        "Monsoon session",
+        "prorogation"
+      ]
+    },
+    {
+      "id": "news-2026-11-09-02",
+      "type": "news",
+      "category": "environment",
+      "headline": "Supreme Court allows green crackers for two Deepavali days in Delhi-NCR",
+      "body": "On November 2, 2026, the Supreme Court permitted green firecrackers in Delhi-NCR on November 7 and 8, within set hours of 6-7 a.m. and 8-10 p.m. It barred bursting within 300 metres of hospitals, health centres, old age homes and notified silence zones. The court noted the state had failed to comply with its restrictions since 2015 and that a complete ban had not improved air quality.",
+      "why_it_matters": "The order balances religious practice with the right to clean air, and directly shapes how Delhi-NCR residents celebrate Deepavali.",
+      "key_fact": "Green crackers allowed only on Nov 7-8, 2026, in Delhi-NCR",
+      "source_url": "https://www.thehindu.com/news/national/diwali-2026-supreme-court-green-cracker-norms-permitted-time-slots-and-other-directions/article71669897.ece",
+      "date": "2026-11-09",
+      "quiz": {
+        "q": "Within what radius of hospitals and silence zones did the Supreme Court bar bursting of fireworks?",
+        "options": [
+          "100 metres",
+          "200 metres",
+          "300 metres",
+          "500 metres"
+        ],
+        "answer": 2,
+        "explain": "The court's 23-page order declared a 300-metre radius around hospitals, health centres and silence zones as no-cracker zones."
+      },
+      "tags": [
+        "Supreme Court",
+        "Deepavali",
+        "Air pollution"
+      ]
+    },
+    {
+      "id": "news-2026-11-09-03",
+      "type": "news",
+      "category": "environment",
+      "headline": "COP31 opens in Turkiye amid climate and geopolitical pressures",
+      "body": "The UN climate talks began on November 9, 2026, in Antalya, Turkiye, running till November 20 with Australia presiding over negotiations. Nearly 200 countries are discussing the energy transition and climate finance for developing nations, but an oil price shock and geopolitical tensions have dampened hopes of breakthroughs. The UN warned in September that global temperatures are on course to exceed 1.5C above pre-industrial levels.",
+      "why_it_matters": "COP decisions shape global climate finance and emission targets that affect India's energy policy and farmers facing extreme weather.",
+      "key_fact": "COP31 in Antalya, Turkiye, November 9-20, 2026",
+      "source_url": "https://www.thehindu.com/sci-tech/energy-and-environment/cop31-in-turkiye-climate-and-geopolitical-pressures-mount/article71681273.ece",
+      "date": "2026-11-09",
+      "quiz": {
+        "q": "Which country is hosting COP31?",
+        "options": [
+          "Australia",
+          "Turkiye",
+          "Brazil",
+          "United Arab Emirates"
+        ],
+        "answer": 1,
+        "explain": "Turkiye is hosting the summit in Antalya, while Australia is presiding over the negotiations."
+      },
+      "tags": [
+        "COP31",
+        "Climate change",
+        "Turkiye"
+      ]
+    },
+    {
+      "id": "news-2026-11-09-04",
+      "type": "news",
+      "category": "economy",
+      "headline": "Forex reserves fall to $717 billion after September peak",
+      "body": "India's foreign exchange reserves fell by $2.69 billion to $717.06 billion in the week ended October 30, 2026, a second straight weekly decline. Reserves are down $68.65 billion from their record $785.71 billion peak in September, partly because the RBI sold dollars to support the rupee and deployed FCNR(B) swap funds. They still remain $25.95 billion higher than at end-March 2026.",
+      "why_it_matters": "Forex reserves are the RBI's buffer to stabilise the rupee; the drawdown reflects intervention and swap obligations rather than weaker external finances.",
+      "key_fact": "Reserves at $717.06 billion; peak was $785.71 billion",
+      "source_url": "https://www.livemint.com/economy/indias-forex-reserves-fall-2-69-billion-to-717-billion-why-rbi-is-selling-dollars-and-what-it-means-for-the-rupee-11794125996170.html",
+      "date": "2026-11-09",
+      "quiz": {
+        "q": "What was India's record high foreign exchange reserve level touched in September 2026?",
+        "options": [
+          "$717.06 billion",
+          "$785.71 billion",
+          "$737.35 billion",
+          "$591.12 billion"
+        ],
+        "answer": 1,
+        "explain": "The article states reserves touched a record high of $785.71 billion in the week ended September 4, 2026."
+      },
+      "tags": [
+        "Forex reserves",
+        "RBI",
+        "Rupee"
+      ]
+    },
+    {
+      "id": "news-2026-11-09-05",
+      "type": "news",
+      "category": "states",
+      "headline": "Tamil Nadu extends crop loan waiver, adds ₹2,842.77 crore funding",
+      "body": "The Tamil Nadu government extended its crop loan waiver scheme by a month, covering crop loans taken between May 1, 2025, and March 31, 2026. It sanctioned an additional ₹2,842.77 crore, taking total qualifying loans to ₹8,312.21 crore for about 13.25 lakh farmers. Borrowers with loans up to ₹75,000 get full waiver; those above get up to ₹75,000. Repaid loans are also covered through interest reimbursement.",
+      "why_it_matters": "The scheme offers direct debt relief to lakhs of Tamil Nadu farmers, and its cost and eligibility rules show how state loan-waiver politics works.",
+      "key_fact": "Waiver up to ₹75,000 on crop loans taken May 1, 2025-March 31, 2026",
+      "source_url": "https://www.livemint.com/news/tamil-nadu-extends-crop-loan-waiver-by-one-month-ahead-of-diwali-eligible-farmers-to-get-relief-of-up-to-75000-11794120626635.html",
+      "date": "2026-11-09",
+      "quiz": {
+        "q": "Under the revised Tamil Nadu scheme, what is the maximum crop loan waiver amount for an eligible farmer?",
+        "options": [
+          "₹35,000",
+          "₹1 lakh",
+          "₹75,000",
+          "₹8,312"
+        ],
+        "answer": 2,
+        "explain": "Farmers with loans up to ₹75,000 get a full waiver, and those with larger loans can receive a waiver of up to ₹75,000."
+      },
+      "tags": [
+        "Tamil Nadu",
+        "Crop loan waiver",
+        "Farmers"
+      ]
+    },
+    {
+      "id": "news-2026-11-09-06",
+      "type": "news",
+      "category": "environment",
+      "headline": "NGT notice over Tamirabharani fish species threats",
+      "body": "The National Green Tribunal's Principal Bench issued notice to the Tirunelveli Collector and five others over threats to fish species in the Tamirabharani River. It acted on a suo motu basis after a report in The Hindu on September 28. The Bench said the matter attracts the Environment (Protection) Act, 1986, the Water Act, 1974, and the Biological Diversity Act, 2002, and listed it before the Southern Bench in Chennai on January 22, 2027.",
+      "why_it_matters": "The NGT can take up environmental issues on its own from news reports, giving citizens and the press a route to hold authorities accountable for river pollution.",
+      "key_fact": "125 fish species identified in the Tamirabharani; seven are endemic",
+      "source_url": "https://www.thehindu.com/news/national/tamil-nadu/ngt-issues-notice-to-tirunelveli-collector-over-threats-to-tamirabharani-fish-species/article71679299.ece",
+      "date": "2026-11-09",
+      "quiz": {
+        "q": "How many fish species have been identified in the Tamirabharani River?",
+        "options": [
+          "45",
+          "79",
+          "125",
+          "210"
+        ],
+        "answer": 2,
+        "explain": "The Hindu report cited in the NGT order said 125 fish species were found, seven of them endemic to the river."
+      },
+      "tags": [
+        "NGT",
+        "Tamil Nadu",
+        "river pollution",
+        "biodiversity"
+      ]
+    },
+    {
+      "id": "news-2026-11-09-07",
+      "type": "news",
+      "category": "international",
+      "headline": "Bangladesh seeks Hasina's extradition, calls her convicted criminal",
+      "body": "Bangladesh Law Minister Md Asaduzzaman said Dhaka has requested India to extradite ousted Prime Minister Sheikh Hasina, calling her a \"convicted criminal\". He said the Home Affairs Ministry is handling the matter under the extradition treaty and through due process. Ms. Hasina fled to India on August 5, 2024, after a mass uprising ended her 15-year rule. India has acknowledged the requests and says they are being examined.",
+      "why_it_matters": "The extradition request tests India-Bangladesh ties and shows how a domestic tribunal conviction can spill into international diplomacy.",
+      "key_fact": "Hasina fled to India on August 5, 2024",
+      "source_url": "https://www.thehindu.com/news/international/bangladesh-law-minister-calls-hasina-convicted-criminal-says-extradition-request-sent-to-india/article71680798.ece",
+      "date": "2026-11-09",
+      "quiz": {
+        "q": "When did Sheikh Hasina flee Bangladesh for India?",
+        "options": [
+          "August 5, 2024",
+          "November 5, 2025",
+          "July 5, 2024",
+          "February 5, 2026"
+        ],
+        "answer": 0,
+        "explain": "The article states Ms. Hasina fled Bangladesh for India on August 5, 2024, following a mass uprising."
+      },
+      "tags": [
+        "Bangladesh",
+        "extradition",
+        "Sheikh Hasina",
+        "India"
+      ]
+    },
+    {
+      "id": "news-2026-11-09-08",
+      "type": "news",
+      "category": "international",
+      "headline": "Israel's President picks Eisenkot to try forming government",
+      "body": "Israel's President Isaac Herzog chose former military chief Gadi Eisenkot, Prime Minister Benjamin Netanyahu's strongest rival, to try to form a government after a deadlocked October 27 election. Mr. Eisenkot has 28 days, with a possible 14-day extension, to forge a coalition. Likud won the most seats with 27 in the 120-seat Knesset, but Mr. Netanyahu's wider coalition got only 53, short of a 61-seat majority.",
+      "why_it_matters": "Israel is a key partner for India in defence and technology, so its political stability and leadership matter for bilateral ties and West Asia.",
+      "key_fact": "Knesset has 120 seats; a majority needs 61",
+      "source_url": "https://www.thehindu.com/news/international/israeli-president-picks-gadi-eisenkot-netanyahu-rival-to-try-to-form-government/article71679477.ece",
+      "date": "2026-11-09",
+      "quiz": {
+        "q": "How many seats are needed for a majority in Israel's 120-seat Knesset?",
+        "options": [
+          "50",
+          "55",
+          "61",
+          "70"
+        ],
+        "answer": 2,
+        "explain": "The article notes Mr. Netanyahu's coalition's 53 seats were short of a 61-seat majority in the 120-seat Knesset."
+      },
+      "tags": [
+        "Israel",
+        "politics",
+        "Gadi Eisenkot",
+        "Knesset"
+      ]
+    },
+    {
+      "id": "news-2026-11-09-09",
+      "type": "news",
+      "category": "international",
+      "headline": "Zaporizhzhia nuclear plant back on backup generators",
+      "body": "The Russian-controlled Zaporizhzhia nuclear power plant in southeastern Ukraine lost external electricity supply after the Ferosplavna power line disconnected, its management and the IAEA said. The plant produces no electricity but needs external power to cool nuclear fuel, and is now using backup diesel generators. The IAEA said fuel reserves could run limited emergency generators for about two weeks. Radiation levels were reported normal.",
+      "why_it_matters": "A nuclear plant losing off-site power is a recognised safety risk far beyond the war zone, and the IAEA's warnings underline the danger of fighting near reactors.",
+      "key_fact": "Zaporizhzhia is Europe's largest nuclear plant, with six reactors",
+      "source_url": "https://www.thehindu.com/news/international/zaporizhzhia-nuclear-plant-relying-on-generators-again-after-losing-external-power-supply/article71680948.ece",
+      "date": "2026-11-09",
+      "quiz": {
+        "q": "How many reactors does the Zaporizhzhia nuclear plant have?",
+        "options": [
+          "Two",
+          "Four",
+          "Six",
+          "Eight"
+        ],
+        "answer": 2,
+        "explain": "The article describes Zaporizhzhia as Europe's largest nuclear plant with six reactors."
+      },
+      "tags": [
+        "Ukraine",
+        "nuclear safety",
+        "IAEA",
+        "Zaporizhzhia"
+      ]
+    },
+    {
+      "id": "news-2026-11-09-10",
+      "type": "news",
+      "category": "polity",
+      "headline": "Congress donations above ₹20,000 fall 75% in 2025-26",
+      "body": "The Congress party's receipts from donations above ₹20,000 dropped nearly 75% to ₹130.69 crore in 2025-26 from ₹517.39 crore the previous year, according to its contribution report to the Election Commission. This is the steepest annual fall in a decade. A major factor was a sharp drop in funding from the Prudent Electoral Trust. The BJP received ₹6,074.02 crore in 2024-25, nearly 12 times the Congress's collection.",
+      "why_it_matters": "Political party funding shapes election campaigns and is a key transparency issue in Indian democracy, especially as electoral bonds are no longer in use.",
+      "key_fact": "Congress donations above ₹20,000 fell to ₹130.69 crore in 2025-26",
+      "source_url": "https://www.thehindu.com/news/national/congress-donations-fall-nearly-75-sharpest-decline-in-a-decade/article71680699.ece",
+      "date": "2026-11-09",
+      "quiz": {
+        "q": "How much did the Congress receive in donations above ₹20,000 in 2025-26?",
+        "options": [
+          "₹517.39 crore",
+          "₹130.69 crore",
+          "₹281.48 crore",
+          "₹74.52 crore"
+        ],
+        "answer": 1,
+        "explain": "The article states the Congress's receipts from donations above ₹20,000 plunged to ₹130.69 crore in 2025-26."
+      },
+      "tags": [
+        "Congress",
+        "donations",
+        "Election Commission"
+      ]
+    },
+    {
+      "id": "news-2026-11-09-11",
+      "type": "news",
+      "category": "economy",
+      "headline": "FSSAI seizes 3,280 tonnes of food products, cancels 52 licences",
+      "body": "The Food Safety and Standards Authority of India (FSSAI) seized 3,279.57 tonnes of banned and non-compliant food products worth ₹81.80 crore during a nationwide inspection drive from September 1 to November 5. It inspected 56,431 food establishments, cancelled 52 licences, suspended 1,133, and sealed 314 establishments. The drive targeted adulteration during the festive season, with products like paneer, ghee, milk and sweets seized.",
+      "why_it_matters": "Food safety inspections protect consumers from adulterated and substandard products, especially during festivals when consumption of sweets and dairy rises.",
+      "key_fact": "FSSAI seized 3,280 tonnes of food worth ₹82 crore",
+      "source_url": "https://www.thehindu.com/news/national/fssai-seizes-3280-tonne-food-items-cancels-52-licences-in-nationwide-inspection-drive/article71680460.ece",
+      "date": "2026-11-09",
+      "quiz": {
+        "q": "How many food establishments did FSSAI inspect during its nationwide drive?",
+        "options": [
+          "56,431",
+          "3,280",
+          "1,133",
+          "314"
+        ],
+        "answer": 0,
+        "explain": "The article states that the FSSAI inspected 56,431 food establishments between September 1 and November 5."
+      },
+      "tags": [
+        "FSSAI",
+        "food safety",
+        "adulteration"
+      ]
+    },
+    {
+      "id": "news-2026-11-09-12",
+      "type": "news",
+      "category": "states",
+      "headline": "Shigella cases rise in Kerala's Malappuram, health surveillance stepped up",
+      "body": "Eight people tested positive for Shigella infection in Malappuram district, with five linked to a wedding feast on October 31 in Elamkulam panchayat. Around 80 attendees reported diarrhoea symptoms. Other cases include a four-year-old girl and two people who ate at a restaurant in Nilambur. The health department has increased surveillance, collected food and water samples, and advised boiling water and eating cooked food.",
+      "why_it_matters": "Shigella causes diarrhoeal disease and outbreaks highlight the importance of food and water hygiene at public gatherings.",
+      "key_fact": "8 Shigella cases confirmed in Malappuram",
+      "source_url": "https://www.thehindu.com/news/national/kerala/health-officials-step-up-surveillance-as-shigella-cases-rise-in-malappuram/article71678304.ece",
+      "date": "2026-11-09",
+      "quiz": {
+        "q": "How many people have tested positive for Shigella infection in Malappuram?",
+        "options": [
+          "Five",
+          "Eight",
+          "Eighty",
+          "Two"
+        ],
+        "answer": 1,
+        "explain": "The article reports that eight people have tested positive for Shigella infection."
+      },
+      "tags": [
+        "Shigella",
+        "Kerala",
+        "health"
+      ]
+    },
+    {
+      "id": "news-2026-11-09-13",
+      "type": "news",
+      "category": "polity",
+      "headline": "ECI reintroduces oversight for IT head; two commissioners objected",
+      "body": "On October 4, the Election Commission of India issued a work allocation order requiring IT head Dr. Seema Khanna to route files through Senior Deputy Election Commissioner Pawan Kumar Sharma, reintroducing an oversight mechanism. A July 28 order had removed this oversight, allowing her to send files directly to the Commission. Election Commissioners S.S. Sandhu and Vivek Joshi flagged the change in letters to the Cabinet Secretary.",
+      "why_it_matters": "The ECI's internal functioning and oversight of IT systems affect the integrity of elections, a core democratic process.",
+      "key_fact": "October 4 order reintroduced oversight for ECI IT head",
+      "source_url": "https://www.thehindu.com/news/national/what-is-the-controversy-over-the-oversight-of-ecis-director-general-of-it-explained/article71673342.ece",
+      "date": "2026-11-09",
+      "quiz": {
+        "q": "Who is required to route IT files through Senior Deputy Election Commissioner Pawan Kumar Sharma?",
+        "options": [
+          "Dr. Seema Khanna",
+          "S.S. Sandhu",
+          "Vivek Joshi",
+          "T.V. Somanathan"
+        ],
+        "answer": 0,
+        "explain": "The October 4 order requires IT Head Dr. Seema Khanna to route files through Pawan Kumar Sharma."
+      },
+      "tags": [
+        "Election Commission",
+        "IT oversight",
+        "elections"
+      ]
+    },
+    {
+      "id": "news-2026-11-09-14",
+      "type": "news",
+      "category": "sports",
+      "headline": "Anuj Shrivatri becomes India's 100th chess Grandmaster",
+      "body": "Anuj Shrivatri, 22, became India's 100th chess Grandmaster on November 8, 2026, by winning the 7th ASEAN+ Individual Open in Ozamiz City, Philippines. He scored seven points from nine rounds despite losing the opening round. He is also the first Grandmaster from Madhya Pradesh. Viswanathan Anand was India's first GM in 1988. The milestone follows S. Aswath and V.S. Rathanvel becoming the 98th and 99th GMs.",
+      "why_it_matters": "Chess is a sport where India has growing global prominence, and reaching 100 Grandmasters reflects the country's deepening talent pool since Anand's breakthrough.",
+      "key_fact": "Anuj Shrivatri is India's 100th chess Grandmaster",
+      "source_url": "https://www.thehindu.com/sport/anuj-shrivatri-becomes-indias-100th-chess-grandmaster/article71681083.ece",
+      "date": "2026-11-09",
+      "quiz": {
+        "q": "Who became India's 100th chess Grandmaster?",
+        "options": [
+          "S. Aswath",
+          "V.S. Rathanvel",
+          "Anuj Shrivatri",
+          "Viswanathan Anand"
+        ],
+        "answer": 2,
+        "explain": "Anuj Shrivatri became India's 100th Grandmaster by winning the ASEAN+ Individual Open."
+      },
+      "tags": [
+        "chess",
+        "Grandmaster",
+        "Anuj Shrivatri"
+      ]
+    },
+    {
+      "id": "news-2026-11-09-15",
+      "type": "news",
+      "category": "sports",
+      "headline": "Norris wins Sao Paulo GP; Mercedes takes ninth constructors' title",
+      "body": "Lando Norris won the rain-hit Sao Paulo Grand Prix at Interlagos from pole position on November 8, 2026, leading 47 of 71 laps, with Max Verstappen and Isack Hadjar completing the podium. Mercedes secured its ninth F1 constructors' title, its first since 2021, with 652 points against Ferrari's 512. New drivers' champion Kimi Antonelli finished fifth after spinning.",
+      "why_it_matters": "Formula 1's constructors' title rewards the whole team's engineering and consistency across a season, not just one star driver, which is why Mercedes' ninth crown is a significant milestone.",
+      "key_fact": "Mercedes won its ninth F1 constructors' title",
+      "source_url": "https://www.thehindu.com/sport/motorsport/sao-paulo-gp-mclarens-lando-norris-wins-as-mercedes-seals-constructors-title/article71681613.ece",
+      "date": "2026-11-09",
+      "quiz": {
+        "q": "Which team secured the 2026 F1 constructors' title at the Sao Paulo Grand Prix?",
+        "options": [
+          "Mercedes",
+          "McLaren",
+          "Red Bull",
+          "Ferrari"
+        ],
+        "answer": 0,
+        "explain": "The article states Mercedes secured its ninth constructors' title, its first since 2021, on a separate podium."
+      },
+      "tags": [
+        "Formula 1",
+        "Sao Paulo GP",
+        "Mercedes",
+        "Lando Norris"
+      ]
+    },
+    {
+      "id": "news-2026-11-09-16",
+      "type": "news",
+      "category": "culture",
+      "headline": "31,000 devotees view Buddha relics in Tawang during seven-day exhibition",
+      "body": "An exhibition of the sacred relics of Shakyamuni Buddha concluded in Tawang, Arunachal Pradesh, on November 7, 2026, after seven days at Gaden Namgyal Lhatse (Tawang Monastery). A total of 31,000 devotees and visitors attended. The relics arrived from the National Museum, New Delhi, on October 31 and were received by Chief Minister Pema Khandu in the presence of Union Culture and Tourism Minister Gajendra Singh Shekhawat.",
+      "why_it_matters": "The relics are central to Buddhist heritage and draw pilgrims from across the Himalayan region, highlighting the cultural and spiritual ties of India's northeastern border state.",
+      "key_fact": "31,000 devotees viewed the Buddha relics in Tawang",
+      "source_url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334131",
+      "date": "2026-11-09",
+      "quiz": {
+        "q": "How many devotees and visitors viewed the sacred Buddha relics in Tawang over seven days?",
+        "options": [
+          "31,000",
+          "13,000",
+          "3,100",
+          "67,000"
+        ],
+        "answer": 0,
+        "explain": "The PIB release states that a total of 31,000 devotees and visitors viewed the relics during the seven-day exhibition."
+      },
+      "tags": [
+        "Buddhism",
+        "Tawang",
+        "Arunachal Pradesh",
+        "Culture"
+      ]
+    },
+    {
+      "id": "news-2026-11-09-17",
+      "type": "news",
+      "category": "economy",
+      "headline": "EPFO completes Special Campaign 6 with focus on efficiency and grievance redressal",
+      "body": "The Employees' Provident Fund Organisation (EPFO) completed Special Campaign 6, held during October 2026, involving its headquarters, training academies, 21 zonal offices and various regional and district offices. Activities included mass oath-taking, public grievance redressal camps, telephone feedback from complainants on resolved PMOPG cases and suggestions for systemic improvements, alongside cleanliness and records management drives.",
+      "why_it_matters": "EPFO manages provident fund savings for crores of salaried Indians, so faster grievance redressal and cleaner records directly affect how easily members access their retirement money.",
+      "key_fact": "EPFO Special Campaign 6 held in October 2026",
+      "source_url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334077",
+      "date": "2026-11-09",
+      "quiz": {
+        "q": "During which month was EPFO's Special Campaign 6 conducted?",
+        "options": [
+          "October 2026",
+          "November 2026",
+          "September 2026",
+          "August 2026"
+        ],
+        "answer": 0,
+        "explain": "The release states that EPFO successfully completed Special Campaign 6, organised during October 2026."
+      },
+      "tags": [
+        "EPFO",
+        "Provident Fund",
+        "Governance"
+      ]
+    },
+    {
+      "id": "news-2026-11-09-18",
+      "type": "news",
+      "category": "economy",
+      "headline": "Karnataka tests petrol at 67 locations over ethanol blending complaints",
+      "body": "Karnataka Chief Minister D. K. Shivakumar said on November 8, 2026, that petrol samples were collected and tested at 67 locations after complaints about 31.5 per cent ethanol blending affecting vehicle engines. Motorists reported reduced mileage, shorter distances and engines stalling. Inspections covered petrol pumps and blending and distribution stages. The CM held the Centre responsible and questioned BJP and JD(S) leaders' silence. Details will be shared at a Monday press conference.",
+      "why_it_matters": "Ethanol blending affects fuel quality and vehicle performance for millions of motorists, and the dispute raises questions over who is responsible for fuel standards.",
+      "key_fact": "Petrol samples tested at 67 locations in Karnataka",
+      "source_url": "https://www.thehindu.com/news/national/karnataka/karnataka-tests-petrol-samples-at-67-locations-over-ethanol-blending-complaints-cm-shivakumar/article71681265.ece",
+      "date": "2026-11-09",
+      "quiz": {
+        "q": "How many locations across Karnataka were petrol samples collected and tested at?",
+        "options": [
+          "67",
+          "31",
+          "21",
+          "76"
+        ],
+        "answer": 0,
+        "explain": "Chief Minister D. K. Shivakumar said petrol samples had been collected and tested at 67 locations across the state."
+      },
+      "tags": [
+        "Karnataka",
+        "Ethanol blending",
+        "Petrol",
+        "Fuel"
+      ]
+    },
+    {
+      "id": "news-2026-11-09-19",
+      "type": "news",
+      "category": "geography",
+      "headline": "Magnitude 5.7 earthquake shakes central Japan, injuring at least 22",
+      "body": "A strong earthquake shook central Japan early on November 8, 2026, shattering store windows and injuring at least 22 people, according to local media. Japan's Meteorological Agency put the magnitude at 5.7, while the US Geological Survey reported 5.5. The quake struck at 1:04 a.m., about 40 kilometres below Shizuoka Prefecture, with the strongest shaking felt in Aichi. Shinkansen trains ran at reduced speeds and the agency warned of possible strong quakes in coming days.",
+      "why_it_matters": "Japan sits on a seismically active zone and its earthquake alerts and preparedness practices are widely studied as models for disaster response.",
+      "key_fact": "Magnitude 5.7 earthquake in central Japan",
+      "source_url": "https://www.thehindu.com/news/international/strong-earthquake-strikes-japan/article71680450.ece",
+      "date": "2026-11-09",
+      "quiz": {
+        "q": "What magnitude did Japan's Meteorological Agency assign to the earthquake?",
+        "options": [
+          "5.7",
+          "5.5",
+          "6.7",
+          "4.5"
+        ],
+        "answer": 0,
+        "explain": "The article says the Japan Meteorological Agency put the quake's magnitude at 5.7, while the USGS reported 5.5."
+      },
+      "tags": [
+        "Earthquake",
+        "Japan",
+        "Disaster"
+      ]
+    }
+  ]
+}
