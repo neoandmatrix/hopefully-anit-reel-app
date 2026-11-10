@@ -1,0 +1,553 @@
+{
+  "date": "2026-11-10",
+  "cards": [
+    {
+      "id": "news-2026-11-10-01",
+      "type": "news",
+      "category": "international",
+      "headline": "Modi, Zelenskyy speak ahead of Abu Dhabi peace talks",
+      "body": "Prime Minister Narendra Modi and Ukrainian President Volodymyr Zelenskyy held a phone call before Ukraine-Russia peace talks began in Abu Dhabi. Modi conveyed India's readiness to help end the conflict, and Zelenskyy welcomed India's offer to mediate on food corridors. External Affairs Minister S. Jaishankar also spoke to Russian Foreign Minister Sergey Lavrov.",
+      "why_it_matters": "India's outreach to both Moscow and Kyiv signals a mediatory role, which matters as blocked Black Sea routes affect global food trade.",
+      "key_fact": "Ukraine-Russia peace talks began in Abu Dhabi",
+      "source_url": "https://www.thehindu.com/news/international/pm-modi-speaks-to-ukrainian-president-zelenskyy-on-kyiv-moscow-conflict-bilateral-relations/article71683116.ece",
+      "date": "2026-11-10",
+      "quiz": {
+        "q": "Where were the Ukraine-Russia peace talks held as reported?",
+        "options": [
+          "Abu Dhabi",
+          "Manila",
+          "Shenzhen",
+          "Istanbul"
+        ],
+        "answer": 0,
+        "explain": "The article says the peace talks were set to begin in Abu Dhabi."
+      },
+      "tags": [
+        "India",
+        "Ukraine",
+        "diplomacy"
+      ]
+    },
+    {
+      "id": "news-2026-11-10-02",
+      "type": "news",
+      "category": "environment",
+      "headline": "COP31 climate talks open in Turkiye with Australia presiding",
+      "body": "The UN's annual climate talks, COP31, began on November 9, 2026, in the Turkish city of Antalya, with over 100,000 attendees expected. Nearly 200 countries are negotiating the energy transition and funds for developing nations, but an oil price shock and geopolitical tensions temper expectations. Turkiye is presiding while Australia leads negotiations.",
+      "why_it_matters": "The annual COP summit sets global climate commitments that shape India's energy and climate finance decisions.",
+      "key_fact": "COP31 meets in Antalya, Turkiye, from November 9 to 20",
+      "source_url": "https://www.thehindu.com/sci-tech/energy-and-environment/cop31-in-turkiye-climate-and-geopolitical-pressures-mount/article71681273.ece",
+      "date": "2026-11-10",
+      "quiz": {
+        "q": "Which country is presiding over COP31?",
+        "options": [
+          "Australia",
+          "Turkiye",
+          "India",
+          "United States"
+        ],
+        "answer": 1,
+        "explain": "Turkiye is presiding over COP31, while Australia leads the negotiations."
+      },
+      "tags": [
+        "COP31",
+        "climate",
+        "environment"
+      ]
+    },
+    {
+      "id": "news-2026-11-10-03",
+      "type": "news",
+      "category": "polity",
+      "headline": "Commercial crops in forests not protected under FRA: Supreme Court",
+      "body": "The Supreme Court held that commercial crop cultivation inside reserve forests is not a recognised forest right under the Forest Rights Act, 2006. Hearing a case on silk cotton cultivation in the Agasthyamalai Biosphere Reserve, a Bench of Justices Vikram Nath and Sandeep Mehta distinguished commercial cultivators from forest-dwelling Scheduled Tribes and traditional dwellers.",
+      "why_it_matters": "The ruling clarifies that the FRA protects forest dwellers' livelihood rights, not commercial plantation activity on forest land.",
+      "key_fact": "Forest Rights Act, 2006",
+      "source_url": "https://www.thehindu.com/news/national/commercial-cultivation-within-forest-land-not-protected-under-fra-2006-supreme-court/article71682866.ece",
+      "date": "2026-11-10",
+      "quiz": {
+        "q": "Which law did the Supreme Court interpret in this case?",
+        "options": [
+          "Wildlife Protection Act, 1972",
+          "Forest Rights Act, 2006",
+          "Environmental Protection Act, 1986",
+          "Indian Forest Act, 1927"
+        ],
+        "answer": 1,
+        "explain": "The court ruled that commercial cultivation is not protected under the Forest Rights Act, 2006."
+      },
+      "tags": [
+        "Supreme Court",
+        "forest rights",
+        "FRA"
+      ]
+    },
+    {
+      "id": "news-2026-11-10-04",
+      "type": "news",
+      "category": "environment",
+      "headline": "Supreme Court flags vehicular emissions as major Delhi-NCR pollution source",
+      "body": "Hearing a suo motu case on air pollution regulation, the Supreme Court termed vehicular emissions a major contributor to Delhi-NCR's poor air and called for immediate, medium- and long-term measures. The Bench noted AQI was touching 400 and expressed concern over bumper-to-bumper traffic. The Centre said stubble burning accounted for 14% of pollution on November 5.",
+      "why_it_matters": "Air pollution affects the health of millions in Delhi-NCR, and the court's scrutiny pressures authorities to act.",
+      "key_fact": "Delhi-NCR AQI touching 400",
+      "source_url": "https://www.thehindu.com/news/national/supreme-court-terms-vehicular-emissions-major-contributor-to-air-pollution-in-delhi-ncr/article71673419.ece",
+      "date": "2026-11-10",
+      "quiz": {
+        "q": "What share of Delhi's pollution did the Centre attribute to stubble burning?",
+        "options": [
+          "14%",
+          "40%",
+          "50%",
+          "4%"
+        ],
+        "answer": 0,
+        "explain": "The article says stubble burning accounted for 14% of pollution on November 5."
+      },
+      "tags": [
+        "Supreme Court",
+        "air pollution",
+        "Delhi-NCR"
+      ]
+    },
+    {
+      "id": "news-2026-11-10-05",
+      "type": "news",
+      "category": "economy",
+      "headline": "Revised prices of 1,364 anti-cancer formulations take effect",
+      "body": "Revised maximum retail prices of 1,364 anti-cancer formulations came into effect on November 9, 2026, with projected consumer savings of about ₹3,540 crore a year. The National Pharmaceutical Pricing Authority capped trade margins on 137 anti-cancer drugs. Over 50% price cuts were reported for 679 brands, with the highest cut at 96.45%.",
+      "why_it_matters": "Cheaper cancer drugs reduce out-of-pocket costs for patients in a country where cancer treatment is often expensive.",
+      "key_fact": "NPPA capped trade margins on 137 anti-cancer drugs",
+      "source_url": "https://www.thehindu.com/sci-tech/health/revised-mrps-of-1364-anti-cancer-formulations-come-into-effect-consumers-to-save-3540-croreyear/article71681795.ece",
+      "date": "2026-11-10",
+      "quiz": {
+        "q": "Which body capped trade margins on anti-cancer drugs?",
+        "options": [
+          "DGHS",
+          "NPPA",
+          "CDSCO",
+          "Pharma Jan Samadhan"
+        ],
+        "answer": 1,
+        "explain": "The National Pharmaceutical Pricing Authority (NPPA) capped trade margins on the MRP of 137 anti-cancer drugs."
+      },
+      "tags": [
+        "health",
+        "cancer drugs",
+        "NPPA"
+      ]
+    },
+    {
+      "id": "news-2026-11-10-06",
+      "type": "news",
+      "category": "economy",
+      "headline": "China's trade surplus crosses $1 trillion in first 10 months",
+      "body": "Official customs data released on November 10, 2026 showed China's trade surplus for January-October reached $1.04 trillion, with the $1 trillion mark crossed earlier than last year. Exports rose 35.2% year-on-year to $412.3 billion, driven partly by demand for AI-related products such as chips and data centre servers. The figures come ahead of an expected Xi Jinping-Donald Trump meeting at the APEC summit in Shenzhen.",
+      "why_it_matters": "China's export strength matters to India because cheap Chinese goods flooding global markets can pressure domestic manufacturers and trading partners alike.",
+      "key_fact": "China's trade surplus crossed $1 trillion in 2026",
+      "source_url": "https://www.thehindu.com/news/international/china-says-2026-trade-surplus-surpassed-1-trillion-in-october/article71685001.ece",
+      "date": "2026-11-10",
+      "quiz": {
+        "q": "What milestone did China's trade data show in October 2026?",
+        "options": [
+          "Trade surplus crossed $1 trillion",
+          "Exports fell by 10%",
+          "Imports crossed $1 trillion",
+          "Trade deficit crossed $1 trillion"
+        ],
+        "answer": 0,
+        "explain": "The General Administration of Customs data showed China's total surplus for the first 10 months reached $1.04 trillion."
+      },
+      "tags": [
+        "China",
+        "trade",
+        "exports",
+        "economy"
+      ]
+    },
+    {
+      "id": "news-2026-11-10-07",
+      "type": "news",
+      "category": "economy",
+      "headline": "DGTR begins probe into aluminium dumping from China, Malaysia, Vietnam",
+      "body": "The Directorate General of Trade Remedies (DGTR), under the Commerce Ministry, has suo motu initiated anti-dumping investigations into aluminium extrusion products from China, Malaysia, Vietnam and Thailand. The move follows representations from the Aluminium Extrusion Manufacturers Association of India, which represents 228 manufacturers. The probe will assess the existence and effect of alleged dumping and consider recommending anti-dumping duties, imposed under WTO rules.",
+      "why_it_matters": "Anti-dumping duties aim to protect Indian MSME manufacturers from artificially cheap imports, which can hurt local jobs and prices.",
+      "key_fact": "DGTR is the Commerce Ministry's trade remedies body",
+      "source_url": "https://www.thehindu.com/news/national/dgtr-suo-motu-initiates-probe-into-dumping-of-aluminium-products-from-china-malaysia-vietnam/article71685366.ece",
+      "date": "2026-11-10",
+      "quiz": {
+        "q": "Which body initiated the anti-dumping probe into aluminium products?",
+        "options": [
+          "DGTR",
+          "SEBI",
+          "RBI",
+          "NITI Aayog"
+        ],
+        "answer": 0,
+        "explain": "The Directorate General of Trade Remedies is the Commerce Ministry's investigation arm for anti-dumping cases."
+      },
+      "tags": [
+        "trade",
+        "aluminium",
+        "anti-dumping",
+        "MSME"
+      ]
+    },
+    {
+      "id": "news-2026-11-10-08",
+      "type": "news",
+      "category": "sports",
+      "headline": "Anuj Shrivatri becomes India's 100th chess Grandmaster",
+      "body": "Anuj Shrivatri, 22, became India's 100th chess Grandmaster on November 8, 2026, by winning the 7th ASEAN+ Individual Open chess championship in Ozamiz City, Philippines. He scored seven points from nine rounds despite losing his opening game. He is also the first Grandmaster from Madhya Pradesh. Viswanathan Anand was India's first GM, in 1988, and S. Aswath and V.S. Rathanvel were the 98th and 99th.",
+      "why_it_matters": "India's march from one Grandmaster in 1988 to 100 is a marker of the country's growing strength in global chess.",
+      "key_fact": "Viswanathan Anand was India's first Grandmaster in 1988",
+      "source_url": "https://www.thehindu.com/sport/anuj-shrivatri-becomes-indias-100th-chess-grandmaster/article71681083.ece",
+      "date": "2026-11-10",
+      "quiz": {
+        "q": "Who was India's first chess Grandmaster?",
+        "options": [
+          "Viswanathan Anand",
+          "Anuj Shrivatri",
+          "S. Aswath",
+          "V.S. Rathanvel"
+        ],
+        "answer": 0,
+        "explain": "Viswanathan Anand became India's first Grandmaster in 1988."
+      },
+      "tags": [
+        "chess",
+        "sports",
+        "Grandmaster"
+      ]
+    },
+    {
+      "id": "news-2026-11-10-09",
+      "type": "news",
+      "category": "sports",
+      "headline": "Norris wins Sao Paulo GP as Mercedes seals ninth constructors' title",
+      "body": "McLaren's Lando Norris won the rain-hit Sao Paulo Grand Prix on November 8, 2026, from pole position, leading 47 of 71 laps, with Red Bull's Max Verstappen and Isack Hadjar completing the podium. Mercedes clinched its ninth Formula 1 constructors' title, its first since 2021, with 652 points against Ferrari's 512. New drivers' champion Kimi Antonelli finished fifth after a spin.",
+      "why_it_matters": "The constructors' title rewards a team's overall engineering and consistency, making it a key benchmark of F1 team strength.",
+      "key_fact": "Mercedes won its ninth F1 constructors' title",
+      "source_url": "https://www.thehindu.com/sport/motorsport/sao-paulo-gp-mclarens-lando-norris-wins-as-mercedes-seals-constructors-title/article71681613.ece",
+      "date": "2026-11-10",
+      "quiz": {
+        "q": "Which team won the Formula 1 constructors' title at the Sao Paulo GP?",
+        "options": [
+          "Mercedes",
+          "Ferrari",
+          "Red Bull",
+          "McLaren"
+        ],
+        "answer": 0,
+        "explain": "Mercedes sealed the constructors' title with 652 points against Ferrari's 512."
+      },
+      "tags": [
+        "Formula 1",
+        "motorsport",
+        "Mercedes"
+      ]
+    },
+    {
+      "id": "news-2026-11-10-10",
+      "type": "news",
+      "category": "economy",
+      "headline": "India in talks to export solar cells as capacity surges: Pralhad Joshi",
+      "body": "Union New and Renewable Energy Minister Pralhad Joshi said India is in talks with several countries to export solar cells as manufacturing capacity is set to far exceed domestic demand. Capacity, currently 50 gigawatts, is expected to more than double to over 100 GW within months. Domestic demand is no more than 50 GW. Africa and Europe are potential markets, while steep US duties of up to 126% have hit module exports.",
+      "why_it_matters": "Solar exports can turn India's manufacturing push into export earnings, but its continued reliance on China for key inputs remains a challenge.",
+      "key_fact": "India's solar cell capacity is expected to exceed 100 GW",
+      "source_url": "https://www.livemint.com/news/solar-cells-export-renewable-energy-pralhad-joshi-interview-11793961012906.html",
+      "date": "2026-11-10",
+      "quiz": {
+        "q": "What is India's current solar cell manufacturing capacity, per Pralhad Joshi?",
+        "options": [
+          "50 GW",
+          "100 GW",
+          "150 GW",
+          "25 GW"
+        ],
+        "answer": 0,
+        "explain": "Joshi said capacity is currently 50 GW and is expected to rise above 100 GW within months."
+      },
+      "tags": [
+        "solar",
+        "renewable energy",
+        "exports",
+        "manufacturing"
+      ]
+    },
+    {
+      "id": "news-2026-11-10-11",
+      "type": "news",
+      "category": "polity",
+      "headline": "NHA plans model digitalised hospitals in every district",
+      "body": "The National Health Authority plans to develop two 'champion' digitalised healthcare centres in each district, one government-run and one private, for others to replicate. A phased framework names 38 model districts across 35 states and UTs, with strict benchmarks including over 95% Abha saturation among visiting patients and full onboarding of local doctors and clinics on national registries.",
+      "why_it_matters": "Digital health records under the Ayushman Bharat Digital Mission can cut queues, paperwork and repeated tests for ordinary patients.",
+      "key_fact": "38 model districts under Ayushman Bharat Digital Mission",
+      "source_url": "https://www.livemint.com/news/digitalized-hospitals-cut-patient-tripura-model-healthcare-ai-qr-based-registration-patient-records-diagnostics-nha-11793954679847.html",
+      "date": "2026-11-10",
+      "quiz": {
+        "q": "How many model districts has the NHA identified to lead the digital hospital rollout?",
+        "options": [
+          "38",
+          "25",
+          "60",
+          "92"
+        ],
+        "answer": 0,
+        "explain": "The NHA named 38 designated model districts across 35 states and Union Territories to drive end-to-end digital adoption."
+      },
+      "tags": [
+        "health",
+        "Ayushman Bharat",
+        "digital"
+      ]
+    },
+    {
+      "id": "news-2026-11-10-12",
+      "type": "news",
+      "category": "economy",
+      "headline": "TRAI issues interconnection port charge amendment regulations for 2026",
+      "body": "TRAI released the Telecommunication Interconnection (Port Charges) (Third Amendment) Regulations, 2026, adding a framework for IP-based interconnection port charges alongside existing E1/TDM provisions. The amended regulations take effect from January 1, 2027. TRAI began the review with a pre-consultation paper in April 2025 and finalised the rules after stakeholder comments and an open discussion in January 2026.",
+      "why_it_matters": "Interconnection rules let users on different telecom networks call each other seamlessly, so updated port charges affect call connectivity.",
+      "key_fact": "New IP port charge rules effective January 1, 2027",
+      "source_url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334405",
+      "date": "2026-11-10",
+      "quiz": {
+        "q": "From which date will the amended interconnection port charge regulations take effect?",
+        "options": [
+          "January 1, 2027",
+          "April 3, 2025",
+          "November 10, 2025",
+          "January 28, 2026"
+        ],
+        "answer": 0,
+        "explain": "The amended regulations are stated to come into effect from January 1, 2027."
+      },
+      "tags": [
+        "TRAI",
+        "telecom",
+        "regulation"
+      ]
+    },
+    {
+      "id": "news-2026-11-10-13",
+      "type": "news",
+      "category": "economy",
+      "headline": "OALP deepwater bidding deadline extended to December 10",
+      "body": "The Directorate General of Hydrocarbons extended the deadline for bids on deepwater and ultra-deepwater blocks under OALP rounds 10 and 11 by 25 days to December 10. It is the seventh extension for round 10, launched in April last year, and the third for round 11, opened in March this year. The two rounds offer 25 and five blocks respectively.",
+      "why_it_matters": "Offshore exploration matters for India's energy security, and the Cabinet has backed it with the ₹84,084 crore Samudra Manthan scheme.",
+      "key_fact": "₹84,084 crore Samudra Manthan offshore scheme",
+      "source_url": "https://www.thehindu.com/business/Economy/oalp-deepwater-bidding-deadline-extended-again-to-december-10/article71682533.ece",
+      "date": "2026-11-10",
+      "quiz": {
+        "q": "What is the name of the National Offshore Exploration Scheme approved by the Union Cabinet?",
+        "options": [
+          "Samudra Manthan",
+          "OALP Round 10",
+          "Abhyudaya",
+          "Samudra Setu"
+        ],
+        "answer": 0,
+        "explain": "The Cabinet approved ₹84,084 crore for the Petroleum Ministry's National Offshore Exploration Scheme titled 'Samudra Manthan'."
+      },
+      "tags": [
+        "oil and gas",
+        "OALP",
+        "energy"
+      ]
+    },
+    {
+      "id": "news-2026-11-10-14",
+      "type": "news",
+      "category": "economy",
+      "headline": "RBI extends Abhyudaya Co-operative Bank board supersession by a year",
+      "body": "The RBI has extended the supersession of the board of Mumbai-based Abhyudaya Co-operative Bank by another year from November 24, 2026, citing public interest. The board was first superseded on November 24, 2023, over poor governance standards, and the order has been extended annually since. Satya Prakash Pathak will continue as Administrator with the existing Committee of Advisors.",
+      "why_it_matters": "Supersession means the RBI has taken direct control of a bank's board, which matters to depositors of that bank.",
+      "key_fact": "Abhyudaya Co-operative Bank board superseded since November 2023",
+      "source_url": "https://www.thehindu.com/business/rbi-extends-abhyudaya-bank-supersession-by-another-year/article71683422.ece",
+      "date": "2026-11-10",
+      "quiz": {
+        "q": "When did the RBI first supersede the board of Abhyudaya Co-operative Bank?",
+        "options": [
+          "November 24, 2023",
+          "November 24, 2024",
+          "November 24, 2025",
+          "November 24, 2026"
+        ],
+        "answer": 0,
+        "explain": "The RBI first superseded the bank's Board of Directors for one year on November 24, 2023, citing poor governance."
+      },
+      "tags": [
+        "RBI",
+        "banking",
+        "co-operative bank"
+      ]
+    },
+    {
+      "id": "news-2026-11-10-15",
+      "type": "news",
+      "category": "science",
+      "headline": "CSIR-CCMB team maps TB bacterium protein export machinery",
+      "body": "Scientists at CSIR-CCMB identified weaknesses in Mycobacterium tuberculosis, the bacterium causing TB, by mapping its protein export machinery. Using computational modelling and CRISPR-based gene silencing, they found 92 key components and nearly 200 molecular reactions, and showed that reducing SecA1 and Tat pathway activity sharply curbed bacterial growth in cultures and immune cells. India accounts for nearly a quarter of global TB cases.",
+      "why_it_matters": "India has one of the world's highest TB burdens, so new drug targets matter for a disease that is increasingly drug-resistant.",
+      "key_fact": "92 key components in TB bacterium's protein transport network",
+      "source_url": "https://www.thehindu.com/sci-tech/health/csir-ccmb-team-identifies-potential-new-targets-to-fight-tuberculosis/article71682790.ece",
+      "date": "2026-11-10",
+      "quiz": {
+        "q": "How many key components did the CCMB team identify in the TB bacterium's protein transport network?",
+        "options": [
+          "92",
+          "200",
+          "140",
+          "25"
+        ],
+        "answer": 0,
+        "explain": "The researchers identified 92 key components and nearly 200 molecular reactions involved in the protein transport network."
+      },
+      "tags": [
+        "tuberculosis",
+        "research",
+        "health"
+      ]
+    },
+    {
+      "id": "news-2026-11-10-16",
+      "type": "news",
+      "category": "environment",
+      "headline": "WMO: 2026 among four warmest years on record",
+      "body": "A World Meteorological Organization report says the global average temperature from January to September 2026 was 1.47°C above pre-industrial levels. That is higher than the full-year averages of 2025 and 2023, and slightly below 2024, the warmest year on record. An intensifying El Nino is expected to push temperatures higher by December.",
+      "why_it_matters": "Rising global temperatures drive heatwaves, erratic monsoons and extreme weather in India, making international climate assessments directly relevant to farmers, cities and policymakers.",
+      "key_fact": "2026 Jan-Sep global temperature: 1.47°C above pre-industrial levels",
+      "source_url": "https://www.thehindu.com/sci-tech/energy-and-environment/2026-to-be-one-of-four-warmest-years-on-record-world-meteorological-organization/article71682272.ece",
+      "date": "2026-11-10",
+      "quiz": {
+        "q": "By how much was the global average temperature in January-September 2026 above pre-industrial levels, according to the WMO?",
+        "options": [
+          "1.47 degrees Celsius",
+          "0.47 degrees Celsius",
+          "2.5 degrees Celsius",
+          "3.8 degrees Celsius"
+        ],
+        "answer": 0,
+        "explain": "The WMO report said the January-September 2026 global average was 1.47°C higher than the 1850-1900 average."
+      },
+      "tags": [
+        "climate",
+        "WMO",
+        "global warming",
+        "El Nino"
+      ]
+    },
+    {
+      "id": "news-2026-11-10-17",
+      "type": "news",
+      "category": "environment",
+      "headline": "UN chief warns world entering 'age of climate extremes'",
+      "body": "At the COP31 summit in Antalya, Turkiye, UN Secretary-General Antonio Guterres said a supersized El Nino is colliding with a planet already superheated by manmade climate change. He urged leaders to cut emissions faster and finance protection for vulnerable countries. The WMO said each of the past 12 years ranks among the 12 hottest on record.",
+      "why_it_matters": "India is among the countries most exposed to extreme weather, so global commitments on emissions and climate finance shape how much support it receives for adaptation.",
+      "key_fact": "COP31 climate summit held in Antalya, Turkiye",
+      "source_url": "https://www.thehindu.com/sci-tech/energy-and-environment/world-entering-age-of-climate-extremes-un-chief/article71681846.ece",
+      "date": "2026-11-10",
+      "quiz": {
+        "q": "Where was the COP31 UN climate conference held?",
+        "options": [
+          "Antalya, Turkiye",
+          "Geneva, Switzerland",
+          "Paris, France",
+          "New Delhi, India"
+        ],
+        "answer": 0,
+        "explain": "The article states leaders gathered in Antalya, Turkiye for the COP31 UN climate summit."
+      },
+      "tags": [
+        "COP31",
+        "climate",
+        "UN",
+        "El Nino"
+      ]
+    },
+    {
+      "id": "news-2026-11-10-18",
+      "type": "news",
+      "category": "science",
+      "headline": "Explained: how tokamaks make nuclear fusion possible",
+      "body": "A tokamak is a device that uses magnetic fields to trap very hot plasma inside a ring-shaped vacuum chamber. Plasma is a gas whose atoms have lost their electrons. Fusing hydrogen isotopes like deuterium and tritium requires temperatures hotter than the sun's core, so plasma must be held away from walls to avoid cooling and contamination. ITER uses this design.",
+      "why_it_matters": "Fusion could one day offer a large, low-carbon energy source, which matters for a fast-growing economy like India that needs clean power.",
+      "key_fact": "Tokamak: magnetic coils in a toroidal chamber holding plasma",
+      "source_url": "https://www.thehindu.com/sci-tech/science/how-do-tokamaks-work-to-make-nuclear-fusion-possible/article71670265.ece",
+      "date": "2026-11-10",
+      "quiz": {
+        "q": "What does a tokamak use to trap hot plasma?",
+        "options": [
+          "Magnetic fields",
+          "High-pressure water",
+          "Laser beams alone",
+          "Gravity"
+        ],
+        "answer": 0,
+        "explain": "The article says a tokamak uses magnetic fields to hold charged plasma away from the chamber walls."
+      },
+      "tags": [
+        "nuclear fusion",
+        "tokamak",
+        "science",
+        "energy"
+      ]
+    },
+    {
+      "id": "news-2026-11-10-19",
+      "type": "news",
+      "category": "science",
+      "headline": "Villages without 4G connectivity fall by three-fourths",
+      "body": "Department of Telecommunications data obtained by The Hindu under the Right to Information Act shows the number of villages without 4G fell from 45,180 in 2022 to 11,372. The drop is partly due to BSNL's 4G saturation project, but the remaining figure exceeds the scheme's initial 24,680-village target, pointing to efforts by private operators too.",
+      "why_it_matters": "Rural 4G coverage affects access to digital services like payments, online education and telemedicine for crores of Indians.",
+      "key_fact": "Villages without 4G: 45,180 in 2022 to 11,372",
+      "source_url": "https://www.thehindu.com/news/national/number-of-villages-without-4g-connectivity-falls-by-three-fourths-in-four-years/article71682377.ece",
+      "date": "2026-11-10",
+      "quiz": {
+        "q": "How many villages lacked 4G connectivity after the fall from 45,180 in 2022?",
+        "options": [
+          "11,372",
+          "24,680",
+          "45,180",
+          "1,372"
+        ],
+        "answer": 0,
+        "explain": "DoT data showed the number fell from 45,180 in 2022 to 11,372."
+      },
+      "tags": [
+        "4G",
+        "telecom",
+        "BSNL",
+        "rural connectivity"
+      ]
+    },
+    {
+      "id": "news-2026-11-10-20",
+      "type": "news",
+      "category": "states",
+      "headline": "Delhi's first Yamuna river cruise service to open",
+      "body": "Union Ports, Shipping and Waterways Minister Sarbananda Sonowal will launch Delhi's first recreational Yamuna river cruise at Sonia Vihar on November 10, 2026, with LG Taranjit Singh Sandhu and CM Rekha Gupta present. Developed by the Inland Waterways Authority of India on the Sonia Vihar-Jagatpur stretch, it uses electric cruise vessels and is meant to boost river-based tourism.",
+      "why_it_matters": "The cruise adds a tourism attraction in Delhi and highlights the use of national waterways, including Yamuna as National Waterway 110, for urban transport and recreation.",
+      "key_fact": "Yamuna declared National Waterway 110 under the 2016 Act",
+      "source_url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334409",
+      "date": "2026-11-10",
+      "quiz": {
+        "q": "Under which law is the Yamuna declared National Waterway 110?",
+        "options": [
+          "National Waterways Act, 2016",
+          "Inland Vessels Act, 2021",
+          "Rivers Conservation Act, 2005",
+          "Waterways Regulation Act, 2010"
+        ],
+        "answer": 0,
+        "explain": "The article says the Yamuna was declared National Waterway 110 under the National Waterways Act, 2016."
+      },
+      "tags": [
+        "Yamuna",
+        "river cruise",
+        "Delhi",
+        "waterways"
+      ]
+    }
+  ]
+}
