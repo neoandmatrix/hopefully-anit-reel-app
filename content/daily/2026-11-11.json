@@ -1,0 +1,532 @@
+{
+  "date": "2026-11-11",
+  "cards": [
+    {
+      "id": "news-2026-11-11-01",
+      "type": "news",
+      "category": "economy",
+      "headline": "Unemployment eases to 5.1% in July-September quarter",
+      "body": "India's unemployment rate fell to 5.1% in the September quarter from 5.4% in the previous three months, according to the Periodic Labour Force Survey released by the National Statistics Office. Rural unemployment dropped to 4.3%, while urban joblessness rose slightly to 6.8%. Labour force participation increased to 55.5%, helped by seasonal rural employment during kharif sowing. Female participation rose to 34.7%.",
+      "why_it_matters": "The unemployment rate is a key indicator of the labour market's health and affects policy decisions on jobs and skilling.",
+      "key_fact": "Unemployment rate fell to 5.1% in July-September quarter",
+      "source_url": "https://www.livemint.com/news/indias-unemployment-falls-to-5-1-in-q2-as-rural-participation-and-employment-rise-11794321073690.html",
+      "date": "2026-11-11",
+      "quiz": {
+        "q": "What was India's overall unemployment rate in the July-September quarter?",
+        "options": [
+          "5.1%",
+          "5.4%",
+          "6.8%",
+          "4.3%"
+        ],
+        "answer": 0,
+        "explain": "The article states the unemployment rate eased to 5.1% in the September quarter."
+      },
+      "tags": [
+        "unemployment",
+        "PLFS",
+        "NSO",
+        "labour"
+      ]
+    },
+    {
+      "id": "news-2026-11-11-02",
+      "type": "news",
+      "category": "economy",
+      "headline": "Finance ministry makes EVs default for government staff cars",
+      "body": "The department of expenditure has directed ministries to procure electric vehicles as the default choice for staff cars, with a procurement ceiling of ₹20 lakh, higher than the ₹10 lakh cap for petrol and diesel vehicles. Departments wanting ICE cars must justify the decision. The move aims to cut oil imports and transport emissions as India targets net-zero by 2070. Government fleets currently have very low EV adoption.",
+      "why_it_matters": "This policy can accelerate EV adoption in official fleets, reduce dependence on imported oil and curb vehicular pollution.",
+      "key_fact": "EVs made default for government staff cars, ₹20 lakh procurement cap",
+      "source_url": "https://www.livemint.com/news/govt-evs-default-choice-staff-cars-20-lakh-procurement-cap-11794317496374.html",
+      "date": "2026-11-11",
+      "quiz": {
+        "q": "What is the procurement ceiling set for electric cars under the revised staff car rules?",
+        "options": [
+          "₹20 lakh",
+          "₹10 lakh",
+          "₹15 lakh",
+          "₹25 lakh"
+        ],
+        "answer": 0,
+        "explain": "The notification sets a ceiling of ₹20 lakh for electric cars, compared with ₹10 lakh for ICE and hybrid vehicles."
+      },
+      "tags": [
+        "EV",
+        "finance ministry",
+        "net-zero",
+        "government fleets"
+      ]
+    },
+    {
+      "id": "news-2026-11-11-03",
+      "type": "news",
+      "category": "economy",
+      "headline": "Medical devices PLI extended to 2035-36 with relaxed norms",
+      "body": "The Centre has extended the production-linked incentive scheme for medical devices to 2035-36 and invited fresh applications using an available outlay of about ₹2,700 crore. The revamped PLI-MD 2.0 scraps the minimum sales threshold and lowers the minimum investment requirement. It covers four segments and offers average incentives of 5-9%. The first phase, launched in FY21, led to domestic production of over 60 high-end devices worth over ₹16,000 crore.",
+      "why_it_matters": "The scheme aims to reduce India's heavy reliance on imported medical devices and build domestic manufacturing capacity.",
+      "key_fact": "Medical devices PLI extended to 2035-36 with ₹2,700 crore outlay",
+      "source_url": "https://www.livemint.com/news/india/govt-extends-medical-devices-pli-2035-36-relaxes-rules-spur-investment-11794325048706.html",
+      "date": "2026-11-11",
+      "quiz": {
+        "q": "Until which year has the medical devices PLI scheme been extended?",
+        "options": [
+          "2035-36",
+          "2030-31",
+          "2040-41",
+          "2025-26"
+        ],
+        "answer": 0,
+        "explain": "The article states the scheme has been extended up to 2035-36."
+      },
+      "tags": [
+        "PLI",
+        "medical devices",
+        "Make in India",
+        "pharmaceuticals"
+      ]
+    },
+    {
+      "id": "news-2026-11-11-04",
+      "type": "news",
+      "category": "environment",
+      "headline": "India bans export of unsorted lithium-ion battery waste",
+      "body": "The Directorate General of Foreign Trade has prohibited the export of unsorted waste and scrap of primary cells, batteries and electric accumulators that do not contain lead, cadmium or mercury, with immediate effect. The category, known as lithium-ion battery black mass, was earlier under the 'Free' category. Black mass contains valuable materials like lithium, cobalt and nickel that can be recovered through recycling.",
+      "why_it_matters": "The ban aims to keep valuable battery materials in India for recycling, supporting domestic supply chains for EV and electronics manufacturing.",
+      "key_fact": "Export of unsorted lithium-ion battery black mass prohibited",
+      "source_url": "https://www.thehindu.com/business/govt-prohibits-export-of-unsorted-lithium-ion-batterywaste-scrap/article71688575.ece",
+      "date": "2026-11-11",
+      "quiz": {
+        "q": "What is the powder-like material produced from dismantled lithium-ion batteries called?",
+        "options": [
+          "Black mass",
+          "Cathode slurry",
+          "Battery ash",
+          "Lithium concentrate"
+        ],
+        "answer": 0,
+        "explain": "The article defines black mass as the powder-like material produced when used lithium-ion batteries are dismantled, crushed and processed."
+      },
+      "tags": [
+        "lithium-ion",
+        "battery waste",
+        "DGFT",
+        "recycling"
+      ]
+    },
+    {
+      "id": "news-2026-11-11-05",
+      "type": "news",
+      "category": "environment",
+      "headline": "Supreme Court flags vehicular emissions as Delhi air threat",
+      "body": "A Supreme Court Bench led by Chief Justice Surya Kant said citizens, not the judiciary, must fight air pollution in Delhi, and went beyond Deepavali to focus on vehicular emissions. The court told the Municipal Corporation of Delhi, the Delhi government, Delhi Police and the States of Haryana, Rajasthan and Uttar Pradesh to report on steps to regulate the entry and plying of commercial and non-commercial vehicles.",
+      "why_it_matters": "Delhi and NCR pollution is worsened by vehicles from neighbouring States, so curbing emissions needs coordinated action across State borders, not just winter cracker bans.",
+      "key_fact": "Supreme Court Bench headed by CJI Surya Kant",
+      "source_url": "https://www.thehindu.com/news/national/supreme-court-goes-beyond-deepavali-aqi-flags-vehicular-emissions-polluting-delhi-air/article71685844.ece",
+      "date": "2026-11-11",
+      "quiz": {
+        "q": "Which Supreme Court Bench heard the Delhi air pollution matter?",
+        "options": [
+          "A Bench headed by Chief Justice Surya Kant",
+          "A Bench headed by Justice D.Y. Chandrachud",
+          "A Bench headed by Chief Justice N.V. Ramana",
+          "A Bench headed by Justice Sanjay Kishan Kaul"
+        ],
+        "answer": 0,
+        "explain": "The article says a Supreme Court Bench headed by Chief Justice of India Surya Kant made the directions."
+      },
+      "tags": [
+        "Delhi pollution",
+        "Supreme Court",
+        "vehicles",
+        "air quality"
+      ]
+    },
+    {
+      "id": "news-2026-11-11-06",
+      "type": "news",
+      "category": "environment",
+      "headline": "COP31 opens in Antalya with several big leaders absent",
+      "body": "World leaders began addressing COP31 in Antalya, Turkiye, on November 11, 2026, with Turkish President Recep Tayyip Erdogan, Brazilian President Luiz Inacio Lula da Silva and Iran's Masoud Pezeshkian among speakers. Observers noted that British Prime Minister Andy Burnham was the only G7 leader scheduled to speak. French President Emmanuel Macron, German Chancellor Friedrich Merz and Italian Prime Minister Giorgia Meloni skipped the summit.",
+      "why_it_matters": "COP summits set global climate commitments, so the absence of major economies can weaken pressure for stronger action on emissions.",
+      "key_fact": "COP31 held in Antalya, Turkiye",
+      "source_url": "https://www.thehindu.com/sci-tech/energy-and-environment/world-leaders-take-stage-at-cop31-but-big-names-missing/article71688148.ece",
+      "date": "2026-11-11",
+      "quiz": {
+        "q": "Where is COP31 being held?",
+        "options": [
+          "Antalya, Turkiye",
+          "Baku, Azerbaijan",
+          "Dubai, UAE",
+          "Glasgow, UK"
+        ],
+        "answer": 0,
+        "explain": "The article states the COP31 climate talks are in the Mediterranean resort city of Antalya in Turkiye."
+      },
+      "tags": [
+        "COP31",
+        "climate",
+        "Antalya",
+        "world leaders"
+      ]
+    },
+    {
+      "id": "news-2026-11-11-07",
+      "type": "news",
+      "category": "environment",
+      "headline": "India presses developed nations on climate finance at COP31",
+      "body": "At COP31 in Antalya, India's environment ministry secretary Narendra Bhooshan said developed countries have an obligation under Article 9.1 of the Paris Agreement to provide financial resources to developing nations. India said equity, adaptation and a just energy transition must stay central, and that poorer countries cannot bear growing climate costs while meeting development needs. It also affirmed commitment to climate multilateralism and the CBDR-RC principle.",
+      "why_it_matters": "Climate finance from rich nations helps developing countries like India fund clean energy and adaptation without sacrificing development goals.",
+      "key_fact": "Article 9.1 of the Paris Agreement on climate finance",
+      "source_url": "https://www.livemint.com/news/india-flags-rich-nations-climate-finance-energy-transition-cop31-antalya-11794311323660.html",
+      "date": "2026-11-11",
+      "quiz": {
+        "q": "Which Paris Agreement article does India cite for developed countries' finance obligation?",
+        "options": [
+          "Article 9.1",
+          "Article 6.4",
+          "Article 2.1",
+          "Article 4.2"
+        ],
+        "answer": 0,
+        "explain": "According to the article, Article 9.1 requires developed countries to provide financial resources to developing nations for climate action."
+      },
+      "tags": [
+        "climate finance",
+        "COP31",
+        "Paris Agreement",
+        "India"
+      ]
+    },
+    {
+      "id": "news-2026-11-11-08",
+      "type": "news",
+      "category": "environment",
+      "headline": "Delhi AQI slips to 303, 'very poor' category",
+      "body": "Delhi's air quality worsened to 'very poor' on November 11, 2026, with the Air Quality Index settling at 303, according to Central Pollution Control Board data. The city had been in the 'poor' category a day earlier. Stubble burning in neighbouring States contributed to the deterioration after Deepavali. Safdarjung recorded a minimum temperature of 14.8 degrees Celsius, and IMD forecast morning fog or mist.",
+      "why_it_matters": "Air quality in the 'very poor' range can cause breathing discomfort and health risks, especially for children, the elderly and those with respiratory illness.",
+      "key_fact": "Delhi AQI of 303 on November 11, 2026",
+      "source_url": "https://www.thehindu.com/news/cities/Delhi/delhi-air-quality-deteriorates-aqi-settles-at-303/article71688408.ece",
+      "date": "2026-11-11",
+      "quiz": {
+        "q": "What AQI range does the CPCB classify as 'very poor'?",
+        "options": [
+          "301 to 400",
+          "201 to 300",
+          "101 to 200",
+          "401 to 500"
+        ],
+        "answer": 0,
+        "explain": "The article states that an AQI between 301 and 400 is classified as 'very poor'."
+      },
+      "tags": [
+        "Delhi AQI",
+        "pollution",
+        "CPCB",
+        "air quality"
+      ]
+    },
+    {
+      "id": "news-2026-11-11-09",
+      "type": "news",
+      "category": "polity",
+      "headline": "Supreme Court reaffirms OBC creamy layer ruling",
+      "body": "The Supreme Court on November 6, 2026, reaffirmed its March 11, 2026, judgment upholding a 1993 Office Memorandum that excluded parental salary and agricultural income from the income and wealth test for determining OBC non-creamy layer status. The Centre had sought clarification from the court on how the March 11 ruling affects OBC candidates selected for the civil services examination.",
+      "why_it_matters": "Creamy layer status decides which OBC candidates get reservation benefits, so clarity on income tests affects civil services aspirants across the country.",
+      "key_fact": "1993 Office Memorandum on OBC income test",
+      "source_url": "https://www.thehindu.com/news/national/explained-what-did-the-supreme-court-clarify-on-the-obc-creamy-layer/article71685709.ece",
+      "date": "2026-11-11",
+      "quiz": {
+        "q": "Which year's Office Memorandum did the Supreme Court uphold on OBC creamy layer income tests?",
+        "options": [
+          "1993",
+          "1980",
+          "2006",
+          "1990"
+        ],
+        "answer": 0,
+        "explain": "The article says the Supreme Court upheld a 1993 Office Memorandum relating to the OBC non-creamy layer status."
+      },
+      "tags": [
+        "OBC",
+        "creamy layer",
+        "Supreme Court",
+        "reservation"
+      ]
+    },
+    {
+      "id": "news-2026-11-11-10",
+      "type": "news",
+      "category": "polity",
+      "headline": "IYCC alleges 74.07 lakh voters deleted from Tamil Nadu rolls",
+      "body": "The Independent Young Citizens Collective (IYCC) has alleged that 74.07 lakh voters were removed from Tamil Nadu's electoral rolls during the Special Intensive Revision (SIR) exercise, about 11.5% of the state's electorate. Speaking in Chennai, it demanded an Election Commission inquiry and announced a November 26 rally as part of a nationwide day of action by 'People Against SIR', a platform of mass organisations and activists.",
+      "why_it_matters": "Voter rolls decide who can vote, so large-scale deletions raise direct questions about representation and the fairness of elections.",
+      "key_fact": "74.07 lakh voters allegedly deleted in Tamil Nadu SIR",
+      "source_url": "https://www.thehindu.com/news/national/tamil-nadu/over-74-lakh-voters-missing-from-tamil-nadu-electoral-rolls-says-citizens-collective/article71685695.ece",
+      "date": "2026-11-11",
+      "quiz": {
+        "q": "How many voters did the IYCC allege were removed from Tamil Nadu's electoral rolls?",
+        "options": [
+          "7.40 lakh",
+          "74.07 lakh",
+          "1.27 crore",
+          "11.5 lakh"
+        ],
+        "answer": 1,
+        "explain": "The collective said 74.07 lakh names were deleted, around 11.5% of the state's electorate."
+      },
+      "tags": [
+        "electoral rolls",
+        "SIR",
+        "Tamil Nadu",
+        "voter deletion"
+      ]
+    },
+    {
+      "id": "news-2026-11-11-11",
+      "type": "news",
+      "category": "polity",
+      "headline": "Yogi Adityanath says 1.27 crore Hindu voters missing after SIR",
+      "body": "Uttar Pradesh Chief Minister Yogi Adityanath claimed 1.27 crore Hindu voters are missing from the state's draft electoral rolls after the Election Commission's Special Intensive Revision. He said 55 lakh of the 66 lakh voters listed in panchayat polls but absent from ECI rolls are Hindus. Samajwadi Party chief Akhilesh Yadav asked how the CM knew voters' religious identities and demanded Aadhaar-linked voting.",
+      "why_it_matters": "A senior leader publicly questioning the official voter revision puts the credibility of the Election Commission's roll process in the national spotlight.",
+      "key_fact": "1.27 crore Hindu voters allegedly missing from UP draft rolls",
+      "source_url": "https://www.livemint.com/news/india/up-voter-list-yogi-adityanath-claims-1-27-crore-hindu-voters-missing-after-sir-exercise-as-muslim-voters-up-by-165-11794332440118.html",
+      "date": "2026-11-11",
+      "quiz": {
+        "q": "What figure did the UP Chief Minister give for Hindu voters missing from draft electoral rolls?",
+        "options": [
+          "66 lakh",
+          "55 lakh",
+          "1.27 crore",
+          "4.5 lakh"
+        ],
+        "answer": 2,
+        "explain": "Adityanath claimed 1.27 crore Hindu voters were absent from the ECI's draft rolls."
+      },
+      "tags": [
+        "SIR",
+        "Uttar Pradesh",
+        "electoral rolls",
+        "Yogi Adityanath"
+      ]
+    },
+    {
+      "id": "news-2026-11-11-12",
+      "type": "news",
+      "category": "polity",
+      "headline": "Madras HC orders FIR in public library book procurement scam",
+      "body": "The Madurai Bench of the Madras High Court directed the Directorate of Vigilance and Anti-Corruption to register an FIR and freeze bank accounts of Agal Vilakku Publications, its proprietor Mohan and others over suspected fraudulent book procurement for public libraries. The court also ordered the Director of Public Libraries to name responsible officials, suspend those involved, and inventory the suspect books.",
+      "why_it_matters": "It shows courts using contempt powers to pursue alleged misuse of public funds meant for public libraries.",
+      "key_fact": "DVAC ordered to register FIR in library book scam",
+      "source_url": "https://www.thehindu.com/news/cities/Madurai/register-fir-in-public-library-book-scam-case-madras-hc-directs-dvac/article71685854.ece",
+      "date": "2026-11-11",
+      "quiz": {
+        "q": "Which agency was directed to register an FIR in the library book scam case?",
+        "options": [
+          "CBI",
+          "DVAC",
+          "ED",
+          "Lokayukta"
+        ],
+        "answer": 1,
+        "explain": "The Madras High Court directed the Directorate of Vigilance and Anti-Corruption to register the FIR."
+      },
+      "tags": [
+        "Madras High Court",
+        "DVAC",
+        "public libraries",
+        "corruption"
+      ]
+    },
+    {
+      "id": "news-2026-11-11-13",
+      "type": "news",
+      "category": "polity",
+      "headline": "BJP booth agents' deletion pleas in Mustafabad centred on few booths",
+      "body": "The Hindu found that 796 Form 7 deletion applications filed by 20 BJP-appointed Booth Level Agents in Delhi's Mustafabad were mostly concentrated in 25 of the constituency's 294 polling booths, across Nehru Vihar, Dayalpur and Chandu Nagar. All were against Muslim electors, and the booths appeared chosen for their sizeable Muslim population and few deletions in the SIR draft rolls.",
+      "why_it_matters": "It illustrates how claims under the SIR can cluster in particular areas, which matters for equal treatment of voters.",
+      "key_fact": "796 deletion applications from 20 BJP BLAs in Mustafabad",
+      "source_url": "https://www.thehindu.com/news/cities/Delhi/delhi-sir-why-bjp-blas-voter-deletion-applications-in-mustafabad-focused-on-three-neighbourhoods/article71685998.ece",
+      "date": "2026-11-11",
+      "quiz": {
+        "q": "How many polling booths in Mustafabad did most of the 796 deletion applications cover?",
+        "options": [
+          "294",
+          "25",
+          "796",
+          "20"
+        ],
+        "answer": 1,
+        "explain": "The applications were concentrated on 25 of the constituency's 294 booths."
+      },
+      "tags": [
+        "Delhi",
+        "SIR",
+        "Mustafabad",
+        "voter deletion"
+      ]
+    },
+    {
+      "id": "news-2026-11-11-14",
+      "type": "news",
+      "category": "international",
+      "headline": "India says travel document needed for Sheikh Hasina's extradition",
+      "body": "After Bangladesh's Acting Foreign Minister Humayun Kabir said Dhaka would not issue a passport to deposed Prime Minister Sheikh Hasina and sought her return through a prisoner exchange, India's MEA said extradition is a legal matter and a travel document is needed for international travel. Officials said she could be extradited on a Bangladeshi passport or an Emergency Certificate.",
+      "why_it_matters": "Extradition of a former head of government tests the India-Bangladesh treaty and diplomatic ties between the neighbours.",
+      "key_fact": "India seeks travel document for Sheikh Hasina's extradition",
+      "source_url": "https://www.thehindu.com/news/national/after-bangladesh-rules-out-passport-for-hasina-india-says-travel-document-needed/article71686655.ece",
+      "date": "2026-11-11",
+      "quiz": {
+        "q": "What did India say is required for Hasina's international travel and extradition?",
+        "options": [
+          "A prisoner exchange treaty",
+          "A travel document",
+          "A court order from Dhaka",
+          "A UN resolution"
+        ],
+        "answer": 1,
+        "explain": "The MEA spokesperson said a travel document is obviously needed for the travel of people."
+      },
+      "tags": [
+        "Sheikh Hasina",
+        "Bangladesh",
+        "extradition",
+        "MEA"
+      ]
+    },
+    {
+      "id": "news-2026-11-11-15",
+      "type": "news",
+      "category": "international",
+      "headline": "Russia, Ukraine, US begin trilateral talks in Abu Dhabi",
+      "body": "Three-way talks between Russia, Ukraine and the United States opened on November 10, 2026, in the UAE, Ukraine delegation head Rustem Umerov said. The two-day session focuses on security guarantees and is the first such meeting since February. Moscow and Kyiv remain far apart; President Putin wants Ukrainian troops withdrawn from four annexed regions and Ukraine to drop its NATO bid.",
+      "why_it_matters": "The war, Europe's biggest since World War II, has driven global food and energy prices and shaped India's diplomatic balancing between Russia and the West.",
+      "key_fact": "Russia's full-scale invasion of Ukraine began on Feb. 24, 2022",
+      "source_url": "https://www.thehindu.com/news/international/us-brokered-talks-are-set-to-start-in-abu-dhabi-to-discuss-ukraine-russia-peace-deal/article71685183.ece",
+      "date": "2026-11-11",
+      "quiz": {
+        "q": "When did Russia's full-scale invasion of Ukraine begin?",
+        "options": [
+          "Feb. 24, 2022",
+          "Sept. 2022",
+          "Feb. 2022",
+          "November 2026"
+        ],
+        "answer": 0,
+        "explain": "The article states the conflict began after Russia's all-out invasion on February 24, 2022."
+      },
+      "tags": [
+        "Russia-Ukraine war",
+        "diplomacy",
+        "Abu Dhabi"
+      ]
+    },
+    {
+      "id": "news-2026-11-11-16",
+      "type": "news",
+      "category": "international",
+      "headline": "China's trade surplus crosses $1 trillion in October",
+      "body": "China's trade surplus topped $1 trillion in October 2026, official customs data showed, reaching the mark earlier than last year. Exports rose 35.2% year-on-year to $412.3 billion, helped by demand for AI-related products like chips and data centre servers, while imports grew 41.6%. The first-ten-month surplus stood at $1.04 trillion. The boom has raised tensions with trading partners.",
+      "why_it_matters": "China is a major trading partner for India and the world, so its export surge affects global prices, competition for Indian manufacturers and trade diplomacy.",
+      "key_fact": "China's January-October 2026 trade surplus: $1.04 trillion",
+      "source_url": "https://www.thehindu.com/news/international/china-says-2026-trade-surplus-surpassed-1-trillion-in-october/article71685001.ece",
+      "date": "2026-11-11",
+      "quiz": {
+        "q": "What was China's total trade surplus in the first 10 months of 2026?",
+        "options": [
+          "$1.04 trillion",
+          "$1.2 trillion",
+          "$310.7 billion",
+          "$412.3 billion"
+        ],
+        "answer": 0,
+        "explain": "The General Administration of Customs data put the January-October surplus at $1.04 trillion."
+      },
+      "tags": [
+        "China",
+        "trade",
+        "exports"
+      ]
+    },
+    {
+      "id": "news-2026-11-11-17",
+      "type": "news",
+      "category": "international",
+      "headline": "US team in Delhi for India-US trade deal talks",
+      "body": "A two-member US team visited Delhi on November 2-3, 2026, to discuss the customs and trade facilitation chapter of a proposed India-US trade agreement, a senior official said. Washington said President Trump's midterm election setback does not change its commitment to ties with India. The US is India's largest export market, taking $87 billion in goods in FY26.",
+      "why_it_matters": "A deal could give Indian exporters certainty on US tariffs, especially in labour-intensive sectors like textiles, leather and gems and jewellery that face steep duties.",
+      "key_fact": "US took $87 billion of Indian goods in FY 2025-26",
+      "source_url": "https://www.livemint.com/news/india/indiaus-trade-deal-talks-continue-as-us-team-visits-delhi-11794330219355.html",
+      "date": "2026-11-11",
+      "quiz": {
+        "q": "How much did India export in goods to the US in fiscal year 2025-26?",
+        "options": [
+          "$87 billion",
+          "$87 million",
+          "$55 billion",
+          "$310 billion"
+        ],
+        "answer": 0,
+        "explain": "The article says the US, India's largest export market, accounted for $87 billion in goods in FY26."
+      },
+      "tags": [
+        "India-US trade",
+        "tariffs",
+        "exports"
+      ]
+    },
+    {
+      "id": "news-2026-11-11-18",
+      "type": "news",
+      "category": "international",
+      "headline": "Jamaica petitions King Charles III for slavery reparations",
+      "body": "Jamaica filed a petition on September 7, 2026, led by Culture Minister Olivia Grange, asking King Charles III to refer three legal questions to the Judicial Committee of the Privy Council under Section 4 of the Judicial Committee Act 1833. The questions cover the lawfulness of enslavement under English common law, violation of international legal principles, and Britain's duty to pay reparations.",
+      "why_it_matters": "It tests whether colonial-era wrongs can be pursued through British law, a precedent relevant to reparations debates worldwide, including in India.",
+      "key_fact": "Jamaica's petition rests on the Judicial Committee Act 1833",
+      "source_url": "https://www.thehindu.com/news/international/why-jamaicas-reparations-petition-has-a-solid-legal-basis/article71687311.ece",
+      "date": "2026-11-11",
+      "quiz": {
+        "q": "Which law does Jamaica's petition invoke to seek referral to the Privy Council?",
+        "options": [
+          "Judicial Committee Act 1833",
+          "Slave Trade Act 1807",
+          "Slavery Abolition Act 1833",
+          "International Court of Justice Statute"
+        ],
+        "answer": 0,
+        "explain": "The petition asks King Charles III to refer questions to the JCPC under Section 4 of the Judicial Committee Act 1833."
+      },
+      "tags": [
+        "Jamaica",
+        "reparations",
+        "colonialism"
+      ]
+    },
+    {
+      "id": "news-2026-11-11-19",
+      "type": "news",
+      "category": "international",
+      "headline": "Iran rejects French blame for supermarket fridge cyberattacks",
+      "body": "Iran on November 10, 2026, rejected as 'baseless' French accusations that it was behind cyberattacks on October 11-12 that raised temperatures in supermarket refrigerators and freezers across France, spoiling food stocks. Similar incidents followed in at least 11 other European countries. France summoned Iran's ambassador and sought European-level sanctions; the EU promised a swift and united response.",
+      "why_it_matters": "The incident shows how cyberattacks on civilian infrastructure can escalate diplomatic disputes and affect food supply, a reminder of rising cyber risks to daily life.",
+      "key_fact": "French supermarket fridge cyberattacks occurred on October 11-12, 2026",
+      "source_url": "https://www.thehindu.com/news/international/iran-rejects-frances-baseless-accusations-on-cyberattack/article71686751.ece",
+      "date": "2026-11-11",
+      "quiz": {
+        "q": "When did the cyberattacks on French supermarket refrigerators take place?",
+        "options": [
+          "October 11-12, 2026",
+          "November 10, 2026",
+          "November 2-3, 2026",
+          "September 7, 2026"
+        ],
+        "answer": 0,
+        "explain": "The article says hundreds of French supermarkets were hit in the October 11 and 12 cyberattacks."
+      },
+      "tags": [
+        "Iran",
+        "France",
+        "cyberattack"
+      ]
+    }
+  ]
+}
