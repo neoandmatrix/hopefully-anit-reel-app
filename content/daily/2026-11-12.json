@@ -1,0 +1,534 @@
+{
+  "date": "2026-11-12",
+  "cards": [
+    {
+      "id": "news-2026-11-12-01",
+      "type": "news",
+      "category": "polity",
+      "headline": "One Nation One Ration Card launched in 2019 for portability",
+      "body": "The One Nation One Ration Card (ONORC) scheme, launched in 2019 by the Department of Food and Public Distribution, allows ration card holders under the National Food Security Act (NFSA) to collect subsidised foodgrain from any fair price shop in the country. It uses technology-based reforms and the Mera Ration mobile app, available in 13 languages, to help migrants find nearby shops and access their entitlement.",
+      "why_it_matters": "It lets migrant workers and their families draw their monthly ration anywhere in India, strengthening food security regardless of where they live or work.",
+      "key_fact": "One Nation One Ration Card launched in 2019",
+      "source_url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335308",
+      "date": "2026-11-12",
+      "quiz": {
+        "q": "In which year was the One Nation One Ration Card scheme launched?",
+        "options": [
+          "2016",
+          "2017",
+          "2019",
+          "2021"
+        ],
+        "answer": 2,
+        "explain": "The article states that ONORC was started by the Department of Food and Public Distribution in 2019."
+      },
+      "tags": [
+        "ration",
+        "food security",
+        "PDS",
+        "migrants"
+      ]
+    },
+    {
+      "id": "news-2026-11-12-02",
+      "type": "news",
+      "category": "economy",
+      "headline": "Cabinet raises rabi fertilizer subsidy 64% to ₹62,370 crore",
+      "body": "The Union Cabinet approved a 64% year-on-year increase in fertilizer subsidies for the ongoing rabi season to ₹62,370 crore under the Nutrient Based Subsidy scheme for phosphatic and potassic fertilizers. Information and broadcasting minister Ashwini Vaishnaw said India has about 23.5 million tonnes of fertilizer stocks against a requirement of 35 million tonnes. The higher subsidy aims to keep essential soil nutrients affordable for farmers amid volatile global prices.",
+      "why_it_matters": "Fertilizer subsidy directly affects the cost of growing wheat, pulses and oilseeds, and therefore farmers' input costs and food prices.",
+      "key_fact": "Rabi fertilizer subsidy raised 64% to ₹62,370 crore",
+      "source_url": "https://www.livemint.com/news/india/union-cabinet-raises-rabi-fertilizer-subsidy-by-64-to-62-370-crore-11794397334259.html",
+      "date": "2026-11-12",
+      "quiz": {
+        "q": "By how much did the Cabinet raise the rabi fertilizer subsidy year-on-year?",
+        "options": [
+          "24%",
+          "44%",
+          "64%",
+          "84%"
+        ],
+        "answer": 2,
+        "explain": "The article reports a 64% year-on-year increase, taking the rabi subsidy to ₹62,370 crore."
+      },
+      "tags": [
+        "fertilizer",
+        "subsidy",
+        "rabi",
+        "farmers"
+      ]
+    },
+    {
+      "id": "news-2026-11-12-03",
+      "type": "news",
+      "category": "economy",
+      "headline": "Cabinet clears Mudra loans, fertilizer subsidy and Noida Metro extension",
+      "body": "The Union Cabinet, chaired by Prime Minister Narendra Modi, on 11 November approved several decisions. It extended the Stand-Up India Scheme and the Credit Guarantee Fund for Micro Units until 2031, targeting an additional 2.5 lakh women and SC/ST entrepreneurs with loans from above ₹10 lakh to ₹1 crore. It also approved ₹62,370 crore in rabi fertilizer subsidy, a ₹2,390 crore Noida Metro Aqua Line extension and the ₹3,230 crore Yuge Yugeen Bharat Museum.",
+      "why_it_matters": "These decisions affect credit access for small entrepreneurs, farm input costs, urban transport in the NCR and national cultural infrastructure.",
+      "key_fact": "Stand-Up India Scheme extended until March 31, 2031",
+      "source_url": "https://www.livemint.com/news/india/cabinet-decisions-today-11-nov-full-list-12-6-lakh-crore-mudra-loans-62-370-crore-subsidy-metro-boost-and-more-11794391951196.html",
+      "date": "2026-11-12",
+      "quiz": {
+        "q": "Until when has the Stand-Up India Scheme been extended?",
+        "options": [
+          "March 31, 2028",
+          "March 31, 2029",
+          "March 31, 2031",
+          "March 31, 2035"
+        ],
+        "answer": 2,
+        "explain": "The Cabinet extended the scheme for five more years, until March 31, 2031."
+      },
+      "tags": [
+        "cabinet",
+        "Mudra",
+        "Stand-Up India",
+        "metro"
+      ]
+    },
+    {
+      "id": "news-2026-11-12-04",
+      "type": "news",
+      "category": "economy",
+      "headline": "Net direct tax collections rise 11.8% to ₹14.42 trillion",
+      "body": "India's net direct tax collections rose 11.76% year-on-year to ₹14.42 trillion as of 10 November in FY27, provisional Income Tax Department data showed. Corporate tax receipts grew 17.8% to ₹6.32 trillion, while non-corporate collections rose 5.3% to ₹7.56 trillion. Gross direct tax collections rose 14.02% to ₹17.50 trillion, but faster refunds of ₹3.08 trillion moderated net growth. Collections so far are about 65% of the full-year target.",
+      "why_it_matters": "Direct tax collections fund a large part of government spending on schemes, infrastructure and subsidies, so their pace indicates the fiscal room available.",
+      "key_fact": "Net direct tax collections ₹14.42 trillion as of 10 November",
+      "source_url": "https://www.livemint.com/news/net-direct-tax-collections-rise-11-8-to-rs-14-42-trillion-corporate-tax-leads-11794414077304.html",
+      "date": "2026-11-12",
+      "quiz": {
+        "q": "What were India's net direct tax collections as of 10 November in FY27?",
+        "options": [
+          "₹11.42 trillion",
+          "₹14.42 trillion",
+          "₹17.50 trillion",
+          "₹28.67 trillion"
+        ],
+        "answer": 1,
+        "explain": "The article states net direct tax collections rose 11.76% to ₹14.42 trillion as of 10 November."
+      },
+      "tags": [
+        "tax",
+        "Income Tax",
+        "fiscal",
+        "economy"
+      ]
+    },
+    {
+      "id": "news-2026-11-12-05",
+      "type": "news",
+      "category": "economy",
+      "headline": "Retail inflation seen hitting RBI's 6% ceiling in October",
+      "body": "India's retail inflation is projected to hit 6% in October, a two-year high, according to a Mint poll of 15 economists, up from 5.5% in September. If confirmed, it would breach the RBI's upper tolerance limit of 6% for the first time since October 2024. Food and beverages inflation is expected to exceed 8%, with oil prices and an unfavourable base adding pressure. The RBI raised the repo rate by 25 basis points in October.",
+      "why_it_matters": "Higher inflation erodes household purchasing power and can push the RBI to keep interest rates elevated, raising EMIs on home and other loans.",
+      "key_fact": "RBI upper inflation tolerance limit is 6%",
+      "source_url": "https://www.livemint.com/news/retail-inflation-likely-hit-a-two-year-high-of-6-in-october-mint-poll-11794382308555.html",
+      "date": "2026-11-12",
+      "quiz": {
+        "q": "What is the RBI's upper tolerance limit for retail inflation?",
+        "options": [
+          "4%",
+          "5%",
+          "6%",
+          "8%"
+        ],
+        "answer": 2,
+        "explain": "The article notes that a 6% reading would breach the RBI's upper tolerance limit of 6%."
+      },
+      "tags": [
+        "inflation",
+        "RBI",
+        "repo rate",
+        "CPI"
+      ]
+    },
+    {
+      "id": "news-2026-11-12-06",
+      "type": "news",
+      "category": "economy",
+      "headline": "Moody's raises India's FY27 growth forecast to 7%",
+      "body": "Moody's Ratings raised its 2026-27 growth forecast for India to 7% from 6.5%, citing resilient consumption, improving investment and the economy's ability to absorb a global energy shock. It expects about 7% growth through 2027 and 2028. The revision follows the World Bank's October move to 7.1%. Moody's also flagged risks from broader price rises and a weak monsoon.",
+      "why_it_matters": "A global rating agency's growth estimate shapes investor, borrower and policymaker sentiment about India's economy.",
+      "key_fact": "Moody's FY27 India growth forecast: 7%",
+      "source_url": "https://www.livemint.com/economy/moodys-india-fy27-growth-forecast-7-momentum-through-2028-domestic-demand-economic-resilience-11794406069442.html",
+      "date": "2026-11-12",
+      "quiz": {
+        "q": "What growth forecast has Moody's set for India's economy in 2026-27?",
+        "options": [
+          "6.5%",
+          "7%",
+          "7.1%",
+          "8%"
+        ],
+        "answer": 1,
+        "explain": "Moody's raised its 2026-27 forecast to 7% from 6.5%; 7.1% was the World Bank's figure."
+      },
+      "tags": [
+        "economy",
+        "Moody's",
+        "GDP",
+        "forecast"
+      ]
+    },
+    {
+      "id": "news-2026-11-12-07",
+      "type": "news",
+      "category": "polity",
+      "headline": "India cuts visa categories to nine, slims application forms",
+      "body": "The Ministry of Home Affairs said India has simplified its visa regime, reducing main categories from 13 to nine and sub-categories from 49 to 23. Application form fields have been cut by 65–70%. The Tourist Visa is renamed Visitor Visa, and a new Production Investment Business Visa covers foreign technical specialists. This follows an October 2025 rationalisation. IT systems are being updated for year-end rollout.",
+      "why_it_matters": "Easier visa rules affect foreign tourists, students, business visitors and the people who invite them to India.",
+      "key_fact": "Main visa categories cut from 13 to nine",
+      "source_url": "https://www.thehindu.com/news/national/india-simplifies-visa-regime-tourist-visa-renamed-as-visitor-visa/article71690588.ece",
+      "date": "2026-11-12",
+      "quiz": {
+        "q": "How many main visa categories will India have after the simplification?",
+        "options": [
+          "Thirteen",
+          "Twenty-two",
+          "Nine",
+          "Twenty-three"
+        ],
+        "answer": 2,
+        "explain": "The MHA reduced main visa categories from 13 to nine, with sub-categories falling from 49 to 23."
+      },
+      "tags": [
+        "visa",
+        "MHA",
+        "travel",
+        "policy"
+      ]
+    },
+    {
+      "id": "news-2026-11-12-08",
+      "type": "news",
+      "category": "polity",
+      "headline": "Visitor Visa replaces Tourist Visa as India reworks e-visa",
+      "body": "India's revised visa regime will have nine main categories: Business, Diplomatic, Work, Journalist, Medical, Official, Student, Visitor and Miscellaneous. The Tourist Visa is renamed Visitor Visa and split into V-1 for short 30-day visits and V-2 for longer visits of one, five or 10 years. E-visas are currently offered to nationals of 172 countries. New rules take effect by year-end.",
+      "why_it_matters": "Knowing the correct visa category helps foreign applicants avoid errors and delays when travelling to India.",
+      "key_fact": "E-visa available to nationals of 172 countries",
+      "source_url": "https://www.livemint.com/news/india/india-reduces-visa-categories-from-13-to-9-cuts-application-form-columns-by-up-to-70-check-when-it-comes-into-effect-11794418675068.html",
+      "date": "2026-11-12",
+      "quiz": {
+        "q": "How many countries' nationals can currently get an Indian e-visa?",
+        "options": [
+          "132",
+          "152",
+          "172",
+          "192"
+        ],
+        "answer": 2,
+        "explain": "The article states e-visa is presently available to nationals of 172 countries."
+      },
+      "tags": [
+        "visa",
+        "e-visa",
+        "Visitor Visa"
+      ]
+    },
+    {
+      "id": "news-2026-11-12-09",
+      "type": "news",
+      "category": "states",
+      "headline": "Navi Mumbai named India's cleanest city in Swachh Survekshan",
+      "body": "Navi Mumbai was adjudged India's cleanest city at the Swachh Survekshan awards, presented by President Droupadi Murmu, with Surat second and Vijayawada third. Indore, cleanest for the past eight years, did not feature among the toppers. Over 4,751 cities took part. Swachh Survekshan is the flagship cleanliness assessment of the Swachh Bharat Mission-Urban.",
+      "why_it_matters": "The annual ranking drives competition among cities on sanitation, waste management and civic services that citizens use daily.",
+      "key_fact": "Swachh Survekshan is Swachh Bharat Mission-Urban's cleanliness survey",
+      "source_url": "https://www.thehindu.com/sci-tech/energy-and-environment/navi-mumbai-emerges-as-cleanest-city-surat-vijayawada-runners-up-in-cleanliness-survey/article71689854.ece",
+      "date": "2026-11-12",
+      "quiz": {
+        "q": "Which programme runs the Swachh Survekshan cleanliness assessment?",
+        "options": [
+          "Swachh Bharat Mission-Urban",
+          "AMRUT",
+          "Smart Cities Mission",
+          "PMAY-Urban"
+        ],
+        "answer": 0,
+        "explain": "The article describes Swachh Survekshan as Swachh Bharat Mission-Urban's flagship cleanliness assessment."
+      },
+      "tags": [
+        "Swachh Survekshan",
+        "cleanliness",
+        "cities"
+      ]
+    },
+    {
+      "id": "news-2026-11-12-10",
+      "type": "news",
+      "category": "environment",
+      "headline": "CEC proposes three-year roadmap to phase out river sand mining",
+      "body": "The Supreme Court-appointed Central Empowered Committee has recommended a time-bound roadmap to phase out unsustainable sand extraction from active river channels over three years. In its report submitted to the Supreme Court on November 2, in a suo motu case on illegal sand mining in the National Chambal Sanctuary, the CEC also suggested alternatives such as scientific desiltation of dams and reservoirs, M-sand and recycling of construction and demolition waste.",
+      "why_it_matters": "River sand is a key construction input, so shifting to alternatives affects building costs, river health and groundwater across India.",
+      "key_fact": "Central Empowered Committee, a statutory body since 2023",
+      "source_url": "https://www.thehindu.com/news/national/central-committee-suggests-three-year-roadmap-to-phase-out-unsustainable-sand-mining-from-active-river-channels/article71690441.ece",
+      "date": "2026-11-12",
+      "quiz": {
+        "q": "Which body recommended a three-year roadmap to phase out unsustainable river sand extraction?",
+        "options": [
+          "Central Empowered Committee",
+          "Central Pollution Control Board",
+          "National Green Tribunal",
+          "Commission for Air Quality Management"
+        ],
+        "answer": 0,
+        "explain": "The CEC, a Supreme Court-appointed committee, made the recommendation in its report on illegal sand mining."
+      },
+      "tags": [
+        "sand mining",
+        "Supreme Court",
+        "environment",
+        "rivers"
+      ]
+    },
+    {
+      "id": "news-2026-11-12-11",
+      "type": "news",
+      "category": "environment",
+      "headline": "Firecrackers top Delhi pollution source day after Deepavali: IITM",
+      "body": "Source-apportionment estimates by the Indian Institute of Tropical Meteorology show firecrackers were the largest contributor to Delhi's pollution on November 9 and 10, at 71.1% and 29.8% respectively. The estimates carried large uncertainty. Vehicular emissions followed at 6.9% on Monday. Delhi's 24-hour AQI was 299 on Tuesday, then rose to 312, in the 'very poor' category, on Wednesday.",
+      "why_it_matters": "Identifying pollution sources helps shape winter air-quality curbs in the capital, from firecracker bans to traffic measures.",
+      "key_fact": "Firecrackers were 71.1% of Delhi pollution on November 9",
+      "source_url": "https://www.thehindu.com/news/cities/Delhi/firecrackers-still-delhis-top-pollutant-after-deepavali-iitm-finds/article71688942.ece",
+      "date": "2026-11-12",
+      "quiz": {
+        "q": "Which agency produced the source-apportionment estimates on Delhi's pollution?",
+        "options": [
+          "Indian Institute of Tropical Meteorology",
+          "Central Pollution Control Board",
+          "India Meteorological Department",
+          "TERI"
+        ],
+        "answer": 0,
+        "explain": "The IITM models estimated the share of firecrackers and other sources in Delhi's pollution."
+      },
+      "tags": [
+        "Delhi pollution",
+        "firecrackers",
+        "AQI",
+        "IITM"
+      ]
+    },
+    {
+      "id": "news-2026-11-12-12",
+      "type": "news",
+      "category": "environment",
+      "headline": "Delhi air hazardous as AQI nears 600 on US scale",
+      "body": "Delhi's air quality was hazardous on the morning of November 12, with the AQI.in dashboard showing a US AQI of 597 at 8:11 AM and PM2.5 at 374 micrograms per cubic metre. The city peaked at 609 at 6:01 AM. Readings of 301 and above are classified hazardous on this scale. Delhi's reading was over three times Chennai's 190, the highest among the other seven metros.",
+      "why_it_matters": "Such pollution spikes raise health risks like asthma, heart problems and breathlessness for millions of residents.",
+      "key_fact": "On the US AQI scale, 301 and above is hazardous",
+      "source_url": "https://www.livemint.com/news/india/delhi-aqi-today-air-turns-hazardous-early-on-november-12-indian-capital-ranks-among-the-world-s-most-polluted-cities-11794454025664.html",
+      "date": "2026-11-12",
+      "quiz": {
+        "q": "On the AQI scale used by the dashboard, readings of what level and above are hazardous?",
+        "options": [
+          "301",
+          "201",
+          "401",
+          "501"
+        ],
+        "answer": 0,
+        "explain": "The dashboard classifies readings of 301 and above as hazardous."
+      },
+      "tags": [
+        "Delhi pollution",
+        "AQI",
+        "health",
+        "PM2.5"
+      ]
+    },
+    {
+      "id": "news-2026-11-12-13",
+      "type": "news",
+      "category": "environment",
+      "headline": "SC seeks vehicle-pollution plans from Delhi and three states",
+      "body": "The Supreme Court has sought details from Delhi, Uttar Pradesh, Haryana and Rajasthan, along with the MCD and Delhi Police, on steps to stop over-age and non-compliant vehicles from entering and operating in NCR. Filed in two weeks, the responses must cover enforcement, PUC certification and coordination on inter-state vehicle movement. The bench noted falling stubble-burning incidents but rising concern over vehicular emissions.",
+      "why_it_matters": "Vehicle curbs in NCR directly affect how people commute and what vehicles can be used in the region.",
+      "key_fact": "Responses sought from four states, MCD and Delhi Police",
+      "source_url": "https://www.livemint.com/news/india/delhincr-air-pollution-what-sc-wants-delhi-and-3-neighbouring-states-to-do-about-polluting-vehicles-11794395580794.html",
+      "date": "2026-11-12",
+      "quiz": {
+        "q": "How much time did the Supreme Court give authorities to file their responses?",
+        "options": [
+          "Two weeks",
+          "One month",
+          "One week",
+          "Three months"
+        ],
+        "answer": 0,
+        "explain": "The court directed the governments and agencies to file their responses within two weeks."
+      },
+      "tags": [
+        "Supreme Court",
+        "vehicular pollution",
+        "Delhi-NCR",
+        "PUC"
+      ]
+    },
+    {
+      "id": "news-2026-11-12-14",
+      "type": "news",
+      "category": "environment",
+      "headline": "Farm fires in six northern states fall 11.5% to 9,590",
+      "body": "Satellite data from the Indian Council of Agricultural Research shows farm-fire incidents across six northern states fell 11.5% to 9,590 from September 15 to November 10, against 10,832 a year earlier. Punjab accounted for the largest share at 5,002, followed by Madhya Pradesh with 2,145 and Rajasthan with 1,335. Stubble burning can contribute 12-40% of Delhi's pollution in winter.",
+      "why_it_matters": "Stubble burning is a major winter contributor to north India's air pollution, so its trend shapes Delhi's air quality.",
+      "key_fact": "9,590 farm-fire incidents from September 15 to November 10",
+      "source_url": "https://www.livemint.com/news/india/farmfire-incidents-fall-11-5-across-six-northern-states-to-9-590-pollution-poor-air-quality-farmers-11794397715661.html",
+      "date": "2026-11-12",
+      "quiz": {
+        "q": "Which state reported the largest share of farm-fire incidents?",
+        "options": [
+          "Punjab",
+          "Madhya Pradesh",
+          "Haryana",
+          "Uttar Pradesh"
+        ],
+        "answer": 0,
+        "explain": "Punjab reported 5,002 incidents, the highest among the six states."
+      },
+      "tags": [
+        "stubble burning",
+        "farm fires",
+        "air pollution",
+        "ICAR"
+      ]
+    },
+    {
+      "id": "news-2026-11-12-15",
+      "type": "news",
+      "category": "international",
+      "headline": "Himalayas agenda item dropped from COP31 formal list",
+      "body": "Nepal, Bhutan and Kyrgyzstan proposed an agenda item on the Himalayas at COP31 in Antalya, Turkiye, but it was not included in the conference's formal list after failing to win backing from developed nations. Nepal's Foreign Minister Shisir Khanal said some countries supported the proposal while others were reluctant. A source said the European Union showed no interest, though a high-level dialogue is expected.",
+      "why_it_matters": "Mountain regions like the Himalayas are highly vulnerable to climate change, so their absence from formal COP talks limits attention to their specific needs.",
+      "key_fact": "COP31 held in Antalya, Turkiye",
+      "source_url": "https://www.thehindu.com/sci-tech/energy-and-environment/himalayas-agenda-left-off-cop31-formal-list-as-major-blocs-withhold-support-nepal-foreign-minister/article71688621.ece",
+      "date": "2026-11-12",
+      "quiz": {
+        "q": "Where is the 31st UN Climate Change Conference (COP31) being held?",
+        "options": [
+          "Antalya, Turkiye",
+          "Geneva, Switzerland",
+          "Dubai, UAE",
+          "Baku, Azerbaijan"
+        ],
+        "answer": 0,
+        "explain": "The article states COP31 commenced in Antalya, Turkiye."
+      },
+      "tags": [
+        "COP31",
+        "Himalayas",
+        "climate",
+        "Nepal"
+      ]
+    },
+    {
+      "id": "news-2026-11-12-16",
+      "type": "news",
+      "category": "international",
+      "headline": "Russia, Ukraine agree biggest prisoner swap after Abu Dhabi talks",
+      "body": "Russia and Ukraine agreed their biggest ever release of prisoners after two days of U.S.-mediated talks in Abu Dhabi, U.S. envoy Jared Kushner said. The numbers were to be finalised later. Kushner and mediator Steve Witkoff planned to travel to Moscow to meet President Vladimir Putin and then to Dublin to brief Ukraine's Volodymyr Zelenskyy. The prisoner exchange and an agreement to keep talking were the only concrete outcomes.",
+      "why_it_matters": "Prisoner exchanges offer rare humanitarian relief in a war that has killed hundreds of thousands and displaced millions, even as peace talks stall.",
+      "key_fact": "U.S.-brokered Russia-Ukraine talks held in Abu Dhabi",
+      "source_url": "https://www.thehindu.com/news/international/russia-ukraine-agree-to-prisoner-swap-at-us-brokered-talks/article71689267.ece",
+      "date": "2026-11-12",
+      "quiz": {
+        "q": "Which country hosted the U.S.-brokered Russia-Ukraine talks?",
+        "options": [
+          "United Arab Emirates",
+          "Qatar",
+          "Turkiye",
+          "Switzerland"
+        ],
+        "answer": 0,
+        "explain": "The talks took place in Abu Dhabi, the capital of the United Arab Emirates, chosen as a neutral venue."
+      },
+      "tags": [
+        "Russia",
+        "Ukraine",
+        "prisoner swap",
+        "diplomacy"
+      ]
+    },
+    {
+      "id": "news-2026-11-12-17",
+      "type": "news",
+      "category": "international",
+      "headline": "Xi says Taiwan reunification must happen as history cannot be stopped",
+      "body": "Chinese President Xi Jinping said the complete reunification of Taiwan with the motherland must be and will be realised, adding that the tide of history cannot be stopped. Speaking in Beijing's Great Hall of the People on the 160th birth anniversary of Sun Yat-sen, he pledged peaceful reunification under 'one country, two systems' and made no mention of the use of force. Taiwan rejects Beijing's sovereignty claims.",
+      "why_it_matters": "Taiwan is a major flashpoint in global politics, and China's stance affects regional security and India's own strategic outlook.",
+      "key_fact": "China's policy of 'one country, two systems' for Taiwan",
+      "source_url": "https://www.thehindu.com/news/international/chinas-xi-says-taiwan-reunification-must-happen-as-history-cannot-be-stopped/article71692573.ece",
+      "date": "2026-11-12",
+      "quiz": {
+        "q": "Which model of autonomy does China offer Taiwan?",
+        "options": [
+          "One country, two systems",
+          "Two countries, one system",
+          "Special administrative status under the UN",
+          "Full independence with a defence pact"
+        ],
+        "answer": 0,
+        "explain": "The article notes China has repeatedly offered a 'one country, two systems' model of autonomy for Taiwan."
+      },
+      "tags": [
+        "China",
+        "Taiwan",
+        "Xi Jinping"
+      ]
+    },
+    {
+      "id": "news-2026-11-12-18",
+      "type": "news",
+      "category": "international",
+      "headline": "G7 ministers say China's actions east of Taiwan threaten stability",
+      "body": "G7 Foreign Ministers, meeting in Paris, said in a joint declaration that China's increasingly assertive activities in the waters east of Taiwan threaten regional stability, freedom of navigation and the safety of international shipping. They reaffirmed opposition to any unilateral attempts to change the status quo by force or coercion. Taiwan says China is practising for a potential maritime blockade. China did not immediately respond.",
+      "why_it_matters": "The Taiwan Strait is a key global shipping route, so rising tensions there can affect trade and security far beyond East Asia.",
+      "key_fact": "G7 joint declaration issued after Paris meeting",
+      "source_url": "https://www.thehindu.com/news/international/g7-foreign-ministers-say-chinas-actions-east-of-taiwan-threaten-stability/article71692205.ece",
+      "date": "2026-11-12",
+      "quiz": {
+        "q": "Where did the G7 Foreign Ministers meet before issuing their declaration on Taiwan?",
+        "options": [
+          "Paris",
+          "Berlin",
+          "Tokyo",
+          "Washington"
+        ],
+        "answer": 0,
+        "explain": "The joint declaration was published following a meeting in Paris."
+      },
+      "tags": [
+        "G7",
+        "Taiwan",
+        "China",
+        "shipping"
+      ]
+    },
+    {
+      "id": "news-2026-11-12-19",
+      "type": "news",
+      "category": "international",
+      "headline": "India and Oman navies hold 15th exercise Naseem Al Bahr",
+      "body": "The Indian Navy and the Royal Navy of Oman conducted the 15th edition of their bilateral maritime exercise, 'Naseem Al Bahr' (Sea Breeze), aimed at boosting interoperability and professional cooperation. The harbour phase included subject matter expert exchanges on explosive ordnance disposal, mine countermeasures and hydrography. At sea, Indian ship Surat and Omani ship Al-Muajjar carried out visit, board, search and seizure drills and cross-deck operations. The exercise supports India's MAHASAGAR vision.",
+      "why_it_matters": "Joint exercises with regional partners like Oman strengthen India's maritime security ties in the Indian Ocean, a key trade route.",
+      "key_fact": "Naseem Al Bahr (Sea Breeze) is the India-Oman naval exercise",
+      "source_url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335237",
+      "date": "2026-11-12",
+      "quiz": {
+        "q": "What is the name of the bilateral India-Oman naval exercise?",
+        "options": [
+          "Naseem Al Bahr",
+          "Varuna",
+          "Malabar",
+          "Garuda"
+        ],
+        "answer": 0,
+        "explain": "The article identifies 'Naseem Al Bahr' (Sea Breeze) as the India-Oman bilateral maritime exercise."
+      },
+      "tags": [
+        "Indian Navy",
+        "Oman",
+        "naval exercise",
+        "MAHASAGAR"
+      ]
+    }
+  ]
+}
