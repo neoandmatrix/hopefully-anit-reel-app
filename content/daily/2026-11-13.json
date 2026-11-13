@@ -1,0 +1,503 @@
+{
+  "date": "2026-11-13",
+  "cards": [
+    {
+      "id": "news-2026-11-13-01",
+      "type": "news",
+      "category": "economy",
+      "headline": "Retail inflation hits 6.1% in October 2026, above RBI limit",
+      "body": "Consumer Price Index (CPI) inflation rose to 6.1% in October 2026, crossing the RBI's 6% upper tolerance limit for the first time in two years. Food and beverages inflation reached 8.5%, transport 5.8%, and restaurant and accommodation services 10.1% — all series highs. Economists linked festive demand to price pressure; the RBI had raised the repo rate by 25 basis points to 5.50% in early October.",
+      "why_it_matters": "Higher CPI inflation raises household costs and can push the RBI to keep interest rates high, affecting EMIs and loan costs for ordinary Indians.",
+      "key_fact": "RBI inflation target: 4%, with a 2% comfort band",
+      "source_url": "https://www.thehindu.com/business/Economy/retail-inflation-crosses-rbis-upper-limit-for-first-time-in-two-years-comes-in-at-61-in-october-2026/article71693503.ece",
+      "date": "2026-11-13",
+      "quiz": {
+        "q": "What is the RBI's inflation target, around which its comfort band is set?",
+        "options": [
+          "2%",
+          "4%",
+          "5.5%",
+          "6%"
+        ],
+        "answer": 1,
+        "explain": "The article states the RBI targets 4% inflation with a band of 2% higher or lower."
+      },
+      "tags": [
+        "inflation",
+        "RBI",
+        "economy",
+        "CPI"
+      ]
+    },
+    {
+      "id": "news-2026-11-13-02",
+      "type": "news",
+      "category": "international",
+      "headline": "PM Modi to visit Manila for ASEAN and East Asia summits",
+      "body": "At the invitation of Philippines President Ferdinand R. Marcos Jr., Prime Minister Narendra Modi will visit Manila from November 16 to 17, 2026. He will attend the 23rd ASEAN-India Summit and the 21st East Asia Summit on November 17, hosted by the Philippines as 2026 ASEAN chair. The summits will review the ASEAN-India Plan of Action 2026–2030 and set future cooperation. India and ASEAN mark 2026 as the ASEAN-India Year of Maritime Cooperation.",
+      "why_it_matters": "These summits shape India's Act East Policy, regional trade and maritime security ties that affect commerce and strategic interests in the Indo-Pacific.",
+      "key_fact": "23rd ASEAN-India Summit and 21st East Asia Summit, Manila",
+      "source_url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335676",
+      "date": "2026-11-13",
+      "quiz": {
+        "q": "Which country is hosting the 2026 ASEAN summits as ASEAN chair?",
+        "options": [
+          "India",
+          "Indonesia",
+          "Philippines",
+          "Vietnam"
+        ],
+        "answer": 2,
+        "explain": "The article says the Philippines is hosting the summits as the current ASEAN chair for 2026."
+      },
+      "tags": [
+        "ASEAN",
+        "Modi",
+        "diplomacy",
+        "Manila"
+      ]
+    },
+    {
+      "id": "news-2026-11-13-03",
+      "type": "news",
+      "category": "science",
+      "headline": "ISRO conducts ground static test of PSLV third stage",
+      "body": "ISRO successfully carried out a ground static test of the PSLV third stage (PS3) at the Static Test Facility in Satish Dhawan Space Centre, Sriharikota, on November 12, 2026. The test followed anomalies in the third stage during the PSLV-C61/EOS-09 and PSLV-C62/EOS-N1 missions. ISRO said the stage's configuration was strengthened, with improved nozzle design, raw material criteria, assembly procedures and quality checks, and further tests are planned.",
+      "why_it_matters": "The PSLV is ISRO's workhorse rocket for satellite launches, so fixing the third stage is key to restoring reliable, frequent launches.",
+      "key_fact": "PSLV third stage (PS3) static test at Sriharikota",
+      "source_url": "https://www.thehindu.com/sci-tech/science/isro-successfully-carries-out-ground-static-test-of-pslv-third-stage/article71694068.ece",
+      "date": "2026-11-13",
+      "quiz": {
+        "q": "Where did ISRO carry out the PSLV third stage static test?",
+        "options": [
+          "Vikram Sarabhai Space Centre, Thiruvananthapuram",
+          "Satish Dhawan Space Centre, Sriharikota",
+          "U R Rao Satellite Centre, Bengaluru",
+          "ISRO Propulsion Complex, Mahendragiri"
+        ],
+        "answer": 1,
+        "explain": "The test was held at the Static Test Facility in Satish Dhawan Space Centre, Sriharikota."
+      },
+      "tags": [
+        "ISRO",
+        "PSLV",
+        "space"
+      ]
+    },
+    {
+      "id": "news-2026-11-13-04",
+      "type": "news",
+      "category": "environment",
+      "headline": "Delhi AQI reaches 403, 'severe' category",
+      "body": "Delhi's overall 24-hour average Air Quality Index stood at 403 (severe) at 9 a.m. on Friday, November 13, 2026, per Central Pollution Control Board data, up from 350 (very poor) the previous afternoon. Ballabgarh in Haryana was also severe, while Noida, Gurugram and Faridabad were very poor. The Centre's early warning system expected severe air through Friday night. Winter conditions, stubble burning and firecrackers worsen pollution.",
+      "why_it_matters": "Severe AQI affects healthy people and seriously harms those with existing diseases, so residents need precautions and longer-term air quality action.",
+      "key_fact": "Delhi AQI 403 on November 13, 2026 (severe)",
+      "source_url": "https://www.thehindu.com/news/cities/Delhi/delhi-reel-under-severe-level-air-pollution/article71696499.ece",
+      "date": "2026-11-13",
+      "quiz": {
+        "q": "What AQI level does the CPCB classify as 'severe', as seen in Delhi?",
+        "options": [
+          "Above 100",
+          "Above 200",
+          "Above 300",
+          "Above 400"
+        ],
+        "answer": 3,
+        "explain": "The article reports Delhi's AQI of 403 as 'severe' category, which is above 400."
+      },
+      "tags": [
+        "Delhi",
+        "air pollution",
+        "AQI",
+        "CPCB"
+      ]
+    },
+    {
+      "id": "news-2026-11-13-05",
+      "type": "news",
+      "category": "science",
+      "headline": "India's TB deaths fall 38% since 2015, beats global rate",
+      "body": "The Union health ministry said India cut TB mortality by 38% since 2015, against a global decline of 35%, as reported in the WHO Global Tuberculosis Report 2026. The estimated death rate fell from 280 per million in 2015 to 180 per million in 2025. Treatment success among drug-susceptible patients stood at 94%, and 96% of programme funding now comes from domestic resources.",
+      "why_it_matters": "Tuberculosis remains one of India's biggest infectious-disease burdens, so faster falls in deaths mean fewer families losing members to a preventable, curable illness.",
+      "key_fact": "38% fall in TB mortality since 2015",
+      "source_url": "https://www.livemint.com/news/india/tb-deaths-fall-patients-treatment-drug-health-testing-vulnerable-populations-11794499787524.html",
+      "date": "2026-11-13",
+      "quiz": {
+        "q": "By how much has India reduced tuberculosis mortality since 2015, according to the WHO report?",
+        "options": [
+          "18%",
+          "28%",
+          "38%",
+          "48%"
+        ],
+        "answer": 2,
+        "explain": "The health ministry said India recorded a 38% reduction in TB mortality since 2015, ahead of the 35% global decline."
+      },
+      "tags": [
+        "tuberculosis",
+        "health",
+        "WHO",
+        "TB Mukt Bharat"
+      ]
+    },
+    {
+      "id": "news-2026-11-13-06",
+      "type": "news",
+      "category": "economy",
+      "headline": "IMF: India must create quality jobs to hit 6.8% growth",
+      "body": "The IMF said India needs higher productivity growth, stronger private investment and faster creation of high-quality jobs to reach its medium-term potential growth of 6.8%. In its October World Economic Outlook, the IMF raised that estimate from 6.5%, citing favourable demographics, a large domestic market and reform momentum. It also lifted growth forecasts for fiscal 2027 and 2028 to 7%, calling India a key growth engine.",
+      "why_it_matters": "The IMF's growth estimate signals how fast India's economy can expand, and job quality is central to whether that growth translates into better incomes.",
+      "key_fact": "IMF medium-term potential growth put at 6.8%",
+      "source_url": "https://www.thehindu.com/news/national/india-needs-to-create-high-quality-jobs-increase-productivity-growth-imf/article71696425.ece",
+      "date": "2026-11-13",
+      "quiz": {
+        "q": "What medium-term potential growth rate has the IMF set for India?",
+        "options": [
+          "5.8%",
+          "6.2%",
+          "6.8%",
+          "7.5%"
+        ],
+        "answer": 2,
+        "explain": "The IMF upgraded India's medium-term potential growth to 6.8% from 6.5% in its October World Economic Outlook."
+      },
+      "tags": [
+        "IMF",
+        "economy",
+        "jobs",
+        "growth"
+      ]
+    },
+    {
+      "id": "news-2026-11-13-07",
+      "type": "news",
+      "category": "polity",
+      "headline": "ITBP sanctions roads, bridges on China border in Arunachal",
+      "body": "The ITBP has sanctioned new border infrastructure in Arunachal Pradesh, where face-offs with the Chinese Army along the Line of Actual Control have continued since late July. Earlier, in February, the Cabinet Committee on Security cleared the third phase of the Indo-China Border Roads project, covering 26 roads along the LAC. Since September, the force has also authorised 15 pedestrian suspension bridges and 18 log bridges.",
+      "why_it_matters": "Roads and bridges near the LAC allow faster troop and supply movement, making border infrastructure a key part of India's defence preparedness.",
+      "key_fact": "ICBR-III: 26 roads along the LAC in Arunachal",
+      "source_url": "https://www.thehindu.com/news/national/centre-sanctions-new-roads-infrastructure-along-chinas-border/article71694100.ece",
+      "date": "2026-11-13",
+      "quiz": {
+        "q": "How many roads are to be built under the third phase of the Indo-China Border Roads project in Arunachal Pradesh?",
+        "options": [
+          "18",
+          "26",
+          "32",
+          "27"
+        ],
+        "answer": 1,
+        "explain": "An official said 26 roads are to be constructed along the LAC in Arunachal Pradesh under ICBR-III."
+      },
+      "tags": [
+        "Arunachal Pradesh",
+        "border infrastructure",
+        "ITBP",
+        "China"
+      ]
+    },
+    {
+      "id": "news-2026-11-13-08",
+      "type": "news",
+      "category": "environment",
+      "headline": "Delhi tops global pollution chart as air turns hazardous",
+      "body": "On Friday, November 13, 2026, Delhi overtook Lahore to become the world's most polluted city, with smog cutting visibility across the capital of 20 million people. Swiss group IQAir rated the city's air quality index at 334, while the Central Pollution Control Board put it at 403, or 'severe'. The readings differ because the two use different scales. Winter air traps vehicle emissions, construction dust and farm-burning smoke.",
+      "why_it_matters": "Hazardous winter air affects the health of millions of Delhi residents, especially children and the elderly, and disrupts daily life.",
+      "key_fact": "Delhi AQI 403, rated 'severe' by CPCB",
+      "source_url": "https://www.thehindu.com/news/national/delhi-overtakes-lahore-as-worlds-most-polluted-city-as-air-quality-drops/article71696606.ece",
+      "date": "2026-11-13",
+      "quiz": {
+        "q": "What air quality index did India's Central Pollution Control Board record for Delhi?",
+        "options": [
+          "334",
+          "250",
+          "403",
+          "500"
+        ],
+        "answer": 2,
+        "explain": "The CPCB pegged Delhi's AQI at 403 and rated it 'severe', while IQAir put it at 334 on its different scale."
+      },
+      "tags": [
+        "Delhi",
+        "air pollution",
+        "AQI",
+        "smog"
+      ]
+    },
+    {
+      "id": "news-2026-11-13-09",
+      "type": "news",
+      "category": "states",
+      "headline": "Navi Mumbai named India's cleanest city in Swachh Survekshan",
+      "body": "Navi Mumbai was adjudged the cleanest city in India at a central government awards programme, with Surat second and Vijayawada third. President Droupadi Murmu presented the awards. Indore, cleanest city for the past eight years, did not figure among the toppers. Over 4,751 cities took part in Swachh Survekshan, the Swachh Bharat Mission-Urban's flagship cleanliness assessment, which added more weight to citizen feedback this edition.",
+      "why_it_matters": "Swachh Survekshan rankings push cities to improve sanitation and waste management, which directly affects public health and daily life for urban residents.",
+      "key_fact": "Navi Mumbai is India's cleanest city in Swachh Survekshan 2025-26",
+      "source_url": "https://www.thehindu.com/sci-tech/energy-and-environment/navi-mumbai-emerges-as-cleanest-city-surat-vijayawada-runners-up-in-cleanliness-survey/article71689854.ece",
+      "date": "2026-11-13",
+      "quiz": {
+        "q": "Which city was adjudged the cleanest in India at the latest Swachh Survekshan awards?",
+        "options": [
+          "Indore",
+          "Surat",
+          "Navi Mumbai",
+          "Vijayawada"
+        ],
+        "answer": 2,
+        "explain": "Navi Mumbai topped the list, while Surat was second and Vijayawada third; Indore, the winner for eight years, did not figure among the toppers."
+      },
+      "tags": [
+        "Swachh Survekshan",
+        "cleanliness",
+        "urban India"
+      ]
+    },
+    {
+      "id": "news-2026-11-13-10",
+      "type": "news",
+      "category": "geography",
+      "headline": "Low-pressure area over Bay of Bengal likely to become depression by November 15",
+      "body": "The IMD said a low-pressure area formed over the southeast Bay of Bengal at 5:30 a.m. on November 13, 2026, under the influence of an upper-air cyclonic circulation over the central Andaman Sea. It is expected to move northwestwards, become a well-marked low-pressure area around November 14 and intensify into a depression by November 15. Squally winds of 50-60 kmph are forecast over the Andaman Sea and Bay of Bengal.",
+      "why_it_matters": "Such systems can bring heavy rain and rough seas to southern peninsular India, affecting fishermen, coastal residents and travel plans.",
+      "key_fact": "Low-pressure area over southeast Bay of Bengal, depression likely by November 15",
+      "source_url": "https://www.thehindu.com/news/national/low-pressure-area-forms-over-southeast-bay-of-bengal-likely-to-intensify-into-depression-by-november-15/article71696703.ece",
+      "date": "2026-11-13",
+      "quiz": {
+        "q": "By when is the low-pressure area over the Bay of Bengal likely to intensify into a depression, according to the IMD?",
+        "options": [
+          "November 13",
+          "November 14",
+          "November 15",
+          "November 17"
+        ],
+        "answer": 2,
+        "explain": "The IMD said the system is likely to become a well-marked low-pressure area around November 14 and a depression by November 15."
+      },
+      "tags": [
+        "IMD",
+        "weather",
+        "Bay of Bengal"
+      ]
+    },
+    {
+      "id": "news-2026-11-13-11",
+      "type": "news",
+      "category": "polity",
+      "headline": "Ladakh announces three-tier polls; civil society groups remain unconvinced",
+      "body": "The Lieutenant Governor-led administration of Ladakh has announced back-to-back elections in the Union Territory. Panchayat and municipal elections are slated for November 21, while hill council elections will be held on December 4. Ladakh is a Union Territory without a legislature, so these polls are key to providing platforms to public representatives. The short window set by the State Election Commission is likely to make campaigning and alliances hard for political parties.",
+      "why_it_matters": "Ladakh's lack of a legislature makes these local polls the main channel for elected representation, so their timing and conduct matter to residents' political voice.",
+      "key_fact": "Ladakh is a Union Territory without a legislature",
+      "source_url": "https://www.thehindu.com/news/national/ladakh/why-ladakh-polls-announcement-fails-to-cut-ice-with-protesting-civil-society-groups-explained/article71688368.ece",
+      "date": "2026-11-13",
+      "quiz": {
+        "q": "What is distinctive about Ladakh's status that makes its local elections significant?",
+        "options": [
+          "It is a State with a bicameral legislature",
+          "It is a Union Territory without a legislature",
+          "It is a Union Territory with a full legislature",
+          "It is a Special Administrative Region"
+        ],
+        "answer": 1,
+        "explain": "Ladakh is a Union Territory without a legislature, so panchayat, municipal and hill council polls are the key platforms for public representatives."
+      },
+      "tags": [
+        "Ladakh",
+        "elections",
+        "Union Territory"
+      ]
+    },
+    {
+      "id": "news-2026-11-13-12",
+      "type": "news",
+      "category": "polity",
+      "headline": "MHA extends ban on Zakir Naik's Islamic Research Foundation by five years",
+      "body": "The Ministry of Home Affairs on November 13, 2026, declared Zakir Naik's Islamic Research Foundation an unlawful association under the Unlawful Activities (Prevention) Act for another five years. This is the third extension; the outfit was first banned in 2016. The government cited concerns over communal disharmony, anti-national sentiments and activities prejudicial to national security. Naik, who is abroad, is being probed by the NIA.",
+      "why_it_matters": "The UAPA allows the Centre to ban associations it deems a threat to national security, a power that shapes free-speech and civil-liberties debates in India.",
+      "key_fact": "IRF first banned in 2016 under UAPA; ban extended a third time",
+      "source_url": "https://www.thehindu.com/news/national/mha-declares-zakir-naiks-islamic-research-foundation-unlawful-for-another-five-years/article71696626.ece",
+      "date": "2026-11-13",
+      "quiz": {
+        "q": "Under which law did the MHA declare the Islamic Research Foundation an unlawful association?",
+        "options": [
+          "UAPA, 1967",
+          "Prevention of Money Laundering Act",
+          "Unlawful Associations Act, 2004",
+          "National Security Act"
+        ],
+        "answer": 0,
+        "explain": "The notification invoked Sub-sections (1) and (3) of Section 3 of the Unlawful Activities (Prevention) Act, 1967."
+      },
+      "tags": [
+        "UAPA",
+        "MHA",
+        "national security"
+      ]
+    },
+    {
+      "id": "news-2026-11-13-13",
+      "type": "news",
+      "category": "international",
+      "headline": "India-Bangladesh consular dialogue postponed amid rising tensions",
+      "body": "The fifth India-Bangladesh consular dialogue, scheduled for November 17 and 18, has been postponed. A diplomatic source linked the delay to growing bilateral tensions after deposed Prime Minister Sheikh Hasina announced she will return to Bangladesh next month and sought a new passport and national identity card. The planned talks, the first in over two years, would have covered border management, visas and repatriation of detained citizens.",
+      "why_it_matters": "Consular talks handle visas and repatriation, so their suspension affects travellers, divided families and people detained in either country.",
+      "key_fact": "Fifth India-Bangladesh consular dialogue postponed",
+      "source_url": "https://www.thehindu.com/news/national/amidst-simmering-tensions-india-bangladesh-consular-dialogue-postponed/article71694931.ece",
+      "date": "2026-11-13",
+      "quiz": {
+        "q": "Which meeting between India and Bangladesh was postponed?",
+        "options": [
+          "Joint border trade talks",
+          "The fifth consular dialogue",
+          "A summit on river water sharing",
+          "A defence cooperation dialogue"
+        ],
+        "answer": 1,
+        "explain": "The fifth India-Bangladesh consular dialogue, due on November 17-18, was postponed amid tensions linked to Sheikh Hasina's return plans."
+      },
+      "tags": [
+        "India-Bangladesh",
+        "diplomacy",
+        "consular dialogue"
+      ]
+    },
+    {
+      "id": "news-2026-11-13-14",
+      "type": "news",
+      "category": "polity",
+      "headline": "Calcutta HC Questions TMC MP's Remarks on Judiciary",
+      "body": "The Calcutta High Court took exception to TMC MP Abhishek Banerjee's remarks in a televised interview that allegedly cast aspersions on a section of the judiciary. The West Bengal government argued the comments amounted to criminal contempt. Justice Krishna Rao said an elected representative and educated person could not be treated as an ordinary layperson, but clarified the remarks would not affect his security-cover plea.",
+      "why_it_matters": "It shows courts can examine whether a sitting MP's public comments on judges amount to contempt, a check on how elected representatives speak about constitutional institutions.",
+      "key_fact": "Abhishek Banerjee is a TMC MP and National General Secretary",
+      "source_url": "https://www.thehindu.com/news/national/west-bengal/let-him-give-list-of-judges-with-the-bjp-and-who-arent-calcutta-high-court-takes-exception-to-abhishek-banerjees-remarks-on-judiciary/article71696705.ece",
+      "date": "2026-11-13",
+      "quiz": {
+        "q": "Which party does Abhishek Banerjee belong to?",
+        "options": [
+          "BJP",
+          "TMC",
+          "Congress",
+          "CPI(M)"
+        ],
+        "answer": 1,
+        "explain": "The article identifies Abhishek Banerjee as TMC National General Secretary and MP."
+      },
+      "tags": [
+        "Calcutta High Court",
+        "contempt",
+        "TMC",
+        "judiciary"
+      ]
+    },
+    {
+      "id": "news-2026-11-13-15",
+      "type": "news",
+      "category": "polity",
+      "headline": "Madras HC Allows Trial in Plea Against Udhayanidhi's Win",
+      "body": "The Madras High Court refused to reject an election petition filed by independent candidate P. Milany challenging Udhayanidhi Stalin's victory from Chepauk-Thiruvallikeni in the 2026 Assembly polls. Justice G. Arul Murugan directed the applicant to file a reply by December 11, 2026. Udhayanidhi had argued the petition was filed a day beyond the 45-day limit under Section 81 of the Representation of the People Act, 1951.",
+      "why_it_matters": "It illustrates how election petitions are governed by a strict 45-day limitation period under the Representation of the People Act, 1951, a key rule for challenging poll results.",
+      "key_fact": "Election petitions must be filed within 45 days under Section 81",
+      "source_url": "https://www.thehindu.com/news/national/tamil-nadu/madras-high-court-refuses-to-reject-election-plea-against-udhayanidhis-win-from-chepauk-thiruvallikeni/article71696602.ece",
+      "date": "2026-11-13",
+      "quiz": {
+        "q": "Under which law must an election petition be filed within 45 days?",
+        "options": [
+          "General Clauses Act, 1897",
+          "Contempt of Courts Act",
+          "Representation of the People Act, 1951",
+          "Election Commission Rules, 1961"
+        ],
+        "answer": 2,
+        "explain": "The article cites Section 81 of the Representation of the People Act, 1951, which prescribes the 45-day period."
+      },
+      "tags": [
+        "Madras High Court",
+        "election petition",
+        "Udhayanidhi Stalin",
+        "RP Act"
+      ]
+    },
+    {
+      "id": "news-2026-11-13-16",
+      "type": "news",
+      "category": "economy",
+      "headline": "Andhra Pradesh Plans Investment Protection Act, Says Naidu",
+      "body": "At the 31st CII Partnership Summit 2026 in Visakhapatnam, Chief Minister N. Chandrababu Naidu said Andhra Pradesh is working on an Investment Protection Act to ease doing business. He said 303 MoUs worth ₹9.89 lakh crore would be signed at the summit, taking total investment proposals since June 2024 to ₹32.49 lakh crore. He also announced a 120-qubit quantum computer in Amaravati for February 3, 2027.",
+      "why_it_matters": "An investment protection law is intended to give companies legal safeguards on their investments, which can affect jobs and industrial growth in the state.",
+      "key_fact": "303 MoUs worth ₹9.89 lakh crore proposed at CII Summit",
+      "source_url": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-to-bring-in-investment-protection-act-to-ease-doing-business-says-naidu/article71693742.ece",
+      "date": "2026-11-13",
+      "quiz": {
+        "q": "How much investment do the 303 MoUs signed at the summit propose?",
+        "options": [
+          "₹9.89 lakh crore",
+          "₹32.49 lakh crore",
+          "₹4.20 lakh crore",
+          "₹50,000 crore"
+        ],
+        "answer": 0,
+        "explain": "Naidu said 303 MoUs involving proposed investments of ₹9.89 lakh crore would be signed at the summit."
+      },
+      "tags": [
+        "Andhra Pradesh",
+        "investment",
+        "CII Summit",
+        "Chandrababu Naidu"
+      ]
+    },
+    {
+      "id": "news-2026-11-13-17",
+      "type": "news",
+      "category": "science",
+      "headline": "Agentic AI Can Now Run Complex Lab Experiments",
+      "body": "Unlike generative AI, which only responds on screen, agentic AI can carry out independent physical actions. In a biology lab it can command a pipette to transfer fluids, heat a tube with a thermal cycler, read fluorescence in a reaction, complete a series of experiments, document the results and even interpret them. The article contrasts this with early AI models that made basic errors.",
+      "why_it_matters": "If AI can run and interpret physical experiments, it could speed up scientific research and lower costs, changing how laboratories and researchers work.",
+      "key_fact": "Agentic AI can perform physical lab experiments independently",
+      "source_url": "https://www.thehindu.com/education/now-agentic-ai-can-perform-complex-lab-research-and-maybe-cheaper-too/article71692756.ece",
+      "date": "2026-11-13",
+      "quiz": {
+        "q": "What distinguishes agentic AI from generative AI, according to the article?",
+        "options": [
+          "It is cheaper to build",
+          "It only answers questions on screen",
+          "It can do independent physical activities",
+          "It cannot interpret results"
+        ],
+        "answer": 2,
+        "explain": "The article says agentic AI, unlike generative AI, can carry out independent physical activities in a lab."
+      },
+      "tags": [
+        "agentic AI",
+        "research",
+        "technology",
+        "laboratory"
+      ]
+    },
+    {
+      "id": "news-2026-11-13-18",
+      "type": "news",
+      "category": "science",
+      "headline": "New Shark Species, Indian Bramble Shark, Identified in Indian Ocean",
+      "body": "Scientists from the Zoological Survey of India and ICAR-CMFRI identified a distinct deep-sea shark, named Echinorhinus roinee or the Indian Bramble Shark, long mistaken for its Atlantic counterpart. Specimens were collected at Sakthikulangara Fishing Harbour in Kollam, Kerala. The sharks live at depths of 350-450 metres, grow up to three metres, and DNA tests confirmed genetic differences from Atlantic and Pacific species.",
+      "why_it_matters": "The finding shows how much deep-sea marine biodiversity in the Indian Ocean remains undocumented, which matters for fisheries records, conservation and ecological study.",
+      "key_fact": "New species named Echinorhinus roinee, the Indian Bramble Shark",
+      "source_url": "https://www.thehindu.com/sci-tech/science/new-shark-species-identified-in-indian-ocean-after-decades-of-misclassification/article71694050.ece",
+      "date": "2026-11-13",
+      "quiz": {
+        "q": "What is the scientific name of the newly identified Indian shark species?",
+        "options": [
+          "Echinorhinus brucus",
+          "Echinorhinus cookei",
+          "Echinorhinus roinee",
+          "Echinorhinus indicus"
+        ],
+        "answer": 2,
+        "explain": "The new species was named Echinorhinus roinee, or the Indian Bramble Shark, distinct from the Atlantic brucus and Pacific cookei."
+      },
+      "tags": [
+        "shark",
+        "marine biodiversity",
+        "ZSI",
+        "Indian Ocean"
+      ]
+    }
+  ]
+}
