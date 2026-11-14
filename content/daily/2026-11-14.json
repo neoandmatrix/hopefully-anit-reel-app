@@ -1,0 +1,533 @@
+{
+  "date": "2026-11-14",
+  "cards": [
+    {
+      "id": "news-2026-11-14-01",
+      "type": "news",
+      "category": "polity",
+      "headline": "Janjatiya Gaurav Pakhwada to end on Birsa Munda Jayanti",
+      "body": "The Ministry of Tribal Affairs is observing Janjatiya Gaurav Pakhwada from November 1 to 15, 2026, ending with Janjatiya Gaurav Diwas on the birth anniversary of Birsa Munda. The government declared November 15 as Janjatiya Gaurav Diwas in 2021. Over 300 projects for tribal communities will be launched, and two digital platforms, including one for the Forest Rights Act, will start.",
+      "why_it_matters": "It marks the government's annual push to honour tribal heritage and deliver welfare schemes to remote tribal families.",
+      "key_fact": "Janjatiya Gaurav Diwas declared in 2021, on November 15",
+      "source_url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336102",
+      "date": "2026-11-14",
+      "quiz": {
+        "q": "Which date is observed as Janjatiya Gaurav Diwas?",
+        "options": [
+          "November 15",
+          "November 1",
+          "October 2",
+          "August 15"
+        ],
+        "answer": 0,
+        "explain": "The government declared November 15, Birsa Munda's birth anniversary, as Janjatiya Gaurav Diwas in 2021."
+      },
+      "tags": [
+        "tribal affairs",
+        "Birsa Munda",
+        "welfare schemes"
+      ]
+    },
+    {
+      "id": "news-2026-11-14-02",
+      "type": "news",
+      "category": "science",
+      "headline": "PM Modi inaugurates India's first LED dome planetarium in Mysuru",
+      "body": "Prime Minister Narendra Modi inaugurated 'Cosmos-Mysuru Planetarium', India's first LED dome planetarium, in Mysuru, Karnataka. He noted that spirituality and science have long moved together in India, citing ancient astronomers like Aryabhatta and Bhaskaracharya. He also mentioned five Indian students at the astronomy olympiad in Vietnam, where four won gold and one silver.",
+      "why_it_matters": "It is India's first LED dome planetarium, adding a modern science-education landmark in Mysuru.",
+      "key_fact": "Cosmos-Mysuru is India's first LED dome planetarium",
+      "source_url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336042",
+      "date": "2026-11-14",
+      "quiz": {
+        "q": "Where was India's first LED dome planetarium inaugurated?",
+        "options": [
+          "Mysuru",
+          "Mumbai",
+          "Bengaluru",
+          "New Delhi"
+        ],
+        "answer": 0,
+        "explain": "The 'Cosmos-Mysuru Planetarium' was inaugurated in Mysuru, Karnataka."
+      },
+      "tags": [
+        "science",
+        "planetarium",
+        "Karnataka"
+      ]
+    },
+    {
+      "id": "news-2026-11-14-03",
+      "type": "news",
+      "category": "economy",
+      "headline": "India's April-October exports estimated at $568.84 billion",
+      "body": "India's total exports of goods and services for April-October 2026-27 are estimated at $568.84 billion, up 16.66% from $487.59 billion a year earlier. Imports in the same period are estimated at $662.19 billion. For October 2026 alone, total exports are estimated at $89.99 billion, up 29.90% year-on-year, based on provisional data.",
+      "why_it_matters": "Export growth is a key driver of jobs and foreign exchange earnings, so these figures show the direction of India's trade performance.",
+      "key_fact": "April-October 2026-27 exports estimated at $568.84 billion",
+      "source_url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335992",
+      "date": "2026-11-14",
+      "quiz": {
+        "q": "What is the estimated total export value for April-October 2026-27?",
+        "options": [
+          "$568.84 billion",
+          "$487.59 billion",
+          "$89.99 billion",
+          "$662.19 billion"
+        ],
+        "answer": 0,
+        "explain": "The article estimates total exports of goods and services at $568.84 billion for April-October 2026-27."
+      },
+      "tags": [
+        "exports",
+        "trade",
+        "economy"
+      ]
+    },
+    {
+      "id": "news-2026-11-14-04",
+      "type": "news",
+      "category": "economy",
+      "headline": "Merchandise exports hit record $49.5 billion in October",
+      "body": "India's merchandise exports rose to an all-time monthly high of $49.47 billion in October 2026, up 45.03%, the highest monthly growth in five years. Total exports including services stood at $89.99 billion, up nearly 30%. The overall trade deficit narrowed to $20.1 billion from $25.1 billion last October. Commerce Secretary Rajesh Agrawal said growth was broad-based across regions.",
+      "why_it_matters": "A record export month and a narrower trade deficit point to stronger external demand and a smaller drain on the rupee.",
+      "key_fact": "Merchandise exports reached a record $49.47 billion in October 2026",
+      "source_url": "https://www.thehindu.com/business/Economy/india-exports-october-26-trade-deficit-numbers/article71697532.ece",
+      "date": "2026-11-14",
+      "quiz": {
+        "q": "What was India's merchandise export value in October 2026?",
+        "options": [
+          "$49.47 billion",
+          "$89.99 billion",
+          "$34.11 billion",
+          "$110.07 billion"
+        ],
+        "answer": 0,
+        "explain": "Merchandise exports hit an all-time high of $49.47 billion in October 2026."
+      },
+      "tags": [
+        "exports",
+        "trade deficit",
+        "commerce"
+      ]
+    },
+    {
+      "id": "news-2026-11-14-05",
+      "type": "news",
+      "category": "economy",
+      "headline": "RBI proposes tighter limits on overseas remittances under LRS",
+      "body": "The RBI has reportedly proposed to the Finance Ministry tightening limits under the Liberalised Remittance Scheme (LRS), likely to curb dollar outflows. Introduced in 2004 under FEMA, the LRS lets residents remit up to $250,000 (over ₹2 crore) a year for travel, education, medical treatment and overseas investments. It covers both current and capital account transactions.",
+      "why_it_matters": "The LRS limit decides how much money ordinary Indians can send abroad each year for studies, travel or investments.",
+      "key_fact": "LRS allows residents to remit up to $250,000 a year",
+      "source_url": "https://www.thehindu.com/business/Economy/why-rbi-wants-to-cap-select-overseas-remittances-at-50-lakh-to-save-rupees-explained/article71693547.ece",
+      "date": "2026-11-14",
+      "quiz": {
+        "q": "What is the current annual remittance limit per person under the LRS?",
+        "options": [
+          "$250,000",
+          "$50 lakh",
+          "$10,000",
+          "$1 million"
+        ],
+        "answer": 0,
+        "explain": "Under the current LRS structure, residents can remit up to $250,000 in a financial year."
+      },
+      "tags": [
+        "RBI",
+        "LRS",
+        "FEMA",
+        "forex"
+      ]
+    },
+    {
+      "id": "news-2026-11-14-06",
+      "type": "news",
+      "category": "economy",
+      "headline": "India's October trade deficit widens to one-year high of $39.88 billion",
+      "body": "India's merchandise trade deficit widened to a one-year high of $39.88 billion in October, as imports climbed to $89.35 billion against record goods exports of $49.47 billion. Petroleum imports jumped 54.3% year-on-year to $22.82 billion, and gold imports nearly tripled from September to $5.51 billion. A services trade surplus of helped narrow the overall deficit to $20.09 billion.",
+      "why_it_matters": "A wider goods deficit raises demand for dollars to pay for imports, which can pressure the rupee and, in turn, make imports and overseas travel costlier for ordinary Indians.",
+      "key_fact": "October merchandise trade deficit: $39.88 billion, a one-year high",
+      "source_url": "https://www.livemint.com/news/trade-deficit-hits-one-year-high-in-october-despite-record-exports-11794578747412.html",
+      "date": "2026-11-14",
+      "quiz": {
+        "q": "What was India's merchandise trade deficit in October, as per the article?",
+        "options": [
+          "$20.09 billion",
+          "$39.88 billion",
+          "$45 billion",
+          "$128 billion"
+        ],
+        "answer": 1,
+        "explain": "The article states the merchandise trade deficit widened to a one-year high of $39.88 billion in October, while the overall deficit including services was $20.09 billion."
+      },
+      "tags": [
+        "trade deficit",
+        "exports",
+        "rupee",
+        "economy"
+      ]
+    },
+    {
+      "id": "news-2026-11-14-07",
+      "type": "news",
+      "category": "polity",
+      "headline": "ITBP sanctions new border roads, bridges in Arunachal Pradesh along LAC",
+      "body": "Amid continuing face-offs with the Chinese Army along the Line of Actual Control in Arunachal Pradesh, the ITBP has sanctioned new border infrastructure, including 15 pedestrian suspension bridges and 18 log bridges in Upper Subansiri and Kurung Kumey districts. In February, the Cabinet Committee on Security cleared the third phase of the Indo-China Border Roads project, covering 26 roads in the State.",
+      "why_it_matters": "Border roads and bridges improve troop mobility and connectivity in remote frontier districts, which matters for India's defence preparedness along the China border.",
+      "key_fact": "ICBR-III: 26 roads cleared along the LAC in Arunachal Pradesh",
+      "source_url": "https://www.thehindu.com/news/national/centre-sanctions-new-roads-infrastructure-along-chinas-border/article71694100.ece",
+      "date": "2026-11-14",
+      "quiz": {
+        "q": "How many roads are to be constructed under the third phase of the Indo-China Border Roads project in Arunachal Pradesh?",
+        "options": [
+          "18",
+          "26",
+          "27",
+          "32"
+        ],
+        "answer": 1,
+        "explain": "Under ICBR-III, 26 roads are to be built along the LAC in Arunachal Pradesh, per a government official quoted in the article."
+      },
+      "tags": [
+        "Arunachal Pradesh",
+        "LAC",
+        "ITBP",
+        "border infrastructure"
+      ]
+    },
+    {
+      "id": "news-2026-11-14-08",
+      "type": "news",
+      "category": "international",
+      "headline": "Piyush Goyal begins two-day Egypt visit to boost trade and investment",
+      "body": "Commerce and Industry Minister Piyush Goyal starts a two-day Egypt visit on November 15, 2026, focusing on bilateral trade and investment and cooperation in the Suez Canal Economic Zone, manufacturing, infrastructure, ports and logistics. A business delegation of over 140 CEOs is accompanying him for the India-Egypt Joint Business Council and Joint Trade Committee meetings, with the seventh JTC session co-chaired by Goyal and Egypt's Mohamed Farid Saleh.",
+      "why_it_matters": "Egypt's location gives Indian businesses a gateway to African, Middle Eastern and European markets, so closer ties can expand export and investment opportunities.",
+      "key_fact": "Seventh India-Egypt Joint Trade Committee session",
+      "source_url": "https://www.thehindu.com/news/national/piyush-goyal-in-egypt-both-sides-to-discuss-increasing-cooperation-in-infra-manufacturing-logistics/article71701055.ece",
+      "date": "2026-11-14",
+      "quiz": {
+        "q": "Which session of the India-Egypt Joint Trade Committee is being co-chaired by Piyush Goyal?",
+        "options": [
+          "Fifth",
+          "Sixth",
+          "Seventh",
+          "Eighth"
+        ],
+        "answer": 2,
+        "explain": "The article says the seventh session of the JTC will be co-chaired by Goyal and Egypt's Minister of Investment and Foreign Trade Mohamed Farid Saleh."
+      },
+      "tags": [
+        "Egypt",
+        "Piyush Goyal",
+        "trade",
+        "Suez Canal"
+      ]
+    },
+    {
+      "id": "news-2026-11-14-09",
+      "type": "news",
+      "category": "international",
+      "headline": "India-US trade deal in final stretch, says Jaishankar",
+      "body": "External affairs minister S Jaishankar said India and the US are in the last stretch of finalising their trade deal, with most issues sorted and recent changes coming more from the American side. Speaking at the Hindustan Times Leadership Summit 2026, he said India wants a mutually beneficial deal giving it a comparative advantage, and defended production-linked incentive schemes as tools to build manufacturing and new-age technology capabilities.",
+      "why_it_matters": "The terms of an India-US trade deal can affect tariffs on Indian exports, and therefore jobs and prices in sectors that sell to the American market.",
+      "key_fact": "Production-linked incentive (PLI) schemes",
+      "source_url": "https://www.livemint.com/news/india/indiaus-trade-talks-in-final-stretch-more-changes-at-american-end-jaishankar-11794636799927.html",
+      "date": "2026-11-14",
+      "quiz": {
+        "q": "Which scheme did Jaishankar cite as aimed at turning India into a manufacturing hub?",
+        "options": [
+          "Make in India",
+          "Production-linked incentive (PLI) schemes",
+          "Atmanirbhar Bharat",
+          "Act East Policy"
+        ],
+        "answer": 1,
+        "explain": "He said the PLI schemes are designed to kick-start sectors and turn the country into a manufacturing hub."
+      },
+      "tags": [
+        "India-US",
+        "trade deal",
+        "Jaishankar",
+        "PLI"
+      ]
+    },
+    {
+      "id": "news-2026-11-14-10",
+      "type": "news",
+      "category": "international",
+      "headline": "Modi heads to Manila for ASEAN summit amid widening trade deficit",
+      "body": "Prime Minister Narendra Modi will visit the Philippines from November 16 to 18 for the 23rd ASEAN-India Summit and 21st East Asia Summit. India's trade with ASEAN crossed $128 billion in 2025-26, but imports exceeded exports by over $45 billion. India hopes the review of the ASEAN-India Trade in Goods Agreement will address the imbalance and improve market access.",
+      "why_it_matters": "A large and growing trade gap with Southeast Asia reflects India's dependence on imported components, which affects domestic manufacturing competitiveness and jobs.",
+      "key_fact": "India-ASEAN trade crossed $128 billion in 2025-26",
+      "source_url": "https://www.livemint.com/news/world/can-india-bridge-trade-gap-with-southeast-asia-as-pm-modi-heads-to-manila-for-asean-amid-china-s-growing-clout-11794578664909.html",
+      "date": "2026-11-14",
+      "quiz": {
+        "q": "What was India's bilateral trade with ASEAN in 2025-26, as per the article?",
+        "options": [
+          "Over $45 billion",
+          "Over $89 billion",
+          "Over $128 billion",
+          "Over $259 billion"
+        ],
+        "answer": 2,
+        "explain": "The article says India's bilateral trade with ASEAN crossed $128 billion in 2025-26, with imports exceeding exports by more than $45 billion."
+      },
+      "tags": [
+        "ASEAN",
+        "Modi",
+        "trade deficit",
+        "Act East Policy"
+      ]
+    },
+    {
+      "id": "news-2026-11-14-11",
+      "type": "news",
+      "category": "international",
+      "headline": "India-Bangladesh consular dialogue on Nov 17-18 postponed",
+      "body": "The fifth India-Bangladesh consular dialogue, scheduled for November 17-18 in Dhaka, was postponed. A diplomatic source said the delay was due to rising bilateral tensions after former Prime Minister Sheikh Hasina, in India since August 5, 2024, announced she would return to Bangladesh in December. The talks, at Director General level, were to cover border management, visas and repatriation. The last round was in May 2024.",
+      "why_it_matters": "Consular talks directly affect visas, repatriation and legal help for citizens, so their postponement can delay travel and family reunions between India and Bangladesh.",
+      "key_fact": "India-Bangladesh consular dialogue began in 2017",
+      "source_url": "https://www.thehindu.com/news/national/amidst-simmering-tensions-india-bangladesh-consular-dialogue-postponed/article71694931.ece",
+      "date": "2026-11-14",
+      "quiz": {
+        "q": "In which year did India and Bangladesh start their consular dialogue?",
+        "options": [
+          "2014",
+          "2017",
+          "2019",
+          "2021"
+        ],
+        "answer": 1,
+        "explain": "The article states that the two sides started the consular dialogue in 2017 to strengthen people-to-people contacts."
+      },
+      "tags": [
+        "India-Bangladesh",
+        "consular dialogue",
+        "Sheikh Hasina",
+        "visas"
+      ]
+    },
+    {
+      "id": "news-2026-11-14-12",
+      "type": "news",
+      "category": "international",
+      "headline": "Trump, Xi, Putin to hold first trilateral meeting in Shenzhen",
+      "body": "The White House said Donald Trump, Vladimir Putin and Xi Jinping will hold the first-ever three-way meeting at an APEC summit in Shenzhen next week. Trump will discuss reducing nuclear arsenals and Iran, but not Russia's war in Ukraine, US officials said. He will also hold a bilateral meeting with Xi. Elon Musk will accompany Trump but not join the trilateral talks.",
+      "why_it_matters": "A first-ever meeting of the US, Russian and Chinese leaders could shape global security and nuclear policy, which affects international stability and India's strategic environment.",
+      "key_fact": "First trilateral US-Russia-China leaders' meeting at APEC in Shenzhen",
+      "source_url": "https://www.livemint.com/news/us-news/in-a-first-trump-to-hold-historic-trilateral-meeting-with-xi-putin-in-china-next-week-all-you-need-to-know-11794620781785.html",
+      "date": "2026-11-14",
+      "quiz": {
+        "q": "Where will the first trilateral meeting of Trump, Putin and Xi take place?",
+        "options": [
+          "Beijing",
+          "Shenzhen",
+          "Moscow",
+          "Washington"
+        ],
+        "answer": 1,
+        "explain": "The White House said the three leaders will meet on the sidelines of the APEC summit in the southern Chinese city of Shenzhen."
+      },
+      "tags": [
+        "Trump",
+        "Xi Jinping",
+        "Putin",
+        "APEC"
+      ]
+    },
+    {
+      "id": "news-2026-11-14-13",
+      "type": "news",
+      "category": "environment",
+      "headline": "COP31 climate finance pleas meet sluggish response from rich nations",
+      "body": "At COP31 in Antalya, Turkiye, small island nations appealed for faster climate finance, but Western governments focused on security and living costs. Rich countries had agreed in 2023 to triple climate funding to $300 billion a year by 2035, with total public and private flows reaching $1.3 trillion annually. Solomon Islands PM Matthew Wale said small states remain in 'perpetual climate disaster recovery mode'.",
+      "why_it_matters": "Climate finance shortfalls hit the most vulnerable countries hardest and slow global adaptation, which ultimately affects all economies through migration, trade and disaster costs.",
+      "key_fact": "Rich countries agreed to triple climate funding to $300 billion a year by 2035",
+      "source_url": "https://www.thehindu.com/sci-tech/energy-and-environment/urgent-climate-finance-pleas-at-cop31-face-a-non-urgent-response/article71699520.ece",
+      "date": "2026-11-14",
+      "quiz": {
+        "q": "What annual climate finance target did rich countries agree to by 2035?",
+        "options": [
+          "$100 billion",
+          "$300 billion",
+          "$500 billion",
+          "$1.3 billion"
+        ],
+        "answer": 1,
+        "explain": "The article states rich countries agreed to triple climate funding for poorer countries to $300 billion per year by 2035."
+      },
+      "tags": [
+        "COP31",
+        "climate finance",
+        "small island states",
+        "UN climate talks"
+      ]
+    },
+    {
+      "id": "news-2026-11-14-14",
+      "type": "news",
+      "category": "environment",
+      "headline": "Himalayan floods should push faster, fairer climate action: UNFCCC chief",
+      "body": "UNFCCC Executive Secretary Simon Stiell said Himalayan glacial collapse and flash floods this year are a devastating reminder of the fragility of the Hindu Kush Himalayas. Speaking at COP31 in Antalya, Turkiye, he urged a just, orderly and equitable transition away from fossil fuels and full delivery on tripling adaptation finance agreed at COP30 in Brazil. Nepal and Bhutan's mountain agenda proposals lacked backing.",
+      "why_it_matters": "Himalayan glaciers feed major Indian rivers, so their rapid melting threatens water supply, agriculture and disaster risk for millions across South Asia.",
+      "key_fact": "COP30 in Brazil agreed to triple adaptation finance",
+      "source_url": "https://www.thehindu.com/news/international/cop31-himalayan-flash-floods-should-push-all-to-act-faster-and-fairer-on-climate-change-un-climate-chief/article71696870.ece",
+      "date": "2026-11-14",
+      "quiz": {
+        "q": "Which COP agreed to triple adaptation finance, according to the UNFCCC chief?",
+        "options": [
+          "COP28 in UAE",
+          "COP29 in Azerbaijan",
+          "COP30 in Brazil",
+          "COP31 in Turkiye"
+        ],
+        "answer": 2,
+        "explain": "Simon Stiell referred to delivering in full on the tripling of adaptation finance agreed at COP30 in Brazil last year."
+      },
+      "tags": [
+        "Himalayas",
+        "COP31",
+        "adaptation finance",
+        "UNFCCC"
+      ]
+    },
+    {
+      "id": "news-2026-11-14-15",
+      "type": "news",
+      "category": "environment",
+      "headline": "Siang Upper Multipurpose Project in Arunachal triggers protests",
+      "body": "The proposed Siang Upper Multipurpose Project (SUMP) in Arunachal Pradesh, a dam on the Siang river to be built by NHPC, has led to protests by the Adi community. Activists have been arrested or detained since October, and protesting groups rejected the Arunachal government's offer of talks on November 5.",
+      "why_it_matters": "Large hydroelectric projects in the Northeast often raise concerns about displacement and ecological impact, making them important for understanding India's energy vs environment debates.",
+      "key_fact": "Siang Upper Multipurpose Project is a proposed NHPC dam on the Siang river.",
+      "source_url": "https://www.thehindu.com/news/national/arunachal-pradesh/why-the-siang-upper-multipurpose-project-has-been-contentious-explained/article71692608.ece",
+      "date": "2026-11-14",
+      "quiz": {
+        "q": "Which organisation is set to build the Siang Upper Multipurpose Project?",
+        "options": [
+          "NHPC",
+          "NTPC",
+          "SJVN",
+          "THDC"
+        ],
+        "answer": 0,
+        "explain": "The article states the dam is to be built by the National Hydroelectric Power Corporation (NHPC)."
+      },
+      "tags": [
+        "Arunachal Pradesh",
+        "hydropower",
+        "protests",
+        "Siang river"
+      ]
+    },
+    {
+      "id": "news-2026-11-14-16",
+      "type": "news",
+      "category": "polity",
+      "headline": "President Murmu honours cleanest cities at Swachh Survekshan 2025-26 awards",
+      "body": "President Droupadi Murmu presented awards to India's cleanest cities at the 10th edition of Swachh Survekshan, held on November 11, 2026, in New Delhi. The survey assessed 4,751 urban local bodies using 176 sub-indicators across 10 categories, with over 3,000 trained assessors. The theme was 'Swachhata Ki Nayi Pahal - Badhayein Haath, Karein Safai Saath'. Sixty national awards were given across seven categories.",
+      "why_it_matters": "Swachh Survekshan is the world's largest urban cleanliness survey, driving competition among cities to improve sanitation and waste management, which directly affects public health.",
+      "key_fact": "Swachh Survekshan 2025-26 assessed 4,751 urban local bodies.",
+      "source_url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336097",
+      "date": "2026-11-14",
+      "quiz": {
+        "q": "How many urban local bodies were evaluated in Swachh Survekshan 2025-26?",
+        "options": [
+          "4,751",
+          "3,000",
+          "176",
+          "60"
+        ],
+        "answer": 0,
+        "explain": "The article states that 4,751 urban local bodies were evaluated."
+      },
+      "tags": [
+        "Swachh Survekshan",
+        "cleanliness",
+        "urban development",
+        "awards"
+      ]
+    },
+    {
+      "id": "news-2026-11-14-17",
+      "type": "news",
+      "category": "states",
+      "headline": "Navi Mumbai declared India's cleanest city in Swachh Survekshan",
+      "body": "Navi Mumbai has been adjudged India's cleanest city at the central government's Swachh Survekshan awards, with Surat second and Vijayawada third. Indore, cleanest for eight years, did not figure among the toppers. President Droupadi Murmu presented the awards. Over 4,751 cities participated in the 2025-26 edition, which added focus on citizen feedback and cleanliness of tourist and heritage spots.",
+      "why_it_matters": "The annual cleanliness ranking encourages cities to improve sanitation infrastructure and public behaviour, impacting daily life and health of urban residents.",
+      "key_fact": "Navi Mumbai was ranked India's cleanest city in Swachh Survekshan 2025-26.",
+      "source_url": "https://www.thehindu.com/sci-tech/energy-and-environment/navi-mumbai-emerges-as-cleanest-city-surat-vijayawada-runners-up-in-cleanliness-survey/article71689854.ece",
+      "date": "2026-11-14",
+      "quiz": {
+        "q": "Which city was ranked the cleanest in India in the latest Swachh Survekshan?",
+        "options": [
+          "Navi Mumbai",
+          "Indore",
+          "Surat",
+          "Vijayawada"
+        ],
+        "answer": 0,
+        "explain": "The article reports that Navi Mumbai was adjudged the cleanest city."
+      },
+      "tags": [
+        "Swachh Survekshan",
+        "Navi Mumbai",
+        "cleanliness",
+        "awards"
+      ]
+    },
+    {
+      "id": "news-2026-11-14-18",
+      "type": "news",
+      "category": "states",
+      "headline": "Himachal Cabinet approves ₹1,500 monthly aid for women",
+      "body": "The Himachal Pradesh Cabinet, chaired by Chief Minister Sukhvinder Singh Sukhu, approved the 'Mukhya Mantri Apna Parivar Sukhi Parivar Yojna' on November 13, 2026. Eligible women aged 18-59 will receive ₹1,500 per month, and beneficiary families will get 300 units of free electricity. About 3.5 lakh women have been identified. The Cabinet also approved a uniform policy for surplus water sales and a sports-based drug prevention campaign.",
+      "why_it_matters": "Direct cash transfers to women can improve household financial security and reflect a growing trend of state welfare schemes targeting women voters.",
+      "key_fact": "Himachal's scheme gives ₹1,500 per month to eligible women aged 18-59.",
+      "source_url": "https://www.thehindu.com/news/national/himachal-pradesh/himachal-approves-1500-monthly-financial-assistance-for-women/article71698523.ece",
+      "date": "2026-11-14",
+      "quiz": {
+        "q": "Under the Mukhya Mantri Apna Parivar Sukhi Parivar Yojna, what monthly amount will eligible women receive?",
+        "options": [
+          "₹1,500",
+          "₹1,050",
+          "₹2,000",
+          "₹1,000"
+        ],
+        "answer": 0,
+        "explain": "The article states that eligible women aged 18-59 will receive ₹1,500 per month."
+      },
+      "tags": [
+        "Himachal Pradesh",
+        "women welfare",
+        "cash transfer",
+        "state scheme"
+      ]
+    },
+    {
+      "id": "news-2026-11-14-19",
+      "type": "news",
+      "category": "states",
+      "headline": "Explained: Who benefits from Himachal's ₹1,500 allowance scheme",
+      "body": "The Himachal Pradesh government approved the 'Mukhya Mantri Apna Parivar Sukhi Parivar Yojna' on November 13, under which women aged 18-59 will get ₹1,500 monthly, and eligible families will also receive 300 units of free electricity. About 3.5 lakh women have been identified as beneficiaries. The government had earlier raised assistance for women above 59 from ₹1,050 to ₹1,500.",
+      "why_it_matters": "The scheme fulfils a Congress pre-poll promise and could influence women voters, while also raising questions about fiscal impact on the state.",
+      "key_fact": "3.5 lakh women identified as beneficiaries under the scheme.",
+      "source_url": "https://www.thehindu.com/news/national/himachals-1500-allowance-scheme-who-benefits-and-whats-the-political-impact-explained/article71700979.ece",
+      "date": "2026-11-14",
+      "quiz": {
+        "q": "How many women have been identified as beneficiaries under Himachal's new scheme?",
+        "options": [
+          "3.5 lakh",
+          "1.5 lakh",
+          "5 lakh",
+          "2.5 lakh"
+        ],
+        "answer": 0,
+        "explain": "The article mentions that 3.50 lakh eligible women have been identified as beneficiaries."
+      },
+      "tags": [
+        "Himachal Pradesh",
+        "women welfare",
+        "scheme",
+        "explainer"
+      ]
+    }
+  ]
+}
