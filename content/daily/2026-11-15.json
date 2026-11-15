@@ -1,0 +1,559 @@
+{
+  "date": "2026-11-15",
+  "cards": [
+    {
+      "id": "news-2026-11-15-01",
+      "type": "news",
+      "category": "international",
+      "headline": "Jaishankar says China border 'more alive', India boosting infrastructure",
+      "body": "External Affairs Minister S. Jaishankar said India's border with China has become 'more alive', requiring greater troop commitment. Speaking at the HT Leadership Summit, he noted frequent news of new tunnels, bridges and airfields along the frontier. India has strengthened military capabilities along the Line of Actual Control since the 2020 Galwan Valley clashes. Ties are normalising after the Modi-Xi meeting in Kazan in October 2024.",
+      "why_it_matters": "Border infrastructure and troop deployment directly affect India's security posture and the ongoing normalisation of ties with China.",
+      "key_fact": "Galwan Valley clashes in 2020",
+      "source_url": "https://www.thehindu.com/news/national/china-border-has-become-more-alive-india-enhancing-frontier-infrastructure-jaishankar/article71703982.ece",
+      "date": "2026-11-15",
+      "quiz": {
+        "q": "Which 2020 event led India to bolster military capabilities along the LAC?",
+        "options": [
+          "Galwan Valley clashes",
+          "Doklam standoff",
+          "Kargil conflict",
+          "Nathu La skirmish"
+        ],
+        "answer": 0,
+        "explain": "The deadly clashes in Eastern Ladakh's Galwan Valley in 2020 prompted India to enhance its border infrastructure and troop deployment."
+      },
+      "tags": [
+        "India-China",
+        "border",
+        "infrastructure",
+        "Jaishankar"
+      ]
+    },
+    {
+      "id": "news-2026-11-15-02",
+      "type": "news",
+      "category": "international",
+      "headline": "India votes against UNGA resolution on death penalty moratorium",
+      "body": "India voted against a UN General Assembly draft resolution calling for a global moratorium on the death penalty. The resolution, introduced by Mexico, was adopted with 133 votes in favour, 33 against and 16 abstentions. India was joined by countries including China, Pakistan, Japan and the U.S. in opposing it. The resolution expressed concern over a surge in reported executions in 2025 and urged states to restrict capital punishment.",
+      "why_it_matters": "The vote reflects India's stand that the death penalty is a matter of its sovereign legal system and domestic law.",
+      "key_fact": "UNGA resolution on death penalty moratorium",
+      "source_url": "https://www.thehindu.com/news/international/india-votes-against-unga-resolution-calling-for-global-moratorium-on-death-penalty/article71704094.ece",
+      "date": "2026-11-15",
+      "quiz": {
+        "q": "What did the UNGA resolution that India voted against call for?",
+        "options": [
+          "A global moratorium on the death penalty",
+          "A ban on life imprisonment",
+          "A global ban on capital punishment for terrorism",
+          "A moratorium on military executions"
+        ],
+        "answer": 0,
+        "explain": "The resolution introduced by Mexico called upon all states to establish a moratorium on executions with a view to abolishing the death penalty."
+      },
+      "tags": [
+        "UNGA",
+        "death penalty",
+        "India vote",
+        "human rights"
+      ]
+    },
+    {
+      "id": "news-2026-11-15-03",
+      "type": "news",
+      "category": "international",
+      "headline": "India, Egypt aim to expand trade and investment ties: Piyush Goyal",
+      "body": "Commerce and Industry Minister Piyush Goyal said India is looking to expand trade and investment opportunities in Egypt, widen market access and encourage Egyptian imports and capital inflows. Speaking in Cairo, he noted bilateral trade stands at about $6.5 billion. India's exports to Egypt in 2025-26 were $3.87 billion and imports $2.60 billion. Goyal is leading a 132-member business delegation on a two-day visit.",
+      "why_it_matters": "Stronger trade ties with Egypt can open new markets for Indian goods and support India's broader push for free trade agreements.",
+      "key_fact": "India-Egypt bilateral trade about $6.5 billion",
+      "source_url": "https://www.thehindu.com/news/national/piyush-goyal-in-egypt-talks-to-strengthen-india-egypt-ties/article71704146.ece",
+      "date": "2026-11-15",
+      "quiz": {
+        "q": "What is the approximate bilateral trade between India and Egypt, according to Piyush Goyal?",
+        "options": [
+          "$6.5 billion",
+          "$3.87 billion",
+          "$2.60 billion",
+          "$1.5 million"
+        ],
+        "answer": 0,
+        "explain": "Goyal stated that bilateral trade between the two countries stood at about $6.5 billion."
+      },
+      "tags": [
+        "India-Egypt",
+        "trade",
+        "Piyush Goyal",
+        "investment"
+      ]
+    },
+    {
+      "id": "news-2026-11-15-04",
+      "type": "news",
+      "category": "international",
+      "headline": "Blinken says U.S. must respect India's right to defend itself",
+      "body": "Former U.S. Secretary of State Antony Blinken said the U.S. must respect India's right to defend itself and maintain zero tolerance towards terrorism. He described Washington's ties with New Delhi and Islamabad as 'fundamentally different', calling the India relationship global and the Pakistan one regional. Speaking in New Delhi, he noted the transformation of India-U.S. ties from estrangement to a strategic partnership.",
+      "why_it_matters": "U.S. support for India's right to self-defence is significant for India's security and its diplomatic position on cross-border terrorism.",
+      "key_fact": "Blinken: zero-tolerance policy for terrorism",
+      "source_url": "https://www.thehindu.com/news/international/us-must-respect-indias-right-to-defend-itself-maintain-zero-tolerance-towards-terrorism-blinken/article71703984.ece",
+      "date": "2026-11-15",
+      "quiz": {
+        "q": "What policy did Blinken say the U.S. must maintain towards terrorism?",
+        "options": [
+          "Zero tolerance",
+          "Conditional engagement",
+          "Regional dialogue",
+          "Strategic ambiguity"
+        ],
+        "answer": 0,
+        "explain": "Blinken said there must be a zero-tolerance policy for terrorism, which includes respect for India's right to defend itself."
+      },
+      "tags": [
+        "India-US",
+        "Blinken",
+        "terrorism",
+        "defence"
+      ]
+    },
+    {
+      "id": "news-2026-11-15-05",
+      "type": "news",
+      "category": "international",
+      "headline": "India backs UNGA resolution on Palestinian sovereignty over natural resources",
+      "body": "India voted in favour of a UN General Assembly resolution reaffirming the permanent sovereignty of the Palestinian people and the population of the occupied Syrian Golan over their natural resources. The resolution was adopted with 151 votes in favour, 7 against and 11 abstentions. It demands that Israel cease exploitation and damage of these resources and comply with international law.",
+      "why_it_matters": "The vote reflects India's long-standing support for Palestinian rights and international law at the United Nations.",
+      "key_fact": "UNGA resolution on Palestinian sovereignty over natural resources",
+      "source_url": "https://www.thehindu.com/news/national/india-supports-unga-resolution-on-permanent-sovereignty-of-palestinian-people/article71701074.ece",
+      "date": "2026-11-15",
+      "quiz": {
+        "q": "What did the UNGA resolution that India supported affirm?",
+        "options": [
+          "Permanent sovereignty of Palestinians over natural resources",
+          "Right to self-determination of Palestinians",
+          "Creation of a Palestinian state",
+          "Immediate lifting of sanctions on Israel"
+        ],
+        "answer": 0,
+        "explain": "The resolution reaffirmed the inalienable rights of the Palestinian people over their natural resources, including land, water and energy."
+      },
+      "tags": [
+        "UNGA",
+        "Palestine",
+        "India vote",
+        "natural resources"
+      ]
+    },
+    {
+      "id": "news-2026-11-15-06",
+      "type": "news",
+      "category": "international",
+      "headline": "Quad Summit set for Manila on November 17",
+      "body": "Prime Minister Narendra Modi will meet US President Donald Trump, Japanese Prime Minister Sanae Takaichi and Australian Prime Minister Anthony Albanese at a Quad Summit in Manila on November 17, sources in New Delhi said. It will be the first Quad Summit since 2024 and the first held in a non-Quad country. Agenda is expected to include critical mineral supply chains and the safety of commercial shipping lanes.",
+      "why_it_matters": "The Quad is a four-country grouping of India, the US, Japan and Australia that coordinates on Indo-Pacific security and economic issues.",
+      "key_fact": "Quad Summit in Manila on November 17",
+      "source_url": "https://www.thehindu.com/news/international/quad-summit-likely-to-be-held-in-manila-on-november-17-sources-say/article71702178.ece",
+      "date": "2026-11-15",
+      "quiz": {
+        "q": "Where is the upcoming Quad Summit expected to be held?",
+        "options": [
+          "New Delhi",
+          "Manila",
+          "Tokyo",
+          "Washington"
+        ],
+        "answer": 1,
+        "explain": "Sources told The Hindu the summit is expected in Manila on November 17, the first in a non-Quad country."
+      },
+      "tags": [
+        "Quad",
+        "diplomacy",
+        "Indo-Pacific"
+      ]
+    },
+    {
+      "id": "news-2026-11-15-07",
+      "type": "news",
+      "category": "environment",
+      "headline": "Bay of Bengal depression to become severe cyclonic storm by Nov 17",
+      "body": "The India Meteorological Department said a depression over the southeast and adjoining southwest Bay of Bengal is likely to intensify into a cyclonic storm on November 16 and a severe cyclonic storm by November 17. Rain is expected in north coastal Tamil Nadu, Puducherry and the Karaikal area. No rainfall alert has yet been issued for Andhra Pradesh.",
+      "why_it_matters": "Cyclone forecasts from the IMD help coastal states prepare for heavy rain, wind damage and evacuations.",
+      "key_fact": "IMD forecast: severe cyclonic storm by November 17",
+      "source_url": "https://www.thehindu.com/news/national/depression-to-turn-severe-cyclonic-storm-over-bay-of-bengal-by-november-17/article71704137.ece",
+      "date": "2026-11-15",
+      "quiz": {
+        "q": "Which agency issued the forecast that the depression will become a severe cyclonic storm?",
+        "options": [
+          "India Meteorological Department",
+          "National Disaster Management Authority",
+          "Central Water Commission",
+          "ISRO"
+        ],
+        "answer": 0,
+        "explain": "The India Meteorological Department issued the weather bulletin on the Bay of Bengal system."
+      },
+      "tags": [
+        "cyclone",
+        "weather",
+        "Tamil Nadu"
+      ]
+    },
+    {
+      "id": "news-2026-11-15-08",
+      "type": "news",
+      "category": "environment",
+      "headline": "COP31 nations divided as 1.5°C warming target slips",
+      "body": "At the COP31 climate summit in Antalya, Turkiye, nations are unsure how to treat the 1.5°C goal after the UN said in September that crossing it was imminent and unavoidable. The world has already warmed about 1.4°C above pre-industrial times. Some countries want the final deal to affirm 1.5°C as the right goal; others are seen as wanting to drop it.",
+      "why_it_matters": "The 1.5°C threshold is the most ambitious target of the Paris Agreement, and how countries treat it shapes global emissions policy.",
+      "key_fact": "1.5°C is the Paris Agreement's most ambitious target",
+      "source_url": "https://www.thehindu.com/sci-tech/energy-and-environment/nations-grapple-with-loss-of-15c-target-at-un-climate-summit/article71704051.ece",
+      "date": "2026-11-15",
+      "quiz": {
+        "q": "The 1.5°C goal that COP31 is debating belongs to which agreement?",
+        "options": [
+          "Kyoto Protocol",
+          "Montreal Protocol",
+          "Paris Agreement",
+          "Basel Convention"
+        ],
+        "answer": 2,
+        "explain": "The article describes 1.5°C as the most ambitious target threshold of the Paris accord."
+      },
+      "tags": [
+        "climate",
+        "COP31",
+        "Paris Agreement"
+      ]
+    },
+    {
+      "id": "news-2026-11-15-09",
+      "type": "news",
+      "category": "environment",
+      "headline": "Delhi AQI hits 511, graded hazardous",
+      "body": "Delhi's Air Quality Index reached 511 on Sunday morning, November 15, at 7:11 AM, according to AQI.in, placing it in the hazardous category. The city recorded PM2.5 of 331 micrograms per cubic metre and PM10 of 349. AQI.in estimated the exposure as equivalent to smoking 12.5 cigarettes a day, or 375 a month.",
+      "why_it_matters": "Hazardous air quality raises the risk of asthma, heart problems and COPD, especially for children and the elderly.",
+      "key_fact": "Delhi AQI 511, PM2.5 at 331 µg/m³",
+      "source_url": "https://www.livemint.com/news/india/delhi-aqi-at-511-breathing-capitals-toxic-air-equals-smoking-375-cigarettes-a-month-chances-of-asthma-heart-issues-11794710065305.html",
+      "date": "2026-11-15",
+      "quiz": {
+        "q": "What was Delhi's PM2.5 concentration when the AQI was 511?",
+        "options": [
+          "331 micrograms per cubic metre",
+          "349 micrograms per cubic metre",
+          "22 micrograms per cubic metre",
+          "1,657 micrograms per cubic metre"
+        ],
+        "answer": 0,
+        "explain": "The article states PM2.5 was 331 micrograms per cubic metre while PM10 was 349."
+      },
+      "tags": [
+        "Delhi",
+        "air pollution",
+        "AQI"
+      ]
+    },
+    {
+      "id": "news-2026-11-15-10",
+      "type": "news",
+      "category": "environment",
+      "headline": "Over 91% of India air pollution studies show health harm",
+      "body": "An analysis of more than 180 epidemiological studies on air pollution in India, published between 1975 and 2025, found that over 91% reported at least one adverse health association with exposure. The report, by the Centre for Research on Energy and Clean Air (CREA), noted impacts beyond respiratory disease, including cardiovascular disease, diabetes and pregnancy complications. Only 40 studies looked at rural populations.",
+      "why_it_matters": "The findings support calls to widen the National Clean Air Programme beyond cities to rural and regional airsheds.",
+      "key_fact": "Over 91% of 180+ studies found adverse health links",
+      "source_url": "https://www.thehindu.com/sci-tech/health/91-of-studies-in-india-in-last-5-decades-linked-air-pollution-to-health-effects-analysis/article71704215.ece",
+      "date": "2026-11-15",
+      "quiz": {
+        "q": "Which organisation carried out the analysis of air pollution health studies?",
+        "options": [
+          "Centre for Science and Environment",
+          "CREA",
+          "CPCB",
+          "WHO"
+        ],
+        "answer": 1,
+        "explain": "The analysis was done by the Centre for Research on Energy and Clean Air (CREA), an independent research organisation."
+      },
+      "tags": [
+        "air pollution",
+        "health",
+        "research"
+      ]
+    },
+    {
+      "id": "news-2026-11-15-11",
+      "type": "news",
+      "category": "economy",
+      "headline": "US warns H-1B is not a business model as crackdown widens",
+      "body": "US Labour Department Inspector General Anthony D'Esposito said employment-based visas are temporary stopgaps, not a business strategy, and warned of more suspensions and investigations into immigration fraud. In October, the Trump administration suspended Microsoft, Adobe and Indian IT firms TCS, Infosys, Wipro, HCL and others from the PERM green-card sponsorship programme. A $100,000 payment is required for certain new H-1B petitions, with restrictions extended through September 2027.",
+      "why_it_matters": "Indian IT companies rely heavily on US work visas to send engineers to client sites, so tighter rules directly affect their business and Indian professionals' plans to work or settle in the US.",
+      "key_fact": "PERM is the employer step to sponsor foreign workers for US green cards.",
+      "source_url": "https://www.livemint.com/news/us-news/h1b-is-not-a-business-model-infosys-tcs-wipro-face-fresh-scrutiny-as-us-visa-crackdown-widens-11794714759722.html",
+      "date": "2026-11-15",
+      "quiz": {
+        "q": "Which programme were TCS, Infosys, Wipro and other outsourcing firms suspended from in October?",
+        "options": [
+          "H-1B lottery registration",
+          "PERM labour certification for green cards",
+          "Optional Practical Training for students",
+          "US citizenship naturalisation"
+        ],
+        "answer": 1,
+        "explain": "The article says the firms were suspended from the Permanent Labour Certification (PERM) programme, which is used to sponsor foreign workers for employment-based green cards."
+      },
+      "tags": [
+        "H-1B",
+        "US visas",
+        "Indian IT",
+        "PERM"
+      ]
+    },
+    {
+      "id": "news-2026-11-15-12",
+      "type": "news",
+      "category": "economy",
+      "headline": "US assures India of tariff edge over rivals in trade talks",
+      "body": "A senior government official told ANI that the US has assured India of a comparative tariff advantage over competitors under the proposed bilateral trade agreement. The actual benefit depends on the final tariff framework and ongoing trade investigations. India aims to conclude the first tranche of the pact by the end of the current financial year. Negotiations have been on since February 2026, with services kept for the second phase.",
+      "why_it_matters": "Lower US import duties than competitors like Vietnam, Bangladesh and China could help Indian exporters win more American orders and protect jobs in export-heavy sectors.",
+      "key_fact": "Vietnam faces a reported 12.5% general duty on US exports under Section 301.",
+      "source_url": "https://www.livemint.com/news/world/us-promises-india-tariff-advantage-over-rivals-what-it-means-for-exporters-can-they-outpace-vietnam-and-china-11794668789670.html",
+      "date": "2026-11-15",
+      "quiz": {
+        "q": "According to the article, what duty does Vietnam currently face on its exports to the US under Section 301?",
+        "options": [
+          "10%",
+          "12.5%",
+          "25%",
+          "5%"
+        ],
+        "answer": 1,
+        "explain": "The article reports that Vietnam faces a 12.5% general duty under Section 301, while Bangladesh faces 10%."
+      },
+      "tags": [
+        "India-US trade",
+        "tariffs",
+        "exports",
+        "BTA"
+      ]
+    },
+    {
+      "id": "news-2026-11-15-13",
+      "type": "news",
+      "category": "economy",
+      "headline": "South India food inflation tops 10% as onion prices jump 116%",
+      "body": "MoSPI's CPI data released on 12 November showed food inflation above 10% in all five southern states in October. Andhra Pradesh recorded 13.23%, Tamil Nadu 12.37%, Karnataka 12.16%, Telangana 11.66% and Kerala 10.92%, against a national average of 8.94%. Onion prices rose 116.22%, and Crisil reported onion prices up 89% year-on-year to ₹53 per kg in September amid lower production and tight rabi stocks.",
+      "why_it_matters": "Food and beverages carry a 36.75% weight in the CPI basket, so sharp grocery price rises hit household budgets directly and also feed into overall retail inflation.",
+      "key_fact": "Food and beverages have a 36.75% weight in the CPI basket.",
+      "source_url": "https://www.livemint.com/economy/why-your-monthly-grocery-bill-is-rising-onion-prices-jump-116-garlic-61-as-south-india-feels-inflation-heat-11794655058440.html",
+      "date": "2026-11-15",
+      "quiz": {
+        "q": "What is the weight of food and beverages in India's consumer price index basket?",
+        "options": [
+          "24.5%",
+          "36.75%",
+          "45%",
+          "12.5%"
+        ],
+        "answer": 1,
+        "explain": "The article states that food and beverages have a weight of 36.75% in the CPI basket, which is why grocery prices strongly influence headline inflation."
+      },
+      "tags": [
+        "food inflation",
+        "CPI",
+        "onion prices",
+        "South India"
+      ]
+    },
+    {
+      "id": "news-2026-11-15-14",
+      "type": "news",
+      "category": "polity",
+      "headline": "Lakhpati Didi scheme has empowered 3.76 crore rural women",
+      "body": "The Lakhpati Didi initiative runs under DAY-NRLM and uses self-help group networks to give rural women financial access, skills and market opportunities. By June 2026, 3.76 crore women had been empowered as Lakhpati Didis, with a target of six crore by March 2029. A Lakhpati Didi is an SHG member whose household earns at least ₹1 lakh a year. An IIM Ahmedabad evaluation found household income rose 61%.",
+      "why_it_matters": "The scheme aims to move rural women from subsistence work to diversified, higher and steadier household incomes, making it a key test of government women's livelihood policy.",
+      "key_fact": "Target: six crore Lakhpati Didis by March 2029 under DAY-NRLM.",
+      "source_url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336454",
+      "date": "2026-11-15",
+      "quiz": {
+        "q": "What annual household income defines a Lakhpati Didi?",
+        "options": [
+          "At least ₹50,000",
+          "At least ₹1 lakh",
+          "At least ₹2 lakh",
+          "At least ₹5 lakh"
+        ],
+        "answer": 1,
+        "explain": "A Lakhpati Didi is an SHG member whose family's annual income is at least ₹1 lakh, counted as total household income rather than individual income."
+      },
+      "tags": [
+        "Lakhpati Didi",
+        "DAY-NRLM",
+        "rural women",
+        "SHG"
+      ]
+    },
+    {
+      "id": "news-2026-11-15-15",
+      "type": "news",
+      "category": "polity",
+      "headline": "ECI tells Supreme Court it will restore wrongly deleted voters",
+      "body": "The Election Commission filed a supplementary affidavit in the Supreme Court on 14 November 2026 on measures to bring back voters wrongly marked absent, shifted, dead or duplicate in draft rolls. Directions issued on 6 November let such voters submit the Enumeration Form (Annexure A) to the ERO or AERO, in person, through family or online with e-sign on ECINET. Booth-wise lists of left-out electors will be displayed afresh.",
+      "why_it_matters": "Being absent from the electoral roll can bar an eligible citizen from voting, so the ECI's corrective steps protect the right to vote during the ongoing Special Intensive Revision.",
+      "key_fact": "ECI allows restoration under Rule 21(1) of the Registration of Electors Rules, 1960.",
+      "source_url": "https://www.thehindu.com/news/national/alive-to-voters-need-to-find-their-names-on-the-electoral-roll-eci-assures-supreme-court/article71702627.ece",
+      "date": "2026-11-15",
+      "quiz": {
+        "q": "Under which rules will electoral registration officers process forms for voters omitted from the roll?",
+        "options": [
+          "Representation of the People Act, 1951",
+          "Registration of Electors Rules, 1960",
+          "Conduct of Elections Rules, 1961",
+          "Delimitation Act, 2002"
+        ],
+        "answer": 1,
+        "explain": "The affidavit says the forms will be processed under Rule 21(1) of the Registration of Electors Rules, 1960, for names inadvertently omitted."
+      },
+      "tags": [
+        "Election Commission",
+        "electoral roll",
+        "SIR",
+        "Supreme Court"
+      ]
+    },
+    {
+      "id": "news-2026-11-15-16",
+      "type": "news",
+      "category": "economy",
+      "headline": "Dhinakaran blames TN government for 7.29% retail inflation",
+      "body": "AMMK general secretary T.T.V. Dhinakaran said on Saturday that Tamil Nadu ranks first in India in price rise, with retail inflation in the State at 7.29%. He blamed the TVK-led government for not monitoring prices or acting in time, and demanded constructive steps to control the cost of essential commodities instead of social media propaganda.",
+      "why_it_matters": "Retail inflation directly affects household budgets, so state-level price rise figures are a key measure of how well a government is managing the cost of living.",
+      "key_fact": "Tamil Nadu retail inflation: 7.29%",
+      "source_url": "https://www.thehindu.com/news/national/tamil-nadu/take-necessary-steps-to-control-inflation-dhinakaran-tells-tn-govt/article71701530.ece",
+      "date": "2026-11-15",
+      "quiz": {
+        "q": "What retail inflation rate in Tamil Nadu did T.T.V. Dhinakaran cite?",
+        "options": [
+          "5.29%",
+          "6.72%",
+          "7.29%",
+          "9.27%"
+        ],
+        "answer": 2,
+        "explain": "The article states retail inflation in Tamil Nadu has risen to 7.29 per cent."
+      },
+      "tags": [
+        "Tamil Nadu",
+        "inflation",
+        "politics",
+        "AMMK"
+      ]
+    },
+    {
+      "id": "news-2026-11-15-17",
+      "type": "news",
+      "category": "states",
+      "headline": "Final phase of Rajasthan panchayat polls records 72% turnout",
+      "body": "Villagers in 25 districts of Rajasthan voted on Saturday in the fourth and final phase of Panchayati Raj elections for 2,524 Zila Parishad and Panchayat Samiti seats, with about 72% turnout at 11,905 polling stations. Counting across all four phases is on November 20. EVM glitches caused delays, and some villages boycotted polling over local grievances.",
+      "why_it_matters": "Panchayati Raj elections decide who runs local rural governance, which handles day-to-day civic services and development spending in villages.",
+      "key_fact": "Rajasthan panchayat poll counting on November 20",
+      "source_url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-panchayat-local-elections-2026-final-phase-voting/article71700929.ece",
+      "date": "2026-11-15",
+      "quiz": {
+        "q": "When is counting of votes for all four phases of the Rajasthan Panchayati Raj elections?",
+        "options": [
+          "November 3",
+          "November 14",
+          "November 20",
+          "October 28"
+        ],
+        "answer": 2,
+        "explain": "The article says counting for Zila Parishad and Panchayat Samiti elections will be held on November 20."
+      },
+      "tags": [
+        "Rajasthan",
+        "panchayat elections",
+        "local governance"
+      ]
+    },
+    {
+      "id": "news-2026-11-15-18",
+      "type": "news",
+      "category": "states",
+      "headline": "Karnataka mandates gynaecologist check-ups and sex education in schools",
+      "body": "The Karnataka government issued a joint circular requiring gynaecologist check-ups for all schoolgirls, sex education, mandatory CCTV installation, complaint boxes and counsellors in schools and PU colleges. It also mandates Child Protection Committees meeting every three months. The measures follow June 2025 concerns over rising child marriage and teenage pregnancy cases, with legal and disciplinary action for negligence.",
+      "why_it_matters": "The circular ties school-level monitoring to enforcement of the POCSO Act and child marriage law, affecting how institutions protect children across Karnataka.",
+      "key_fact": "POCSO Act, 2012",
+      "source_url": "https://www.thehindu.com/news/national/karnataka/karnataka-mandates-gynaecological-check-ups-for-girls-sex-education-in-schools/article71698139.ece",
+      "date": "2026-11-15",
+      "quiz": {
+        "q": "Which law does the Karnataka circular invoke for child sexual abuse cases?",
+        "options": [
+          "Juvenile Justice Act, 2015",
+          "POCSO Act, 2012",
+          "Mental Healthcare Act, 2017",
+          "Right to Education Act, 2009"
+        ],
+        "answer": 1,
+        "explain": "The circular refers to the Protection of Children from Sexual Offences (POCSO) Act, 2012."
+      },
+      "tags": [
+        "Karnataka",
+        "education",
+        "child protection",
+        "POCSO"
+      ]
+    },
+    {
+      "id": "news-2026-11-15-19",
+      "type": "news",
+      "category": "polity",
+      "headline": "Karnataka HC tells police, security forces to review mental health policies",
+      "body": "The Karnataka High Court advised security and police organisations to prioritise personnel mental health, while quashing proceedings against a CISF Sub-Inspector booked for attempting suicide with her service pistol in 2022. Justice Suraj Govindaraj held that Section 115 of the Mental Healthcare Act, 2017 creates a mandatory presumption of severe stress, and directed accessible, confidential counselling for personnel at all levels.",
+      "why_it_matters": "The ruling strengthens the legal presumption of severe stress in suicide attempts and pushes uniformed forces to treat mental health as an institutional duty.",
+      "key_fact": "Section 115 of Mental Healthcare Act, 2017",
+      "source_url": "https://www.thehindu.com/news/national/karnataka/karnataka-high-court-asks-security-police-organisations-to-review-mental-health-policies-for-armed-personnel/article71702395.ece",
+      "date": "2026-11-15",
+      "quiz": {
+        "q": "Which provision did the Karnataka High Court rely on for a mandatory presumption of severe stress?",
+        "options": [
+          "Section 309 of the IPC",
+          "Section 115 of the Mental Healthcare Act, 2017",
+          "Section 302 of the IPC",
+          "Section 12 of the POCSO Act"
+        ],
+        "answer": 1,
+        "explain": "The court ruled that Section 115 of the Mental Healthcare Act, 2017 creates a mandatory presumption of severe stress."
+      },
+      "tags": [
+        "Karnataka High Court",
+        "mental health",
+        "CISF",
+        "law"
+      ]
+    },
+    {
+      "id": "news-2026-11-15-20",
+      "type": "news",
+      "category": "science",
+      "headline": "SpaceX catches returning Starship with launch pad arms in first",
+      "body": "SpaceX’s Starship returned from orbit on November 14, 2026, and was caught by the launch tower’s mechanical arms at Starbase, Texas — the first capture of a Starship returning from space. The upper stage completed 14 laps around Earth and released 26 Starlink satellites, though the first-stage booster exploded after liftoff, falling short of a double catch.",
+      "why_it_matters": "Full reusability of a heavy rocket is central to lowering launch costs, and NASA has contracted Starship to land Artemis astronauts on the moon.",
+      "key_fact": "Starship is 124 metres tall",
+      "source_url": "https://www.thehindu.com/news/international/spacexs-starship-returns-from-orbit-and-is-captured-by-launch-pad-arms-in-a-dramatic-first/article71703046.ece",
+      "date": "2026-11-15",
+      "quiz": {
+        "q": "How tall is SpaceX’s Starship, described as the world’s largest and most powerful rocket?",
+        "options": [
+          "265 feet (81 metres)",
+          "320 feet (98 metres)",
+          "407 feet (124 metres)",
+          "500 feet (152 metres)"
+        ],
+        "answer": 2,
+        "explain": "The article describes Starship as a 407-foot (124-metre) behemoth."
+      },
+      "tags": [
+        "SpaceX",
+        "Starship",
+        "space",
+        "NASA"
+      ]
+    }
+  ]
+}
