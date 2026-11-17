@@ -1,0 +1,560 @@
+{
+  "date": "2026-11-17",
+  "cards": [
+    {
+      "id": "news-2026-11-17-01",
+      "type": "news",
+      "category": "international",
+      "headline": "PM Modi addresses 23rd ASEAN-India Summit in Manila",
+      "body": "Prime Minister Narendra Modi spoke at the 23rd ASEAN-India Summit, his 13th interaction with ASEAN leaders in this format. He highlighted India's Act East Policy, over 100 people-to-people initiatives, nearly 250 Quick Impact Projects, and more than 10,000 skill-building scholarships since 2014. He stressed that India and ASEAN represent about a quarter of the world's population and that their future must be shaped by cooperation, not competition.",
+      "why_it_matters": "India's engagement with ASEAN under the Act East Policy affects trade, connectivity and security in the Indo-Pacific, a region vital to India's economic and strategic interests.",
+      "key_fact": "23rd ASEAN-India Summit",
+      "source_url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2337297",
+      "date": "2026-11-17",
+      "quiz": {
+        "q": "Which summit did Prime Minister Modi address in Manila?",
+        "options": [
+          "23rd ASEAN-India Summit",
+          "21st East Asia Summit",
+          "G20 Summit",
+          "BRICS Summit"
+        ],
+        "answer": 0,
+        "explain": "PM Modi participated in the 23rd ASEAN-India Summit, as stated in the article."
+      },
+      "tags": [
+        "ASEAN",
+        "India",
+        "diplomacy",
+        "Act East Policy"
+      ]
+    },
+    {
+      "id": "news-2026-11-17-02",
+      "type": "news",
+      "category": "international",
+      "headline": "India, ASEAN agree to deepen disaster management cooperation",
+      "body": "At the 23rd ASEAN-India Summit in Manila, India and ASEAN agreed to enhance cooperation on disaster management. The joint statement mentioned measures such as early warning systems, sharing satellite and meteorological data, joint preparedness exercises, and rapid humanitarian assistance. Both regions face hazards like earthquakes, tsunamis, floods, cyclones and landslides, and recognised the need for a disaster-resilient region. PM Modi also attended the East Asia Summit and was expected to join a Quad meeting.",
+      "why_it_matters": "Disaster cooperation can help save lives and reduce damage in India and Southeast Asia, which are highly vulnerable to natural disasters.",
+      "key_fact": "India-ASEAN disaster management cooperation",
+      "source_url": "https://www.thehindu.com/news/international/asean-india-summit-manila-november-2026-quad-live-updates-pm-modi-trump-meeting-latest-news/article71710382.ece",
+      "date": "2026-11-17",
+      "quiz": {
+        "q": "What did India and ASEAN agree to deepen cooperation on at the Manila summit?",
+        "options": [
+          "Disaster management",
+          "Space exploration",
+          "Nuclear energy",
+          "Currency swap"
+        ],
+        "answer": 0,
+        "explain": "The joint statement said India and ASEAN agreed to deepen cooperation on disaster management, including early warning systems and data sharing."
+      },
+      "tags": [
+        "ASEAN",
+        "disaster management",
+        "India",
+        "Manila"
+      ]
+    },
+    {
+      "id": "news-2026-11-17-03",
+      "type": "news",
+      "category": "international",
+      "headline": "PM Modi tells ASEAN future must be built on cooperation",
+      "body": "Addressing the 23rd ASEAN-India Summit in Manila, Prime Minister Narendra Modi said India and ASEAN together represent nearly a quarter of the world's population, so their future must be shaped by cooperation, not competition. He stressed the need for peace, stability and predictability amid global crises, and said India's commitment to ASEAN's unity and centrality is steadfast. He linked ASEAN Community Vision 2045 with Developed India 2047.",
+      "why_it_matters": "India-ASEAN ties cover trade, security and connectivity, and cooperation between them influences stability in the Indo-Pacific region.",
+      "key_fact": "ASEAN Community Vision 2045",
+      "source_url": "https://www.thehindu.com/news/national/pm-modi-asean-summit-address-india-world-leaders-manila/article71710772.ece",
+      "date": "2026-11-17",
+      "quiz": {
+        "q": "Which vision did PM Modi mention alongside Developed India 2047?",
+        "options": [
+          "ASEAN Community Vision 2045",
+          "ASEAN Vision 2030",
+          "Indo-Pacific Vision 2050",
+          "Act East Vision 2040"
+        ],
+        "answer": 0,
+        "explain": "PM Modi said ASEAN Community Vision 2045 and Developed India 2047 can together realise shared aspirations."
+      },
+      "tags": [
+        "ASEAN",
+        "India",
+        "diplomacy",
+        "Indo-Pacific"
+      ]
+    },
+    {
+      "id": "news-2026-11-17-04",
+      "type": "news",
+      "category": "international",
+      "headline": "China confirms first Xi-Trump-Putin trilateral summit in Shenzhen",
+      "body": "China's Foreign Ministry confirmed that Presidents Xi Jinping, Donald Trump and Vladimir Putin will hold their first trilateral summit on November 19, 2026, in Shenzhen, on the sidelines of the APEC summit. The ministry called it of groundbreaking significance for world peace and strategic stability. US officials said Trump wants to discuss reducing nuclear arsenals and Iran, but not Russia's war in Ukraine. China has long said the US and Russia should cut their arsenals first.",
+      "why_it_matters": "A meeting of the leaders of the world's major nuclear powers can influence global security, arms control and strategic stability.",
+      "key_fact": "First China-Russia-US trilateral summit",
+      "source_url": "https://www.thehindu.com/news/international/china-confirms-first-xi-trump-putin-summit-on-november-19/article71706625.ece",
+      "date": "2026-11-17",
+      "quiz": {
+        "q": "Where will the first trilateral China-Russia-US summit be held?",
+        "options": [
+          "Shenzhen",
+          "Beijing",
+          "Moscow",
+          "Washington"
+        ],
+        "answer": 0,
+        "explain": "China's Foreign Ministry said the meeting will take place in Shenzhen on November 19, 2026."
+      },
+      "tags": [
+        "China",
+        "US",
+        "Russia",
+        "summit"
+      ]
+    },
+    {
+      "id": "news-2026-11-17-05",
+      "type": "news",
+      "category": "environment",
+      "headline": "India seeks country-led approach to just transition at COP31",
+      "body": "At COP31 in Antalya, Türkiye, Environment Minister Bhupender Yadav said a just transition to clean energy cannot be one-size-fits-all. He called for a new mechanism to help developing countries implement fair transitions through technical assistance, capacity-building and cooperation. India said the body should be member-led and must not impose uniform sectoral pathways or new obligations. The COP31 is the 31st conference of parties to the UNFCCC.",
+      "why_it_matters": "Just transition policies affect jobs, energy costs and growth in developing countries like India, which need support to shift to cleaner energy without harming the poor.",
+      "key_fact": "COP31 in Antalya, Türkiye",
+      "source_url": "https://www.livemint.com/news/india/india-practical-country-led-approach-global-just-transition-cop31-11794843981094.html",
+      "date": "2026-11-17",
+      "quiz": {
+        "q": "Where is COP31 being held?",
+        "options": [
+          "Antalya, Türkiye",
+          "Dubai, UAE",
+          "Glasgow, UK",
+          "Paris, France"
+        ],
+        "answer": 0,
+        "explain": "The article states that COP31 is taking place in Antalya, Türkiye."
+      },
+      "tags": [
+        "COP31",
+        "climate change",
+        "just transition",
+        "India"
+      ]
+    },
+    {
+      "id": "news-2026-11-17-06",
+      "type": "news",
+      "category": "environment",
+      "headline": "COP31 draft text shows splits between developed and developing nations",
+      "body": "At COP31 in Antalya, Turkiye, the draft cover text revealed divergent positions. Developing countries, including India through the Like-Minded Developing Countries coalition, pressed developed nations to lead with net-zero emissions by 2030. Developed countries largely target net-zero by 2050, while India and China have committed to 2070 and 2060. The draft also proposes voluntary climate finance from developing countries.",
+      "why_it_matters": "COP negotiations shape the global climate finance and emissions rules that affect India's energy transition and growth path.",
+      "key_fact": "Net zero balances carbon dioxide emitted with carbon removed from the atmosphere",
+      "source_url": "https://www.thehindu.com/sci-tech/energy-and-environment/cop31-draft-deal-calls-for-accelerated-action-to-exit-fossil-fuels/article71707955.ece",
+      "date": "2026-11-17",
+      "quiz": {
+        "q": "What does 'net zero' mean in climate negotiations?",
+        "options": [
+          "Zero industrial emissions in a year",
+          "Balancing carbon dioxide emitted with the amount removed from the atmosphere",
+          "Complete elimination of fossil fuel imports",
+          "Achieving zero economic growth"
+        ],
+        "answer": 1,
+        "explain": "The article defines net zero as balancing carbon dioxide emitted with the amount removed from the atmosphere."
+      },
+      "tags": [
+        "COP31",
+        "climate",
+        "net zero",
+        "India"
+      ]
+    },
+    {
+      "id": "news-2026-11-17-07",
+      "type": "news",
+      "category": "environment",
+      "headline": "Bhupender Yadav highlights big cat conservation at COP31 side event",
+      "body": "Environment, Forest and Climate Change Minister Bhupender Yadav spoke at a high-level side event titled 'BIG CATS: Drivers of Climate Change Mitigation' at COP31 in Antalya, Turkiye. The event was organised by the Ministry of Environment, Forest and Climate Change and the International Big Cat Alliance. Ministers from Nepal, Venezuela, Cambodia and Sri Lanka took part, along with representatives of the Ramsar Convention and UNCCD.",
+      "why_it_matters": "Protecting big cats and their habitats secures carbon-rich ecosystems, linking wildlife conservation with climate goals.",
+      "key_fact": "International Big Cat Alliance, established on PM Modi's vision",
+      "source_url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2337256",
+      "date": "2026-11-17",
+      "quiz": {
+        "q": "Which organisation was established on Prime Minister Narendra Modi's vision, per the article?",
+        "options": [
+          "Ramsar Convention",
+          "UNCCD",
+          "International Big Cat Alliance",
+          "UNFCCC"
+        ],
+        "answer": 2,
+        "explain": "The article states the International Big Cat Alliance was established as per PM Modi's vision."
+      },
+      "tags": [
+        "big cats",
+        "COP31",
+        "conservation",
+        "IBCA"
+      ]
+    },
+    {
+      "id": "news-2026-11-17-08",
+      "type": "news",
+      "category": "geography",
+      "headline": "IMD issues yellow alert as Cyclone Akvan intensifies over Bay of Bengal",
+      "body": "The India Meteorological Department issued a yellow alert for Andhra Pradesh and adjoining South Odisha coasts as Cyclone Akvan intensified. It is the third cyclonic storm over the Bay of Bengal in three weeks. The IMD expects it to become a very severe cyclonic storm around November 19 morning and cross Andhra Pradesh between Nellore and Tuni around noon the next day with winds of 120-130 kmph.",
+      "why_it_matters": "Coastal residents and fishermen need early warnings to prepare for cyclones that can cause heavy rain, tidal surges and damage.",
+      "key_fact": "Cyclone Akvan forecast to cross between Nellore and Tuni",
+      "source_url": "https://www.livemint.com/news/india/imd-weather-update-yellow-alert-issued-for-andhra-odisha-as-cyclone-akvan-turns-very-severe-ahead-of-landfall-11794878693669.html",
+      "date": "2026-11-17",
+      "quiz": {
+        "q": "Between which two places is Cyclone Akvan expected to cross the Andhra Pradesh coast?",
+        "options": [
+          "Visakhapatnam and Kakinada",
+          "Nellore and Tuni",
+          "Gopalpur and Puri",
+          "Chennai and Machilipatnam"
+        ],
+        "answer": 1,
+        "explain": "The IMD forecast says Akvan will cross Andhra Pradesh between Nellore and Tuni."
+      },
+      "tags": [
+        "Cyclone Akvan",
+        "IMD",
+        "Andhra Pradesh",
+        "weather"
+      ]
+    },
+    {
+      "id": "news-2026-11-17-09",
+      "type": "news",
+      "category": "geography",
+      "headline": "Cyclone Akvan to reach Andhra coast as very severe storm on November 20",
+      "body": "According to the IMD, Cyclone Akvan over the Bay of Bengal is expected to intensify into a cyclonic storm by November 16 evening, a severe cyclonic storm by November 17 evening, and reach the west-central Bay of Bengal near the Andhra Pradesh coast around the night of November 19. It is likely to cross the Andhra Pradesh and Yanam coasts between Nellore and Tuni by noon on November 20.",
+      "why_it_matters": "Knowing the expected landfall time and wind speed helps authorities in Andhra Pradesh and Odisha evacuate vulnerable areas in advance.",
+      "key_fact": "Landfall between Nellore and Tuni by noon on November 20",
+      "source_url": "https://www.livemint.com/news/india/cyclone-akvan-when-and-where-will-it-make-landfall-wind-speed-rainfall-forecast-and-states-on-imds-weather-alert-11794823300014.html",
+      "date": "2026-11-17",
+      "quiz": {
+        "q": "When is Cyclone Akvan expected to cross the Andhra Pradesh and Yanam coasts?",
+        "options": [
+          "By noon on November 20",
+          "By midnight on November 17",
+          "By evening on November 16",
+          "By noon on November 22"
+        ],
+        "answer": 0,
+        "explain": "The IMD forecast says the cyclone will cross between Nellore and Tuni by noon on November 20."
+      },
+      "tags": [
+        "Cyclone Akvan",
+        "IMD",
+        "landfall",
+        "Odisha"
+      ]
+    },
+    {
+      "id": "news-2026-11-17-10",
+      "type": "news",
+      "category": "geography",
+      "headline": "Cyclone Akvan named by Iran, third to threaten Andhra Pradesh in a month",
+      "body": "A Bay of Bengal weather system intensified into a severe cyclonic storm named Akvan on November 16, 2026, per the IMD. The name was suggested by Iran under the North Indian Ocean naming list. It originated as a low-pressure area on November 14, became a depression on November 15, and could cross the Andhra Pradesh coast around November 20 as a very severe cyclonic storm with winds gusting to 145 kmph.",
+      "why_it_matters": "Cyclone names and timelines are public information that help coastal communities, fishermen and disaster agencies act in time.",
+      "key_fact": "Name 'Akvan' suggested by Iran",
+      "source_url": "https://www.thehindu.com/news/national/cyclone-akvan-what-you-need-to-know-about-the-third-bay-of-bengal-storm-in-three-weeks/article71706612.ece",
+      "date": "2026-11-17",
+      "quiz": {
+        "q": "Which country suggested the name 'Akvan' for the cyclone?",
+        "options": [
+          "India",
+          "Iran",
+          "Oman",
+          "Myanmar"
+        ],
+        "answer": 1,
+        "explain": "The article says Akvan is a name suggested by Iran under the North Indian Ocean naming list."
+      },
+      "tags": [
+        "Cyclone Akvan",
+        "IMD",
+        "naming",
+        "Andhra Pradesh"
+      ]
+    },
+    {
+      "id": "news-2026-11-17-11",
+      "type": "news",
+      "category": "economy",
+      "headline": "Wholesale inflation hits 12.3% in October, second double-digit month",
+      "body": "Official data released on November 16, 2026 showed India's wholesale inflation, measured by the Wholesale Price Index, rose to 12.3% in October. Fuel was the main driver, with crude petroleum and natural gas inflation above 70%. Manufactured goods inflation stood at 9.5%. The new WPI series only goes back to April 2024. Retail inflation had already crossed the RBI's 6% upper comfort mark.",
+      "why_it_matters": "High wholesale prices eventually pass through to retail prices, so consumers may pay more for everyday goods in coming months.",
+      "key_fact": "Wholesale inflation 12.3% in October 2026",
+      "source_url": "https://www.thehindu.com/business/Economy/wholesale-price-inflation-october-government-data/article71707046.ece",
+      "date": "2026-11-17",
+      "quiz": {
+        "q": "What was India's wholesale inflation rate in October 2026?",
+        "options": [
+          "6.09%",
+          "9.5%",
+          "12.3%",
+          "70%"
+        ],
+        "answer": 2,
+        "explain": "Official WPI data showed wholesale inflation at 12.3% in October 2026, the second straight month in double digits."
+      },
+      "tags": [
+        "inflation",
+        "WPI",
+        "economy"
+      ]
+    },
+    {
+      "id": "news-2026-11-17-12",
+      "type": "news",
+      "category": "economy",
+      "headline": "WPI inflation 12.29% in October, highest in new series",
+      "body": "Wholesale price inflation touched 12.29% in October, up from 11.39% the previous month, the highest in the new WPI series with 2022-23 as its base year. A nearly 71% jump in crude petroleum and natural gas prices amid the West Asia crisis drove the rise, aided by a low base. Retail inflation stood at 6.09%. Analysts expect the RBI to consider a rate hike at its December 2-4 meeting.",
+      "why_it_matters": "The RBI's repo rate influences loan EMIs, so signs of a possible hike matter to borrowers and savers alike.",
+      "key_fact": "Repo rate raised to 5.50% in October 2026",
+      "source_url": "https://www.livemint.com/economy/wpi-inflation-october-retail-inflation-food-prices-crude-oil-rbi-rate-hike-11794821355971.html",
+      "date": "2026-11-17",
+      "quiz": {
+        "q": "By how much did the RBI raise the repo rate in October 2026?",
+        "options": [
+          "25 basis points, to 5.25%",
+          "25 basis points, to 5.50%",
+          "50 basis points, to 5.50%",
+          "It was left unchanged"
+        ],
+        "answer": 1,
+        "explain": "The report says the RBI raised the repo rate from 5.25% to 5.50% in October, its first hike in nearly four years."
+      },
+      "tags": [
+        "WPI",
+        "inflation",
+        "RBI"
+      ]
+    },
+    {
+      "id": "news-2026-11-17-13",
+      "type": "news",
+      "category": "economy",
+      "headline": "Export duty on diesel, ATF hiked; petrol stays nil",
+      "body": "The government late on November 16, 2026 raised export duty on diesel by ₹2.5 per litre and on aviation turbine fuel by ₹1.5 per litre, while petrol exports remain exempt. For the next fortnight, diesel exports will draw ₹14 per litre and ATF ₹12.5 per litre. Duties on fuels for domestic consumption are unchanged. The levies have been reviewed fortnightly since March 27, 2026 amid the West Asia conflict.",
+      "why_it_matters": "Higher export levies discourage sending fuel abroad, helping keep petrol and diesel available for domestic users during a global supply crunch.",
+      "key_fact": "Diesel export duty ₹14 per litre for next fortnight",
+      "source_url": "https://www.thehindu.com/business/Industry/export-duty-on-diesel-hiked-25litre-atf-15litre-petrol-remains-nil/article71710215.ece",
+      "date": "2026-11-17",
+      "quiz": {
+        "q": "What will be the export duty on diesel for the upcoming fortnight?",
+        "options": [
+          "₹11.5 per litre",
+          "₹12.5 per litre",
+          "₹14 per litre",
+          "Nil"
+        ],
+        "answer": 2,
+        "explain": "The diesel export levy rises to ₹14 per litre from ₹11.5, while the petrol export duty stays at nil."
+      },
+      "tags": [
+        "fuel",
+        "export duty",
+        "petroleum"
+      ]
+    },
+    {
+      "id": "news-2026-11-17-14",
+      "type": "news",
+      "category": "economy",
+      "headline": "Centre raises windfall tax on diesel and ATF exports again",
+      "body": "The Finance Ministry raised the special additional excise duty on diesel exports from ₹11.5 to ₹14 per litre and on aviation turbine fuel from ₹11 to ₹12.5 per litre, the second hike in under three weeks. Petrol export duty remains zero. Export levies were first introduced on March 27, 2026 to discourage exports and protect domestic supply amid the West Asia crisis, and are reviewed every fortnight based on international prices.",
+      "why_it_matters": "India imports much of its crude oil, so global supply disruptions and export policies can affect domestic fuel prices.",
+      "key_fact": "Special additional excise duty is the levy on fuel exports",
+      "source_url": "https://www.livemint.com/economy/centre-hikes-windfall-tax-on-diesel-atf-exports-petrol-levy-unchanged-check-details-11794885175607.html",
+      "date": "2026-11-17",
+      "quiz": {
+        "q": "Which levy was hiked on diesel exports?",
+        "options": [
+          "Road and Infrastructure Cess",
+          "Special additional excise duty",
+          "Goods and Services Tax",
+          "Customs duty"
+        ],
+        "answer": 1,
+        "explain": "The Finance Ministry notifications hiked the special additional excise duty (SAED) on diesel exports from ₹11.5 to ₹14 per litre."
+      },
+      "tags": [
+        "windfall tax",
+        "fuel",
+        "exports"
+      ]
+    },
+    {
+      "id": "news-2026-11-17-15",
+      "type": "news",
+      "category": "economy",
+      "headline": "FPIs pump record ₹89,856 crore into Indian equities in November",
+      "body": "Foreign portfolio investors, who had exited Indian markets for two years, returned with all-time high inflows of ₹89,856 crore so far in November. A recent slowdown in AI and tech stocks abroad prompted investors to seek safer bets, moving money away from tech-heavy markets like the US, South Korea and Taiwan. Domestic investors, meanwhile, turned net sellers, largely booking profits.",
+      "why_it_matters": "Foreign inflows can lift stock prices and the rupee, so ordinary investors in mutual funds and equities are directly affected.",
+      "key_fact": "₹89,856 crore record FPI inflows in November",
+      "source_url": "https://www.thehindu.com/business/Economy/whats-behind-the-record-89856-crore-fpi-surge-into-indian-equities-explained/article71710393.ece",
+      "date": "2026-11-17",
+      "quiz": {
+        "q": "How much did FPIs invest in Indian equities in November?",
+        "options": [
+          "₹8,985 crore",
+          "₹45,000 crore",
+          "₹89,856 crore",
+          "₹1 lakh crore"
+        ],
+        "answer": 2,
+        "explain": "The article states FPIs pumped an all-time high of ₹89,856 crore into Indian markets in November."
+      },
+      "tags": [
+        "FPI",
+        "stock market",
+        "investment"
+      ]
+    },
+    {
+      "id": "news-2026-11-17-16",
+      "type": "news",
+      "category": "economy",
+      "headline": "India's unemployment rate dips to 4.9% in October",
+      "body": "India's unemployment rate for people aged 15 and above fell marginally to 4.9% in October from 5% in September, according to the Periodic Labour Force Survey Monthly Bulletin released by the statistics ministry. Urban unemployment dropped to 6.7% from 6.9%, led by a fall among urban women. Rural unemployment held steady at 4.2%. Labour force participation improved slightly to 55.7%.",
+      "why_it_matters": "The unemployment rate is a key measure of how many people who want work cannot find it, and the PLFS is India's primary official source of employment data.",
+      "key_fact": "Unemployment rate fell to 4.9% in October",
+      "source_url": "https://www.livemint.com/news/india/india-unemployment-rate-falls-4-9-october-urban-recovery-rural-steady-plfs-mospi-lfpr-11794835301719.html",
+      "date": "2026-11-17",
+      "quiz": {
+        "q": "Which survey is India's primary official source of employment and unemployment data?",
+        "options": [
+          "Periodic Labour Force Survey (PLFS)",
+          "National Sample Survey on Consumption",
+          "Annual Survey of Industries",
+          "Census of India"
+        ],
+        "answer": 0,
+        "explain": "The PLFS, run by the statistics ministry, is the main official source for employment and unemployment estimates."
+      },
+      "tags": [
+        "unemployment",
+        "PLFS",
+        "jobs",
+        "economy"
+      ]
+    },
+    {
+      "id": "news-2026-11-17-17",
+      "type": "news",
+      "category": "economy",
+      "headline": "RBI tells Tata Sons to comply with NBFC listing rules",
+      "body": "The Reserve Bank of India has directed Tata Sons to comply with regulations for upper-layer non-banking financial companies, including the requirement to list. The letter followed RBI's rejection of Tata Sons' request to be exempted from the core investment company classification. Tata Trusts, which own about 66% of Tata Sons, oppose a listing. The matter is expected at the Tata Sons board meeting on 26 November.",
+      "why_it_matters": "A listing would require Tata Sons to disclose financials and open shareholding to public investors, a major change for India's largest business house.",
+      "key_fact": "RBI requires Tata Sons to list as an NBFC-UL",
+      "source_url": "https://www.livemint.com/news/rbi-tells-tata-sons-to-comply-with-upper-layer-nbfc-rules-including-listing-11794844359846.html",
+      "date": "2026-11-17",
+      "quiz": {
+        "q": "What classification does the RBI require Tata Sons to comply with, including a listing?",
+        "options": [
+          "Upper-layer non-banking financial company",
+          "Scheduled commercial bank",
+          "Payment bank",
+          "Mutual fund"
+        ],
+        "answer": 0,
+        "explain": "RBI directed Tata Sons to follow rules for upper-layer NBFCs, which include listing."
+      },
+      "tags": [
+        "RBI",
+        "Tata Sons",
+        "NBFC",
+        "listing"
+      ]
+    },
+    {
+      "id": "news-2026-11-17-18",
+      "type": "news",
+      "category": "economy",
+      "headline": "Centre reviewing LTCG tax and STT, says CBDT chief",
+      "body": "CBDT chairman Ravi Agrawal said the government is reviewing long-term capital gains tax and securities transaction tax, with pre-Budget consultations underway. Foreign portfolio investors have sold a record Rs 2 trillion of Indian shares in 2026. India abolished LTCG tax in 2004, reintroduced it at 10% in 2018, and raised it to 12.5% in July 2024, alongside higher STT.",
+      "why_it_matters": "These taxes affect the returns of ordinary mutual fund and stock investors, and influence foreign investment flows into Indian markets.",
+      "key_fact": "LTCG tax on equities reintroduced in 2018 at 10%",
+      "source_url": "https://www.livemint.com/news/capital-gains-tax-stt-budget-cbdt-head-govt-fisc-11794820944204.html",
+      "date": "2026-11-17",
+      "quiz": {
+        "q": "When did India reintroduce long-term capital gains tax on equities?",
+        "options": [
+          "2018",
+          "2004",
+          "2014",
+          "2024"
+        ],
+        "answer": 0,
+        "explain": "LTCG tax was abolished in 2004, reintroduced at 10% in 2018, and raised to 12.5% in 2024."
+      },
+      "tags": [
+        "capital gains tax",
+        "STT",
+        "CBDT",
+        "markets"
+      ]
+    },
+    {
+      "id": "news-2026-11-17-19",
+      "type": "news",
+      "category": "economy",
+      "headline": "Gen Z to join pre-Budget consultations for 2027-28",
+      "body": "Finance minister Nirmala Sitharaman has begun consultations for Union Budget 2027-28, running from November 16 to 26. The government plans a special session with Gen Z representatives alongside economists and industry stakeholders. Talks will cover challenges from the West Asia conflict and higher oil prices, plus inputs from capital markets, banks, MSMEs and other sectors. The Budget is expected on February 1, 2027.",
+      "why_it_matters": "The Union Budget sets the government's spending, taxes and borrowing for the year, affecting prices, subsidies and jobs across the economy.",
+      "key_fact": "Union Budget 2027-28 expected on February 1, 2027",
+      "source_url": "https://www.livemint.com/economy/budget-2027-28-govt-to-invite-gen-z-for-pre-budget-consultations-sitharaman-meets-economists-11794901153565.html",
+      "date": "2026-11-17",
+      "quiz": {
+        "q": "When is the Union Budget 2027-28 expected to be presented?",
+        "options": [
+          "February 1, 2027",
+          "January 1, 2027",
+          "March 1, 2027",
+          "February 1, 2026"
+        ],
+        "answer": 0,
+        "explain": "The article says the Budget is expected on February 1, 2027, a Monday."
+      },
+      "tags": [
+        "Budget",
+        "Sitharaman",
+        "Gen Z",
+        "economy"
+      ]
+    },
+    {
+      "id": "news-2026-11-17-20",
+      "type": "news",
+      "category": "polity",
+      "headline": "Government health spending triples to ₹4.14 lakh crore",
+      "body": "Union government health expenditure more than tripled to ₹4.14 lakh crore in 2023-24 from ₹1.30 lakh crore in 2013-14, per National Health Accounts estimates. Out-of-pocket spending by households fell from 64.2% to 42.7% of total health expenditure. Per capita government health spending rose from ₹1,042 to ₹2,959 over the decade, and social security spending on health rose from 6% to 11%.",
+      "why_it_matters": "Lower out-of-pocket spending means households depend less on their own savings for medical care, a key goal of schemes like Ayushman Bharat.",
+      "key_fact": "Out-of-pocket health spending fell to 42.7% in 2023-24",
+      "source_url": "https://www.thehindu.com/news/national/indias-health-spending-triples-to-414-lakh-crore-but-out-of-pocket-share-drops-to-427-nha/article71705136.ece",
+      "date": "2026-11-17",
+      "quiz": {
+        "q": "What share of total health expenditure was out-of-pocket in 2023-24?",
+        "options": [
+          "42.7%",
+          "64.2%",
+          "11%",
+          "10.2%"
+        ],
+        "answer": 0,
+        "explain": "Out-of-pocket spending fell from 64.2% in 2013-14 to 42.7% in 2023-24."
+      },
+      "tags": [
+        "health spending",
+        "NHA",
+        "out-of-pocket",
+        "Ayushman Bharat"
+      ]
+    }
+  ]
+}
