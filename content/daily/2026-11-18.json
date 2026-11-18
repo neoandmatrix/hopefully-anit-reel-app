@@ -1,0 +1,558 @@
+{
+  "date": "2026-11-18",
+  "cards": [
+    {
+      "id": "news-2026-11-18-01",
+      "type": "news",
+      "category": "international",
+      "headline": "Modi calls for peace and stability at Manila summits",
+      "body": "Prime Minister Narendra Modi attended the ASEAN-India, East Asia, and Quad summits in Manila on November 17, 2026. He called for \"peace, stability, and predictability\" and proposed initiatives on maritime security and critical minerals. The Quad leaders issued a joint statement opposing economic and maritime \"coercion\" in the Indo-Pacific. Modi announced that India will host the first Quad Business Forum in Mumbai in 2027.",
+      "why_it_matters": "The Quad is a key grouping of India, US, Japan and Australia that shapes Indo-Pacific security and economic cooperation, affecting India's strategic interests.",
+      "key_fact": "First Quad Business Forum to be hosted by India in Mumbai in 2027",
+      "source_url": "https://www.thehindu.com/news/national/world-needs-peace-stability-predictability-modi-in-manila/article71712862.ece",
+      "date": "2026-11-18",
+      "quiz": {
+        "q": "Where will the first Quad Business Forum be held?",
+        "options": [
+          "Mumbai",
+          "New Delhi",
+          "Manila",
+          "Tokyo"
+        ],
+        "answer": 0,
+        "explain": "Modi announced that India would host the first Quad Business Forum in Mumbai in 2027."
+      },
+      "tags": [
+        "Quad",
+        "ASEAN",
+        "Modi",
+        "Indo-Pacific"
+      ]
+    },
+    {
+      "id": "news-2026-11-18-02",
+      "type": "news",
+      "category": "international",
+      "headline": "Explained: Quad summit in Manila and its agenda",
+      "body": "The Quad Summit in Manila on November 17, 2026, is the first since the 2024 Wilmington summit and the first for US President Donald Trump's second term and Japan's PM Sanae Takaichi. The Quad brings together India, Australia, Japan and the US, focusing on a free and open Indo-Pacific. The agenda includes securing critical mineral supply chains and safeguarding commercial shipping routes.",
+      "why_it_matters": "The Quad's initiatives on maritime security and critical minerals impact regional stability and India's economic security.",
+      "key_fact": "Quad members: India, Australia, Japan, and the United States",
+      "source_url": "https://www.thehindu.com/news/international/what-is-quad-manila-agenda-why-does-2026-summit-matter/article71710464.ece",
+      "date": "2026-11-18",
+      "quiz": {
+        "q": "Which countries are part of the Quad?",
+        "options": [
+          "India, Australia, Japan, US",
+          "India, China, Russia, US",
+          "India, Japan, South Korea, US",
+          "India, Australia, Indonesia, US"
+        ],
+        "answer": 0,
+        "explain": "The Quadrilateral Security Dialogue consists of India, Australia, Japan, and the United States."
+      },
+      "tags": [
+        "Quad",
+        "Indo-Pacific",
+        "critical minerals",
+        "maritime security"
+      ]
+    },
+    {
+      "id": "news-2026-11-18-03",
+      "type": "news",
+      "category": "international",
+      "headline": "India, Japan hold 2+2 defence and foreign ministers dialogue",
+      "body": "Defence Minister Rajnath Singh and External Affairs Minister S. Jaishankar arrived in Tokyo on November 18, 2026, for the fourth India-Japan 2+2 ministerial dialogue. They will meet Japanese Defence Minister Shinjiro Koizumi and Foreign Minister Toshimitsu Motegi to review defence ties, maritime security, and defence industrial partnerships. The visit follows the Quad summit in Manila and a joint HADR exercise. The previous 2+2 dialogue was held in New Delhi in August 2024.",
+      "why_it_matters": "The India-Japan defence partnership strengthens India's strategic position in the Indo-Pacific and promotes regional stability.",
+      "key_fact": "Fourth India-Japan 2+2 ministerial dialogue held in Tokyo",
+      "source_url": "https://www.thehindu.com/news/international/india-japan-set-to-review-defence-ties-as-rajnath-jaishankar-arrive-in-tokyo/article71714856.ece",
+      "date": "2026-11-18",
+      "quiz": {
+        "q": "What is the format of the India-Japan dialogue being held in Tokyo?",
+        "options": [
+          "2+2 ministerial dialogue",
+          "Quad summit",
+          "ASEAN-India summit",
+          "East Asia Summit"
+        ],
+        "answer": 0,
+        "explain": "The 2+2 dialogue involves the foreign and defence ministers of both countries."
+      },
+      "tags": [
+        "India-Japan",
+        "defence",
+        "2+2 dialogue",
+        "Tokyo"
+      ]
+    },
+    {
+      "id": "news-2026-11-18-04",
+      "type": "news",
+      "category": "polity",
+      "headline": "SC halts relocation of 8.5 lakh books from Central Secretariat Library",
+      "body": "The Supreme Court on Monday paused the shifting of 8.5 lakh books from the 135-year-old Central Secretariat Library in Delhi, expressing concern over the handling of the collection. The court adjourned the matter until Friday and directed that the books not be moved meanwhile. The library faces relocation due to the Central Vista redevelopment plan, with only two rooms allotted in Kartavya Bhawan-2. The court criticized the government's ad hoc approach to preserving heritage.",
+      "why_it_matters": "The Central Secretariat Library is a repository of national heritage, and its preservation is important for access to knowledge and history.",
+      "key_fact": "Central Secretariat Library houses 8.5 lakh books and is 135 years old",
+      "source_url": "https://www.livemint.com/news/india/central-secretariat-library-relocation-row-sc-pulls-up-centre-puts-shifting-of-8-5-lakh-books-on-hold-what-we-know-11794905619424.html",
+      "date": "2026-11-18",
+      "quiz": {
+        "q": "How many books are housed in the Central Secretariat Library?",
+        "options": [
+          "8.5 lakh",
+          "2 lakh",
+          "5 lakh",
+          "10 lakh"
+        ],
+        "answer": 0,
+        "explain": "The article states that the Central Secretariat Library currently houses 8.5 lakh books."
+      },
+      "tags": [
+        "Supreme Court",
+        "Central Secretariat Library",
+        "heritage",
+        "Central Vista"
+      ]
+    },
+    {
+      "id": "news-2026-11-18-05",
+      "type": "news",
+      "category": "polity",
+      "headline": "Supreme Court clarifies 24-hour countdown after arrest",
+      "body": "The Supreme Court on November 5, 2026, held that the 24-hour timeline under Article 22(2) of the Constitution begins from the time of a person's detention when their liberty is curtailed, not from formal arrest. A Bench of Justices Ujjal Bhuyan and Atul S. Chandurkar examined whether the words 'arrest' and 'detain' in Article 22(2) have separate meanings.",
+      "why_it_matters": "This ruling strengthens the right to liberty by ensuring that police cannot delay production before a magistrate by distinguishing between detention and formal arrest.",
+      "key_fact": "Article 22(2) mandates production before a magistrate within 24 hours of detention",
+      "source_url": "https://www.thehindu.com/news/national/when-does-the-24-hour-countdown-begin-after-arrest-supreme-court-answers/article71714859.ece",
+      "date": "2026-11-18",
+      "quiz": {
+        "q": "Which Article of the Constitution mandates production before a magistrate within 24 hours?",
+        "options": [
+          "Article 22(2)",
+          "Article 21",
+          "Article 19",
+          "Article 20"
+        ],
+        "answer": 0,
+        "explain": "Article 22(2) provides that anyone arrested and detained must be produced before the nearest magistrate within 24 hours."
+      },
+      "tags": [
+        "Supreme Court",
+        "Article 22",
+        "arrest",
+        "detention"
+      ]
+    },
+    {
+      "id": "news-2026-11-18-06",
+      "type": "news",
+      "category": "geography",
+      "headline": "Cyclone Akvan likely to cross coast near Machilipatnam-Puri",
+      "body": "Cyclone Akvan is expected to cross the north Andhra Pradesh and south Odisha coasts between Machilipatnam and Puri around noon on Friday, November 20, 2026, as a severe cyclonic storm, the Andhra Pradesh State Disaster Management Authority said. The storm was about 580 km from Visakhapatnam. Isolated heavy rain and winds of 100-110 kmph are likely along the coastal belt.",
+      "why_it_matters": "Cyclone warnings matter for coastal residents, fishermen and disaster preparedness in Andhra Pradesh and Odisha.",
+      "key_fact": "Cyclone Akvan landfall expected around noon on November 20, 2026",
+      "source_url": "https://www.thehindu.com/news/national/cyclone-akvan-intensify-into-a-severe-cyclonic-storm-imd-weather-forecast-andhra-landfall-november-18-2026-live-updates/article71714340.ece",
+      "date": "2026-11-18",
+      "quiz": {
+        "q": "According to the APSDMA update, around when is Cyclone Akvan expected to cross the coast?",
+        "options": [
+          "Around noon on Friday, November 20",
+          "Early morning on November 17",
+          "Late night on November 22",
+          "Sunday afternoon, November 15"
+        ],
+        "answer": 0,
+        "explain": "The APSDMA said the storm would cross the coast around noon on Friday, November 20, 2026."
+      },
+      "tags": [
+        "cyclone",
+        "Andhra Pradesh",
+        "weather",
+        "disaster management"
+      ]
+    },
+    {
+      "id": "news-2026-11-18-07",
+      "type": "news",
+      "category": "environment",
+      "headline": "Cyclone Akvan becomes severe cyclonic storm; no further intensification likely",
+      "body": "Cyclone Akvan has strengthened into a severe cyclonic storm, but experts say it may not intensify into a very severe cyclonic storm. The IMD expects it to cross the Andhra Pradesh coast between Nellore and Visakhapatnam on November 20 with wind speeds of 100-110 kmph gusting to 120 kmph. Heavy rain is forecast in north Andhra districts, peaking on November 19 and 20.",
+      "why_it_matters": "Knowing the storm's expected strength helps coastal communities and authorities plan evacuations and safety measures.",
+      "key_fact": "Expected wind speed 100-110 kmph gusting to 120 kmph",
+      "source_url": "https://www.thehindu.com/news/national/andhra-pradesh/akvan-strengthens-into-severe-cyclonic-storm-but-further-intensification-not-likely/article71714428.ece",
+      "date": "2026-11-18",
+      "quiz": {
+        "q": "What maximum sustained wind speed has the IMD forecast for Cyclone Akvan at landfall?",
+        "options": [
+          "50-60 kmph",
+          "100-110 kmph",
+          "150-160 kmph",
+          "30-40 kmph"
+        ],
+        "answer": 1,
+        "explain": "The IMD bulletin forecast a maximum sustained wind speed of 100-110 kmph gusting to 120 kmph."
+      },
+      "tags": [
+        "cyclone",
+        "IMD",
+        "weather"
+      ]
+    },
+    {
+      "id": "news-2026-11-18-08",
+      "type": "news",
+      "category": "environment",
+      "headline": "CAQM lifts GRAP Stage-III curbs in Delhi-NCR as air quality improves",
+      "body": "The Commission for Air Quality Management revoked Stage-III restrictions under the Graded Response Action Plan in Delhi and the NCR, citing sustained improvement in air quality over three days. Delhi's AQI was 238, in the 'poor' category, at 8 a.m. on Tuesday. Stage I and II measures continue. Stage-III curbs had been enforced on November 6, when the average AQI touched 382.",
+      "why_it_matters": "GRAP curbs directly affect construction work, vehicle use and daily life across Delhi-NCR, so their easing or tightening matters to residents.",
+      "key_fact": "GRAP Stage-III restrictions revoked; Stages I and II remain",
+      "source_url": "https://www.livemint.com/news/india/grapiii-restrictions-lifted-in-delhi-ncr-as-air-quality-improves-stage-i-and-ii-curbs-to-remain-in-effect-11794915907406.html",
+      "date": "2026-11-18",
+      "quiz": {
+        "q": "Which GRAP stage did the CAQM revoke in Delhi-NCR?",
+        "options": [
+          "Stage I",
+          "Stage II",
+          "Stage III",
+          "Stage IV"
+        ],
+        "answer": 2,
+        "explain": "The CAQM revoked Stage-III restrictions while Stages I and II continued."
+      },
+      "tags": [
+        "Delhi",
+        "air pollution",
+        "GRAP",
+        "CAQM"
+      ]
+    },
+    {
+      "id": "news-2026-11-18-09",
+      "type": "news",
+      "category": "polity",
+      "headline": "Nearly 75 lakh names added to draft SSR voter lists in 13 States, UTs",
+      "body": "Nearly 75 lakh names have been added in draft voter lists published in 13 States and Union Territories under the special summary revision process, after final rolls followed the special intensive revision. The combined electorate rose from 45.22 crore after the SIR to 45.96 crore in the draft SSR list. Uttar Pradesh added the most names, at 18.84 lakh, while Goa had the highest rate of addition.",
+      "why_it_matters": "Voter list revisions decide who can vote, so additions and deletions directly affect representation and elections in these States.",
+      "key_fact": "Nearly 75 lakh names added in draft SSR lists in 13 States, UTs",
+      "source_url": "https://www.thehindu.com/news/national/nearly-75-lakh-names-added-in-draft-ssr-voters-lists-in-13-states-and-uts/article71712272.ece",
+      "date": "2026-11-18",
+      "quiz": {
+        "q": "Which State saw the largest absolute addition of names to its voter list in the draft SSR?",
+        "options": [
+          "Bihar",
+          "Goa",
+          "Uttar Pradesh",
+          "Tamil Nadu"
+        ],
+        "answer": 2,
+        "explain": "Uttar Pradesh added 18.84 lakh names, the largest in absolute numbers so far."
+      },
+      "tags": [
+        "elections",
+        "voter list",
+        "SSR",
+        "SIR"
+      ]
+    },
+    {
+      "id": "news-2026-11-18-10",
+      "type": "news",
+      "category": "economy",
+      "headline": "Government hikes export duty on diesel and ATF",
+      "body": "The government on Monday, November 16, 2026, raised the export duty on diesel by ₹2.5 per litre and on aviation turbine fuel by ₹1.5 per litre, while keeping the levy on petrol exports at nil. Diesel exports will draw ₹14 per litre in the coming fortnight, up from ₹11.5, and ATF ₹12.5, up from ₹11. Duties on fuels meant for domestic consumption are unchanged.",
+      "why_it_matters": "Export levies aim to discourage fuel exports and protect domestic supply, which can affect fuel availability and prices in India.",
+      "key_fact": "Diesel export duty raised to ₹14 per litre",
+      "source_url": "https://www.thehindu.com/business/Industry/export-duty-on-diesel-hiked-25litre-atf-15litre-petrol-remains-nil/article71710215.ece",
+      "date": "2026-11-18",
+      "quiz": {
+        "q": "What is the export duty on diesel for the upcoming fortnight after the hike?",
+        "options": [
+          "₹11.5 per litre",
+          "₹12.5 per litre",
+          "₹14 per litre",
+          "Nil"
+        ],
+        "answer": 2,
+        "explain": "Diesel exports will draw a levy of ₹14 per litre, up from ₹11.5 per litre."
+      },
+      "tags": [
+        "economy",
+        "fuel",
+        "export duty",
+        "petroleum"
+      ]
+    },
+    {
+      "id": "news-2026-11-18-11",
+      "type": "news",
+      "category": "economy",
+      "headline": "Icra projects India's GDP growth at 7.5% for Q2 FY27",
+      "body": "Rating agency Icra estimates India's GDP grew 7.5% in the July-September quarter, down from 7.8% in the previous quarter but above the RBI's 7.2% projection. Agriculture slowed sharply to 0.2% due to a poor monsoon, while factory output rose a record 8.1%, led by vehicles and electrical equipment. Government capital expenditure grew only 2.8%. Icra forecast full-year growth at 7.1%.",
+      "why_it_matters": "GDP growth numbers indicate the health of the economy and influence decisions on jobs, interest rates and government policy.",
+      "key_fact": "Icra projects Q2 FY27 GDP growth at 7.5%",
+      "source_url": "https://www.livemint.com/news/gdp-growth-likely-to-remain-resilient-at-7-5-in-q2-2026-27-despite-external-and-monsoon-headwinds-icra-11794921376348.html",
+      "date": "2026-11-18",
+      "quiz": {
+        "q": "What GDP growth rate for Q2 FY27 did Icra estimate?",
+        "options": [
+          "7.2%",
+          "7.5%",
+          "7.8%",
+          "7.1%"
+        ],
+        "answer": 1,
+        "explain": "Icra said GDP growth likely stood at 7.5% in Q2, lower than 7.8% in the previous quarter."
+      },
+      "tags": [
+        "economy",
+        "GDP",
+        "Icra",
+        "growth"
+      ]
+    },
+    {
+      "id": "news-2026-11-18-12",
+      "type": "news",
+      "category": "economy",
+      "headline": "FPIs pump record ₹89,856 crore into Indian equities in November",
+      "body": "Foreign portfolio investors (FPIs), who had been exiting Indian markets for two years, turned net buyers and invested an all-time high of ₹89,856 crore in November. The shift is attributed to a slowdown in AI stocks and concerns about their growth prospects, prompting investors to seek safer bets like India. Domestic investors, meanwhile, turned net sellers, largely booking profits.",
+      "why_it_matters": "FPI flows affect stock market levels, the rupee and the cost of capital for Indian companies, impacting retail investors and the broader economy.",
+      "key_fact": "FPIs invested ₹89,856 crore in Indian equities in November",
+      "source_url": "https://www.thehindu.com/business/Economy/whats-behind-the-record-89856-crore-fpi-surge-into-indian-equities-explained/article71710393.ece",
+      "date": "2026-11-18",
+      "quiz": {
+        "q": "How much did FPIs invest in Indian equities in November?",
+        "options": [
+          "₹89,856 crore",
+          "₹8,985 crore",
+          "₹89,856 lakh",
+          "₹8.98 crore"
+        ],
+        "answer": 0,
+        "explain": "FPIs pumped an all-time high of ₹89,856 crore into Indian equities in November."
+      },
+      "tags": [
+        "FPI",
+        "stock market",
+        "investment"
+      ]
+    },
+    {
+      "id": "news-2026-11-18-13",
+      "type": "news",
+      "category": "science",
+      "headline": "Shivraj Singh Chouhan to dedicate India's first indigenous H5N1 poultry vaccine",
+      "body": "Union Agriculture Minister Shivraj Singh Chouhan will dedicate India's first indigenous H5N1 (clade 2.3.2.1a) highly pathogenic avian influenza vaccine for poultry on November 20 at ICAR-NIHSAD, Bhopal. The vaccine, developed by ICAR-NIHSAD, is the first of its kind against the H5N1 clade 2.3.2.1a virus. Bird flu outbreaks can cause up to 100% mortality in infected birds and have led to over 500 outbreaks in India since 2006.",
+      "why_it_matters": "The vaccine can reduce economic losses for poultry farmers and help prevent the spread of bird flu to other animals and humans.",
+      "key_fact": "India's first indigenous H5N1 poultry vaccine developed by ICAR-NIHSAD",
+      "source_url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2337717",
+      "date": "2026-11-18",
+      "quiz": {
+        "q": "Which institution developed India's first indigenous H5N1 poultry vaccine?",
+        "options": [
+          "ICAR-NIHSAD, Bhopal",
+          "ICMR-NIMR, Bhubaneswar",
+          "CSIR-IVRI, Bareilly",
+          "ICAR-CARI, Pune"
+        ],
+        "answer": 0,
+        "explain": "The vaccine was developed by ICAR-National Institute of High Security Animal Diseases (NIHSAD), Bhopal."
+      },
+      "tags": [
+        "bird flu",
+        "vaccine",
+        "poultry",
+        "agriculture"
+      ]
+    },
+    {
+      "id": "news-2026-11-18-14",
+      "type": "news",
+      "category": "science",
+      "headline": "President Murmu inaugurates golden jubilee of ICMR-NIMR",
+      "body": "President Droupadi Murmu inaugurated the golden jubilee celebrations of ICMR-National Institute of Malaria Research (NIMR). She noted that malaria cases and deaths fell by nearly 80% between 2015 and 2025, and high-burden districts dropped from 155 to 33. India was also removed from the WHO's High Burden to High Impact group in 2024. She called for stronger surveillance, mosquito control and research.",
+      "why_it_matters": "Malaria has historically been a major public health challenge in India, affecting rural and tribal communities, and sustained research and control efforts are crucial for elimination.",
+      "key_fact": "Malaria cases and deaths fell by nearly 80% from 2015 to 2025",
+      "source_url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2337640",
+      "date": "2026-11-18",
+      "quiz": {
+        "q": "Between 2015 and 2025, by how much did malaria cases and deaths decline in India, according to the President?",
+        "options": [
+          "Nearly 50%",
+          "Nearly 80%",
+          "Nearly 90%",
+          "Nearly 60%"
+        ],
+        "answer": 1,
+        "explain": "President Murmu said malaria cases and deaths fell by nearly 80% between 2015 and 2025."
+      },
+      "tags": [
+        "malaria",
+        "ICMR",
+        "public health",
+        "NIMR"
+      ]
+    },
+    {
+      "id": "news-2026-11-18-15",
+      "type": "news",
+      "category": "science",
+      "headline": "Voyager 1 to become first human-made object one light-day from Earth",
+      "body": "NASA's Voyager 1 is set to cross one light-day from Earth on November 18, 2026, becoming the first human-made object to do so. Launched in 1977, the probe is over 16 billion miles away. One light-day is the distance light travels in 24 hours. Radio signals from Voyager 1 will take 24 hours to reach Earth. Voyager 2 is expected to reach this milestone in November 2035.",
+      "why_it_matters": "This milestone highlights the vast scale of space and the durability of human engineering, inspiring interest in science and exploration.",
+      "key_fact": "Voyager 1 reaches one light-day from Earth on November 18, 2026",
+      "source_url": "https://www.thehindu.com/sci-tech/science/voyager-1-reaches-one-light-day-from-earth-on-november-18-what-it-means-nasa-latest-news/article71704297.ece",
+      "date": "2026-11-18",
+      "quiz": {
+        "q": "What is one light-day?",
+        "options": [
+          "The distance light travels in one day",
+          "The time light takes to reach the Sun",
+          "The distance between Earth and the Moon",
+          "The time light takes to reach Neptune"
+        ],
+        "answer": 0,
+        "explain": "One light-day is the distance that light, travelling at about 300,000 km per second, covers in 24 hours."
+      },
+      "tags": [
+        "Voyager 1",
+        "NASA",
+        "space",
+        "light-day"
+      ]
+    },
+    {
+      "id": "news-2026-11-18-16",
+      "type": "news",
+      "category": "science",
+      "headline": "Bangladesh's Rooppur nuclear plant starts grid supply on trial",
+      "body": "Bangladesh's first nuclear power plant at Rooppur in Pabna district began supplying 350 MW to the national grid on a trial basis. The Russian-assisted facility has two units of 1,200 MW each, totalling 2,400 MW. Once fully operational it is expected to meet over 10% of Bangladesh's electricity demand. The first unit will undergo a 10-month trial before commercial generation.",
+      "why_it_matters": "It makes Bangladesh the 33rd country to generate nuclear power and helps a 170-million-strong nation diversify energy amid fuel pressures.",
+      "key_fact": "Rooppur plant: two units of 1,200 MW each",
+      "source_url": "https://www.thehindu.com/news/international/bangladesh-connects-first-nuclear-power-plant-to-national-grid/article71713171.ece",
+      "date": "2026-11-18",
+      "quiz": {
+        "q": "What is the total planned capacity of Bangladesh's Rooppur nuclear power plant?",
+        "options": [
+          "1,200 MW",
+          "2,400 MW",
+          "350 MW",
+          "4,800 MW"
+        ],
+        "answer": 1,
+        "explain": "The plant has two units of 1,200 MW each, giving a combined capacity of 2,400 MW."
+      },
+      "tags": [
+        "Bangladesh",
+        "nuclear power",
+        "energy"
+      ]
+    },
+    {
+      "id": "news-2026-11-18-17",
+      "type": "news",
+      "category": "science",
+      "headline": "IN-SPACe picks three firms for 3D mapping of Indian cities",
+      "body": "IN-SPACe has selected SpacePixxel Technologies, KaleidEO Space Systems and Azista Industries to develop High-Resolution Indian Human Settlement Layers. The three firms will collectively receive ₹1.46 crore in seed funding to build an indigenous satellite-based system for 3D reconstruction of India's built environment. Pilot demonstrations will cover Bengaluru and Shimla, supporting urban planning, infrastructure and disaster risk assessment.",
+      "why_it_matters": "Accurate 3D geospatial data on settlements helps planners manage rapidly densifying Indian cities and assess disaster risk.",
+      "key_fact": "IN-SPACe seed funding of ₹1.46 crore for three firms",
+      "source_url": "https://www.thehindu.com/news/national/karnataka/three-space-companies-selected-to-develop-high-resolution-3d-reconstruction-techniques-for-indian-cities/article71711538.ece",
+      "date": "2026-11-18",
+      "quiz": {
+        "q": "Which two cities will host the pilot demonstrations for the IHSL 3D reconstruction project?",
+        "options": [
+          "Mumbai and Delhi",
+          "Bengaluru and Shimla",
+          "Chennai and Pune",
+          "Kolkata and Jaipur"
+        ],
+        "answer": 1,
+        "explain": "The pilots cover Bengaluru, a large metropolitan region, and Shimla, a hill city."
+      },
+      "tags": [
+        "IN-SPACe",
+        "geospatial",
+        "urban planning"
+      ]
+    },
+    {
+      "id": "news-2026-11-18-18",
+      "type": "news",
+      "category": "international",
+      "headline": "Nepal approved to import up to 350 MW from India in winter",
+      "body": "India's Central Electricity Authority authorised the Nepal Electricity Authority to import up to 350 MW from the Indian Energy Exchange for up to 17 hours a day. The approval runs from November 17, 2026, to July 31, 2027. Nepal's run-of-the-river hydropower is seasonal, and floods in August disconnected projects totalling 431 MW, worsening winter supply shortfalls.",
+      "why_it_matters": "It shows how regional power trade helps neighbours manage seasonal gaps between electricity demand and domestic generation.",
+      "key_fact": "Nepal allowed to import 350 MW from India via IEX",
+      "source_url": "https://www.thehindu.com/news/national/nepal-gets-nod-to-import-350-mw-of-power-from-india-during-winter/article71714504.ece",
+      "date": "2026-11-18",
+      "quiz": {
+        "q": "Which Indian body authorised Nepal to import up to 350 MW of electricity?",
+        "options": [
+          "NITI Aayog",
+          "Central Electricity Authority",
+          "Ministry of External Affairs",
+          "Power Grid Corporation of India"
+        ],
+        "answer": 1,
+        "explain": "The CEA, under India's Ministry of Power, gave the approval valid from November 2026 to July 2027."
+      },
+      "tags": [
+        "Nepal",
+        "electricity",
+        "power trade"
+      ]
+    },
+    {
+      "id": "news-2026-11-18-19",
+      "type": "news",
+      "category": "environment",
+      "headline": "India highlights progress on India-Japan Joint Crediting Mechanism at COP31",
+      "body": "At COP31 in Antalya, Türkiye, environment minister Bhupender Yadav highlighted progress on the India-Japan Joint Crediting Mechanism. The two countries signed a cooperation memorandum on August 7, 2025, establishing the JCM under Article 6.2 of the Paris Agreement. Implementation rules were adopted on June 8, 2026, and an operational handbook was launched on September 30, 2026, covering project proposals, verification and credit issuance.",
+      "why_it_matters": "The JCM channels Japanese finance and technology into Indian low-carbon projects, supporting India's climate targets and domestic capacity.",
+      "key_fact": "India-Japan JCM set up under Paris Agreement Article 6.2",
+      "source_url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2337641",
+      "date": "2026-11-18",
+      "quiz": {
+        "q": "Under which article of the Paris Agreement was the India-Japan Joint Crediting Mechanism established?",
+        "options": [
+          "Article 4.2",
+          "Article 6.2",
+          "Article 9.1",
+          "Article 2.1"
+        ],
+        "answer": 1,
+        "explain": "The JCM was established under Article 6.2 of the Paris Agreement, which covers cooperative approaches between countries."
+      },
+      "tags": [
+        "India-Japan",
+        "climate",
+        "COP31"
+      ]
+    },
+    {
+      "id": "news-2026-11-18-20",
+      "type": "news",
+      "category": "environment",
+      "headline": "India and Sweden launch LeadIT 3.0 for industrial decarbonisation",
+      "body": "Union environment minister Bhupender Yadav announced LeadIT 3.0, the 2027-30 phase of the India-Sweden Leadership Group for Industry Transition, at COP31 in Antalya. The phase shifts from building partnerships to scaling low-carbon projects in hard-to-abate sectors like steel, cement and transport. Its priorities are technology diffusion, capital mobilisation and policy support, including carbon markets. LeadIT was launched in 2019.",
+      "why_it_matters": "Steel, cement and transport are among the hardest sectors to decarbonise, so their progress directly affects national emissions targets.",
+      "key_fact": "LeadIT 3.0 runs from 2027 to 2030",
+      "source_url": "https://www.livemint.com/news/india-sweden-push-to-turn-industrial-climate-pledges-into-projects-11794904190288.html",
+      "date": "2026-11-18",
+      "quiz": {
+        "q": "Which sectors does the LeadIT initiative primarily target for decarbonisation?",
+        "options": [
+          "Agriculture and fisheries",
+          "Steel, cement and transport",
+          "Retail and hospitality",
+          "Aviation and shipping only"
+        ],
+        "answer": 1,
+        "explain": "LeadIT focuses on hard-to-abate sectors such as steel, cement and transport."
+      },
+      "tags": [
+        "LeadIT",
+        "India-Sweden",
+        "decarbonisation"
+      ]
+    }
+  ]
+}
