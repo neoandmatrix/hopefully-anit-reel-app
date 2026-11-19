@@ -1,0 +1,556 @@
+{
+  "date": "2026-11-19",
+  "cards": [
+    {
+      "id": "news-2026-11-19-01",
+      "type": "news",
+      "category": "environment",
+      "headline": "India seeks open, fair second Global Stocktake at COP31",
+      "body": "At UNFCCC COP31 in Antalya, Türkiye, Environment Minister Bhupendra Yadav called for the second Global Stocktake (GST-2) under the Paris Agreement to be open, transparent and inclusive. He said it should use the best available science, follow the principle of common but differentiated responsibilities, and assess gaps in climate finance and technology transfer, which he said remain far below what developed countries promised.",
+      "why_it_matters": "The Global Stocktake is the formal check on whether countries are meeting Paris Agreement goals, and its findings shape future climate targets and finance pledges that affect developing economies like India.",
+      "key_fact": "Second Global Stocktake is known as GST-2",
+      "source_url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2338166",
+      "date": "2026-11-19",
+      "quiz": {
+        "q": "What is the second review under the Paris Agreement, discussed at COP31, called?",
+        "options": [
+          "Global Climate Audit",
+          "Global Stocktake (GST-2)",
+          "Paris Review Mechanism",
+          "Carbon Balance Check"
+        ],
+        "answer": 1,
+        "explain": "The article refers to the second Global Stocktake under the Paris Agreement as GST-2."
+      },
+      "tags": [
+        "climate",
+        "COP31",
+        "Paris Agreement"
+      ]
+    },
+    {
+      "id": "news-2026-11-19-02",
+      "type": "news",
+      "category": "international",
+      "headline": "India, Canada plan defence pact during Modi's December visit",
+      "body": "India's High Commissioner to Canada, Dinesh K. Patnaik, said the two countries could announce a defence agreement during Prime Minister Narendra Modi's visit on December 11-12. Both sides are in the final stages of negotiating a Comprehensive Economic Partnership Agreement. Ties were derailed after the 2023 killing of Khalistani activist Hardeep Singh Nijjar, but the article says trust has since been rebuilt.",
+      "why_it_matters": "A stronger India-Canada partnership on defence, trade and mobility matters for Indians through jobs, education and business ties, and marks a recovery from a serious diplomatic low.",
+      "key_fact": "Modi's Canada visit on December 11-12",
+      "source_url": "https://www.thehindu.com/news/national/india-canada-eye-defence-pact-during-modi-visit-in-december/article71716898.ece",
+      "date": "2026-11-19",
+      "quiz": {
+        "q": "According to the article, when is Prime Minister Modi scheduled to visit Canada?",
+        "options": [
+          "November 11-12",
+          "December 11-12",
+          "January 11-12",
+          "October 11-12"
+        ],
+        "answer": 1,
+        "explain": "The article states the visit is set for December 11 and 12."
+      },
+      "tags": [
+        "India-Canada",
+        "diplomacy",
+        "defence"
+      ]
+    },
+    {
+      "id": "news-2026-11-19-03",
+      "type": "news",
+      "category": "economy",
+      "headline": "India-US trade deal signing to take 'some time': Commerce Secretary",
+      "body": "Commerce Secretary Rajesh Agrawal said the India-US trade deal's signing will take some time because the US is still completing its Section 301 investigations and finalising a new tariff structure. Negotiations and the legal text are near completion. A February joint statement had announced an interim framework, and one Section 301 probe has already led to a 10% tariff on Indian imports.",
+      "why_it_matters": "US tariffs directly affect Indian exporters, jobs and prices, so the timing of this trade deal matters to businesses and workers across sectors.",
+      "key_fact": "10% tariff on some Indian imports after a Section 301 probe",
+      "source_url": "https://www.thehindu.com/business/Economy/india-us-trade-deal-signing-will-still-take-some-time-says-commerce-secretary-rajesh-agrawal/article71715672.ece",
+      "date": "2026-11-19",
+      "quiz": {
+        "q": "Which US law is cited as the basis for tariff investigations against trade partners in the article?",
+        "options": [
+          "Section 232 of the Trade Expansion Act",
+          "Section 301 of the Trade Act of 1974",
+          "Section 201 of the Trade Act",
+          "Section 401 of the Tariff Act"
+        ],
+        "answer": 1,
+        "explain": "The article mentions investigations under Section 301 of the Trade Act of 1974."
+      },
+      "tags": [
+        "India-US",
+        "trade",
+        "tariffs"
+      ]
+    },
+    {
+      "id": "news-2026-11-19-04",
+      "type": "news",
+      "category": "polity",
+      "headline": "Health Ministry proposes bringing antimicrobials under central scrutiny",
+      "body": "The Union Health Ministry has issued a draft gazette notification, G.S.R. 983(E), proposing to amend the New Drugs and Clinical Trials Rules, 2019, so that antimicrobials are treated as 'new drugs'. Manufacturers would then need approval from the Central Licensing Authority before applying to state authorities for a manufacturing licence, strengthening checks on quality, safety and efficacy amid rising antimicrobial resistance.",
+      "why_it_matters": "Poor-quality or substandard antibiotics can speed up antimicrobial resistance, so tighter central checks protect patients and keep these medicines effective.",
+      "key_fact": "Draft notification G.S.R. 983(E)",
+      "source_url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2338285",
+      "date": "2026-11-19",
+      "quiz": {
+        "q": "Which rules does the Health Ministry propose to amend to bring antimicrobials under stricter regulation?",
+        "options": [
+          "Drugs and Cosmetics Rules, 1945",
+          "New Drugs and Clinical Trials Rules, 2019",
+          "Pharmacy Act, 1948",
+          "Medical Devices Rules, 2017"
+        ],
+        "answer": 1,
+        "explain": "The draft seeks to amend the New Drugs and Clinical Trials Rules, 2019."
+      },
+      "tags": [
+        "health",
+        "antimicrobial resistance",
+        "regulation"
+      ]
+    },
+    {
+      "id": "news-2026-11-19-05",
+      "type": "news",
+      "category": "environment",
+      "headline": "Odisha evacuates over 80,000 as cyclone Akvan nears Gopalpur",
+      "body": "Severe cyclonic storm Akvan moved northward over the west-central Bay of Bengal at 12 kmph, with the IMD projecting landfall near Gopalpur in Odisha around November 20 noon. Odisha evacuated over 80,000 people and deployed 74 rescue teams. The IMD also flagged a rare event for Andhra Pradesh, where three tropical cyclones have crossed the coast within a month.",
+      "why_it_matters": "Timely evacuation and accurate forecasts before a cyclone make landfall are critical to saving lives and limiting damage in coastal districts.",
+      "key_fact": "Cyclone Akvan landfall near Gopalpur, Odisha",
+      "source_url": "https://www.thehindu.com/news/national/cyclone-akwan-tracker-live-updates-odisha-andhra-pradesh-landfall-imd-map-location-puri-vizag-bay-of-bengal/article71718788.ece",
+      "date": "2026-11-19",
+      "quiz": {
+        "q": "Where is cyclone Akvan expected to make landfall, according to the IMD's latest track?",
+        "options": [
+          "Near Puri in Odisha",
+          "Near Gopalpur in Odisha",
+          "Near Narsapur in Andhra Pradesh",
+          "Near Kakinada in Andhra Pradesh"
+        ],
+        "answer": 1,
+        "explain": "The new projected track points to a probable landfall on the Odisha coast near Gopalpur."
+      },
+      "tags": [
+        "cyclone",
+        "Odisha",
+        "IMD"
+      ]
+    },
+    {
+      "id": "news-2026-11-19-06",
+      "type": "news",
+      "category": "economy",
+      "headline": "India's October crude import bill jumps 87.5% to $19.5 billion",
+      "body": "India's crude oil import bill surged 87.5% year-on-year to $19.5 billion in October, driven by higher international prices amid West Asia tensions. Import volumes rose 11% to 23.3 million metric tonnes. The net import bill increased 60% to $16 billion. A 91% rise in petroleum product export earnings to $6.3 billion provided some cushion. LNG imports fell 7% in volume but the bill rose 8.33%.",
+      "why_it_matters": "Higher crude import costs can raise fuel prices and inflation in India, which depends heavily on imported oil.",
+      "key_fact": "India's crude oil import bill rose 87.5% to $19.5 billion in October.",
+      "source_url": "https://www.thehindu.com/business/Economy/indias-oct-crude-import-bill-soars-875-to-195-bn-amid-west-asia-tensions-volumes-up-11/article71716652.ece",
+      "date": "2026-11-19",
+      "quiz": {
+        "q": "By what percentage did India's crude oil import bill increase year-on-year in October?",
+        "options": [
+          "87.5%",
+          "60%",
+          "11%",
+          "91%"
+        ],
+        "answer": 0,
+        "explain": "The article states the crude oil import bill surged 87.5% year-on-year to $19.5 billion."
+      },
+      "tags": [
+        "crude oil",
+        "imports",
+        "economy",
+        "energy"
+      ]
+    },
+    {
+      "id": "news-2026-11-19-07",
+      "type": "news",
+      "category": "international",
+      "headline": "Trump, Xi, Putin to hold historic trilateral talks in China",
+      "body": "US President Donald Trump, Chinese President Xi Jinping, and Russian President Vladimir Putin are set to meet in Shenzhen, China, on Thursday, November 19, on the sidelines of the 33rd APEC Economic Leaders' Meeting. The trilateral meeting is described as historic as it brings together the heads of the world's three most influential military powers in a formal three-way setting for the first time amid deep global fractures.",
+      "why_it_matters": "A meeting of the leaders of the three major military powers could influence global security and diplomacy.",
+      "key_fact": "Trump, Xi, and Putin to hold first trilateral meeting in Shenzhen on November 19.",
+      "source_url": "https://www.thehindu.com/videos/watch-trump-xi-and-putin-to-hold-historic-trilateral-talks-in-china-on-apec-sidelines/article71718808.ece",
+      "date": "2026-11-19",
+      "quiz": {
+        "q": "Where is the trilateral meeting between Trump, Xi, and Putin scheduled to take place?",
+        "options": [
+          "Shenzhen, China",
+          "Beijing, China",
+          "Moscow, Russia",
+          "Washington D.C., USA"
+        ],
+        "answer": 0,
+        "explain": "The article states the meeting will be held in Shenzhen, China, on the sidelines of the APEC summit."
+      },
+      "tags": [
+        "trilateral meeting",
+        "APEC",
+        "Trump",
+        "Xi",
+        "Putin"
+      ]
+    },
+    {
+      "id": "news-2026-11-19-08",
+      "type": "news",
+      "category": "international",
+      "headline": "Xi tells Trump China-US relations 'stable and improved' ahead of trilateral talks",
+      "body": "At the APEC summit in Shenzhen on November 19, 2026, President Xi Jinping told Donald Trump that China-US relations are 'stable and improved,' bringing benefits to both countries. The two leaders met for the third time this year before trilateral talks with Russia's Vladimir Putin. Putin and Trump discussed Ukraine and bilateral ties. Experts expect the trilateral meeting to be exploratory and symbolic, with low expectations for breakthroughs.",
+      "why_it_matters": "China-US relations affect global trade, security, and India's strategic environment.",
+      "key_fact": "Xi described China-US relations as 'stable and improved' on November 19, 2026.",
+      "source_url": "https://www.thehindu.com/news/international/donald-trump-xi-jinping-vladimir-putin-trilateral-meeting-in-shenzhen-live-updates-november-19-2026/article71718525.ece",
+      "date": "2026-11-19",
+      "quiz": {
+        "q": "How did President Xi Jinping describe China-US relations during his meeting with Donald Trump?",
+        "options": [
+          "Stable and improved",
+          "Strained and tense",
+          "Deteriorating rapidly",
+          "Unchanged"
+        ],
+        "answer": 0,
+        "explain": "The article quotes Xi saying China-US relations have remained generally stable and improved."
+      },
+      "tags": [
+        "China-US relations",
+        "APEC",
+        "Xi Jinping",
+        "Donald Trump"
+      ]
+    },
+    {
+      "id": "news-2026-11-19-09",
+      "type": "news",
+      "category": "science",
+      "headline": "How ISRO selected astronaut candidates for Gaganyaan mission",
+      "body": "The article explains that ISRO selected military test pilots as astronaut candidates for the Gaganyaan mission, following historical practice. Test pilots are highly skilled, calm under pressure, and help identify design flaws. The four candidates named are Wing Commander Shubanshu Shukla, Group Captain Prashanth Balakrishnan Nair, Group Captain Ajit Krishnan, and Wing Commander Angad Prathap, who are under training.",
+      "why_it_matters": "Gaganyaan is India's first human spaceflight mission, and the selection of astronauts is a key step.",
+      "key_fact": "Four IAF test pilots selected for Gaganyaan astronaut training.",
+      "source_url": "https://www.thehindu.com/sci-tech/science/how-did-isro-pick-astronaut-candidates-for-the-gaganyaan-mission/article71707743.ece",
+      "date": "2026-11-19",
+      "quiz": {
+        "q": "What is the Karman line, mentioned in the article?",
+        "options": [
+          "An imaginary line 100 km above sea level marking the boundary of space",
+          "The path of the Gaganyaan mission",
+          "A training facility for astronauts",
+          "The name of ISRO's launch vehicle"
+        ],
+        "answer": 0,
+        "explain": "The article states the Karman line is an imaginary line 100 km above sea level, widely regarded as the boundary at which space begins."
+      },
+      "tags": [
+        "ISRO",
+        "Gaganyaan",
+        "astronauts",
+        "space"
+      ]
+    },
+    {
+      "id": "news-2026-11-19-10",
+      "type": "news",
+      "category": "science",
+      "headline": "Voyager 1 to become first human-made object one light-day from Earth",
+      "body": "NASA's Voyager 1 is set to cross one light-day from Earth on November 18, 2026, at 5:16:07 a.m. EST. Launched in 1977, it has travelled over 16 billion miles. One light-day is the distance light travels in 24 hours. Radio signals will take 24 hours to reach Earth. Voyager 1 entered interstellar space in 2012 and captured the 'Pale Blue Dot' image in 1990.",
+      "why_it_matters": "This milestone highlights the vast scale of space and the enduring achievements of human exploration.",
+      "key_fact": "Voyager 1 reaches one light-day from Earth on November 18, 2026.",
+      "source_url": "https://www.thehindu.com/sci-tech/science/voyager-1-reaches-one-light-day-from-earth-on-november-18-what-it-means-nasa-latest-news/article71704297.ece",
+      "date": "2026-11-19",
+      "quiz": {
+        "q": "What does one light-day represent?",
+        "options": [
+          "The distance light travels in 24 hours",
+          "The time it takes light to reach Earth from the Sun",
+          "The distance from Earth to Neptune",
+          "The speed of Voyager 1"
+        ],
+        "answer": 0,
+        "explain": "The article explains that one light-day is the distance light, travelling at about 186,000 miles per second, covers in a full 24-hour period."
+      },
+      "tags": [
+        "Voyager 1",
+        "NASA",
+        "space exploration",
+        "light-day"
+      ]
+    },
+    {
+      "id": "news-2026-11-19-11",
+      "type": "news",
+      "category": "international",
+      "headline": "Ukraine strikes Kerch Bridge in 'unprecedented' drone and missile operation",
+      "body": "Ukrainian drones and missiles struck the Kerch Bridge linking Russia to occupied Crimea on November 17, 2026, President Volodymyr Zelenskyy said. Ukraine's General Staff reported that an arch and a road span collapsed, severing the road link, while the railway line remained standing but its arch was damaged. Russia said it downed a record number of Ukrainian drones for the second straight day and hit two bridges in Kyiv, killing at least two people.",
+      "why_it_matters": "The Kerch Bridge is a key supply route for Russian forces and a symbol of Russia's 2014 annexation of Crimea, so attacks on it signal a serious escalation in the war.",
+      "key_fact": "Kerch Bridge links Russia to occupied Crimea",
+      "source_url": "https://www.thehindu.com/news/international/ukraine-strikes-major-russian-bridge-with-drones-and-missiles-as-aerial-attacks-escalate/article71713178.ece",
+      "date": "2026-11-19",
+      "quiz": {
+        "q": "What does the Kerch Bridge connect?",
+        "options": [
+          "Russia and occupied Crimea",
+          "Russia and Belarus",
+          "Ukraine and Poland",
+          "Crimea and Turkey"
+        ],
+        "answer": 0,
+        "explain": "The article describes the Kerch Bridge as a vital link moving supplies from Russia to the occupied Crimean Peninsula."
+      },
+      "tags": [
+        "Ukraine",
+        "Russia",
+        "Crimea",
+        "war"
+      ]
+    },
+    {
+      "id": "news-2026-11-19-12",
+      "type": "news",
+      "category": "international",
+      "headline": "India, Japan hold 2+2 defence talks in Tokyo",
+      "body": "Defence Minister Rajnath Singh and External Affairs Minister S. Jaishankar arrived in Tokyo on November 18, 2026, for the fourth India-Japan 2+2 ministerial dialogue. They will co-chair the talks with Japanese Defence Minister Shinjiro Koizumi and Foreign Minister Toshimitsu Motegi. The two sides are expected to review defence equipment and technology, maritime security, joint exercises and industrial partnerships, and reaffirm commitment to a free, open and rules-based Indo-Pacific.",
+      "why_it_matters": "India-Japan defence cooperation is a key part of the Quad grouping, and stronger ties affect India's security posture in the Indo-Pacific region.",
+      "key_fact": "Fourth India-Japan 2+2 ministerial dialogue",
+      "source_url": "https://www.thehindu.com/news/international/india-japan-set-to-review-defence-ties-as-rajnath-jaishankar-arrive-in-tokyo/article71714856.ece",
+      "date": "2026-11-19",
+      "quiz": {
+        "q": "Which edition of the India-Japan 2+2 ministerial dialogue is being held in Tokyo?",
+        "options": [
+          "Second",
+          "Third",
+          "Fourth",
+          "Fifth"
+        ],
+        "answer": 2,
+        "explain": "The article states that Singh and Jaishankar arrived for the fourth edition of the 2+2 ministerial dialogue."
+      },
+      "tags": [
+        "India",
+        "Japan",
+        "defence",
+        "diplomacy"
+      ]
+    },
+    {
+      "id": "news-2026-11-19-13",
+      "type": "news",
+      "category": "international",
+      "headline": "Pakistan minister to lead delegation to SCO Civilisations Dialogue Forum in Delhi",
+      "body": "Pakistan's Minister for Climate Change and Environmental Coordination Dr. Musadik Masood Malik will lead a Pakistani delegation to the SCO Civilisations Dialogue Forum in New Delhi from November 20 to 22, 2026. The event, proposed by Prime Minister Narendra Modi at the SCO summit in Tianjin and organised by the Culture and External Affairs Ministries, will be held at Purana Quila and inaugurated by Mr. Modi. Culture ministers from the 10 SCO member states have been invited.",
+      "why_it_matters": "The forum is the first SCO civilisational dialogue and brings India and Pakistan together in a multilateral setting, reflecting India's role in the grouping.",
+      "key_fact": "SCO Civilisations Dialogue Forum, New Delhi, November 20-22, 2026",
+      "source_url": "https://www.thehindu.com/news/international/pakistan-minister-to-lead-delegation-to-delhi-for-sco-civilisations-dialogue-forum/article71718672.ece",
+      "date": "2026-11-19",
+      "quiz": {
+        "q": "Where will the SCO Civilisations Dialogue Forum be held?",
+        "options": [
+          "Purana Quila, Delhi",
+          "Red Fort, Agra",
+          "Tianjin, China",
+          "Islamabad, Pakistan"
+        ],
+        "answer": 0,
+        "explain": "The article says the event will be held at Delhi's Purana Quila (Old Fort)."
+      },
+      "tags": [
+        "SCO",
+        "India",
+        "Pakistan",
+        "diplomacy"
+      ]
+    },
+    {
+      "id": "news-2026-11-19-14",
+      "type": "news",
+      "category": "international",
+      "headline": "Bangladesh deploys paramilitary amid unrest over Sheikh Hasina's planned return",
+      "body": "Bangladesh deployed hundreds of paramilitary troops nationwide on November 18, 2026, after former Prime Minister Sheikh Hasina's planned return sparked clashes, bomb blasts and arson. Ms. Hasina, in exile in India since August 2024, has requested a new passport and plans to return in December, but the government has rejected the request. Her Awami League party announced protests culminating in a nationwide lockdown on November 19.",
+      "why_it_matters": "Political instability in Bangladesh, a neighbouring country, can affect regional security, trade and India's border management.",
+      "key_fact": "Sheikh Hasina in exile in India since August 2024",
+      "source_url": "https://www.thehindu.com/news/international/bangladesh-deploys-paramilitary-as-unrest-grows-overhasinas-return/article71717353.ece",
+      "date": "2026-11-19",
+      "quiz": {
+        "q": "When did Sheikh Hasina flee Dhaka and take refuge in India?",
+        "options": [
+          "August 2024",
+          "December 2024",
+          "August 2026",
+          "November 2026"
+        ],
+        "answer": 0,
+        "explain": "The article states she has lived in exile in India since she fled Dhaka in August 2024 following violent protests."
+      },
+      "tags": [
+        "Bangladesh",
+        "Sheikh Hasina",
+        "protest",
+        "politics"
+      ]
+    },
+    {
+      "id": "news-2026-11-19-15",
+      "type": "news",
+      "category": "polity",
+      "headline": "Health Ministry proposes separate licensing framework for bulk drug wholesale",
+      "body": "The Union Health and Family Welfare Ministry has proposed amendments to the Drugs Rules, 1945, through draft gazette notification G.S.R. 987(E) dated November 2, 2026. The amendments introduce separate application Form 19-BC and licence Form 20-BC for wholesale sale of bulk drugs, distinct from the existing licensing provisions for formulations. The proposal, agreed by the Drug Consultative Committee and Drug Technical Advisory Board, aims for focused regulatory oversight and accountability in the pharmaceutical supply chain.",
+      "why_it_matters": "A dedicated licensing framework for bulk drugs can improve tracking and quality control in the medicine supply chain, which ultimately affects drug safety for patients.",
+      "key_fact": "Drugs Rules, 1945 amended via draft G.S.R. 987(E)",
+      "source_url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2338288",
+      "date": "2026-11-19",
+      "quiz": {
+        "q": "Which rules are being amended by the proposed bulk drug licensing framework?",
+        "options": [
+          "Drugs Rules, 1945",
+          "Pharmacy Act, 1948",
+          "NDPS Act, 1985",
+          "Drugs and Cosmetics Act, 1940"
+        ],
+        "answer": 0,
+        "explain": "The article states the Health Ministry has proposed amendments to the Drugs Rules, 1945."
+      },
+      "tags": [
+        "health",
+        "bulk drugs",
+        "licensing",
+        "regulation"
+      ]
+    },
+    {
+      "id": "news-2026-11-19-16",
+      "type": "news",
+      "category": "environment",
+      "headline": "India may have over 1,000 community seed banks, 652 mapped",
+      "body": "A Diversifarm-India survey estimates India has at least 1,000 community seed banks (CSBs). The project's digital atlas has mapped 652 of these community-led institutions. Findings were presented at a national symposium on CSBs held at NASSC in New Delhi on November 17-18, 2026. The outputs include a GIS-based atlas, a policy brief on six CSB types, an Odisha roadmap and a capacity-building manual.",
+      "why_it_matters": "Community seed banks help farmers conserve local seed varieties, which supports food security and crop resilience, especially for small farmers.",
+      "key_fact": "At least 1,000 community seed banks in India, 652 mapped",
+      "source_url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2338172",
+      "date": "2026-11-19",
+      "quiz": {
+        "q": "How many community seed banks have been mapped in the Diversifarm-India digital atlas?",
+        "options": [
+          "652",
+          "1,000",
+          "462",
+          "250"
+        ],
+        "answer": 0,
+        "explain": "The survey estimates at least 1,000 CSBs in India, and 652 have already been mapped."
+      },
+      "tags": [
+        "agriculture",
+        "seed banks",
+        "farmers"
+      ]
+    },
+    {
+      "id": "news-2026-11-19-17",
+      "type": "news",
+      "category": "environment",
+      "headline": "Parvat Manthan conclave 2026 ends in Dehradun with urban resilience suggestions",
+      "body": "The Pravat Manthan Conclave 2026, organised by the National Institute of Urban Affairs, concluded in Dehradun on November 18, 2026. Held on November 17-18, it focused on urban resilience, environmental planning and sustainable service delivery in the Indian Himalayan region. It was inaugurated by Minister of State for Housing and Urban Affairs Tokhan Sahu under the theme of mainstreaming resilient water and sanitation for Himalayan cities.",
+      "why_it_matters": "Himalayan towns face specific urban challenges such as water security and sanitation, so regional cooperation and planning matter for sustainable growth.",
+      "key_fact": "Parvat Manthan Conclave 2026 held in Dehradun on November 17-18",
+      "source_url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2338163",
+      "date": "2026-11-19",
+      "quiz": {
+        "q": "Which organisation hosted the Pravat Manthan Conclave 2026?",
+        "options": [
+          "National Institute of Urban Affairs",
+          "Ministry of Jal Shakti",
+          "Central Ground Water Authority",
+          "Diversifarm-India"
+        ],
+        "answer": 0,
+        "explain": "The conclave was organised by the National Institute of Urban Affairs (NIUA)."
+      },
+      "tags": [
+        "urbanisation",
+        "Himalayas",
+        "water"
+      ]
+    },
+    {
+      "id": "news-2026-11-19-18",
+      "type": "news",
+      "category": "environment",
+      "headline": "Centre offers 30-75% relief on groundwater compensation",
+      "body": "The Ministry of Jal Shakti has notified the Ground Water Charges (Dispute Resolution) Scheme, 2026, effective November 12, offering one-time relief of 30-75% in environmental compensation for groundwater violations. It covers projects in 19 States and UTs under the Central Ground Water Authority, and will remain in force for one year. The relief varies by violation type and groundwater assessment category.",
+      "why_it_matters": "The scheme encourages industries and projects to regularise groundwater use and settle disputes, which affects how groundwater is regulated and conserved.",
+      "key_fact": "Ground Water Charges (Dispute Resolution) Scheme, 2026 notified on November 12",
+      "source_url": "https://www.thehindu.com/sci-tech/energy-and-environment/centre-offers-up-to-75-relief-in-environmental-compensation-to-groundwater-users/article71715304.ece",
+      "date": "2026-11-19",
+      "quiz": {
+        "q": "What is the maximum relief offered under the Ground Water Charges (Dispute Resolution) Scheme, 2026?",
+        "options": [
+          "75%",
+          "60%",
+          "70%",
+          "30%"
+        ],
+        "answer": 0,
+        "explain": "The notification says the maximum relief of 75% is available to projects that extracted groundwater beyond the permitted quantity."
+      },
+      "tags": [
+        "groundwater",
+        "Jal Shakti",
+        "environment"
+      ]
+    },
+    {
+      "id": "news-2026-11-19-19",
+      "type": "news",
+      "category": "environment",
+      "headline": "Activist flags construction on Kaziranga wildlife corridors to CEC",
+      "body": "Environmental activist Rohit Choudhury has written to the Supreme Court-constituted Central Empowered Committee, reminding it of ongoing construction on a Kaziranga National Park wildlife corridor. In a November 16 letter, he cited a building on the Haldhibari corridor, reported earlier in May. He alleged Assam's government has disregarded the Supreme Court's April 2019 order barring new construction on the nine identified animal corridors.",
+      "why_it_matters": "Kaziranga's corridors let animals escape floods, so violations of Supreme Court orders threaten both wildlife protection and the rule of law.",
+      "key_fact": "Supreme Court's April 2019 order bars new construction on Kaziranga's nine corridors",
+      "source_url": "https://www.thehindu.com/news/national/assam/construction-activities-on-kaziranga-wildlife-corridors-flagged/article71713607.ece",
+      "date": "2026-11-19",
+      "quiz": {
+        "q": "According to the article, when did the Supreme Court order restraint on construction in Kaziranga's animal corridors?",
+        "options": [
+          "April 2019",
+          "May 2026",
+          "November 2016",
+          "April 2026"
+        ],
+        "answer": 0,
+        "explain": "The activist's letter cites the Supreme Court's April 2019 order prohibiting new construction on the nine identified corridors."
+      },
+      "tags": [
+        "Kaziranga",
+        "wildlife",
+        "Supreme Court"
+      ]
+    },
+    {
+      "id": "news-2026-11-19-20",
+      "type": "news",
+      "category": "economy",
+      "headline": "Centre widens export support, raises airfare reimbursement for small exporters",
+      "body": "The commerce ministry has eased eligibility for a key export support programme. Firms with export turnover up to ₹50 crore can now claim airfare reimbursement, replacing the earlier ₹75 lakh ceiling. Reimbursement is up to 95% for micro and small exporters and 80% for others. The changes are part of the Export Promotion Mission, which received ₹25,060 crore over five years through 2030-31.",
+      "why_it_matters": "MSMEs account for nearly 49% of India's exports, so making trade promotion support easier to access can help smaller firms compete globally.",
+      "key_fact": "Export Promotion Mission outlay of ₹25,060 crore over five years",
+      "source_url": "https://www.livemint.com/news/india/central-government-export-support-rules-small-exporters-aid-export-reimbursements-small-and-medium-enterprises-11795008058477.html",
+      "date": "2026-11-19",
+      "quiz": {
+        "q": "What is the outlay approved for the Export Promotion Mission over five years?",
+        "options": [
+          "₹25,060 crore",
+          "₹75 lakh",
+          "₹50 crore",
+          "₹20 lakh"
+        ],
+        "answer": 0,
+        "explain": "The Cabinet Committee on Economic Affairs approved ₹25,060 crore for the mission through 2030-31."
+      },
+      "tags": [
+        "exports",
+        "MSME",
+        "commerce ministry"
+      ]
+    }
+  ]
+}
