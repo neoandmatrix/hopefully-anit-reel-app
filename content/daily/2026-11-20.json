@@ -1,0 +1,529 @@
+{
+  "date": "2026-11-20",
+  "cards": [
+    {
+      "id": "news-2026-11-20-01",
+      "type": "news",
+      "category": "polity",
+      "headline": "SC Dismisses Tamil Nadu's Cauvery Water Plea Against Karnataka",
+      "body": "The Supreme Court dismissed Tamil Nadu's application seeking 11.719 TMC of Cauvery water, with Karnataka arguing that the Cauvery Water Management Authority had not ordered the release. Tamil Nadu claimed a shortfall and pointed to Karnataka's reservoir storage of about 49 tmcft. Karnataka's Chief Minister D.K. Shivakumar said the State lacks even drinking water. Karnataka was allocated 284.75 tmcft and Tamil Nadu 404.25 tmcft out of 483 tmcft up to Billigundulu.",
+      "why_it_matters": "The Cauvery dispute affects water access for millions of farmers and residents in Karnataka and Tamil Nadu, and the Supreme Court's decision shapes how the water-sharing Tribunal award is enforced.",
+      "key_fact": "Cauvery water-sharing: TN allocated 404.25 tmcft, Karnataka 284.75 tmcft",
+      "source_url": "https://www.thehindu.com/news/national/cauvery-water-sharing-dispute-tamil-nadu-karnataka-supreme-court-judgement-live-updates-november-20-2026/article71723088.ece",
+      "date": "2026-11-20",
+      "quiz": {
+        "q": "Under the Cauvery water-sharing arrangement mentioned, how much water was allocated to Tamil Nadu out of the 483 tmcft available up to Billigundulu?",
+        "options": [
+          "284.75 tmcft",
+          "404.25 tmcft",
+          "483 tmcft",
+          "11.719 tmcft"
+        ],
+        "answer": 1,
+        "explain": "The article states Tamil Nadu was allocated 404.25 tmcft and Karnataka 284.75 tmcft out of 483 tmcft."
+      },
+      "tags": [
+        "Cauvery",
+        "Supreme Court",
+        "water dispute",
+        "Karnataka"
+      ]
+    },
+    {
+      "id": "news-2026-11-20-02",
+      "type": "news",
+      "category": "environment",
+      "headline": "COP31 Final Day: Nations Seek Deeper Fossil Fuel Cuts",
+      "body": "Negotiators at the UN climate summit in Turkiye entered the final day seeking meaningful commitments to cut fossil fuel emissions. A goal aims to raise electricity's share of global energy consumption from about 21% to 35% by 2035, preferably from renewables, but it would still allow coal and other fossil fuels. Major emitters like the US did not participate directly. Climate Action Tracker warned warming progress has stalled, with the world set to overshoot the 1.5°C Paris Agreement goal.",
+      "why_it_matters": "Global climate commitments directly influence India's energy transition, air quality, and vulnerability to extreme weather like heat waves and floods.",
+      "key_fact": "COP31 goal: raise electricity's share of global energy from 21% to 35% by 2035",
+      "source_url": "https://www.thehindu.com/sci-tech/energy-and-environment/cop-31-nations-still-seeking-deeper-fossil-fuel-cuts-as-climate-summit-enters-final-day/article71722951.ece",
+      "date": "2026-11-20",
+      "quiz": {
+        "q": "What target does the COP31 goal set for electricity's share of total global energy consumption by 2035?",
+        "options": [
+          "From 21% to 35%",
+          "From 35% to 50%",
+          "From 15% to 25%",
+          "From 50% to 65%"
+        ],
+        "answer": 0,
+        "explain": "The article states the goal is to increase electricity's share from roughly 21% to 35% by 2035."
+      },
+      "tags": [
+        "COP31",
+        "climate change",
+        "fossil fuels",
+        "Paris Agreement"
+      ]
+    },
+    {
+      "id": "news-2026-11-20-03",
+      "type": "news",
+      "category": "international",
+      "headline": "ICJ Rules Myanmar Committed Genocide Against Rohingya",
+      "body": "The International Court of Justice ruled that Myanmar committed genocide against its Rohingya minority during the 2017 crackdown, the first such ruling in the court's 80-year history. The ICJ found Myanmar's actions had the 'intention to destroy' a substantial part of the Muslim minority, with around 10,000 killed. It ordered Myanmar to allow safe, voluntary, and dignified return of refugees and awarded compensation. In Cox's Bazar, Rohingya refugees welcomed the verdict.",
+      "why_it_matters": "The ruling sets a landmark legal precedent for genocide accountability and offers recognition to Rohingya victims, including those who fled to Bangladesh and other countries.",
+      "key_fact": "ICJ's first genocide ruling in 80 years: Myanmar vs Rohingya, 2017 crackdown",
+      "source_url": "https://www.thehindu.com/news/international/icj-verdict-on-rohingya-crackdown-killings-in-myanmar/article71719604.ece",
+      "date": "2026-11-20",
+      "quiz": {
+        "q": "Which court ruled that Myanmar committed genocide against the Rohingya?",
+        "options": [
+          "International Criminal Court",
+          "International Court of Justice",
+          "UN Human Rights Council",
+          "Supreme Court of Myanmar"
+        ],
+        "answer": 1,
+        "explain": "The International Court of Justice (ICJ), the top UN court, delivered the ruling on November 19, 2026."
+      },
+      "tags": [
+        "Rohingya",
+        "ICJ",
+        "Myanmar",
+        "genocide"
+      ]
+    },
+    {
+      "id": "news-2026-11-20-04",
+      "type": "news",
+      "category": "international",
+      "headline": "India, Netherlands Upgrade Ties; Sign 17 MoUs",
+      "body": "India and the Netherlands upgraded bilateral ties to a Strategic Partnership during Prime Minister Narendra Modi's visit on May 16-17. The two sides signed 17 agreements and MoUs in water, agriculture, health, renewable energy, critical minerals, and a semiconductor fabrication project between TATA Electronics and Dutch company ASML. Dutch PM Rob Jetten raised sensitive topics, including a legal custody case and concerns over press freedoms and minority rights, which the MEA pushed back on.",
+      "why_it_matters": "The partnership deepens cooperation in semiconductors, water management, and clean energy, areas important for India's technology and infrastructure goals.",
+      "key_fact": "India-Netherlands upgraded to Strategic Partnership with 17 MoUs",
+      "source_url": "https://www.thehindu.com/news/national/india-netherlands-elevating-ties-to-strategic-partnership-says-pm-modi/article70988590.ece",
+      "date": "2026-11-20",
+      "quiz": {
+        "q": "How many agreements and MoUs did India and the Netherlands sign during PM Modi's visit?",
+        "options": [
+          "10",
+          "15",
+          "17",
+          "20"
+        ],
+        "answer": 2,
+        "explain": "The article states the two sides signed 17 agreements and memorandums of understanding."
+      },
+      "tags": [
+        "India-Netherlands",
+        "diplomacy",
+        "semiconductors",
+        "MoUs"
+      ]
+    },
+    {
+      "id": "news-2026-11-20-05",
+      "type": "news",
+      "category": "geography",
+      "headline": "Cyclone Akvan Hits Odisha Coast; 3.7 Lakh Evacuated",
+      "body": "Cyclone Akvan made landfall near Gopalpur in Odisha, weakening into a cyclonic storm. Over 3 lakh people were evacuated and 9,341 cyclone shelters set up across affected districts. It was the third cyclone to threaten the state in 24 days. The IMD warned of heavy rainfall and wind speeds around 100 kmph, with a storm surge of 0.5 to 1 metre. Railways cancelled 69 trains and flights were affected. The Odisha government allocated Rs 20 crore in immediate relief funds.",
+      "why_it_matters": "Cyclone preparedness and evacuation save lives in coastal Odisha, a region highly vulnerable to frequent storms and flooding.",
+      "key_fact": "3.7 lakh evacuated in Odisha as Cyclone Akvan hits near Gopalpur",
+      "source_url": "https://indianexpress.com/article/india/cyclone-akvan-tracker-today-live-updates-latest-location-map-path-landfall-time-bay-of-bengal-chennai-andhra-pradesh-odisha-10969294/",
+      "date": "2026-11-20",
+      "quiz": {
+        "q": "Where did Cyclone Akvan make landfall in Odisha?",
+        "options": [
+          "Puri",
+          "Gopalpur",
+          "Kendrapara",
+          "Bhubaneswar"
+        ],
+        "answer": 1,
+        "explain": "The article states Cyclone Akvan hit near Gopalpur in Odisha."
+      },
+      "tags": [
+        "Cyclone Akvan",
+        "Odisha",
+        "disaster management",
+        "IMD"
+      ]
+    },
+    {
+      "id": "news-2026-11-20-06",
+      "type": "news",
+      "category": "international",
+      "headline": "Xi, Trump, Putin hold first trilateral summit in Shenzhen",
+      "body": "The Presidents of China, the United States and Russia met in Shenzhen on November 19, 2026, for their first trilateral summit. Donald Trump called it historic, Xi Jinping urged the three nations to safeguard world peace, and Vladimir Putin said they shared an interest in resolving the Ukraine war. The closed-door meeting lasted one hour and 20 minutes. Some in the West compared it to the 1945 Yalta conference, a comparison both Moscow and Beijing play down.",
+      "why_it_matters": "A meeting of the leaders of the world's three most powerful military nations can shape global security and diplomacy, including India's strategic environment.",
+      "key_fact": "First trilateral meeting of US, Russia and China leaders",
+      "source_url": "https://www.thehindu.com/news/international/donald-trump-xi-jinping-vladimir-putin-trilateral-meeting-in-shenzhen-live-updates-november-19-2026/article71718525.ece",
+      "date": "2026-11-20",
+      "quiz": {
+        "q": "What was notable about the November 19, 2026 meeting in Shenzhen?",
+        "options": [
+          "It was the first trilateral meeting of the US, Russia and China leaders.",
+          "It was the first meeting between Xi Jinping and Vladimir Putin.",
+          "It was a summit of G20 leaders.",
+          "It was a United Nations Security Council session."
+        ],
+        "answer": 0,
+        "explain": "Trump described it as the first ever trilateral meeting between the leaders of the United States, Russia and China."
+      },
+      "tags": [
+        "China",
+        "US",
+        "Russia",
+        "diplomacy"
+      ]
+    },
+    {
+      "id": "news-2026-11-20-07",
+      "type": "news",
+      "category": "science",
+      "headline": "Health Ministry proposes stricter rules for antimicrobial drugs",
+      "body": "The Union Health Ministry has proposed amending the New Drugs and Clinical Trials Rules, 2019, to classify antimicrobials as 'New Drugs'. This would require manufacturers to get Central Licensing Authority approval before seeking a state manufacturing licence, strengthening oversight of quality, safety and efficacy. It also proposed a separate licence form for bulk drug wholesalers under the Drugs Rules, 1945. Both proposals were cleared by the Drugs Consultative Committee and the Drugs Technical Advisory Board.",
+      "why_it_matters": "Antimicrobial resistance is a growing public health threat, and tighter regulation of these medicines helps ensure they remain safe and effective for ordinary patients.",
+      "key_fact": "New Drugs and Clinical Trials Rules, 2019",
+      "source_url": "https://www.thehindu.com/news/national/health-ministry-proposes-to-include-antimicrobials-in-new-drug-definition-separate-licence-for-bulk-drug-wholesale/article71719726.ece",
+      "date": "2026-11-20",
+      "quiz": {
+        "q": "Which rules does the Health Ministry propose to amend to include antimicrobials as 'New Drugs'?",
+        "options": [
+          "Drugs Rules, 1945",
+          "New Drugs and Clinical Trials Rules, 2019",
+          "Narcotic Drugs and Psychotropic Substances Act, 1985",
+          "Central Motor Vehicles Rules, 1989"
+        ],
+        "answer": 1,
+        "explain": "The proposal is to include antimicrobials in the definition of 'New Drug' under Rule 2(1)(w)(v) of the New Drugs and Clinical Trials Rules, 2019."
+      },
+      "tags": [
+        "health",
+        "antimicrobial resistance",
+        "regulation",
+        "pharma"
+      ]
+    },
+    {
+      "id": "news-2026-11-20-08",
+      "type": "news",
+      "category": "environment",
+      "headline": "Govt proposes 3-year PUC validity for newer BS-VI vehicles",
+      "body": "The Ministry of Road Transport and Highways has notified new rules revising Pollution Under Control (PUC) certificate validity based on vehicle age and emission standards. BS-VI non-transport vehicles up to six years old will get three-year validity; transport vehicles two years. Older vehicles face more frequent testing. BS-I to BS-III vehicles will need certification every three months. The changes, effective November 13, aim to ease compliance for cleaner vehicles and strengthen emission monitoring.",
+      "why_it_matters": "The revised PUC rules reduce paperwork for owners of newer, cleaner vehicles while ensuring older, more polluting vehicles are checked more often, which affects air quality and public health.",
+      "key_fact": "BS-VI vehicles up to 6 years: 3-year PUC validity",
+      "source_url": "https://www.livemint.com/news/govt-proposes-three-year-puc-validity-for-newer-bs-vi-vehicles-easing-compliance-burden-11795092568348.html",
+      "date": "2026-11-20",
+      "quiz": {
+        "q": "Under the new PUC rules, what is the validity period for BS-VI non-transport vehicles up to six years old?",
+        "options": [
+          "One year",
+          "Two years",
+          "Three years",
+          "Six months"
+        ],
+        "answer": 2,
+        "explain": "BS-VI-compliant non-transport vehicles up to six years old will receive PUC certificates valid for three years."
+      },
+      "tags": [
+        "PUC",
+        "BS-VI",
+        "emissions",
+        "transport"
+      ]
+    },
+    {
+      "id": "news-2026-11-20-09",
+      "type": "news",
+      "category": "polity",
+      "headline": "Counting underway for Rajasthan Panchayat elections",
+      "body": "Counting of votes for Rajasthan Panchayat elections across 1,275 Zilla Parishad and 7,543 Panchayat Samiti wards in 37 districts is underway. The BJP is leading in 20 panchayat seats and Congress in 13, according to the State Election Commission. The elections were held in four phases in October and November. Counting for four districts will be held on December 17.",
+      "why_it_matters": "Panchayat election results indicate rural political sentiment and can influence state-level politics ahead of Assembly elections.",
+      "key_fact": "Rajasthan Panchayat elections held in four phases",
+      "source_url": "https://indianexpress.com/article/india/eci-rajasthan-election-results-2026-live-updates-panchayat-samiti-zila-parishad-ward-wise-winners-10970720/",
+      "date": "2026-11-20",
+      "quiz": {
+        "q": "In how many phases were the Rajasthan Panchayat elections held?",
+        "options": [
+          "Two phases",
+          "Three phases",
+          "Four phases",
+          "Five phases"
+        ],
+        "answer": 2,
+        "explain": "The elections were held in four phases on October 22, October 28, November 3 and November 14."
+      },
+      "tags": [
+        "Rajasthan",
+        "panchayat elections",
+        "BJP",
+        "Congress"
+      ]
+    },
+    {
+      "id": "news-2026-11-20-10",
+      "type": "news",
+      "category": "polity",
+      "headline": "Supreme Court declines separate hearing on recall plea in EC appointment case",
+      "body": "The Supreme Court on November 20, 2026, declined a request to separately list a plea seeking recall of a split verdict on whether challenges to the 2023 law on appointing the Chief Election Commissioner and Election Commissioners should go to a larger bench. The five-judge Constitution Bench hearing the main challenge can consider the recall application.",
+      "why_it_matters": "The case tests the constitutional validity of the 2023 law that changed the selection panel for the CEC and ECs, affecting the independence of the election machinery.",
+      "key_fact": "Chief Election Commissioner and Other Election Commissioners (Appointment) Act, 2023",
+      "source_url": "https://www.thehindu.com/news/national/supreme-court-declines-plea-for-separate-hearing-on-recall-of-split-verdict-in-ecs-appointment-case/article71723373.ece",
+      "date": "2026-11-20",
+      "quiz": {
+        "q": "Which law governs the appointment of the Chief Election Commissioner and Election Commissioners?",
+        "options": [
+          "The Chief Election Commissioner and Other Election Commissioners (Appointment, Conditions of Service and Term of Office) Act, 2023",
+          "The Representation of the People Act, 1950",
+          "The Election Commission (Conditions of Service) Act, 1956",
+          "The Constitutional Authorities (Appointment) Act, 2021"
+        ],
+        "answer": 0,
+        "explain": "The 2023 Act prescribes the panel for appointing the CEC and ECs, and its validity is under challenge before the Supreme Court."
+      },
+      "tags": [
+        "Supreme Court",
+        "Election Commission",
+        "2023 law"
+      ]
+    },
+    {
+      "id": "news-2026-11-20-11",
+      "type": "news",
+      "category": "economy",
+      "headline": "EPFO proposes systematic withdrawal plan for PF at retirement",
+      "body": "The EPFO's Central Board of Trustees discussed a proposal to allow a systematic withdrawal plan (SWP) for provident fund payouts at retirement instead of a lump sum. It also eased rules: the minimum balance requirement for withdrawal was cut to 10% from 25%, and the waiting period for final settlement after unemployment was reduced to two months from 12.",
+      "why_it_matters": "EPFO manages the retirement savings of over 8 crore active members, so changes to withdrawal rules directly affect how ordinary salaried Indians access their PF money.",
+      "key_fact": "EPFO proposes systematic withdrawal plan (SWP) for PF",
+      "source_url": "https://indianexpress.com/article/explained/explained-economics/epfo-systematic-withdrawal-plan-pf-monthly-payouts-retirement-aif-10969588/",
+      "date": "2026-11-20",
+      "quiz": {
+        "q": "What new withdrawal option is the EPFO proposing for retirement?",
+        "options": [
+          "Systematic withdrawal plan with periodic payouts",
+          "One-time lump sum only",
+          "Withdrawal limited to 50% of corpus",
+          "Mandatory annuity purchase"
+        ],
+        "answer": 0,
+        "explain": "The SWP proposes periodic payouts at retirement instead of withdrawing the entire provident fund corpus at once."
+      },
+      "tags": [
+        "EPFO",
+        "provident fund",
+        "retirement"
+      ]
+    },
+    {
+      "id": "news-2026-11-20-12",
+      "type": "news",
+      "category": "economy",
+      "headline": "OPEC share in India's crude imports falls to 27.4% in April-October",
+      "body": "OPEC's share in India's crude oil imports dropped to 27.4% during April-October of the current fiscal from 38.5% a year earlier, according to PPAC data. India's total crude imports rose 2.7% to 146.6 million metric tonnes. Supplies from Eurasia accounted for 43.8%, the Middle East 36%, South America 10.6%, Africa 6.6% and North America 3%.",
+      "why_it_matters": "India imports most of its crude oil, so the mix of suppliers affects fuel prices and energy security for ordinary consumers.",
+      "key_fact": "OPEC share in India's crude imports: 27.4% in April-October",
+      "source_url": "https://www.thehindu.com/business/Economy/opec-share-in-indias-crude-imports-drops-to-274-in-apr-oct-amid-west-asia-flare-ups/article71720869.ece",
+      "date": "2026-11-20",
+      "quiz": {
+        "q": "What was OPEC's share in India's crude oil imports during April-October of the current fiscal?",
+        "options": [
+          "27.4%",
+          "38.5%",
+          "43.8%",
+          "36%"
+        ],
+        "answer": 0,
+        "explain": "PPAC data showed OPEC's share fell to 27.4% from 38.5% in the same period last year."
+      },
+      "tags": [
+        "crude oil",
+        "OPEC",
+        "imports"
+      ]
+    },
+    {
+      "id": "news-2026-11-20-13",
+      "type": "news",
+      "category": "international",
+      "headline": "Nepal PM Balendra Shah to visit India on November 22-23",
+      "body": "Nepal Prime Minister Balendra Shah will make a state visit to India on November 22-23 at the invitation of Prime Minister Narendra Modi. This is his first visit to India after assuming office in March 2026. The two leaders will hold bilateral talks on November 23, inaugurate energy projects and address a business forum.",
+      "why_it_matters": "India-Nepal ties are important for regional stability, trade and energy cooperation under India's Neighbourhood First policy.",
+      "key_fact": "Nepal PM Balendra Shah's first India visit after taking office in March 2026",
+      "source_url": "https://www.thehindu.com/news/national/nepal-pm-balendra-shah-to-visit-india-on-november-2223/article71723493.ece",
+      "date": "2026-11-20",
+      "quiz": {
+        "q": "When did Balendra Shah assume office as Nepal's Prime Minister?",
+        "options": [
+          "March 2026",
+          "November 2026",
+          "September 2026",
+          "January 2026"
+        ],
+        "answer": 0,
+        "explain": "The article states that this will be his first visit to India after assuming office in March 2026."
+      },
+      "tags": [
+        "Nepal",
+        "diplomacy",
+        "state visit"
+      ]
+    },
+    {
+      "id": "news-2026-11-20-14",
+      "type": "news",
+      "category": "polity",
+      "headline": "Nine Indian-linked ships under watch near Strait of Hormuz",
+      "body": "Union Minister Sarbananda Sonowal directed the Directorate General of Maritime Administration to strengthen maritime safety as the ministry tracks nine India-flagged or Indian-interest vessels west of the Strait of Hormuz. He condemned attacks on commercial vessels involving Indian seafarers. The E-Navik module is tracking over 800 vessels in the Persian Gulf west of the strait.",
+      "why_it_matters": "Safe shipping routes are vital for India's energy imports and trade, and many Indian seafarers work on vessels in these high-risk waters.",
+      "key_fact": "Nine India-flagged/Indian-interest vessels tracked west of Strait of Hormuz",
+      "source_url": "https://indianexpress.com/article/india/sarbananda-sonowal-tightens-maritime-safety-strait-of-hormuz-indian-seafarers-10970896/",
+      "date": "2026-11-20",
+      "quiz": {
+        "q": "How many India-flagged or Indian-interest vessels is the government tracking west of the Strait of Hormuz?",
+        "options": [
+          "Nine",
+          "Five",
+          "Twelve",
+          "Twenty"
+        ],
+        "answer": 0,
+        "explain": "The ministry is tracking nine India-flagged or Indian-interest vessels in that area."
+      },
+      "tags": [
+        "shipping",
+        "Strait of Hormuz",
+        "maritime security"
+      ]
+    },
+    {
+      "id": "news-2026-11-20-15",
+      "type": "news",
+      "category": "economy",
+      "headline": "Bank unions call December 3 strike over IDBI Bank stake sale",
+      "body": "Three bank unions — AIBEA, AIBOA and BEFI — have called a nationwide strike on December 3, with around 2.5 lakh employees and officers opposing the proposed sale of a 60 per cent stake in IDBI Bank to Canada's Fairfax Financial Holdings. The unions called the sale to a foreign investor unwarranted. The United Forum of IDBI Officers and Employees had announced a similar strike call earlier.",
+      "why_it_matters": "A nationwide bank strike can disrupt branch banking, cheque clearing and ATM services for ordinary customers across the country.",
+      "key_fact": "December 3 strike; 2.5 lakh bank employees; 60% IDBI stake to Fairfax",
+      "source_url": "https://indianexpress.com/article/india/today-india-breaking-news-live-updates-19-november-2026-cyclone-akvan-odisha-evacuation-trump-xi-putin-shenzhen-summit-delhi-aqi-today-10969193/",
+      "date": "2026-11-20",
+      "quiz": {
+        "q": "Which foreign company is named in the proposed 60 per cent IDBI Bank stake sale?",
+        "options": [
+          "Fairfax Financial Holdings",
+          "BlackRock",
+          "Warburg Pincus",
+          "Nomura"
+        ],
+        "answer": 0,
+        "explain": "The unions oppose the sale of a 60 per cent IDBI Bank stake to Canada's Fairfax Financial Holdings."
+      },
+      "tags": [
+        "banking",
+        "IDBI Bank",
+        "bank strike",
+        "unions"
+      ]
+    },
+    {
+      "id": "news-2026-11-20-16",
+      "type": "news",
+      "category": "international",
+      "headline": "Japan Self-Defence Forces to use Indian firing ranges for first time",
+      "body": "India and Japan signed a Letter of Intent allowing Japan Self-Defence Forces to conduct live-fire training, including surface-to-ship missiles, at Indian firing ranges for the first time. The agreement followed the fourth India-Japan 2+2 Dialogue in Tokyo, where Rajnath Singh and S. Jaishankar met their Japanese counterparts. The two sides also agreed to speed up cooperation on underwater and missile technologies and defence industrial ties.",
+      "why_it_matters": "It deepens India's defence partnership with Japan, a key Quad partner, and signals closer security coordination in the Indo-Pacific.",
+      "key_fact": "Japan Self-Defence Forces to conduct live-fire drills in India",
+      "source_url": "https://indianexpress.com/article/india/india-japan-22-dialogue-drills-indian-firing-ranges-rajnath-singh-jaishankar-shinjiro-koizumi-toshimitsu-motegi-10970647/",
+      "date": "2026-11-20",
+      "quiz": {
+        "q": "Which foreign force will conduct live-fire training at Indian firing ranges for the first time?",
+        "options": [
+          "Japan Self-Defence Forces",
+          "United States Army",
+          "Australian Defence Force",
+          "French Armed Forces"
+        ],
+        "answer": 0,
+        "explain": "A Letter of Intent signed at the India-Japan 2+2 Dialogue allows Japan Self-Defence Forces to train at Indian ranges."
+      },
+      "tags": [
+        "defence",
+        "India-Japan",
+        "2+2 Dialogue"
+      ]
+    },
+    {
+      "id": "news-2026-11-20-17",
+      "type": "news",
+      "category": "economy",
+      "headline": "Coal India, ReNew among four firms cleared for rare earth magnet scheme",
+      "body": "Coal India Ltd, ReNew Pvt Ltd, Prozeal Green Energy Ltd and Midwest Energy Ltd received letters of intent to set up rare earth magnet plants under a ₹7,280-crore incentive scheme. Union minister H.D. Kumaraswamy announced the approvals, aimed at cutting import dependence. The scheme, approved by the Cabinet in November 2025 after China tightened rare earth magnet exports, targets manufacturing 6,000 tonnes of magnets a year.",
+      "why_it_matters": "Rare earth magnets are vital for electric vehicles, electronics, defence and renewable energy, so domestic production reduces India's vulnerability to import curbs.",
+      "key_fact": "₹7,280-crore Rare Earth Permanent Magnets scheme; 6,000-tonne annual target",
+      "source_url": "https://www.livemint.com/news/india/coal-india-renew-incentives-for-rare-earth-magnet-manufacturing-11795089127289.html",
+      "date": "2026-11-20",
+      "quiz": {
+        "q": "What is the total outlay of the government's rare earth magnet incentive scheme?",
+        "options": [
+          "₹7,280 crore",
+          "₹2,500 crore",
+          "₹12,000 crore",
+          "₹5,000 crore"
+        ],
+        "answer": 0,
+        "explain": "The Rare Earth Permanent Magnets scheme has a ₹7,280-crore outlay approved by the Union Cabinet in November 2025."
+      },
+      "tags": [
+        "rare earths",
+        "manufacturing",
+        "Coal India",
+        "Aatmanirbhar Bharat"
+      ]
+    },
+    {
+      "id": "news-2026-11-20-18",
+      "type": "news",
+      "category": "states",
+      "headline": "Karnataka launches action plan to contain antimicrobial resistance",
+      "body": "The Karnataka Department of Health and Family Welfare launched the Karnataka State Action Plan for Containment of Antimicrobial Resistance (KSAPCAR) at a State-level workshop in Bengaluru. The plan focuses on antimicrobial stewardship, surveillance, infection prevention and control, and One Health collaboration across human, animal and environmental health. It was unveiled by Rajini M, Director of Health and Family Welfare Services, for district health officials and public health professionals.",
+      "why_it_matters": "Antimicrobial resistance makes common infections harder to treat, so stewardship programmes help preserve the effectiveness of life-saving antibiotics for future patients.",
+      "key_fact": "KSAPCAR — Karnataka State Action Plan for Containment of AMR",
+      "source_url": "https://www.thehindu.com/news/national/karnataka/karnataka-launches-state-action-plan-for-containment-of-antimicrobial-resistance/article71721550.ece",
+      "date": "2026-11-20",
+      "quiz": {
+        "q": "What does KSAPCAR, launched by Karnataka, stand for?",
+        "options": [
+          "State Action Plan for Containment of Antimicrobial Resistance",
+          "State Action Plan for Cancer Screening",
+          "State Programme for Affordable Care",
+          "State Action Plan for Communicable Disease Reporting"
+        ],
+        "answer": 0,
+        "explain": "KSAPCAR is the Karnataka State Action Plan for Containment of Antimicrobial Resistance."
+      },
+      "tags": [
+        "health",
+        "AMR",
+        "Karnataka"
+      ]
+    },
+    {
+      "id": "news-2026-11-20-19",
+      "type": "news",
+      "category": "science",
+      "headline": "Telangana issues show-cause notices to 90 Hyderabad medical shops",
+      "body": "The Telangana Standards Authority for Food and Essential Drugs issued show-cause notices to 90 medical shops in Hyderabad after a special enforcement drive. Violations included selling prescription medicines without valid prescriptions, failing to maintain Schedule H1 registers, dispensing drugs without registered pharmacists and not issuing bills. Officials checked the illegal sale of habit-forming drugs such as Tramadol and Alprazolam and indiscriminate antibiotic sales, using decoy operations.",
+      "why_it_matters": "Unregulated sale of habit-forming drugs and antibiotics fuels misuse and antimicrobial resistance, so enforcement protects public health.",
+      "key_fact": "90 Hyderabad medical shops issued show-cause notices by TG SAFE",
+      "source_url": "https://www.thehindu.com/news/cities/Hyderabad/show-cause-notice-issued-to-90-medical-shops-in-hyderabad-over-drug-sale-violations/article71720988.ece",
+      "date": "2026-11-20",
+      "quiz": {
+        "q": "Which agency issued show-cause notices to 90 medical shops in Hyderabad?",
+        "options": [
+          "TG SAFE (Telangana Standards Authority for Food and Essential Drugs)",
+          "Central Drugs Standard Control Organisation",
+          "Telangana Police",
+          "Food Safety and Standards Authority of India"
+        ],
+        "answer": 0,
+        "explain": "The drugs wing of TG SAFE conducted the enforcement drive and issued the notices."
+      },
+      "tags": [
+        "health",
+        "drug regulation",
+        "Telangana"
+      ]
+    }
+  ]
+}
