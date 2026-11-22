@@ -1,0 +1,560 @@
+{
+  "date": "2026-11-22",
+  "cards": [
+    {
+      "id": "news-2026-11-22-01",
+      "type": "news",
+      "category": "international",
+      "headline": "Trump, Xi, Putin sign Shenzhen declaration on nuclear risks",
+      "body": "On November 19, 2026, US President Donald Trump, Chinese President Xi Jinping and Russian President Vladimir Putin held a trilateral summit in Shenzhen, China, on the sidelines of the APEC summit. They issued a joint peace declaration with four points, including one stating that nuclear war cannot be won and must never be fought. The agreement is a political commitment, not a binding treaty.",
+      "why_it_matters": "It signals continued high-level dialogue on nuclear risk reduction, especially after the expiration of the New START treaty in February 2026.",
+      "key_fact": "New START treaty expired on February 5, 2026",
+      "source_url": "https://indianexpress.com/article/explained/explained-global/why-shenzhen-matters-nuclear-disarm-us-russia-china-10972977/",
+      "date": "2026-11-22",
+      "quiz": {
+        "q": "Which nuclear arms treaty expired on February 5, 2026?",
+        "options": [
+          "New START",
+          "START I",
+          "INF Treaty",
+          "Comprehensive Nuclear-Test-Ban Treaty"
+        ],
+        "answer": 0,
+        "explain": "The article states that New START officially expired on February 5, 2026."
+      },
+      "tags": [
+        "nuclear",
+        "diplomacy",
+        "Shenzhen",
+        "New START"
+      ]
+    },
+    {
+      "id": "news-2026-11-22-02",
+      "type": "news",
+      "category": "environment",
+      "headline": "COP31 draft omits 'fossil fuels' despite phase-out calls",
+      "body": "The latest draft agreement at the UN climate talks in Antalya, Turkiye, released on November 22, 2026, does not mention fossil fuels or call for transitioning away from them. The draft, from COP31 president and Turkish Environment Minister Murat Kurum, gives negotiators three hours to object. It does include a goal on carbon capture and storage. Several countries had objected to omitting a fossil fuel phase-out call.",
+      "why_it_matters": "The wording of COP decisions shapes global climate action, and leaving out fossil fuels may weaken commitments to reduce the main cause of global warming.",
+      "key_fact": "COP31 draft omits fossil fuels",
+      "source_url": "https://www.thehindu.com/news/international/cop31-turkiyes-final-draft-doesnt-mention-the-words-fossil-fuels-that-cause-global-warming/article71730648.ece",
+      "date": "2026-11-22",
+      "quiz": {
+        "q": "What did the latest COP31 draft agreement omit?",
+        "options": [
+          "References to fossil fuels",
+          "Carbon capture technology",
+          "Adaptation finance",
+          "Net zero dates"
+        ],
+        "answer": 0,
+        "explain": "The article states the draft does not contain the words fossil fuels or specifically call for transitioning away from them."
+      },
+      "tags": [
+        "COP31",
+        "climate change",
+        "fossil fuels",
+        "UN"
+      ]
+    },
+    {
+      "id": "news-2026-11-22-03",
+      "type": "news",
+      "category": "environment",
+      "headline": "COP31 in Turkiye extends into overtime over key disputes",
+      "body": "The UN climate conference COP31 in Antalya, Turkiye, went into overtime as countries remained divided over phasing out fossil fuels and financing climate action. The latest draft as of November 19 removed references to fossil fuel phase-out and net zero dates, and also deleted a firm $120 billion adaptation-finance target sought by developing countries. Developed nations have proposed at least $300 billion annually by 2035, while developing countries demand $1.3 trillion.",
+      "why_it_matters": "The deadlock reflects persistent divisions between developed and developing countries over who pays for climate mitigation and adaptation.",
+      "key_fact": "Developing countries demand $1.3 trillion in climate finance",
+      "source_url": "https://www.thehindu.com/sci-tech/energy-and-environment/cop31-extends-into-overtime-in-turkiye-meeting/article71729107.ece",
+      "date": "2026-11-22",
+      "quiz": {
+        "q": "How much annual climate finance do developing countries say is needed?",
+        "options": [
+          "$120 billion",
+          "$300 billion",
+          "$1.3 trillion",
+          "$100 billion"
+        ],
+        "answer": 2,
+        "explain": "The article states developing countries say the amount should be at least $1.3 trillion."
+      },
+      "tags": [
+        "COP31",
+        "climate finance",
+        "fossil fuels",
+        "Turkiye"
+      ]
+    },
+    {
+      "id": "news-2026-11-22-04",
+      "type": "news",
+      "category": "international",
+      "headline": "India, China hold second Corps Commander talks on Arunachal",
+      "body": "India and China concluded a second round of Corps Commander-level talks from November 8, 2026, lasting nearly 10 days, to reduce tensions along the frontier in Arunachal Pradesh before winter. Lt General Girish Kalia, General Officer Commanding of the Army's III Corps, led the Indian side. The talks aimed to set engagement rules, avoid friction, and maintain communication. The first round was held on September 6-7 this year.",
+      "why_it_matters": "Reducing border tensions is crucial for regional stability and for maintaining peace along the Line of Actual Control.",
+      "key_fact": "Second Corps Commander talks began November 8, 2026",
+      "source_url": "https://indianexpress.com/article/india/india-china-commanders-meet-again-to-try-and-calm-arunachal-frontier-10973140/",
+      "date": "2026-11-22",
+      "quiz": {
+        "q": "When did the second round of India-China Corps Commander talks begin?",
+        "options": [
+          "September 6, 2026",
+          "November 8, 2026",
+          "October 15, 2026",
+          "August 20, 2026"
+        ],
+        "answer": 1,
+        "explain": "The article states the talks began immediately after Diwali on November 8."
+      },
+      "tags": [
+        "India-China",
+        "Arunachal Pradesh",
+        "border talks",
+        "army"
+      ]
+    },
+    {
+      "id": "news-2026-11-22-05",
+      "type": "news",
+      "category": "international",
+      "headline": "Modi, Balendra Shah to flag off Ayodhya-Janakpur Express on Nov 23",
+      "body": "Prime Minister Narendra Modi and Nepal Prime Minister Balendra Shah will flag off the Ayodhya-Janakpur Express on November 23, 2026. The train will cover about 604 km, stopping at 10 stations including Jaynagar, Madhubani, Sitamarhi, Raxaul, Gorakhpur and Ayodhya Dham. It will run once a week, departing Janakpur Dham on Saturdays and Ayodhya Cantt on Mondays. The service aims to boost pilgrimage and tourism.",
+      "why_it_matters": "The train strengthens people-to-people ties and cultural connections between India and Nepal, while supporting local economies along the route.",
+      "key_fact": "Ayodhya-Janakpur Express covers about 604 km",
+      "source_url": "https://indianexpress.com/article/india/india-nepal-rail-connectivity-pm-modi-balendra-shah-to-flag-off-ayodhya-janakpur-express-on-nov-23-10972853/",
+      "date": "2026-11-22",
+      "quiz": {
+        "q": "What is the distance covered by the Ayodhya-Janakpur Express?",
+        "options": [
+          "About 500 km",
+          "About 604 km",
+          "About 700 km",
+          "About 450 km"
+        ],
+        "answer": 1,
+        "explain": "The article states the train service will cover a distance of about 604 km."
+      },
+      "tags": [
+        "India-Nepal",
+        "railway",
+        "Ayodhya",
+        "Janakpur"
+      ]
+    },
+    {
+      "id": "news-2026-11-22-06",
+      "type": "news",
+      "category": "economy",
+      "headline": "India, Canada hold sixth round of CEPA trade talks in Delhi",
+      "body": "The sixth round of negotiations for an India-Canada Comprehensive Economic Partnership Agreement (CEPA) was held in New Delhi from 11 to 20 November 2026. Talks covered goods, services, rules of origin, trade remedies, intellectual property and investment promotion. Commerce Minister Piyush Goyal and Canadian International Trade Minister Maninder Sidhu joined the opening meeting and stressed a balanced, mutually beneficial deal.",
+      "why_it_matters": "A concluded CEPA could lower tariffs and open markets for Indian exporters, farmers and MSMEs trading with Canada.",
+      "key_fact": "Sixth round of India-Canada CEPA talks",
+      "source_url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2339776",
+      "date": "2026-11-22",
+      "quiz": {
+        "q": "Which round of India-Canada CEPA negotiations took place in New Delhi in November 2026?",
+        "options": [
+          "Fourth round",
+          "Fifth round",
+          "Sixth round",
+          "Seventh round"
+        ],
+        "answer": 2,
+        "explain": "The article states this was the sixth round, held from 11 to 20 November 2026."
+      },
+      "tags": [
+        "India-Canada",
+        "CEPA",
+        "trade talks",
+        "commerce"
+      ]
+    },
+    {
+      "id": "news-2026-11-22-07",
+      "type": "news",
+      "category": "science",
+      "headline": "Bhashini showcases multilingual AI for health at global summit",
+      "body": "The Digital India Bhashini division under the Ministry of Electronics and Information Technology took part in the Global Digital Health Summit 2026 at Bharat Mandapam, New Delhi, on 20-21 November. Bhashini displayed its multilingual AI ecosystem for more accessible, patient-centred healthcare. CEO Amitabh Nag delivered a keynote on using AI to remove language barriers in health services and mentioned 'Bhasha Daan' language donation for health.",
+      "why_it_matters": "Language tools that let patients understand medical information in their own language can make healthcare more inclusive across India's many languages.",
+      "key_fact": "Bhashini, run under Digital India Corporation, MeitY",
+      "source_url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2339726",
+      "date": "2026-11-22",
+      "quiz": {
+        "q": "Which initiative did Bhashini highlight for building healthcare language resources through community contributions?",
+        "options": [
+          "Bhasha Daan",
+          "Digital Health Mission",
+          "Bharat Mandapam",
+          "Bhashini Startup Fund"
+        ],
+        "answer": 0,
+        "explain": "The keynote mentioned 'Bhasha Daan', a language donation effort for healthcare resources."
+      },
+      "tags": [
+        "Bhashini",
+        "AI",
+        "health",
+        "digital India"
+      ]
+    },
+    {
+      "id": "news-2026-11-22-08",
+      "type": "news",
+      "category": "science",
+      "headline": "CCMB scientists identify two genes that help damaged nerves regrow",
+      "body": "Scientists at CSIR-Centre for Cellular and Molecular Biology, Hyderabad, have identified two genes, NR2F1 and NR2F6, that can restore damaged nerve cells' ability to regenerate. In mice with completely injured spinal cords, activating the genes let severed nerve fibres regrow and improved movement. The genes decline by 70-80% in adult brains. Published in The EMBO Journal, the work is preclinical and recovery was partial.",
+      "why_it_matters": "It opens a possible gene-based route to treating paralysis from spinal cord injury, though human treatments are still years away.",
+      "key_fact": "Genes NR2F1 and NR2F6 enable nerve regeneration",
+      "source_url": "https://www.thehindu.com/news/cities/Hyderabad/ccmb-team-identifies-genes-that-spur-nerve-repair/article71724538.ece",
+      "date": "2026-11-22",
+      "quiz": {
+        "q": "Which two genes did the CCMB team find can aid nerve regeneration?",
+        "options": [
+          "NR2F1 and NR2F6",
+          "NR2F6 and CPT1",
+          "NR2F1 and EMBO2",
+          "NR2F6 and RBFOX3"
+        ],
+        "answer": 0,
+        "explain": "The study showed activating NR2F1 and NR2F6 helped severed nerve fibres regrow in mice."
+      },
+      "tags": [
+        "CCMB",
+        "nerve repair",
+        "research",
+        "paralysis"
+      ]
+    },
+    {
+      "id": "news-2026-11-22-09",
+      "type": "news",
+      "category": "science",
+      "headline": "Pune startup builds India's first rubidium atomic clock prototype",
+      "body": "Pune-based deep-tech startup QuPrayog has developed a laboratory-scale Rubidium-87 atomic clock prototype using Coherent Population Trapping technology after seven months of work. The prototype is at Technology Readiness Level 4 and the firm aims for a miniature product by end-2027. Atomic clocks are vital for navigation, telecom and strategic systems, and export controls make access to them difficult. The firm says it performed about 50 times better than a crystal oscillator over 1,000 seconds.",
+      "why_it_matters": "Indigenous atomic clocks would reduce India's dependence on imported precision-timing technology used in navigation and defence systems.",
+      "key_fact": "Rubidium-87 atomic clock using CPT technology",
+      "source_url": "https://www.thehindu.com/sci-tech/technology/pune-startup-develops-atomic-clock-prototype-amid-growing-export-curbs-on-critical-technologies/article71727456.ece",
+      "date": "2026-11-22",
+      "quiz": {
+        "q": "Which element does QuPrayog's atomic clock prototype use?",
+        "options": [
+          "Caesium-133",
+          "Rubidium-87",
+          "Hydrogen-1",
+          "Strontium-88"
+        ],
+        "answer": 1,
+        "explain": "The startup developed a Rubidium-87 atomic clock using Coherent Population Trapping technology."
+      },
+      "tags": [
+        "atomic clock",
+        "deep tech",
+        "Pune",
+        "self-reliance"
+      ]
+    },
+    {
+      "id": "news-2026-11-22-10",
+      "type": "news",
+      "category": "science",
+      "headline": "Google launches Gemini 4 Neon for coding and complex workflows",
+      "body": "Google has launched a new AI model, Gemini 4 Neon, aimed at complex software engineering, knowledge work and science workflows. The company says Neon ranked ahead of Anthropic's Claude Opus 5.5 and OpenAI's GPT-6.2 Sol on several benchmarks. It is priced at $3 per million input tokens and $15 per million output tokens, with a one-million-token context window, and retains Gemini 4 Carbon-level safeguards.",
+      "why_it_matters": "Competition among leading AI models affects pricing and capability of tools that Indian developers, businesses and researchers increasingly rely on.",
+      "key_fact": "Gemini 4 Neon, $3 input / $15 output per million tokens",
+      "source_url": "https://www.thehindu.com/sci-tech/technology/google-launches-gemini-4-neon-taking-on-claude-opus-55-and-gpt-62-sol/article71727599.ece",
+      "date": "2026-11-22",
+      "quiz": {
+        "q": "What is the price of Gemini 4 Neon per million output tokens, as stated?",
+        "options": [
+          "$3",
+          "$10",
+          "$15",
+          "$30"
+        ],
+        "answer": 2,
+        "explain": "Google priced the model at $3 per million input tokens and $15 per million output tokens."
+      },
+      "tags": [
+        "Google",
+        "Gemini",
+        "AI models",
+        "technology"
+      ]
+    },
+    {
+      "id": "news-2026-11-22-11",
+      "type": "news",
+      "category": "science",
+      "headline": "Two Riemann proofs on one day, one human, one AI",
+      "body": "On November 20, two proposed proofs of the Riemann hypothesis appeared within hours. Levent Alpöge of Anthropic said he and the company's AI model Claude had found a proof. Shortly after, American Mathematical Society president Ravi Vakil posted a rival manuscript by Stanford colleague Alessandro Maria Masullo, noting it was \"all human, no AI.\" The coincidence raised questions about human insight in mathematics.",
+      "why_it_matters": "The Riemann hypothesis is one of mathematics' most famous unsolved problems, and how it is cracked will shape the debate over AI's role in research.",
+      "key_fact": "Riemann hypothesis: unsolved since 1859",
+      "source_url": "https://www.thehindu.com/sci-tech/science/all-human-no-ai-riemann-hypothesis-proof-out-on-same-day-as-claudes-claim/article71727336.ece",
+      "date": "2026-11-22",
+      "quiz": {
+        "q": "Who first proposed the Riemann hypothesis, and in which year?",
+        "options": [
+          "Georg Bernhard Riemann, 1859",
+          "Levent Alpöge, 2026",
+          "Ravi Vakil, 2020",
+          "Alessandro Maria Masullo, 1999"
+        ],
+        "answer": 0,
+        "explain": "The hypothesis is named for German mathematician Georg Bernhard Riemann, who proposed it in 1859."
+      },
+      "tags": [
+        "mathematics",
+        "AI",
+        "Riemann hypothesis"
+      ]
+    },
+    {
+      "id": "news-2026-11-22-12",
+      "type": "news",
+      "category": "science",
+      "headline": "Anthropic researcher says AI-assisted proof of Riemann hypothesis found",
+      "body": "Levent Alpöge of Anthropic announced on November 20, 2026, that he had proved the Riemann hypothesis with the help of the company's AI model Claude. He released over 1.7 crore lines of code claiming a complete proof and a stronger generalised result, but no traditional paper, and said he does not fully understand every argument Claude used. Some mathematicians confirmed the code passed rigorous checks.",
+      "why_it_matters": "The Riemann hypothesis concerns the distribution of prime numbers and is one of the Clay Mathematics Institute's seven Millennium Prize Problems, each carrying a $1-million bounty.",
+      "key_fact": "Riemann hypothesis: $1-million Clay Mathematics Institute prize problem",
+      "source_url": "https://www.thehindu.com/sci-tech/science/anthropic-scientist-claims-proof-of-maths-most-famous-problem-with-ai-help/article71727161.ece",
+      "date": "2026-11-22",
+      "quiz": {
+        "q": "The Riemann hypothesis is one of seven problems with a $1-million bounty offered by which body?",
+        "options": [
+          "Clay Mathematics Institute",
+          "American Mathematical Society",
+          "Stanford University",
+          "Anthropic"
+        ],
+        "answer": 0,
+        "explain": "The Clay Mathematics Institute has offered a $1-million bounty for a solution to each of its seven Millennium Prize Problems, including the Riemann hypothesis."
+      },
+      "tags": [
+        "mathematics",
+        "AI",
+        "Anthropic"
+      ]
+    },
+    {
+      "id": "news-2026-11-22-13",
+      "type": "news",
+      "category": "polity",
+      "headline": "India administers over one crore HPV vaccine doses in nine months",
+      "body": "The Union Health Ministry said India has given over one crore HPV vaccine doses in under nine months, covering nearly 87% of the annual target of 14-year-old girls under the cervical cancer prevention campaign launched in February 2026. Uttar Pradesh leads with 29.33 lakh girls vaccinated, followed by Bihar and Gujarat. Six States have reached 100% coverage. The single dose is free and voluntary.",
+      "why_it_matters": "Persistent HPV infection causes most cervical cancers, so vaccinating girls protects them against a leading cancer among Indian women.",
+      "key_fact": "1 crore HPV doses, about 87% of target",
+      "source_url": "https://www.thehindu.com/sci-tech/health/over-1-crore-hpv-vaccines-given-to-14-year-old-girls-in-nine-months-health-ministry/article71727507.ece",
+      "date": "2026-11-22",
+      "quiz": {
+        "q": "Roughly what share of the annual target cohort had been covered by the HPV campaign?",
+        "options": [
+          "87%",
+          "50%",
+          "62%",
+          "99%"
+        ],
+        "answer": 0,
+        "explain": "The Health Ministry said the campaign covered nearly 87% of its annual target cohort of 14-year-old girls."
+      },
+      "tags": [
+        "health",
+        "HPV vaccine",
+        "cervical cancer"
+      ]
+    },
+    {
+      "id": "news-2026-11-22-14",
+      "type": "news",
+      "category": "polity",
+      "headline": "HPV drive reaches 87% of eligible girls, six states at 100%",
+      "body": "India has administered more than one crore HPV vaccine doses within nine months of the drive launched by the Prime Minister on February 28. The campaign aims to immunise every 14-year-old girl, about 1.2 crore a year, to cut cervical cancer, which is mainly triggered by persistent HPV infection. Six states, including Uttar Pradesh and Bihar, have hit 100% coverage.",
+      "why_it_matters": "Cervical cancer is the second most common cancer among Indian women, affecting over 79,000 people and killing 36,319, according to Globocan 2024 data.",
+      "key_fact": "Cervical cancer: over 79,000 cases, 36,319 deaths (Globocan 2024)",
+      "source_url": "https://indianexpress.com/article/india/india-hpv-vaccination-drive-one-crore-doses-87-percent-coverage-10972825/",
+      "date": "2026-11-22",
+      "quiz": {
+        "q": "According to Globocan 2024 data cited, cervical cancer affects over how many people in India?",
+        "options": [
+          "79,000",
+          "12,000",
+          "1.2 crore",
+          "36,319"
+        ],
+        "answer": 0,
+        "explain": "The article states cervical cancer affects over 79,000 people and kills 36,319, per Globocan 2024."
+      },
+      "tags": [
+        "health",
+        "HPV vaccine",
+        "cervical cancer"
+      ]
+    },
+    {
+      "id": "news-2026-11-22-15",
+      "type": "news",
+      "category": "states",
+      "headline": "Tamil Nadu to create online registry of rare blood group donors",
+      "body": "The Tamil Nadu government has permitted the Tamil Nadu State Blood Transfusion Council to set up a statewide online registry of voluntary donors with rare blood groups. All licensed blood centres must identify eligible donors and enrol them with consent. The council will also establish Blood Donor Clubs in colleges with Red Ribbon Clubs, of which there are 2,379 across the State.",
+      "why_it_matters": "Rare blood group donors are hard to find in emergencies, so a unified state-level database can speed up matching compatible blood for patients.",
+      "key_fact": "Tamil Nadu Rare Blood Group Donor Registry",
+      "source_url": "https://www.thehindu.com/news/cities/chennai/tn-to-set-up-statewide-online-registry-of-voluntary-donors-with-rare-blood-groups/article71728378.ece",
+      "date": "2026-11-22",
+      "quiz": {
+        "q": "Which body will establish and maintain the rare blood group donor registry?",
+        "options": [
+          "Tamil Nadu State Blood Transfusion Council",
+          "Red Ribbon Clubs",
+          "Union Health Ministry",
+          "Indian Red Cross Society"
+        ],
+        "answer": 0,
+        "explain": "The State government authorised the Tamil Nadu State Blood Transfusion Council to develop and maintain the registry."
+      },
+      "tags": [
+        "health",
+        "blood donation",
+        "Tamil Nadu"
+      ]
+    },
+    {
+      "id": "news-2026-11-22-16",
+      "type": "news",
+      "category": "states",
+      "headline": "PANI project to link eight Andaman islands via undersea cable",
+      "body": "The Centre is considering the PANI (Port Alternative Network for Islands) project to connect eight Andaman and Nicobar islands — Diglipur, Mayabunder, Shaheed Dweep, Chowra, Teressa, Katchal, Nancowry and Little Nicobar — through a submarine optical fibre cable network. Originating in Puri, Odisha, it will provide an alternative route to the existing CANI cable. Officials also discussed extending 4G to 87 uncovered villages and BharatNet fibre to 174 villages.",
+      "why_it_matters": "Reliable undersea cable connectivity is vital for internet access and emergency communication in remote island communities that currently depend on a single cable system.",
+      "key_fact": "PANI project to connect eight islands via undersea cable from Puri",
+      "source_url": "https://www.thehindu.com/news/national/andaman-and-nicobar-islands/pani-project-to-connect-andamans-eight-islands-through-undersea-cable-network/article71730740.ece",
+      "date": "2026-11-22",
+      "quiz": {
+        "q": "Where does the proposed PANI undersea cable network originate?",
+        "options": [
+          "Chennai",
+          "Puri",
+          "Kolkata",
+          "Port Blair"
+        ],
+        "answer": 1,
+        "explain": "The article states that the proposed network originates in Puri in Odisha."
+      },
+      "tags": [
+        "Andaman",
+        "undersea cable",
+        "digital connectivity",
+        "PANI"
+      ]
+    },
+    {
+      "id": "news-2026-11-22-17",
+      "type": "news",
+      "category": "polity",
+      "headline": "Ladakh records 70% turnout in first panchayat polls since 2019",
+      "body": "Ladakh recorded 70.03% turnout in panchayat elections and 52.4% in municipal council polls on November 21, 2026 — its first local body elections since becoming a Union Territory in 2019. Helicopter services were used to airlift polling teams to three remote stations in Zanskar. The Leh Apex Body expressed unhappiness over the process, raising fears of voter deletion and questioning the timing amid Statehood and Sixth Schedule talks.",
+      "why_it_matters": "These elections mark the first grassroots democratic exercise in Ladakh as a Union Territory, shaping local self-governance in the region.",
+      "key_fact": "70.03% turnout in Ladakh's first panchayat polls since 2019",
+      "source_url": "https://www.thehindu.com/news/national/ladakh/ladakh-municipal-and-panchayat-elections/article71727478.ece",
+      "date": "2026-11-22",
+      "quiz": {
+        "q": "What was the voter turnout in Ladakh's panchayat elections held on November 21, 2026?",
+        "options": [
+          "52.4%",
+          "67.8%",
+          "70.03%",
+          "73.6%"
+        ],
+        "answer": 2,
+        "explain": "The article states that Ladakh recorded 70.03% turnout in the panchayat elections."
+      },
+      "tags": [
+        "Ladakh",
+        "panchayat elections",
+        "voter turnout",
+        "Union Territory"
+      ]
+    },
+    {
+      "id": "news-2026-11-22-18",
+      "type": "news",
+      "category": "polity",
+      "headline": "Himachal Assembly passes resolution for High Court bench in Dharamshala",
+      "body": "The Himachal Pradesh Legislative Assembly unanimously passed a resolution seeking a permanent High Court bench at Dharamshala, citing travel difficulties for litigants from Kangra and lower districts. Chief Minister Sukhvinder Singh Sukhu moved the resolution, invoking Article 214 and Section 51(2) of the States Reorganisation Act, 1956. The state will submit a proposal to the Centre after consulting the Chief Justice and Governor, and has committed land and infrastructure.",
+      "why_it_matters": "A permanent bench closer to Kangra would reduce the distance, cost and delay that ordinary litigants face in travelling to Shimla for court cases.",
+      "key_fact": "Section 51(2) of States Reorganisation Act, 1956 allows HC benches",
+      "source_url": "https://indianexpress.com/article/india/dharamshala-permanent-high-court-bench-himachal-assembly-10972999/",
+      "date": "2026-11-22",
+      "quiz": {
+        "q": "Which legal provision allows the President to establish a permanent High Court bench outside its principal seat?",
+        "options": [
+          "Article 214 of the Constitution",
+          "Section 51(2) of the States Reorganisation Act, 1956",
+          "Article 356 of the Constitution",
+          "Section 51 of the Representation of the People Act"
+        ],
+        "answer": 1,
+        "explain": "The resolution invokes Section 51(2) of the States Reorganisation Act, 1956 for setting up a permanent bench."
+      },
+      "tags": [
+        "Himachal Pradesh",
+        "High Court",
+        "Dharamshala",
+        "judiciary"
+      ]
+    },
+    {
+      "id": "news-2026-11-22-19",
+      "type": "news",
+      "category": "polity",
+      "headline": "Supreme Court bench recuses from Central Secretariat Library case",
+      "body": "A two-judge Supreme Court Bench recused itself from hearing a suo motu case on relocating the 135-year-old Central Secretariat Library from Shastri Bhawan to two rooms in Kartavya Bhawan-2. Justices PV Sanjay Kumar and Sanjeev Sachdeva referred the matter to Chief Justice Surya Kant, citing recent decisions that PIL cases must be heard only by benches with roster jurisdiction. The CJI has ordered reassignment of such cases.",
+      "why_it_matters": "The case highlights the Chief Justice's role as master of the roster and the ongoing debate over how public interest cases are allocated in the Supreme Court.",
+      "key_fact": "Central Secretariat Library is 135 years old, housed in Shastri Bhawan",
+      "source_url": "https://www.livemint.com/news/india/why-judges-are-stepping-away-from-suo-motu-cases-decoded-as-central-sec-library-case-reaches-cji-amid-sc-roster-row-11795237341346.html",
+      "date": "2026-11-22",
+      "quiz": {
+        "q": "How old is the Central Secretariat Library at the centre of the Supreme Court case?",
+        "options": [
+          "100 years",
+          "135 years",
+          "150 years",
+          "75 years"
+        ],
+        "answer": 1,
+        "explain": "The article describes the Central Secretariat Library as 135 years old."
+      },
+      "tags": [
+        "Supreme Court",
+        "CJI roster",
+        "Central Secretariat Library",
+        "PIL"
+      ]
+    },
+    {
+      "id": "news-2026-11-22-20",
+      "type": "news",
+      "category": "polity",
+      "headline": "Hemant Soren urges CJI to appoint Jharkhand HC Chief Justice successor",
+      "body": "Jharkhand Chief Minister Hemant Soren wrote to Chief Justice of India Surya Kant and the Supreme Court Collegium, urging an urgent recommendation for a successor to Jharkhand High Court Chief Justice M.S. Sonak, who retires on November 27, 2026. Soren cited the Memorandum of Procedure, which requires appointments to be finalised at least a month before a vacancy, warning that extended interim arrangements cause administrative uncertainty.",
+      "why_it_matters": "Timely appointment of High Court Chief Justices is essential for stable judicial administration and public confidence in the justice system.",
+      "key_fact": "MoP requires HC Chief Justice appointment one month before vacancy",
+      "source_url": "https://www.thehindu.com/news/national/jharkhand/hemant-soren-writes-to-cji-to-urgently-appoint-jharkhand-hc-chief-justice-successor/article71730713.ece",
+      "date": "2026-11-22",
+      "quiz": {
+        "q": "According to the Memorandum of Procedure, how early should a High Court Chief Justice's appointment be completed before the vacancy?",
+        "options": [
+          "One week",
+          "One month",
+          "Three months",
+          "Six months"
+        ],
+        "answer": 1,
+        "explain": "Soren's letter notes the MoP requires completion at least one month prior to the anticipated vacancy."
+      },
+      "tags": [
+        "Jharkhand",
+        "High Court",
+        "Collegium",
+        "judicial appointments"
+      ]
+    }
+  ]
+}
