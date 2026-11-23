@@ -1,0 +1,558 @@
+{
+  "date": "2026-11-23",
+  "cards": [
+    {
+      "id": "news-2026-11-23-01",
+      "type": "news",
+      "category": "environment",
+      "headline": "COP31 ends without consensus over fossil fuel phase-out wording",
+      "body": "United Nations climate talks at COP31 in Antalya, Turkiye, ended on November 22, 2026, without a consensus agreement after running 48 hours into overtime. The EU, backed by about 130 countries, rejected COP31 President Murat Kurum's cover text for lacking explicit language on moving away from fossil fuels. India supported the draft text, with Environment Minister Bhupendra Yadav stressing that climate ambition must go hand in hand with means of implementation. Panama also formally objected.",
+      "why_it_matters": "COP decisions shape how fast and how fairly the world shifts away from fossil fuels, which affects India's energy costs, fuel use and climate resilience.",
+      "key_fact": "COP31 held in Antalya, Turkiye; text opposed by EU and about 130 countries",
+      "source_url": "https://www.thehindu.com/sci-tech/energy-and-environment/cop31-fails-to-agree-on-climate-deal-in-chaotic-finale/article71731651.ece",
+      "date": "2026-11-23",
+      "quiz": {
+        "q": "Which group led objections to the COP31 cover text for lacking fossil fuel phase-out language?",
+        "options": [
+          "The European Union",
+          "India",
+          "Panama",
+          "The host country Turkiye"
+        ],
+        "answer": 0,
+        "explain": "The EU, reportedly supported by about 130 countries, objected to the text's lack of explicit fossil fuel phase-out language."
+      },
+      "tags": [
+        "COP31",
+        "climate",
+        "fossil fuels",
+        "EU"
+      ]
+    },
+    {
+      "id": "news-2026-11-23-02",
+      "type": "news",
+      "category": "economy",
+      "headline": "World Bank report says 49.6 crore Indians exited poverty between 2011-2023",
+      "body": "A World Bank report from October 2026 states that about 49.60 crore people in India moved out of poverty between 2011 and 2023, with the poverty rate falling from 57.70 per cent to 16.10 per cent. The Centre credits its welfare policies and schemes of the Agriculture and Rural Development ministries. A one-day workshop on agriculture and rural development's role in reducing poverty is being held on November 23 in New Delhi, chaired by Union Minister Shivraj Singh Chouhan.",
+      "why_it_matters": "Poverty reduction is a core measure of development, and the report's figures will likely shape how government schemes for farmers and rural livelihoods are assessed.",
+      "key_fact": "Poverty rate fell from 57.70% to 16.10% between 2011 and 2023",
+      "source_url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2340024",
+      "date": "2026-11-23",
+      "quiz": {
+        "q": "According to the World Bank report cited, India's poverty rate fell to what level by 2023?",
+        "options": [
+          "16.10 per cent",
+          "57.70 per cent",
+          "49.60 per cent",
+          "23.10 per cent"
+        ],
+        "answer": 0,
+        "explain": "The article says the poverty rate fell from 57.70 per cent to 16.10 per cent between 2011 and 2023."
+      },
+      "tags": [
+        "poverty",
+        "World Bank",
+        "rural development",
+        "agriculture"
+      ]
+    },
+    {
+      "id": "news-2026-11-23-03",
+      "type": "news",
+      "category": "sports",
+      "headline": "Divya Deshmukh wins women's World Cup, beats Koneru Humpy in final",
+      "body": "Teenager Divya Deshmukh won the women's World Cup in Batumi, Georgia, defeating fellow Indian Koneru Humpy in the tiebreakers. The 19-year-old became India's 88th Grandmaster and only the fourth Indian woman after Humpy, D. Harika and R. Vaishali to earn the title. By reaching the final, both players qualified for the Candidates tournament. Only one Indian had won the World Cup before: Viswanathan Anand in Hyderabad in 2002.",
+      "why_it_matters": "It marks India's first women's World Cup title in chess and shows the growing depth of Indian women's chess on the global stage.",
+      "key_fact": "Divya Deshmukh is India's 88th Grandmaster",
+      "source_url": "https://www.thehindu.com/news/national/teenager-divya-outlasts-humpy-emerges-indias-first-womens-world-cup-winner/article69866143.ece",
+      "date": "2026-11-23",
+      "quiz": {
+        "q": "Divya Deshmukh became India's how-many-th Grandmaster?",
+        "options": [
+          "88th",
+          "4th",
+          "19th",
+          "5th"
+        ],
+        "answer": 0,
+        "explain": "The article states she became India's 88th Grandmaster, the fourth Indian woman to earn the title."
+      },
+      "tags": [
+        "chess",
+        "Divya Deshmukh",
+        "World Cup",
+        "sports"
+      ]
+    },
+    {
+      "id": "news-2026-11-23-04",
+      "type": "news",
+      "category": "international",
+      "headline": "Modi and Nepal PM Balendra Shah hold bilateral talks in New Delhi",
+      "body": "Prime Minister Narendra Modi and Nepali counterpart Balendra Shah met at Hyderabad House in New Delhi on November 23, 2026, for bilateral talks reviewing India-Nepal relations. Discussions were expected to focus on trade, transportation, investment and infrastructure, with MoUs likely in education, health, agriculture, sports, disaster management and human resource development. Connectivity and energy cooperation were also expected to feature, along with inaugurations of completed projects. A Nepal-India Business Forum was also planned.",
+      "why_it_matters": "India-Nepal ties affect cross-border trade, connectivity and energy supply for people in both countries, especially in border regions.",
+      "key_fact": "Nepal PM Balendra Shah's two-day State visit to India, November 2026",
+      "source_url": "https://www.thehindu.com/news/national/pm-modi-holds-bilateral-talks-with-nepal-prime-minister-balendra-shah-trade-investment-connectivity-on-agenda/article71733786.ece",
+      "date": "2026-11-23",
+      "quiz": {
+        "q": "Where did PM Modi and Nepal PM Balendra Shah hold their bilateral meeting?",
+        "options": [
+          "Hyderabad House, New Delhi",
+          "Raj Ghat, New Delhi",
+          "Rashtrapati Bhavan",
+          "Batumi, Georgia"
+        ],
+        "answer": 0,
+        "explain": "The two leaders arrived at Hyderabad House in New Delhi for the bilateral talks."
+      },
+      "tags": [
+        "India-Nepal",
+        "diplomacy",
+        "Balendra Shah",
+        "MoUs"
+      ]
+    },
+    {
+      "id": "news-2026-11-23-05",
+      "type": "news",
+      "category": "science",
+      "headline": "BepiColombo enters Mercury orbit after eight years; thruster glitch reported",
+      "body": "The European-Japanese spacecraft BepiColombo has begun orbiting Mercury after an eight-year journey, the European Space Agency confirmed. During the manoeuvre, ESA reported the thruster burn was shorter than planned due to a software issue; the spacecraft is safe and teams are investigating. It is a joint mission of ESA and JAXA. The mission's science orbiters are due to separate on December 9 and 10, with routine science operations slated from April.",
+      "why_it_matters": "Studying Mercury, the least explored inner planet, helps scientists understand how planets, including Earth, form and evolve.",
+      "key_fact": "BepiColombo is the second spacecraft to orbit Mercury",
+      "source_url": "https://www.thehindu.com/sci-tech/science/japan-europe-spacecraft-bepicolombo-begins-orbit-of-mercury-with-a-glitch-reported/article71733234.ece",
+      "date": "2026-11-23",
+      "quiz": {
+        "q": "BepiColombo is a joint mission of which two space agencies?",
+        "options": [
+          "ESA and JAXA",
+          "NASA and ESA",
+          "ISRO and JAXA",
+          "NASA and JAXA"
+        ],
+        "answer": 0,
+        "explain": "The article states it is a joint mission of the European Space Agency and the Japan Aerospace Exploration Agency."
+      },
+      "tags": [
+        "space",
+        "BepiColombo",
+        "Mercury",
+        "ESA"
+      ]
+    },
+    {
+      "id": "news-2026-11-23-06",
+      "type": "news",
+      "category": "polity",
+      "headline": "Supreme Court: electoral roll corrections are a personal right, not for PIL",
+      "body": "The Supreme Court on November 23, 2026 dismissed a PIL seeking corrections to municipal electoral rolls in Uttar Pradesh over changed house numbers. A Bench led by Chief Justice of India Surya Kant, with Justices Joymalya Bagchi and V. Mohana, declined to entertain the plea. Justice Bagchi orally observed that the right to seek correction of an electoral-roll entry is personal to the individual voter and cannot ordinarily be pursued collectively through a PIL.",
+      "why_it_matters": "It tells voters that errors in electoral rolls must be raised by the affected person before election authorities, not through collective public interest litigation.",
+      "key_fact": "Electoral roll correction is a personal right, not a PIL matter",
+      "source_url": "https://www.thehindu.com/news/national/uttar-pradesh/supreme-court-says-right-to-seek-correction-of-electoral-roll-entry-is-personal-cant-be-pursued-in-pil/article71733841.ece",
+      "date": "2026-11-23",
+      "quiz": {
+        "q": "What did the Supreme Court say about seeking correction of an electoral-roll entry?",
+        "options": [
+          "It is a personal right of the individual voter",
+          "It can only be done through a PIL",
+          "Only political parties may seek corrections",
+          "Only the Election Commission can file a case"
+        ],
+        "answer": 0,
+        "explain": "Justice Bagchi orally observed that the right is personal to the individual voter and cannot ordinarily be pursued collectively through a PIL."
+      },
+      "tags": [
+        "Supreme Court",
+        "electoral rolls",
+        "PIL"
+      ]
+    },
+    {
+      "id": "news-2026-11-23-07",
+      "type": "news",
+      "category": "international",
+      "headline": "Nepal PM Balendra Shah begins first official India visit",
+      "body": "Nepal Prime Minister Balendra Shah arrived in New Delhi on November 22, 2026 for his first official visit to India, leading a 34-member delegation including Finance Minister Swarnim Wagle and Foreign Minister Shisir Khanal. He is scheduled to hold talks with Prime Minister Narendra Modi on November 23, with energy and connectivity on the agenda. The two leaders jointly inaugurated the Saryu-Kamala Express between Ayodhya and Janakpur, Nepal, via video conferencing.",
+      "why_it_matters": "India-Nepal ties affect trade, power sharing and cross-border transport for people in the border regions of both countries.",
+      "key_fact": "Saryu-Kamala Express links Ayodhya in India to Janakpur in Nepal",
+      "source_url": "https://www.thehindu.com/news/national/nepal-pm-india-visit-balen-shah-begins-bilateral-trip-energy-connectivity-on-agenda-live-updates-november-23-2026/article71733252.ece",
+      "date": "2026-11-23",
+      "quiz": {
+        "q": "Which train service was inaugurated by the Indian and Nepali Prime Ministers?",
+        "options": [
+          "Saryu-Kamala Express",
+          "Janakpur-Gorakhpur Express",
+          "Himalaya Express",
+          "Ayodhya-Kathmandu Express"
+        ],
+        "answer": 0,
+        "explain": "The Saryu-Kamala Express will run between Ayodhya and Janakpur in Nepal and was inaugurated via video conferencing."
+      },
+      "tags": [
+        "Nepal",
+        "diplomacy",
+        "connectivity"
+      ]
+    },
+    {
+      "id": "news-2026-11-23-08",
+      "type": "news",
+      "category": "environment",
+      "headline": "Delhi AQI hits 456, PM2.5 over 20 times WHO guideline",
+      "body": "Delhi's air quality turned hazardous on Monday, November 23, with the AQI reaching 456 at 7:21 AM, according to AQI.in monitoring data. PM2.5 concentration stood at 303 micrograms per cubic metre, about 20.2 times the WHO guideline, while PM10 was 425 micrograms per cubic metre, roughly 9.4 times the limit. AQI.in compared the exposure to smoking about 9.5 cigarettes daily and advised staying indoors, using air purifiers and wearing N95 masks.",
+      "why_it_matters": "Such severe pollution poses serious health risks to Delhi residents, especially children, the elderly and people with respiratory conditions.",
+      "key_fact": "Delhi AQI 456; PM2.5 20.2 times the WHO guideline",
+      "source_url": "https://www.livemint.com/news/india/delhi-aqi-today-november-23-air-quality-turns-hazardous-at-456-pollution-20-times-above-who-limit-11795402252647.html",
+      "date": "2026-11-23",
+      "quiz": {
+        "q": "By how many times did Delhi's PM2.5 level exceed the WHO guideline on November 23?",
+        "options": [
+          "About 20.2 times",
+          "About 5 times",
+          "About 9.4 times",
+          "About 2 times"
+        ],
+        "answer": 0,
+        "explain": "PM2.5 was 303 micrograms per cubic metre, which was 20.2 times the WHO guideline; PM10 was about 9.4 times its guideline."
+      },
+      "tags": [
+        "Delhi",
+        "air pollution",
+        "AQI",
+        "health"
+      ]
+    },
+    {
+      "id": "news-2026-11-23-09",
+      "type": "news",
+      "category": "science",
+      "headline": "India crosses one crore HPV vaccine doses for 14-year-old girls",
+      "body": "India has administered more than one crore doses of the HPV vaccine to 14-year-old girls under its national campaign in under nine months, covering nearly 87% of the annual target, the Health Ministry said. Prime Minister Narendra Modi said every dose is a step towards protecting girls from cervical cancer. The campaign offers free, voluntary, single-dose vaccination at designated government health facilities with parental consent.",
+      "why_it_matters": "HPV vaccination reduces the risk of cervical cancer, one of the most common cancers among Indian women.",
+      "key_fact": "Over one crore HPV vaccine doses given to 14-year-old girls",
+      "source_url": "https://www.thehindu.com/sci-tech/health/hpv-vaccination-campaign-every-dose-is-step-towards-protecting-girls-from-cervical-cancer-says-pm-modi/article71733348.ece",
+      "date": "2026-11-23",
+      "quiz": {
+        "q": "What does the national HPV vaccination campaign provide to 14-year-old girls?",
+        "options": [
+          "A free, voluntary single dose at government health facilities",
+          "A paid two-dose course at private hospitals",
+          "A booster dose every year till age 18",
+          "Vaccination only with a doctor's prescription at pharmacies"
+        ],
+        "answer": 0,
+        "explain": "The campaign provides free, voluntary and single-dose vaccination to 14-year-old girls at designated government health facilities with parental consent."
+      },
+      "tags": [
+        "HPV vaccine",
+        "cervical cancer",
+        "public health"
+      ]
+    },
+    {
+      "id": "news-2026-11-23-10",
+      "type": "news",
+      "category": "science",
+      "headline": "Wolbachia mosquitoes cut dengue and chikungunya in Brazil study",
+      "body": "A study of more than 5,700 children in Belo Horizonte, Brazil found about a 69% reduction in dengue and chikungunya infections in neighbourhoods with Wolbachia-carrying mosquitoes, compared with similar areas, an effect sustained during Brazil's severe 2024 outbreak. The findings were reported at a meeting of the American Society of Tropical Medicine and Hygiene. Wolbachia is a bacteria harmless to people that reduces mosquitoes' ability to transmit these viruses.",
+      "why_it_matters": "Dengue is a recurring seasonal threat in many Indian cities, so a proven biological control method could complement pesticides and bite prevention.",
+      "key_fact": "About 69% fewer dengue and chikungunya infections with Wolbachia mosquitoes",
+      "source_url": "https://www.thehindu.com/sci-tech/health/scientists-report-strong-new-evidence-that-specially-bred-mosquitoes-can-fend-off-dengue/article71733170.ece",
+      "date": "2026-11-23",
+      "quiz": {
+        "q": "What is Wolbachia in the mosquito strategy described?",
+        "options": [
+          "A bacterium that reduces mosquitoes' ability to transmit viruses",
+          "A pesticide sprayed in dengue-hit areas",
+          "A virus that infects only children",
+          "A vaccine given to schoolchildren"
+        ],
+        "answer": 0,
+        "explain": "Scientists breed mosquitoes carrying Wolbachia, a bacterium harmless to people, which dramatically reduces their ability to transmit certain viruses."
+      },
+      "tags": [
+        "dengue",
+        "Wolbachia",
+        "health research"
+      ]
+    },
+    {
+      "id": "news-2026-11-23-11",
+      "type": "news",
+      "category": "international",
+      "headline": "India-EU free trade agreement likely to be signed on December 16",
+      "body": "India and the 27-nation European Union are expected to sign their Free Trade Agreement on December 16, after concluding negotiations on January 27 this year. The European Commission has already sought authorisation from the Council of the EU for signing and conclusion. Under the deal, 93% of Indian shipments will get duty-free access to the EU, while imports of luxury cars and wines from the EU will become cheaper.",
+      "why_it_matters": "A signed FTA would lower prices for some EU goods in India and open duty-free access for most Indian exports to the EU, affecting traders and consumers.",
+      "key_fact": "93% of Indian shipments to get duty-free access to the EU",
+      "source_url": "https://www.thehindu.com/news/national/india-eu-trade-pact-likely-to-be-signed-on-december-16/article71731223.ece",
+      "date": "2026-11-23",
+      "quiz": {
+        "q": "Under the India-EU free trade agreement, what share of Indian shipments will enjoy duty-free access to the EU?",
+        "options": [
+          "50%",
+          "75%",
+          "93%",
+          "100%"
+        ],
+        "answer": 2,
+        "explain": "The article states that 93% of Indian shipments will enjoy duty-free access to the 27-nation bloc."
+      },
+      "tags": [
+        "India-EU",
+        "trade",
+        "FTA"
+      ]
+    },
+    {
+      "id": "news-2026-11-23-12",
+      "type": "news",
+      "category": "geography",
+      "headline": "Three cyclones form over Bay of Bengal in 23 days",
+      "body": "Within 23 days this year, three cyclones formed over the Bay of Bengal. Cyclone Arnab made landfall near Yanam in Andhra Pradesh on October 28, Murasu near Ongole on November 3, and Akvan formed on November 16 and made landfall near Gopalpur in Odisha on November 20, 2026. The Bay has two main cyclone seasons, April-May and October-December, when warm waters and weaker wind shear favour formation.",
+      "why_it_matters": "Understanding cyclone seasons and formation conditions helps people in coastal states prepare for storms that can disrupt lives and property.",
+      "key_fact": "Bay of Bengal cyclone seasons: April-May and October-December",
+      "source_url": "https://www.thehindu.com/news/national/three-cyclones-in-three-weeks-whats-happening-in-the-bay-of-bengal-explained/article71721198.ece",
+      "date": "2026-11-23",
+      "quiz": {
+        "q": "Which months are the two main cyclone seasons in the Bay of Bengal?",
+        "options": [
+          "January-February and June-July",
+          "April-May and October-December",
+          "March-April and August-September",
+          "May-June and November-December"
+        ],
+        "answer": 1,
+        "explain": "The article states that the Bay has two main cyclone seasons, April-May and October-December."
+      },
+      "tags": [
+        "cyclones",
+        "Bay of Bengal",
+        "weather"
+      ]
+    },
+    {
+      "id": "news-2026-11-23-13",
+      "type": "news",
+      "category": "polity",
+      "headline": "Rural Development Ministry to launch Nai Chetna 5.0 on November 25",
+      "body": "The Rural Development Ministry will launch the fifth edition of its national gender equality campaign, Nai Chetna – Pahal Badlav Ki, on November 25, 2026, the International Day for the Elimination of Violence against Women. The month-long campaign runs from November 25 to December 23, 2026, under DAY-NRLM, and will be inaugurated by Union Minister Shivraj Singh Chouhan. Its theme is 'From Access to Agency: Women's Empowerment through Livelihoods and Equal Opportunities for a Viksit Bharat'.",
+      "why_it_matters": "The campaign aims to improve women's economic participation and access to services through the government's rural livelihoods mission.",
+      "key_fact": "Nai Chetna 5.0 runs from November 25 to December 23, 2026",
+      "source_url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2340244",
+      "date": "2026-11-23",
+      "quiz": {
+        "q": "Under which scheme is the Nai Chetna 5.0 campaign conducted?",
+        "options": [
+          "Deendayal Antyodaya Yojana – National Rural Livelihoods Mission (DAY-NRLM)",
+          "Mahatma Gandhi National Rural Employment Guarantee Scheme (MGNREGS)",
+          "Pradhan Mantri Awas Yojana (PMAY)",
+          "Beti Bachao Beti Padhao"
+        ],
+        "answer": 0,
+        "explain": "The article states the campaign will be run across the country under DAY-NRLM."
+      },
+      "tags": [
+        "women empowerment",
+        "rural development",
+        "DAY-NRLM"
+      ]
+    },
+    {
+      "id": "news-2026-11-23-14",
+      "type": "news",
+      "category": "environment",
+      "headline": "IOC commercialises sustainable aviation fuel as CORSIA deadline nears",
+      "body": "Indian Oil Corporation's move to commercialise Sustainable Aviation Fuel (SAF) marks India's first serious step in building a domestic alternative to conventional aviation turbine fuel. This comes as the mandatory second phase of the Carbon Offsetting and Reduction Scheme for International Aviation (CORSIA) takes effect from January 2027, bringing Indian carriers under binding carbon-offsetting obligations. In August 2025, IOC became the first Indian firm to secure ISCC CORSIA certification for SAF production.",
+      "why_it_matters": "As CORSIA obligations begin, Indian airlines may face carbon costs, and domestic SAF production could help reduce emissions at source.",
+      "key_fact": "CORSIA's mandatory second phase starts January 2027",
+      "source_url": "https://www.thehindu.com/news/national/india-readies-to-take-off-on-saf-as-corsia-deadline-approaches/article71733474.ece",
+      "date": "2026-11-23",
+      "quiz": {
+        "q": "From when does the mandatory second phase of CORSIA become effective?",
+        "options": [
+          "January 2025",
+          "January 2026",
+          "January 2027",
+          "January 2028"
+        ],
+        "answer": 2,
+        "explain": "The article states that the mandatory second phase of CORSIA becomes effective from January 2027."
+      },
+      "tags": [
+        "aviation",
+        "SAF",
+        "CORSIA",
+        "IOC"
+      ]
+    },
+    {
+      "id": "news-2026-11-23-15",
+      "type": "news",
+      "category": "polity",
+      "headline": "Supreme Court bars coercive action against SASTRA University in land dispute",
+      "body": "The Supreme Court admitted an appeal by SASTRA, a deemed university in Thanjavur, against a Madras High Court direction to the Tamil Nadu government to evict it from 31.37 acres of public land it has occupied for nearly 40 years. A Bench led by Chief Justice of India Surya Kant made absolute its interim order staying coercive measures and listed the plea for final hearing. The Court had earlier stayed eviction on January 15, 2026.",
+      "why_it_matters": "The case shows how courts balance public land use with the interests of educational institutions, and can affect similar land disputes across states.",
+      "key_fact": "SASTRA occupies 31.37 acres of public land for nearly 40 years",
+      "source_url": "https://www.thehindu.com/news/national/tamil-nadu/supreme-court-bars-tamil-nadu-government-from-coercive-action-against-sastra-university-over-land-dispute/article71733721.ece",
+      "date": "2026-11-23",
+      "quiz": {
+        "q": "How much public land is SASTRA University occupying in the dispute?",
+        "options": [
+          "13.37 acres",
+          "31.37 acres",
+          "40 acres",
+          "3.37 acres"
+        ],
+        "answer": 1,
+        "explain": "The article states the dispute involves 31.37 acres of public land occupied by the university for nearly 40 years."
+      },
+      "tags": [
+        "Supreme Court",
+        "SASTRA",
+        "land dispute",
+        "Tamil Nadu"
+      ]
+    },
+    {
+      "id": "news-2026-11-23-16",
+      "type": "news",
+      "category": "sports",
+      "headline": "India beat Sri Lanka by record 317 runs to sweep ODI series",
+      "body": "India posted 390 for five in Thiruvananthapuram, built on Virat Kohli's 166 not out off 110 balls and Shubman Gill's 116. Mohammed Siraj then took four for 32 as Sri Lanka were bowled out for 73 in 22 overs. The 317-run margin is the largest victory by runs in ODI history, surpassing New Zealand's 290-run win over Ireland in 2008, giving India a 3-0 series whitewash.",
+      "why_it_matters": "The result is a new world record in one-day internationals, a piece of cricket history an ordinary fan may want to remember.",
+      "key_fact": "India's 317-run ODI win, the biggest by runs in history",
+      "source_url": "https://www.thehindu.com/sport/cricket/india-sri-lanka-3rd-odi-january-15-2023/article66380819.ece",
+      "date": "2026-11-23",
+      "quiz": {
+        "q": "What record did India set with its 317-run win over Sri Lanka?",
+        "options": [
+          "Largest victory by runs in ODI history",
+          "Fastest ODI team total of all time",
+          "Most sixes in a single ODI innings",
+          "Highest individual ODI score by an Indian"
+        ],
+        "answer": 0,
+        "explain": "The 317-run margin broke New Zealand's 290-run record set against Ireland in 2008."
+      },
+      "tags": [
+        "cricket",
+        "ODI",
+        "Virat Kohli",
+        "record"
+      ]
+    },
+    {
+      "id": "news-2026-11-23-17",
+      "type": "news",
+      "category": "polity",
+      "headline": "Amit Shah inaugurates NDRF 12th battalion campus in Itanagar",
+      "body": "Union Home Minister Amit Shah inaugurated the NDRF's 12th battalion campus in Itanagar, Arunachal Pradesh, with Chief Minister Pema Khandu and others present. The buildings are built to earthquake-resistant standards. The campus will serve Arunachal Pradesh and the wider Northeast in disasters, and train SDRF personnel from all eight northeastern states. An Olympic-size swimming pool and diving tank built for training will be opened free to swimmers from Itanagar.",
+      "why_it_matters": "The NDRF is the Centre's specialised force for disaster response, and placing a battalion in the disaster-prone Northeast speeds up relief during floods and earthquakes.",
+      "key_fact": "NDRF 12th battalion campus, Itanagar, Arunachal Pradesh",
+      "source_url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2339987",
+      "date": "2026-11-23",
+      "quiz": {
+        "q": "Where did Amit Shah inaugurate the NDRF's 12th battalion campus?",
+        "options": [
+          "Itanagar, Arunachal Pradesh",
+          "Guwahati, Assam",
+          "Shillong, Meghalaya",
+          "Gangtok, Sikkim"
+        ],
+        "answer": 0,
+        "explain": "The campus is in Itanagar, the capital of Arunachal Pradesh, and will train SDRF teams from all eight northeastern states."
+      },
+      "tags": [
+        "NDRF",
+        "disaster management",
+        "Northeast",
+        "Amit Shah"
+      ]
+    },
+    {
+      "id": "news-2026-11-23-18",
+      "type": "news",
+      "category": "geography",
+      "headline": "NCCR atlas finds 31% of Andhra Pradesh coastline eroding",
+      "body": "The National Centre for Coastal Research's Shoreline Change Atlas, published in February 2024, mapped 1,027.58 km of Andhra Pradesh's coast from 1990 to 2022. It found 31 per cent (318.96 km) eroding, 24.9 per cent stable and 44 per cent gaining sand, with about 91.6 km losing more than five metres a year. Losses concentrate in delta districts: Kakinada 52.8 per cent, West Godavari 52.5 per cent and Krishna 43.8 per cent.",
+      "why_it_matters": "Coastal erosion threatens homes, beaches, roads and the livelihoods of fishing communities along India's long coastline.",
+      "key_fact": "31% of Andhra Pradesh's coastline is eroding (1990-2022)",
+      "source_url": "https://www.thehindu.com/news/national/andhra-pradesh/time-to-protect-eroding-coastlines/article71720476.ece",
+      "date": "2026-11-23",
+      "quiz": {
+        "q": "According to the NCCR atlas, what share of Andhra Pradesh's coastline is eroding?",
+        "options": [
+          "31 per cent",
+          "12 per cent",
+          "52 per cent",
+          "71 per cent"
+        ],
+        "answer": 0,
+        "explain": "The atlas found 31 per cent, or 318.96 km, of the mapped coastline eroding between 1990 and 2022."
+      },
+      "tags": [
+        "coastal erosion",
+        "Andhra Pradesh",
+        "NCCR",
+        "environment"
+      ]
+    },
+    {
+      "id": "news-2026-11-23-19",
+      "type": "news",
+      "category": "polity",
+      "headline": "Pratham's Second Chance Programme helps women dropouts take Class X exams",
+      "body": "The Pratham-Jameel Second Chance Programme supports girls and women who left school before completing secondary education, helping them appear for Class X board exams, often through the National Institute of Open Schooling. In 2024-25, over 17,000 learners enrolled. Started as a pilot in Maharashtra in 2011 and extended to seven states, it now runs in 12 states. Pratham has published the ASER report since 2005.",
+      "why_it_matters": "A Class X certificate opens doors to further education and better jobs, so a second chance at school matters greatly to women who dropped out.",
+      "key_fact": "Pratham Second Chance Programme runs in 12 states",
+      "source_url": "https://www.thehindu.com/news/national/in-12-states-ngo-prathams-second-chance-programme-is-helping-women-school-dropouts-appear-for-their-class-x-board-exams/article71733510.ece",
+      "date": "2026-11-23",
+      "quiz": {
+        "q": "Which organisation runs the Second Chance Programme for women school dropouts?",
+        "options": [
+          "Pratham Education Foundation",
+          "Akshara Foundation",
+          "Teach for India",
+          "Azim Premji Foundation"
+        ],
+        "answer": 0,
+        "explain": "The programme is an initiative of the Pratham Education Foundation, which also publishes the ASER report."
+      },
+      "tags": [
+        "education",
+        "Pratham",
+        "women",
+        "Class X"
+      ]
+    },
+    {
+      "id": "news-2026-11-23-20",
+      "type": "news",
+      "category": "sports",
+      "headline": "Anuj Shrivatri becomes India's 100th chess Grandmaster",
+      "body": "Anuj Shrivatri became India's 100th Grandmaster on Diwali Day after winning the ASEAN Plus Individual Open Chess Championship in Ozamiz City, Philippines, earning the title directly. India had no GM until Viswanathan Anand got his final norm in December 1987 in Coimbatore. Only Russia, the United States and Germany also have 100 or more GMs. There are around 2,000 GMs worldwide.",
+      "why_it_matters": "India's century of Grandmasters, from Anand's era to the current chess boom, shows how a single champion can inspire a generation of players.",
+      "key_fact": "India's 100th chess Grandmaster",
+      "source_url": "https://www.thehindu.com/sport/hundredth-gm-milestone-underlines-indias-remarkable-growth-in-chess/article71682978.ece",
+      "date": "2026-11-23",
+      "quiz": {
+        "q": "Who became India's 100th chess Grandmaster?",
+        "options": [
+          "Anuj Shrivatri",
+          "Dibyendu Barua",
+          "Pravin Thipsay",
+          "Abhijit Kunte"
+        ],
+        "answer": 0,
+        "explain": "Anuj Shrivatri earned the title by winning the ASEAN Plus Individual Open Chess Championship in the Philippines."
+      },
+      "tags": [
+        "chess",
+        "Grandmaster",
+        "India",
+        "sports"
+      ]
+    }
+  ]
+}
