@@ -1,0 +1,561 @@
+{
+  "date": "2026-11-24",
+  "cards": [
+    {
+      "id": "news-2026-11-24-01",
+      "type": "news",
+      "category": "environment",
+      "headline": "COP31 ends without consensus over fossil fuel phase-out",
+      "body": "UN climate talks at COP31 in Antalya, Turkiye, ended without a consensus agreement on November 22, 2026, after running 48 hours into overtime. The EU, backed by about 130 countries, rejected COP31 President Murat Kurum's cover text for lacking explicit language on moving away from fossil fuels. India supported the draft, with Environment Minister Bhupendra Yadav saying climate ambition must go with means of implementation.",
+      "why_it_matters": "COP decisions set the global direction for climate action, so a failure to agree on phasing out fossil fuels slows the transition that shapes energy prices, jobs and climate resilience in India too.",
+      "key_fact": "EU and about 130 countries opposed a fossil fuel phase-out-free COP31 text",
+      "source_url": "https://www.thehindu.com/sci-tech/energy-and-environment/cop31-fails-to-agree-on-climate-deal-in-chaotic-finale/article71731651.ece",
+      "date": "2026-11-24",
+      "quiz": {
+        "q": "Which bloc led objections to the COP31 cover text for omitting fossil fuel phase-out language?",
+        "options": [
+          "The European Union",
+          "The African Group",
+          "OPEC",
+          "The Alliance of Small Island States"
+        ],
+        "answer": 0,
+        "explain": "The article says the EU led objections, reportedly supported by about 130 countries."
+      },
+      "tags": [
+        "COP31",
+        "climate",
+        "fossil fuels",
+        "EU"
+      ]
+    },
+    {
+      "id": "news-2026-11-24-02",
+      "type": "news",
+      "category": "international",
+      "headline": "India announces ₹15,000 crore development package for Nepal",
+      "body": "During Nepal Prime Minister's state visit, India announced a ₹15,000 crore (24,000 crore Nepalese rupees) development cooperation package for Nepal's reconstruction and long-term development. Outcomes included the foundation stone for a new ICP at Banbasa, progress on Bhairahawa, Sonauli and Dodhara Chandani ICPs, a new motorable bridge between Dharchula and Darchula, port access at Kandla and Paradip, and several MoUs.",
+      "why_it_matters": "The package and connectivity projects deepen India-Nepal ties and ease trade, transit and travel for people in the border region.",
+      "key_fact": "₹15,000 crore development package for Nepal",
+      "source_url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2340688",
+      "date": "2026-11-24",
+      "quiz": {
+        "q": "How large is India's announced development cooperation package for Nepal?",
+        "options": [
+          "₹15,000 crore",
+          "₹5,000 crore",
+          "₹24,000 crore",
+          "₹1,500 crore"
+        ],
+        "answer": 0,
+        "explain": "The article states the package is ₹15,000 crore, equivalent to 24,000 crore Nepalese rupees."
+      },
+      "tags": [
+        "Nepal",
+        "diplomacy",
+        "development",
+        "MoU"
+      ]
+    },
+    {
+      "id": "news-2026-11-24-03",
+      "type": "news",
+      "category": "international",
+      "headline": "PM Modi announces IIT offshore campus in Nepal",
+      "body": "Prime Minister Narendra Modi announced on November 23, 2026, a ₹15,000 crore (24,000 crore Nepalese rupees) development package for Nepal after talks with Nepalese counterpart Balendra Shah in New Delhi. The two leaders inaugurated the Saryu-Kamala rail service from Ayodhya to Janakpur and the Dharchula road bridge via video conferencing. Modi also announced an IIT offshore campus in Nepal, with a startup incubator and innovation hub.",
+      "why_it_matters": "An IIT campus abroad expands India's education footprint and gives Nepali students a nearby option, while the rail link boosts pilgrimage tourism between Ayodhya and Janakpur.",
+      "key_fact": "India to set up an IIT offshore campus in Nepal",
+      "source_url": "https://www.thehindu.com/news/national/nepal-pm-india-visit-balen-shah-begins-bilateral-trip-energy-connectivity-on-agenda-live-updates-november-23-2026/article71733252.ece",
+      "date": "2026-11-24",
+      "quiz": {
+        "q": "What educational institution did PM Modi announce for Nepal?",
+        "options": [
+          "An offshore IIT campus",
+          "An IIM campus",
+          "An AIIMS branch",
+          "A central university"
+        ],
+        "answer": 0,
+        "explain": "Modi announced an offshore campus of IIT in Nepal along with a startup incubator and innovation hub."
+      },
+      "tags": [
+        "Nepal",
+        "IIT",
+        "railway",
+        "Modi"
+      ]
+    },
+    {
+      "id": "news-2026-11-24-04",
+      "type": "news",
+      "category": "polity",
+      "headline": "West Bengal to be renamed Paschim Banga, resolution on Dec 9",
+      "body": "West Bengal Chief Minister Suvendu Adhikari said on November 23, 2026, that a resolution to rename the State 'Paschim Banga' will be tabled in the Assembly on December 9. If passed, it will go to the Government of India for parliamentary and legal procedures. The BJP government wants the Bengali name used in English too, citing the State's formation history of June 20, 1947. A 2018 TMC resolution for 'Bangla' was not considered by the Centre.",
+      "why_it_matters": "Renaming a State requires a parliamentary law, so the proposal revives a long-running political debate over identity and history in West Bengal.",
+      "key_fact": "Resolution to rename West Bengal 'Paschim Banga' on December 9",
+      "source_url": "https://www.thehindu.com/news/national/west-bengal-new-name-rename-paschim-banga/article71734146.ece",
+      "date": "2026-11-24",
+      "quiz": {
+        "q": "On what date will the West Bengal Assembly table the renaming resolution?",
+        "options": [
+          "December 9",
+          "November 23",
+          "June 20",
+          "July 9"
+        ],
+        "answer": 0,
+        "explain": "Chief Minister Suvendu Adhikari said the resolution will be introduced in the Assembly on the 9th of December."
+      },
+      "tags": [
+        "West Bengal",
+        "Paschim Banga",
+        "renaming",
+        "Assembly"
+      ]
+    },
+    {
+      "id": "news-2026-11-24-05",
+      "type": "news",
+      "category": "economy",
+      "headline": "RBI keeps SBI, HDFC Bank, ICICI Bank as D-SIBs",
+      "body": "The Reserve Bank of India retained SBI, HDFC Bank and ICICI Bank in its 2026 list of Domestic Systemically Important Banks, keeping the same bucketing as 2025. SBI, in Bucket 4, must hold an additional Common Equity Tier 1 requirement of 0.80% of risk-weighted assets; HDFC Bank (Bucket 2) 0.40%; and ICICI Bank (Bucket 1) 0.20%. The classification uses data as of March 31, 2026, and the framework dates to July 22, 2014.",
+      "why_it_matters": "D-SIBs are banks whose failure could hurt the wider financial system, so higher capital requirements protect depositors and the economy.",
+      "key_fact": "SBI in Bucket 4 needs 0.80% additional CET1 capital",
+      "source_url": "https://www.thehindu.com/business/Economy/sbi-hdfc-bank-icici-bank-retain-d-sib-status-rbi-maintains-capital-requirements/article71734757.ece",
+      "date": "2026-11-24",
+      "quiz": {
+        "q": "Which bucket is SBI placed in under the RBI's D-SIB framework?",
+        "options": [
+          "Bucket 4",
+          "Bucket 2",
+          "Bucket 1",
+          "Bucket 3"
+        ],
+        "answer": 0,
+        "explain": "The RBI placed SBI in Bucket 4, requiring an additional 0.80% CET1 capital."
+      },
+      "tags": [
+        "RBI",
+        "banking",
+        "D-SIB",
+        "capital"
+      ]
+    },
+    {
+      "id": "news-2026-11-24-06",
+      "type": "news",
+      "category": "economy",
+      "headline": "New GDP, CPI, IIP series to sharpen RBI policy: Poonam Gupta",
+      "body": "RBI Deputy Governor Poonam Gupta said revised GDP, CPI and IIP series with updated base years will give the central bank a clearer picture of the economy, leading to better-calibrated monetary policy. The new CPI series (base 2024-25) came on 12 February 2026, GDP (base 2022-23) on 27 February, and IIP (base 2022-23) on 1 June. Stable early estimates with smaller revisions support predictable policy decisions.",
+      "why_it_matters": "More reliable official data helps the RBI set interest rates better, which affects loans, EMIs and inflation for ordinary Indians.",
+      "key_fact": "New GDP, CPI, IIP series have updated base years",
+      "source_url": "https://www.livemint.com/economy/new-gdp-cpi-and-iip-series-to-help-make-better-calibrated-policy-decisions-says-rbis-poonam-gupta-11795428399288.html",
+      "date": "2026-11-24",
+      "quiz": {
+        "q": "What is the base year of the new GDP series mentioned in the article?",
+        "options": [
+          "2011-12",
+          "2022-23",
+          "2024-25",
+          "2017-18"
+        ],
+        "answer": 1,
+        "explain": "The article states the revised GDP series has a base year of 2022-23, replacing 2011-12."
+      },
+      "tags": [
+        "RBI",
+        "GDP",
+        "CPI",
+        "economy"
+      ]
+    },
+    {
+      "id": "news-2026-11-24-07",
+      "type": "news",
+      "category": "science",
+      "headline": "Voyager 1 to become first object one light-day from Earth",
+      "body": "NASA's Voyager 1, launched in 1977, is set to cross one light-day from Earth on Wednesday, November 18, 2026, at 5:16:07 a.m. EST (3:46:07 p.m. IST). One light-day is the distance light travels in 24 hours—over 16 billion miles. Radio signals from the probe will take exactly 24 hours to reach Earth. Voyager 1 entered interstellar space in August 2012.",
+      "why_it_matters": "This milestone shows how far human-made objects have travelled and illustrates the vast scale of space and the communication delays involved.",
+      "key_fact": "Voyager 1 reaches one light-day from Earth on November 18, 2026",
+      "source_url": "https://www.thehindu.com/sci-tech/science/voyager-1-reaches-one-light-day-from-earth-on-november-18-what-it-means-nasa-latest-news/article71704297.ece",
+      "date": "2026-11-24",
+      "quiz": {
+        "q": "What does one light-day measure?",
+        "options": [
+          "The time light takes to reach the Sun",
+          "The distance light travels in 24 hours",
+          "The distance between Earth and Neptune",
+          "The time for a radio signal to reach Voyager 2"
+        ],
+        "answer": 1,
+        "explain": "One light-day is the distance light, travelling at about 300,000 km per second, covers in a full 24-hour period."
+      },
+      "tags": [
+        "NASA",
+        "Voyager 1",
+        "space"
+      ]
+    },
+    {
+      "id": "news-2026-11-24-08",
+      "type": "news",
+      "category": "economy",
+      "headline": "Fertilizer subsidy may rise 15% to ₹2.5 trillion despite lower sales",
+      "body": "India's fertilizer subsidy bill could rise 15% to ₹2.5 trillion this fiscal year, close to the record ₹2.55 trillion in FY23, even as sales fell 8% in April-October, according to the Fertiliser Association of India. Higher global prices of fertilizers and raw materials, partly due to the West Asia war, are driving the increase. Consumption is expected to fall to 65-67 million tonnes in FY27 from about 70 million last year.",
+      "why_it_matters": "Fertilizer subsidy keeps farm inputs affordable for farmers but strains the government's finances, affecting taxpayers and the fiscal deficit.",
+      "key_fact": "Fertilizer subsidy may rise 15% to ₹2.5 trillion in FY27",
+      "source_url": "https://www.livemint.com/economy/fertilizer-subsidy-record-urea-dap-sales-fall-finance-ministry-11795429979170.html",
+      "date": "2026-11-24",
+      "quiz": {
+        "q": "By how much might India's fertilizer subsidy bill rise this fiscal year, according to FAI?",
+        "options": [
+          "8%",
+          "10%",
+          "15%",
+          "25%"
+        ],
+        "answer": 2,
+        "explain": "The Fertiliser Association of India expects the subsidy bill to rise 15% to ₹2.5 trillion in FY27."
+      },
+      "tags": [
+        "fertilizer",
+        "subsidy",
+        "agriculture"
+      ]
+    },
+    {
+      "id": "news-2026-11-24-09",
+      "type": "news",
+      "category": "international",
+      "headline": "India, Canada 'very close' to concluding CEPA trade talks",
+      "body": "India and Canada are holding daily negotiations on the proposed Comprehensive Economic Partnership Agreement (CEPA) and are 'very close' to concluding, an official said. The talks, resumed after Canada paused them in 2023, cover goods, services, rules of origin, intellectual property and investment. The two sides aim to increase bilateral trade to $50 billion by 2030. Commerce Secretary Rajesh Agrawal reviewed progress with Canada's Glenn Purves.",
+      "why_it_matters": "A trade pact can lower tariffs and make Indian exports like pharmaceuticals and textiles more competitive in Canada, potentially boosting jobs.",
+      "key_fact": "India-Canada target $50 billion bilateral trade by 2030",
+      "source_url": "https://www.thehindu.com/news/national/india-canada-very-close-to-concluding-trade-pact-negotiations-official/article71737579.ece",
+      "date": "2026-11-24",
+      "quiz": {
+        "q": "What is the target for India-Canada bilateral trade by 2030 under the proposed CEPA?",
+        "options": [
+          "$25 billion",
+          "$50 billion",
+          "$75 billion",
+          "$100 billion"
+        ],
+        "answer": 1,
+        "explain": "The article states both sides have set a target to increase bilateral trade to $50 billion by 2030."
+      },
+      "tags": [
+        "India-Canada",
+        "CEPA",
+        "trade"
+      ]
+    },
+    {
+      "id": "news-2026-11-24-10",
+      "type": "news",
+      "category": "polity",
+      "headline": "SC allows one-time lamp lighting on Thirupparankundram deepathoon",
+      "body": "The Supreme Court on Friday allowed lighting of the lamp on the deepathoon at Thirupparankundram Hill in Madurai on Karthigai Deepam day (November 24) as a 'limited one-time arrangement', while staying the Madras High Court's findings that upheld it as an essential practice. The deepathoon is about 50 metres from the Sikandar Badusha Dargah. The court imposed safeguards, with the temple Devasthanam deciding the team to light the lamp.",
+      "why_it_matters": "The interim order balances religious practice and festival timing with an ongoing dispute over the hilltop site, while keeping the larger legal question open.",
+      "key_fact": "SC allows one-time lamp lighting on deepathoon on Karthigai Deepam",
+      "source_url": "https://www.thehindu.com/news/national/tamil-nadu/supreme-court-allows-lighting-of-lamp-on-the-deepathoon-as-a-limited-one-time-arrangement/article71723742.ece",
+      "date": "2026-11-24",
+      "quiz": {
+        "q": "On which day did the Supreme Court permit the one-time lighting of the lamp?",
+        "options": [
+          "Diwali",
+          "Karthigai Deepam",
+          "Pongal",
+          "Thai Poosam"
+        ],
+        "answer": 1,
+        "explain": "The court allowed the lamp to be lit on Karthigai Deepam day, November 24, as a limited one-time arrangement."
+      },
+      "tags": [
+        "Supreme Court",
+        "Thirupparankundram",
+        "religion"
+      ]
+    },
+    {
+      "id": "news-2026-11-24-11",
+      "type": "news",
+      "category": "environment",
+      "headline": "India completes landslide susceptibility mapping of 4.3 lakh sq km",
+      "body": "Minister for Science and Technology Jitendra Singh said India has completed national landslide susceptibility mapping across about 4.3 lakh square kilometres, with an inventory of nearly 91,000 historical landslides by end-2025. Speaking at the 7th World Landslide Forum in Faridabad, he said the approach is shifting from post-disaster relief to prevention and risk reduction. The National Landslide Forecasting Centre, set up in Kolkata in 2024, now covers 20 districts.",
+      "why_it_matters": "Landslide-prone states like Kerala, Uttarakhand and Himachal Pradesh can use susceptibility maps to plan safer construction and evacuations.",
+      "key_fact": "National Landslide Forecasting Centre established in Kolkata in 2024",
+      "source_url": "https://www.thehindu.com/news/national/india-maps-landslide-susceptibility-as-part-of-shift-from-post-disaster-relief-to-landslide-management/article71735715.ece",
+      "date": "2026-11-24",
+      "quiz": {
+        "q": "Where was the National Landslide Forecasting Centre established in 2024?",
+        "options": [
+          "Kolkata",
+          "Faridabad",
+          "Dehradun",
+          "Shimla"
+        ],
+        "answer": 0,
+        "explain": "The article states the Centre was established in Kolkata in 2024."
+      },
+      "tags": [
+        "landslides",
+        "disaster management",
+        "science and technology",
+        "mapping"
+      ]
+    },
+    {
+      "id": "news-2026-11-24-12",
+      "type": "news",
+      "category": "polity",
+      "headline": "Speedy trial alone cannot justify bail for repeat offender: Supreme Court",
+      "body": "The Supreme Court set aside a Punjab and Haryana High Court order granting bail to an accused in a murder case, ruling that a person with criminal antecedents and a previous conviction cannot be released merely on the right to speedy trial. The bench of Justices Prashant Kumar Mishra and Shree Chandrashekhar said courts must balance the accused's right under Article 21 with societal interest, including that of the victim's family.",
+      "why_it_matters": "The ruling clarifies that bail decisions must weigh public safety and a victim's interest, not just the duration an accused has spent in jail.",
+      "key_fact": "Right to speedy trial is a facet of Article 21",
+      "source_url": "https://www.thehindu.com/news/national/criminal-with-previous-conviction-cant-be-given-bail-only-on-strength-of-right-to-speedy-trial-supreme-court/article71737821.ece",
+      "date": "2026-11-24",
+      "quiz": {
+        "q": "Under which Article of the Constitution does the Supreme Court place the right to speedy trial?",
+        "options": [
+          "Article 21",
+          "Article 14",
+          "Article 19",
+          "Article 32"
+        ],
+        "answer": 0,
+        "explain": "The bench described the right to speedy trial as a facet of Article 21."
+      },
+      "tags": [
+        "Supreme Court",
+        "bail",
+        "Article 21",
+        "criminal law"
+      ]
+    },
+    {
+      "id": "news-2026-11-24-13",
+      "type": "news",
+      "category": "international",
+      "headline": "Kartarpur Corridor to reopen once security concerns are resolved: Amit Shah",
+      "body": "Union Home Minister Amit Shah said the Kartarpur Corridor will be reopened as soon as national security concerns are resolved, speaking at a BJP-SAD press conference in Delhi. The corridor, which links Gurdwara Darbar Sahib in Pakistan to Dera Baba Nanak in Punjab, India, has been closed since Operation Sindoor in May 2025. Punjab Congress chief Pargat Singh urged PM Modi to reopen it, balancing security with religious freedom.",
+      "why_it_matters": "The corridor allows visa-free pilgrimage for Sikh devotees to Guru Nanak's final resting place, so its closure affects a major article of faith.",
+      "key_fact": "Kartarpur Corridor closed since Operation Sindoor in May 2025",
+      "source_url": "https://www.thehindu.com/news/national/kartarpur-corridor-will-be-reopened-as-soon-as-national-security-concerns-are-resolved-says-amit-shah/article71737824.ece",
+      "date": "2026-11-24",
+      "quiz": {
+        "q": "Since which operation in May 2025 has the Kartarpur Corridor been closed for pilgrims?",
+        "options": [
+          "Operation Sindoor",
+          "Operation Vijay",
+          "Operation Meghdoot",
+          "Operation Blue Star"
+        ],
+        "answer": 0,
+        "explain": "The article states the corridor has been closed since Operation Sindoor in May 2025."
+      },
+      "tags": [
+        "Kartarpur Corridor",
+        "Amit Shah",
+        "national security",
+        "Sikh pilgrimage"
+      ]
+    },
+    {
+      "id": "news-2026-11-24-14",
+      "type": "news",
+      "category": "science",
+      "headline": "ICMR SAMPADA survey finds severe anaemia in under 2% of population",
+      "body": "The ICMR's SAMPADA 2023-2025 survey, released on November 23, 2026, found severe anaemia in less than 2% of people in most age groups. Anaemia prevalence was 42% in children aged 12-59 months, 46% in adolescent girls, 56% in women of reproductive age, and 22-23% in adolescent boys and men. The survey covered over 2 lakh individuals across 183 districts and 35 States and UTs.",
+      "why_it_matters": "The findings suggest much of India's anaemia burden is mild, helping target the Anaemia Mukt Bharat programme more effectively.",
+      "key_fact": "SAMPADA 2023-2025 covered over 2 lakh individuals in 183 districts",
+      "source_url": "https://www.thehindu.com/sci-tech/health/severe-anaemia-affects-less-than-2-of-population-icmr-survey/article71735277.ece",
+      "date": "2026-11-24",
+      "quiz": {
+        "q": "Which survey by the ICMR assessed anaemia and nutrition across India?",
+        "options": [
+          "SAMPADA",
+          "NFHS",
+          "NSSO",
+          "CNNS"
+        ],
+        "answer": 0,
+        "explain": "The survey is called SAMPADA (Survey for Assessment of Markers of Population Health, Activity, Diet and Anthropometry)."
+      },
+      "tags": [
+        "anaemia",
+        "ICMR",
+        "health survey",
+        "nutrition"
+      ]
+    },
+    {
+      "id": "news-2026-11-24-15",
+      "type": "news",
+      "category": "sports",
+      "headline": "USA-led joint bid and UK confirmed as 2031 and 2035 Women's World Cup hosts",
+      "body": "FIFA confirmed on November 23, 2026, that a joint bid led by the United States, with Mexico, Costa Rica and Jamaica, will host the 2031 Women's World Cup, while the United Kingdom will host the 2035 edition. The 2031 tournament will expand to 48 teams for the first time. The 2027 edition will be held in Brazil with 32 teams.",
+      "why_it_matters": "The expansion to 48 teams signals rapid growth in women's football, creating more global opportunities for the sport.",
+      "key_fact": "2031 Women's World Cup to feature 48 teams for the first time",
+      "source_url": "https://www.thehindu.com/sport/football/usa-joint-bid-and-uk-confirmed-as-2031-and-2035-fifa-womens-world-cup-hosts/article71737419.ece",
+      "date": "2026-11-24",
+      "quiz": {
+        "q": "How many teams will feature in the 2031 FIFA Women's World Cup?",
+        "options": [
+          "48",
+          "32",
+          "24",
+          "16"
+        ],
+        "answer": 0,
+        "explain": "FIFA said the 2031 edition will expand to 48 teams for the first time."
+      },
+      "tags": [
+        "FIFA",
+        "Women's World Cup",
+        "football",
+        "sports"
+      ]
+    },
+    {
+      "id": "news-2026-11-24-16",
+      "type": "news",
+      "category": "sports",
+      "headline": "India beat Sri Lanka by record 317 runs to sweep ODI series",
+      "body": "India defeated Sri Lanka by 317 runs in the third ODI in Thiruvananthapuram, the biggest margin of victory in ODI history. Virat Kohli scored 166 not out off 110 balls and Shubman Gill made 116 as India posted 390 for five. Sri Lanka were bowled out for 73, with Mohammed Siraj taking four for 32. India won the series 3-0.",
+      "why_it_matters": "This match set a new world record for the largest victory margin by runs in One Day International cricket, surpassing New Zealand's 290-run win over Ireland in 2008.",
+      "key_fact": "317 runs – largest victory margin in ODI history",
+      "source_url": "https://www.thehindu.com/sport/cricket/india-sri-lanka-3rd-odi-january-15-2023/article66380819.ece",
+      "date": "2026-11-24",
+      "quiz": {
+        "q": "What is the record margin of victory (by runs) India achieved against Sri Lanka in the third ODI?",
+        "options": [
+          "290 runs",
+          "317 runs",
+          "350 runs",
+          "400 runs"
+        ],
+        "answer": 1,
+        "explain": "India won by 317 runs, breaking New Zealand's previous record of 290 runs set in 2008."
+      },
+      "tags": [
+        "cricket",
+        "ODI",
+        "record",
+        "India"
+      ]
+    },
+    {
+      "id": "news-2026-11-24-17",
+      "type": "news",
+      "category": "states",
+      "headline": "BJP and SAD reunite for Punjab Assembly polls, announce alliance",
+      "body": "The BJP and Shiromani Akali Dal (SAD) announced on Tuesday that they will contest the next Punjab Assembly elections in alliance, returning SAD to the NDA fold. Union Home Minister Amit Shah said SAD will be the elder partner and indicated it will lead the alliance. The parties will focus on eradicating drugs and corruption and strengthening nationalist forces in Punjab.",
+      "why_it_matters": "The BJP-SAD alliance was a long-standing partnership in Punjab that broke in 2020 over the farm laws; its revival reshapes the state's electoral contest.",
+      "key_fact": "BJP-SAD alliance for next Punjab Assembly elections",
+      "source_url": "https://www.thehindu.com/news/national/punjab-elections-bharatiya-janata-party-shiromani-akali-dal-bjp-sad-alliance-seat-sharing-november-24-2026/article71737438.ece",
+      "date": "2026-11-24",
+      "quiz": {
+        "q": "Which party will play the role of the elder brother in the BJP-SAD alliance for Punjab polls?",
+        "options": [
+          "BJP",
+          "SAD",
+          "NDA",
+          "Congress"
+        ],
+        "answer": 1,
+        "explain": "Amit Shah said SAD will be the elder brother in the alliance, indicating it will lead."
+      },
+      "tags": [
+        "Punjab",
+        "BJP",
+        "SAD",
+        "elections"
+      ]
+    },
+    {
+      "id": "news-2026-11-24-18",
+      "type": "news",
+      "category": "economy",
+      "headline": "India-UK trade deal faces dispute over bulk Scotch whisky duty",
+      "body": "India is committed to tariff concessions under the India-UK trade agreement (CETA) but a dispute over customs classification of bulk Scotch whisky has arisen. Bulk whisky is being charged 162.5% duty instead of the 75% for bottled Scotch under HS code 220830. Bulk imports fall under HS code 220890 with a 110% duty. The Commerce and Finance ministries are working on a solution.",
+      "why_it_matters": "The dispute affects the implementation of the India-UK free trade agreement and could impact other sectors if unresolved.",
+      "key_fact": "Scotch whisky tariff under CETA: 75% for bottled, 110% for bulk",
+      "source_url": "https://www.livemint.com/economy/indiauk-trade-deal-cuts-scotch-whisky-duty-to-75-but-bulk-imports-face-110-levy-govt-working-to-resolve-dispute-11795456167377.html",
+      "date": "2026-11-24",
+      "quiz": {
+        "q": "Under the India-UK trade agreement, what is the reduced tariff on Scotch whisky classified under HS code 220830?",
+        "options": [
+          "150%",
+          "110%",
+          "75%",
+          "40%"
+        ],
+        "answer": 2,
+        "explain": "The tariff for HS code 220830 was reduced to 75% from 150% under CETA."
+      },
+      "tags": [
+        "India-UK trade",
+        "CETA",
+        "whisky",
+        "tariffs"
+      ]
+    },
+    {
+      "id": "news-2026-11-24-19",
+      "type": "news",
+      "category": "science",
+      "headline": "Anti-submarine warfare shallow water craft 'Ashank' handed over to Navy",
+      "body": "The indigenously designed and built Anti-Submarine Warfare Shallow Water Craft (ASW SWC) 'Ashank' was handed over to the Indian Navy on 23 November 2026 at Visakhapatnam. Built by Garden Reach Shipbuilders & Engineers (GRSE), Kolkata, the ship is equipped with lightweight torpedoes, indigenous rocket launchers, and advanced sonar. Over 80% indigenous content, it enhances coastal surveillance and anti-submarine warfare capabilities.",
+      "why_it_matters": "The ship strengthens India's indigenous defence manufacturing under Atmanirbhar Bharat and reduces reliance on imports for naval equipment.",
+      "key_fact": "INS Ashank (Yard 3036) – ASW Shallow Water Craft with over 80% indigenous content",
+      "source_url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2340722",
+      "date": "2026-11-24",
+      "quiz": {
+        "q": "Which shipyard built the anti-submarine warfare shallow water craft 'Ashank'?",
+        "options": [
+          "Cochin Shipyard Limited",
+          "Garden Reach Shipbuilders & Engineers",
+          "Mazagon Dock Shipbuilders",
+          "Hindustan Shipyard Limited"
+        ],
+        "answer": 1,
+        "explain": "GRSE, Kolkata, designed and built the 'Ashank'."
+      },
+      "tags": [
+        "Indian Navy",
+        "defence",
+        "Atmanirbhar Bharat",
+        "GRSE"
+      ]
+    },
+    {
+      "id": "news-2026-11-24-20",
+      "type": "news",
+      "category": "science",
+      "headline": "Wolbachia mosquitoes show strong evidence in reducing dengue",
+      "body": "A study in Brazil found that neighbourhoods with Wolbachia-carrying mosquitoes had a 69% reduction in dengue and chikungunya infections among schoolchildren. The study involved over 5,700 children in Belo Horizonte. Wolbachia bacteria reduce mosquitoes' ability to transmit viruses and spread to offspring. The findings were presented at the American Society of Tropical Medicine and Hygiene meeting.",
+      "why_it_matters": "Dengue is a major public health issue in India; this method could supplement existing mosquito control measures.",
+      "key_fact": "69% reduction in dengue and chikungunya with Wolbachia mosquitoes",
+      "source_url": "https://www.thehindu.com/sci-tech/health/scientists-report-strong-new-evidence-that-specially-bred-mosquitoes-can-fend-off-dengue/article71733170.ece",
+      "date": "2026-11-24",
+      "quiz": {
+        "q": "What percentage reduction in dengue and chikungunya infections was observed in areas with Wolbachia mosquitoes?",
+        "options": [
+          "50%",
+          "69%",
+          "80%",
+          "90%"
+        ],
+        "answer": 1,
+        "explain": "The study found about a 69% reduction in dengue and chikungunya infections."
+      },
+      "tags": [
+        "dengue",
+        "Wolbachia",
+        "public health",
+        "Brazil"
+      ]
+    }
+  ]
+}
