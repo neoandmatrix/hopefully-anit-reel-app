@@ -1,0 +1,557 @@
+{
+  "date": "2026-11-25",
+  "cards": [
+    {
+      "id": "news-2026-11-25-01",
+      "type": "news",
+      "category": "polity",
+      "headline": "Supreme Court inclined to stay Calcutta HC order deferring KMC polls",
+      "body": "The Supreme Court on November 25, 2026 said it is inclined to stay a Calcutta High Court order that deferred Kolkata Municipal Corporation elections until ward delimitation is decided. A Bench led by Chief Justice Surya Kant asked Solicitor General Tushar Mehta to seek instructions by November 30. The KMC plans to increase wards from 144 to 209, a move challenged by former CPI-M councillor Dipu Das.",
+      "why_it_matters": "This case affects the timing of local elections in Kolkata and tests the courts' approach to pending delimitation disputes.",
+      "key_fact": "KMC wards may rise from 144 to 209",
+      "source_url": "https://www.thehindu.com/news/national/west-bengal/supreme-court-inclined-to-stay-calcutta-hc-order-deferring-kolkata-civic-polls-till-decision-on-ward-delimitation/article71741489.ece",
+      "date": "2026-11-25",
+      "quiz": {
+        "q": "By how much could the number of Kolkata Municipal Corporation wards increase under the proposed delimitation?",
+        "options": [
+          "From 144 to 209",
+          "From 144 to 200",
+          "From 100 to 144",
+          "From 209 to 250"
+        ],
+        "answer": 0,
+        "explain": "The article states the number of wards may rise to 209 from the current 144."
+      },
+      "tags": [
+        "Kolkata civic polls",
+        "Supreme Court",
+        "delimitation"
+      ]
+    },
+    {
+      "id": "news-2026-11-25-02",
+      "type": "news",
+      "category": "polity",
+      "headline": "Calcutta High Court restrains KMC polls until delimitation challenge decided",
+      "body": "The Calcutta High Court on October 6, 2026 restrained the West Bengal State Election Commission from issuing any notification for Kolkata Municipal Corporation elections based on newly redrawn wards until a petition challenging the delimitation is decided. The West Bengal government had passed a law on August 12 increasing KMC wards from 144 to 209. Former councillor Dipu Das challenged the exercise.",
+      "why_it_matters": "The order puts the KMC elections on hold and highlights legal disputes over ward delimitation ahead of civic polls.",
+      "key_fact": "Calcutta HC restrained KMC poll notification on October 6, 2026",
+      "source_url": "https://www.thehindu.com/news/cities/kolkata/calcutta-high-court-restrains-kmc-polls-until-challenge-on-delimitation-decided/article71675339.ece",
+      "date": "2026-11-25",
+      "quiz": {
+        "q": "What did the Calcutta High Court restrain the West Bengal State Election Commission from doing?",
+        "options": [
+          "Issuing a notification for KMC elections based on redrawn wards",
+          "Conducting any local body elections in the state",
+          "Implementing the new ward delimitation law",
+          "Publishing the final electoral rolls"
+        ],
+        "answer": 0,
+        "explain": "The High Court restrained the SEC from issuing any notification for KMC elections based on newly redrawn wards until the petition is decided."
+      },
+      "tags": [
+        "Calcutta High Court",
+        "KMC elections",
+        "delimitation"
+      ]
+    },
+    {
+      "id": "news-2026-11-25-03",
+      "type": "news",
+      "category": "polity",
+      "headline": "Collegium proposes Karnataka HC Chief Justice Vibhu Bakhru for Jharkhand HC",
+      "body": "The Supreme Court Collegium, headed by Chief Justice of India Surya Kant, on November 24, 2026 proposed transferring Karnataka High Court Chief Justice Vibhu Bakhru to become Chief Justice of the Jharkhand High Court. This came three days before incumbent Chief Justice M.S. Sonak retires on November 27. Jharkhand Chief Minister Hemant Soren had written to the CJI urging a timely appointment.",
+      "why_it_matters": "Timely appointments of High Court Chief Justices are essential for judicial administration and continuity in the states.",
+      "key_fact": "Justice Vibhu Bakhru proposed as Jharkhand HC Chief Justice",
+      "source_url": "https://www.thehindu.com/news/national/jharkhand/days-before-jharkhand-high-court-chief-justices-retirement-supreme-court-collegium-proposes-successor/article71739924.ece",
+      "date": "2026-11-25",
+      "quiz": {
+        "q": "Who did the Supreme Court Collegium propose to transfer as Chief Justice of the Jharkhand High Court?",
+        "options": [
+          "Justice Vibhu Bakhru",
+          "Justice M.S. Sonak",
+          "Justice M.S. Ramachandra Rao",
+          "Justice Vivek Singh Thakur"
+        ],
+        "answer": 0,
+        "explain": "The Collegium proposed the transfer of Karnataka High Court Chief Justice Vibhu Bakhru to the Jharkhand High Court."
+      },
+      "tags": [
+        "Judiciary",
+        "Collegium",
+        "Jharkhand High Court"
+      ]
+    },
+    {
+      "id": "news-2026-11-25-04",
+      "type": "news",
+      "category": "polity",
+      "headline": "Supreme Court seeks Delhi Police reply on bail pleas of Umar Khalid, Sharjeel Imam",
+      "body": "The Supreme Court on November 25, 2026 issued notice to the Delhi Police on bail pleas by activists Umar Khalid and Sharjeel Imam in the 2020 Delhi riots case. A three-judge Bench led by Chief Justice of India Surya Kant will consider interim bail after hearing the police. The pleas cite the prosecution's failure to examine protected witnesses and the nearing expiry of a one-year embargo.",
+      "why_it_matters": "The case tests the balance between national security laws like UAPA and the constitutional right to a speedy trial.",
+      "key_fact": "UAPA case related to February 2020 northeast Delhi riots",
+      "source_url": "https://www.thehindu.com/news/national/sharjeel-imam-umar-khalid-bail-supreme-court-notice-to-delhi-police-on-pleas-in-uapa-delhi-riots-case/article71741295.ece",
+      "date": "2026-11-25",
+      "quiz": {
+        "q": "Under which law have Umar Khalid and Sharjeel Imam been booked in the Delhi riots case?",
+        "options": [
+          "UAPA",
+          "IPC",
+          "PMLA",
+          "NDPS Act"
+        ],
+        "answer": 0,
+        "explain": "The article states they have been booked under UAPA for the alleged larger conspiracy behind the 2020 Delhi riots."
+      },
+      "tags": [
+        "UAPA",
+        "Delhi riots",
+        "bail"
+      ]
+    },
+    {
+      "id": "news-2026-11-25-05",
+      "type": "news",
+      "category": "states",
+      "headline": "Jharkhand Assembly takes up resolution against SIR of electoral rolls",
+      "body": "A two-day special session of the Jharkhand Assembly began on November 25, 2026, with Finance Minister Radha Krishna Kishore moving a resolution against the ongoing Special Intensive Revision (SIR) of electoral rolls and seeking its immediate halt. He said 27% of Jharkhand's 2.21 crore voters were deemed suspicious and sent notices. The House will also discuss the amended mines law passed in August.",
+      "why_it_matters": "The SIR process can affect voter inclusion and is a key political issue, with states challenging the Election Commission's exercise.",
+      "key_fact": "27% of Jharkhand's 2.21 crore voters sent SIR notices",
+      "source_url": "https://www.thehindu.com/news/national/jharkhand/jharkhand-assembly-special-session-resolution-sir-on-november-25-2026/article71741414.ece",
+      "date": "2026-11-25",
+      "quiz": {
+        "q": "According to the Jharkhand Finance Minister, what percentage of the state's voters were deemed suspicious and sent notices under SIR?",
+        "options": [
+          "27%",
+          "17%",
+          "37%",
+          "47%"
+        ],
+        "answer": 0,
+        "explain": "The Finance Minister stated that 27% of Jharkhand's 2.21 crore voters were deemed suspicious and sent notices."
+      },
+      "tags": [
+        "Jharkhand Assembly",
+        "SIR",
+        "electoral rolls"
+      ]
+    },
+    {
+      "id": "news-2026-11-25-06",
+      "type": "news",
+      "category": "economy",
+      "headline": "India releases provisional service producer price index for Q2 FY27",
+      "body": "The government released the provisional Service Producer Price Index (SPPI) with base year 2022-23 for the second quarter of FY27, along with final SPPI for the first quarter. Seven services are covered: the Securities and Exchange Board of India compiles one index, the Reserve Bank of India compiles banking service price and contribution indices, and air passenger services use FY23 as weight reference and FY26 as price reference. Q3 FY27 data is due on 24 February 2027.",
+      "why_it_matters": "Service price indices help track inflation in India's large services sector, which dominates GDP, and are used by policymakers and analysts alongside the wholesale and consumer price indices.",
+      "key_fact": "SPPI base year 2022-23, seven services covered",
+      "source_url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2341112",
+      "date": "2026-11-25",
+      "quiz": {
+        "q": "What is the base year of the Service Producer Price Index (SPPI) discussed in the release?",
+        "options": [
+          "2011-12",
+          "2017-18",
+          "2022-23",
+          "2025-26"
+        ],
+        "answer": 2,
+        "explain": "The release states the SPPI is compiled with base year 2022-23."
+      },
+      "tags": [
+        "SPPI",
+        "inflation",
+        "services",
+        "statistics"
+      ]
+    },
+    {
+      "id": "news-2026-11-25-07",
+      "type": "news",
+      "category": "economy",
+      "headline": "Private project announcements rise 58.5% to ₹26.6 trillion in H1 FY27",
+      "body": "According to the Confederation of Indian Industry's Private Investment Barometer, private project announcements in April-September 2026 rose 58.5% year-on-year to ₹26.6 trillion, 4.4 times the FY17-FY25 average for the period. The private sector's share of announcements rose to 86.2% from 74.2%. Manufacturing announcements were ₹8.1 trillion, electricity ₹7.7 trillion, and IT about ₹9.5 trillion. CII president R. Mukundan credited sustained policy reforms and infrastructure development.",
+      "why_it_matters": "Private investment drives job creation and capacity building, and rising project announcements suggest stronger confidence in India's growth prospects.",
+      "key_fact": "₹26.6 trillion private project announcements in H1 FY27",
+      "source_url": "https://www.livemint.com/news/private-project-announcements-jump-58-5-to-26-6-trillion-in-h1-fy27-cii-11795505525081.html",
+      "date": "2026-11-25",
+      "quiz": {
+        "q": "By how much did private sector project announcements grow year-on-year in H1 FY27, according to CII?",
+        "options": [
+          "18.5%",
+          "38.5%",
+          "58.5%",
+          "86.2%"
+        ],
+        "answer": 2,
+        "explain": "CII reported a 58.5% year-on-year jump to ₹26.6 trillion in H1 FY27."
+      },
+      "tags": [
+        "CII",
+        "private investment",
+        "economy",
+        "manufacturing"
+      ]
+    },
+    {
+      "id": "news-2026-11-25-08",
+      "type": "news",
+      "category": "economy",
+      "headline": "States borrow ₹7 trillion in FY27 so far, 12% below plan",
+      "body": "State governments raised ₹7 trillion through market borrowings in the first nearly eight months of FY27, about 12.5% more than ₹6.2 trillion a year earlier, but 12% below the planned ₹7.9 trillion, according to Icra. Uttar Pradesh, West Bengal and Karnataka accounted for nearly 62% of the incremental ₹77,700 crore rise. In the latest auction on 23 November, 12 states and one Union Territory raised ₹29,700 crore, with Tamil Nadu contributing the largest share at ₹9,500 crore.",
+      "why_it_matters": "State borrowing affects the cost of funds in the bond market and signals how much states are spending on infrastructure and welfare, which shapes public services for citizens.",
+      "key_fact": "States raised ₹7 trillion, 12% below planned ₹7.9 trillion",
+      "source_url": "https://www.livemint.com/economy/states-market-borrowings-7-trillion-fy27-below-plan-uttar-pradesh-karnataka-west-bengal-11795511912164.html",
+      "date": "2026-11-25",
+      "quiz": {
+        "q": "How much did state governments raise through market borrowings in FY27 so far, per the Icra report?",
+        "options": [
+          "₹6.2 trillion",
+          "₹7 trillion",
+          "₹7.9 trillion",
+          "₹15.99 trillion"
+        ],
+        "answer": 1,
+        "explain": "The report says states raised ₹7 trillion, against a plan of ₹7.9 trillion."
+      },
+      "tags": [
+        "state borrowing",
+        "bonds",
+        "Icra",
+        "fiscal"
+      ]
+    },
+    {
+      "id": "news-2026-11-25-09",
+      "type": "news",
+      "category": "economy",
+      "headline": "India reviews wheat export policy as sowing falls 15.3%",
+      "body": "India has begun inter-ministerial discussions on reviewing its liberalised wheat export policy, only three months after lifting a ban on shipments in August 2026. Wheat acreage was 5.007 million hectares as of 13 November, down 15.3% from 5.910 million hectares a year earlier, after a monsoon that ended with a 13% rainfall deficit. Officials said the talks are precautionary and do not signal an imminent export restriction.",
+      "why_it_matters": "Wheat prices and export rules directly affect farmers' incomes and household food costs, since wheat is a staple for most Indian households.",
+      "key_fact": "Wheat acreage down 15.3% to 5.007 million hectares",
+      "source_url": "https://www.livemint.com/news/india-wheat-export-curbs-lower-production-sowing-southwest-monsoon-rainfall-deficit-policy-11795516567962.html",
+      "date": "2026-11-25",
+      "quiz": {
+        "q": "How much did wheat acreage fall as of 13 November compared with a year earlier?",
+        "options": [
+          "5.3%",
+          "13%",
+          "15.3%",
+          "58.5%"
+        ],
+        "answer": 2,
+        "explain": "Agriculture ministry data showed acreage at 5.007 million hectares, down 15.3% from 5.910 million hectares."
+      },
+      "tags": [
+        "wheat",
+        "exports",
+        "agriculture",
+        "food security"
+      ]
+    },
+    {
+      "id": "news-2026-11-25-10",
+      "type": "news",
+      "category": "science",
+      "headline": "India's space economy targeted to reach $40-45 billion, says Jitendra Singh",
+      "body": "Speaking at the fifth India International Space Conclave 2026 in New Delhi, Minister of State Jitendra Singh said India's space economy, currently worth about $9 billion, could grow to $40-45 billion in less than a decade. He noted the ecosystem has expanded from a few startups to around 400-500 companies since reforms opened the sector to private players, including the creation of NewSpace India Limited and In-Space. A report on the Space Economy 2036 blueprint was launched.",
+      "why_it_matters": "A larger private space sector can create high-skill jobs and affordable satellite services, from broadband to weather and crop monitoring, benefiting ordinary Indians.",
+      "key_fact": "Space economy seen growing from $9 billion to $40-45 billion",
+      "source_url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2340947",
+      "date": "2026-11-25",
+      "quiz": {
+        "q": "What is the current estimated value of India's space economy, according to the minister?",
+        "options": [
+          "About $4 billion",
+          "About $9 billion",
+          "About $40 billion",
+          "About $45 billion"
+        ],
+        "answer": 1,
+        "explain": "The minister said the space economy is currently valued at roughly $9 billion and could reach $40-45 billion."
+      },
+      "tags": [
+        "space economy",
+        "ISRO",
+        "private sector",
+        "startups"
+      ]
+    },
+    {
+      "id": "news-2026-11-25-11",
+      "type": "news",
+      "category": "science",
+      "headline": "GalaxEye, Bellatrix sign largest Indian private space B2B deal",
+      "body": "At the 5th India International Space Conclave in New Delhi, GalaxEye and Bellatrix Aerospace signed a multi-year contract under which Bellatrix will supply in-space propulsion systems for 30 of GalaxEye's next OptoSAR satellites. The press release called it the largest business-to-business order between two Indian private space firms since the sector opened to private players in 2020. Financial details were not disclosed.",
+      "why_it_matters": "It marks a shift from private firms mainly supplying ISRO to private companies buying critical hardware from each other, a sign of a maturing domestic space industry.",
+      "key_fact": "Largest B2B order between two Indian private space firms since 2020",
+      "source_url": "https://www.thehindu.com/business/Industry/indian-space-companies-sign-largest-of-its-kind-deal-on-satellite-systems/article71739125.ece",
+      "date": "2026-11-25",
+      "quiz": {
+        "q": "Since which year has India's space sector been open to private players, according to the press release?",
+        "options": [
+          "2018",
+          "2020",
+          "2022",
+          "2014"
+        ],
+        "answer": 1,
+        "explain": "The release said the deal was the largest B2B order between Indian private space companies since the sector opened to private players in 2020."
+      },
+      "tags": [
+        "space",
+        "GalaxEye",
+        "Bellatrix",
+        "OptoSAR"
+      ]
+    },
+    {
+      "id": "news-2026-11-25-12",
+      "type": "news",
+      "category": "science",
+      "headline": "China's Shenzhou-24 carries first Pakistani astronaut to Tiangong",
+      "body": "China launched the Shenzhou-24 crewed spaceship from the Jiuquan Satellite Launch Centre, carrying commander Tang Hongbo, flight engineer Wu Yi and Pakistan's Muhammad Zeeshan Ali, the first foreign national in China's crewed space programme. Ali will be the first foreign astronaut to visit the Tiangong space station and will return aboard Shenzhou-23 after about a week. The flight stems from a February 2025 agreement between the two countries.",
+      "why_it_matters": "It signals China's growing space diplomacy and offers a route to orbit for countries that do not have their own crewed programmes.",
+      "key_fact": "Tiangong, China's space station, became operational in 2022",
+      "source_url": "https://www.thehindu.com/sci-tech/science/chinas-shenzhou-24-space-flight-takes-off-with-pakistani-national-as-first-foreign-astronaut/article71740891.ece",
+      "date": "2026-11-25",
+      "quiz": {
+        "q": "Which country operates the Tiangong space station?",
+        "options": [
+          "India",
+          "Russia",
+          "China",
+          "Japan"
+        ],
+        "answer": 2,
+        "explain": "The article states China is currently the only country operating its own space station, Tiangong, which became operational in 2022."
+      },
+      "tags": [
+        "China",
+        "space",
+        "Tiangong",
+        "Pakistan"
+      ]
+    },
+    {
+      "id": "news-2026-11-25-13",
+      "type": "news",
+      "category": "science",
+      "headline": "Voyager 1 becomes first human-made object one light-day from Earth",
+      "body": "NASA's Voyager 1, launched on September 2, 1977, was set to cross one light-day from Earth on November 18, 2026, at 5:16:07 a.m. EST. A light-day is the distance light travels in 24 hours, over 16 billion miles. From then, radio signals from Voyager 1 take a full 24 hours to reach Earth. Its twin, Voyager 2, is expected to reach the same distance in November 2035.",
+      "why_it_matters": "It shows how far humanity's farthest probe has travelled and marks a new milestone in the scale of interstellar exploration.",
+      "key_fact": "One light-day is over 16 billion miles",
+      "source_url": "https://www.thehindu.com/sci-tech/science/voyager-1-reaches-one-light-day-from-earth-on-november-18-what-it-means-nasa-latest-news/article71704297.ece",
+      "date": "2026-11-25",
+      "quiz": {
+        "q": "What distance does one light-day represent?",
+        "options": [
+          "The distance light travels in 24 hours",
+          "The distance from Earth to the Sun",
+          "The distance light travels in one second",
+          "The distance from Earth to Neptune"
+        ],
+        "answer": 0,
+        "explain": "A light-day is the space light covers in a full 24 hours, which for Voyager 1 equals over 16 billion miles."
+      },
+      "tags": [
+        "NASA",
+        "Voyager 1",
+        "space",
+        "light-day"
+      ]
+    },
+    {
+      "id": "news-2026-11-25-14",
+      "type": "news",
+      "category": "science",
+      "headline": "BepiColombo begins orbiting Mercury after eight-year journey",
+      "body": "The European-Japanese spacecraft BepiColombo, launched in 2018, began orbiting Mercury, the solar system's smallest and innermost planet, ESA confirmed. It is only the third spacecraft to visit Mercury and the second to orbit it. ESA reported a glitch: a thruster burn was shorter than planned due to a software issue, though the spacecraft is safe. Its two orbiters separate on December 9-10, with routine science from April.",
+      "why_it_matters": "Mercury is the least explored inner planet, and this mission could answer questions about its magnetic field, polar ice and surface features.",
+      "key_fact": "BepiColombo is a joint ESA-JAXA mission to Mercury",
+      "source_url": "https://www.thehindu.com/sci-tech/science/japan-europe-spacecraft-bepicolombo-begins-orbit-of-mercury-with-a-glitch-reported/article71733234.ece",
+      "date": "2026-11-25",
+      "quiz": {
+        "q": "Which two agencies run the BepiColombo mission?",
+        "options": [
+          "NASA and ISRO",
+          "ESA and JAXA",
+          "NASA and ESA",
+          "ISRO and JAXA"
+        ],
+        "answer": 1,
+        "explain": "BepiColombo is a joint mission of the European Space Agency (ESA) and the Japan Aerospace Exploration Agency (JAXA)."
+      },
+      "tags": [
+        "BepiColombo",
+        "Mercury",
+        "ESA",
+        "JAXA"
+      ]
+    },
+    {
+      "id": "news-2026-11-25-15",
+      "type": "news",
+      "category": "science",
+      "headline": "Anthropic mathematician claims AI-assisted proof of Riemann hypothesis",
+      "body": "Mathematician Levent Alpöge of Anthropic announced that, with the company's AI model Claude, he had found a proof of the Riemann hypothesis, proposed by Georg Bernhard Riemann in 1859 and unsolved for over 160 years. He released over 1.7 crore lines of code rather than a traditional paper and said he does not fully understand every argument. Independent mathematicians confirmed the code passed rigorous checks.",
+      "why_it_matters": "The Riemann hypothesis is one of the Clay Mathematics Institute's seven Millennium Prize Problems with a $1-million bounty, so a valid proof would be a landmark in mathematics.",
+      "key_fact": "Riemann hypothesis was proposed by Georg Bernhard Riemann in 1859",
+      "source_url": "https://www.thehindu.com/sci-tech/science/anthropic-scientist-claims-proof-of-maths-most-famous-problem-with-ai-help/article71727161.ece",
+      "date": "2026-11-25",
+      "quiz": {
+        "q": "In which year did Georg Bernhard Riemann first propose the Riemann hypothesis?",
+        "options": [
+          "1759",
+          "1859",
+          "1901",
+          "1777"
+        ],
+        "answer": 1,
+        "explain": "The hypothesis is named for Riemann, who first proposed it in 1859."
+      },
+      "tags": [
+        "mathematics",
+        "AI",
+        "Riemann hypothesis",
+        "Anthropic"
+      ]
+    },
+    {
+      "id": "news-2026-11-25-16",
+      "type": "news",
+      "category": "environment",
+      "headline": "COP31 ends without deal over fossil fuel phase-out dispute",
+      "body": "The UN climate talks in Antalya, Türkiye, ended on November 22, 2026, without a consensus agreement. The EU, backed by about 130 countries, rejected COP31 President Murat Kurum's cover text for lacking any explicit language on moving away from fossil fuels. India supported the draft, with Environment Minister Bhupendra Yadav saying climate ambition must go hand in hand with means of implementation. The conference ran a record 48 hours into overtime.",
+      "why_it_matters": "COP decisions set the political direction for global climate action, so a failed cover text signals continued divisions over how quickly the world should move away from fossil fuels.",
+      "key_fact": "COP31 in Antalya ended without a consensus cover decision",
+      "source_url": "https://www.thehindu.com/sci-tech/energy-and-environment/cop31-fails-to-agree-on-climate-deal-in-chaotic-finale/article71731651.ece",
+      "date": "2026-11-25",
+      "quiz": {
+        "q": "What prevented a consensus agreement at COP31 in Antalya?",
+        "options": [
+          "A dispute over a fossil fuel phase-out in the cover text",
+          "Disagreement over the venue for the next summit",
+          "A walkout by small island nations over funding",
+          "A failure to agree on the conference budget"
+        ],
+        "answer": 0,
+        "explain": "The EU and about 130 countries rejected the cover text because it lacked explicit language on moving away from fossil fuels."
+      },
+      "tags": [
+        "COP31",
+        "climate talks",
+        "fossil fuels",
+        "India"
+      ]
+    },
+    {
+      "id": "news-2026-11-25-17",
+      "type": "news",
+      "category": "environment",
+      "headline": "COP31 impasse raises questions on fossil fuel influence at UN talks",
+      "body": "After the Antalya climate summit ended without agreement on its central political statement, The Hindu said the failure exposed the fragility of international climate cooperation. UN climate chief Simon Stiell shared the deep disappointment of many. While some separate negotiating decisions were reached, the absence of a political consensus was a serious setback. The editorial noted that annual UN climate negotiations still lack an enforceable system to identify and manage conflicts of interest involving commercial interests, including fossil fuel companies.",
+      "why_it_matters": "Transparency about who influences climate negotiations affects whether governments act in the global public interest rather than in the interest of polluting industries.",
+      "key_fact": "UN climate talks lack an enforceable conflict-of-interest system",
+      "source_url": "https://www.thehindu.com/business/global-climate-talks-must-shut-the-door-on-fossil-fuel-influence/article71738093.ece",
+      "date": "2026-11-25",
+      "quiz": {
+        "q": "What gap in the UN climate process does the article highlight?",
+        "options": [
+          "No enforceable system to manage conflicts of interest",
+          "No fixed annual schedule for negotiations",
+          "No participation by developing countries",
+          "No scientific input in decision-making"
+        ],
+        "answer": 0,
+        "explain": "The article says the annual negotiations still lack a comprehensive, enforceable system to identify and manage conflicts of interest involving commercial interests."
+      },
+      "tags": [
+        "COP31",
+        "climate diplomacy",
+        "fossil fuel lobby"
+      ]
+    },
+    {
+      "id": "news-2026-11-25-18",
+      "type": "news",
+      "category": "environment",
+      "headline": "Panel finds relocating elephants does not solve Kerala conflict",
+      "body": "A four-member expert panel set up by Idukki District Collector Dineshan Cheruvatt in September has found that removing wild elephants does not resolve human-elephant conflict in Chinnakkanal. The report noted that earlier translocation of tuskers Arikomban and Murivalan did not ease the conflict. The panel recommended radio transmitters to monitor problematic elephants, planting reeds in Mathikettan Shola National Park valleys, regulating resort lighting and night safaris, and speed limits where elephants cross the national highway.",
+      "why_it_matters": "Elephant corridors and human settlements overlap in Kerala's high ranges, so the findings offer a model for handling conflict through habitat restoration and monitoring rather than simply moving animals.",
+      "key_fact": "Panel: removing elephants does not solve human-elephant conflict",
+      "source_url": "https://www.thehindu.com/news/national/kerala/relocation-of-wild-elephants-does-not-solve-human-elephant-conflict-in-keralams-chinnakkanal-finds-study/article71738752.ece",
+      "date": "2026-11-25",
+      "quiz": {
+        "q": "What did the expert panel conclude about translocating wild elephants in Chinnakkanal?",
+        "options": [
+          "It does not solve human-elephant conflict there",
+          "It reduced conflict after Arikomban was moved",
+          "It should be expanded to all tuskers in Idukki",
+          "It is the only workable solution available"
+        ],
+        "answer": 0,
+        "explain": "The panel said the removal of Arikomban and Murivalan did not alleviate human-elephant conflict in Chinnakkanal."
+      },
+      "tags": [
+        "elephants",
+        "Kerala",
+        "human-wildlife conflict"
+      ]
+    },
+    {
+      "id": "news-2026-11-25-19",
+      "type": "news",
+      "category": "environment",
+      "headline": "Vantara signs 10-year wildlife pact with Madagascar",
+      "body": "The Greens Zoological Rescue and Rehabilitation Centre Society (Vantara) in Jamnagar, Gujarat, signed a non-exclusive 10-year Memorandum of Understanding with Madagascar's Ministry of Environment and Sustainable Development on November 24. It covers the return of seized Malagasy animals, their rescue, rehabilitation and veterinary care, training local experts, and possible support for a National Wildlife Rescue and Rehabilitation Centre. According to the IUCN Red List, 90% of lemur species in Madagascar are threatened with extinction.",
+      "why_it_matters": "Illegal wildlife trade is a major driver of biodiversity loss, and repatriation and capacity-building agreements help source countries recover trafficked animals.",
+      "key_fact": "Vantara-Madagascar MoU runs for 10 years",
+      "source_url": "https://www.livemint.com/news/india/vantara-signs-10-year-wildlife-conservation-pact-with-madagascar-to-repatriate-trafficked-animals-all-we-know-11795583712966.html",
+      "date": "2026-11-25",
+      "quiz": {
+        "q": "How long is the Vantara-Madagascar wildlife conservation agreement?",
+        "options": [
+          "10 years",
+          "5 years",
+          "15 years",
+          "3 years"
+        ],
+        "answer": 0,
+        "explain": "Vantara and Madagascar's environment ministry signed a non-exclusive 10-year Memorandum of Understanding on November 24."
+      },
+      "tags": [
+        "Vantara",
+        "Madagascar",
+        "wildlife trade",
+        "conservation"
+      ]
+    },
+    {
+      "id": "news-2026-11-25-20",
+      "type": "news",
+      "category": "international",
+      "headline": "PM Modi, German Chancellor Merz discuss strategic partnership",
+      "body": "German Chancellor Friedrich Merz called Prime Minister Narendra Modi to review progress under the India-Germany strategic partnership. Both leaders expressed satisfaction at the pace of bilateral engagement and, marking 75 years of diplomatic relations this year, reaffirmed commitment to strengthen cooperation in defence and advanced technology. They said the India-European Union Free Trade Agreement would open new opportunities for trade and investment, and agreed to continue close cooperation on a rules-based international order.",
+      "why_it_matters": "India-Germany ties cover defence, advanced technology and trade, and the proposed India-EU FTA could affect access to European markets for Indian businesses.",
+      "key_fact": "India and Germany mark 75 years of diplomatic relations",
+      "source_url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2340893",
+      "date": "2026-11-25",
+      "quiz": {
+        "q": "How many years of India-Germany diplomatic relations are being marked this year?",
+        "options": [
+          "75 years",
+          "50 years",
+          "60 years",
+          "100 years"
+        ],
+        "answer": 0,
+        "explain": "The leaders noted that this year completes 75 years since India and Germany established diplomatic relations."
+      },
+      "tags": [
+        "India-Germany",
+        "diplomacy",
+        "India-EU FTA"
+      ]
+    }
+  ]
+}
