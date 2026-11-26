@@ -1,0 +1,554 @@
+{
+  "date": "2026-11-26",
+  "cards": [
+    {
+      "id": "news-2026-11-26-01",
+      "type": "news",
+      "category": "economy",
+      "headline": "India rejects US excess capacity claims as tariff rates tied to trade deal",
+      "body": "India said it has no structural excess capacity in any sector, responding to a US Trade Representative notice under a Section 301 investigation. US Trade Representative Jamieson Greer said tariffs on India would be capped at 17% if a trade deal is reached, and rise to 25% otherwise. India said it remains committed to concluding the Bilateral Trade Agreement early.",
+      "why_it_matters": "Tariff levels directly affect the prices and competitiveness of Indian exports in the US market, and a trade deal would settle them.",
+      "key_fact": "US proposes 17% tariff if trade deal is signed, 25% otherwise",
+      "source_url": "https://www.livemint.com/economy/india-rejects-us-structural-excess-capacity-allegations-as-washington-links-17-tariff-to-trade-deal-25-otherwise-11795630104530.html",
+      "date": "2026-11-26",
+      "quiz": {
+        "q": "Under the US proposal, what tariff rate would apply to Indian imports if a trade deal is finalised?",
+        "options": [
+          "17%",
+          "25%",
+          "18%",
+          "20%"
+        ],
+        "answer": 0,
+        "explain": "Washington said tariffs would be capped at 17% with a deal and rise to 25% without one."
+      },
+      "tags": [
+        "India-US trade",
+        "tariffs",
+        "Section 301"
+      ]
+    },
+    {
+      "id": "news-2026-11-26-02",
+      "type": "news",
+      "category": "international",
+      "headline": "India, China hold senior military commander talks in Arunachal sector",
+      "body": "The Indian and Chinese armies held a meeting of senior military commanders in the eastern sector in Arunachal Pradesh this month, the Ministry of External Affairs said. Discussions focused on improving border management and addressing outstanding issues along the Line of Actual Control. MEA spokesperson Randhir Jaiswal said such interactions aim to maintain peace and tranquillity and prevent escalation. Lt. Gen Girish Kalia led the Indian delegation.",
+      "why_it_matters": "Border talks between the two armies matter for stability along the LAC and for the wider India-China relationship after the 2020 Galwan clashes.",
+      "key_fact": "Senior military commanders' talks held in Arunachal Pradesh sector",
+      "source_url": "https://www.thehindu.com/news/national/india-china-hold-high-level-talks-in-arunachal-sector-on-border-management-lac-issues-mea/article71745024.ece",
+      "date": "2026-11-26",
+      "quiz": {
+        "q": "Which body announced the India-China senior military commanders' talks in the Arunachal sector?",
+        "options": [
+          "Ministry of External Affairs",
+          "Ministry of Defence",
+          "Indian Army's III Corps",
+          "Home Ministry"
+        ],
+        "answer": 0,
+        "explain": "MEA spokesperson Randhir Jaiswal briefed the media on the talks."
+      },
+      "tags": [
+        "India-China",
+        "LAC",
+        "Arunachal Pradesh",
+        "border"
+      ]
+    },
+    {
+      "id": "news-2026-11-26-03",
+      "type": "news",
+      "category": "international",
+      "headline": "India, Netherlands upgrade ties to Strategic Partnership, sign 17 MoUs",
+      "body": "India and the Netherlands upgraded their bilateral ties to a Strategic Partnership during Prime Minister Narendra Modi's visit on May 16 and 17. The two sides signed 17 agreements and MoUs covering water, agriculture and health, renewable energy, critical minerals, and a semiconductor fabrication project between TATA Electronics and Dutch firm ASML. Dutch PM Rob Jetten said he raised sensitive topics, including press freedoms and minority rights.",
+      "why_it_matters": "The semiconductor tie-up and agreements on water and clean energy could bring technology and investment that affect jobs and infrastructure in India.",
+      "key_fact": "17 MoUs signed; TATA Electronics-ASML semiconductor project",
+      "source_url": "https://www.thehindu.com/news/national/india-netherlands-elevating-ties-to-strategic-partnership-says-pm-modi/article70988590.ece",
+      "date": "2026-11-26",
+      "quiz": {
+        "q": "Which Dutch company is involved in the semiconductor fabrication project with TATA Electronics?",
+        "options": [
+          "ASML",
+          "Philips",
+          "Shell",
+          "NXP"
+        ],
+        "answer": 0,
+        "explain": "The article names Dutch firm ASML as TATA Electronics' partner for the project."
+      },
+      "tags": [
+        "India-Netherlands",
+        "diplomacy",
+        "semiconductors",
+        "MoUs"
+      ]
+    },
+    {
+      "id": "news-2026-11-26-04",
+      "type": "news",
+      "category": "polity",
+      "headline": "Supreme Court quashes Anand Mohan's premature release in 1994 murder case",
+      "body": "The Supreme Court quashed the premature release of former MP Anand Mohan, serving life term in the 1994 murder of Gopalganj district magistrate G. Krishnaiah. A Bench led by Justice Dipankar Datta held that Article 21 covers victims and society, not just the convict, and set aside Bihar's remission notification as arbitrary. The Court directed Mohan to surrender within a month and said the victim's wife must be heard in any future remission plea.",
+      "why_it_matters": "The ruling sets a precedent that remission policies must consider victims' rights, not only a convict's signs of reform.",
+      "key_fact": "Article 21 cannot be a one-sided guarantee: Supreme Court",
+      "source_url": "https://www.thehindu.com/news/national/supreme-court-quashes-premature-release-of-former-mp-anand-mohan-in-murder-case/article71745450.ece",
+      "date": "2026-11-26",
+      "quiz": {
+        "q": "Which constitutional article did the Supreme Court say is not a one-sided guarantee?",
+        "options": [
+          "Article 21",
+          "Article 14",
+          "Article 19",
+          "Article 32"
+        ],
+        "answer": 0,
+        "explain": "The Court said Article 21 also encompasses the rights of victims, their families and society."
+      },
+      "tags": [
+        "Supreme Court",
+        "remission",
+        "Article 21",
+        "Bihar"
+      ]
+    },
+    {
+      "id": "news-2026-11-26-05",
+      "type": "news",
+      "category": "polity",
+      "headline": "Supreme Court seeks Delhi Police reply on Umar Khalid, Sharjeel Imam bail pleas",
+      "body": "The Supreme Court issued notice to Delhi Police on the bail pleas of former JNU scholar Umar Khalid and activist Sharjeel Imam in the larger conspiracy case linked to the 2020 Delhi riots, seeking a reply by December 14. It declined interim relief and said a three-judge Bench would decide whether prolonged incarceration and trial delay can override UAPA bail curbs.",
+      "why_it_matters": "The larger Bench's ruling will shape how UAPA bail provisions apply to undertrials facing long periods in jail without trial.",
+      "key_fact": "Three-judge Bench to examine UAPA bail vs prolonged incarceration",
+      "source_url": "https://www.thehindu.com/news/national/sharjeel-imam-umar-khalid-bail-supreme-court-notice-to-delhi-police-on-pleas-in-uapa-delhi-riots-case/article71741295.ece",
+      "date": "2026-11-26",
+      "quiz": {
+        "q": "Which law's stringent bail provisions are at issue in the Supreme Court's reference?",
+        "options": [
+          "UAPA, 1967",
+          "IPC, 1860",
+          "PMLA, 2002",
+          "NDPS Act, 1985"
+        ],
+        "answer": 0,
+        "explain": "The Court will examine whether prolonged incarceration can override bail curbs under the Unlawful Activities (Prevention) Act, 1967."
+      },
+      "tags": [
+        "Supreme Court",
+        "UAPA",
+        "bail",
+        "Delhi riots"
+      ]
+    },
+    {
+      "id": "news-2026-11-26-06",
+      "type": "news",
+      "category": "economy",
+      "headline": "India sets record foodgrain production of 378.53 million tonnes in 2025-26",
+      "body": "India produced a record 378.53 million tonnes of foodgrains in 2025-26, Agriculture Minister Shivraj Singh Chouhan announced on Thursday (November 26, 2026), releasing the fourth and final crop estimates. This is 208 lakh tonnes more than 2024-25. Rice output reached 155.15 million tonnes, up 49.70 lakh tonnes, making India the largest rice producer, ahead of China. Wheat production stood at 122.06 million tonnes, the world's second-largest after China.",
+      "why_it_matters": "Record foodgrain output supports national food security and farm incomes, and India's position as the world's largest rice producer strengthens its role in global rice trade.",
+      "key_fact": "378.53 million tonnes of foodgrains in 2025-26",
+      "source_url": "https://www.thehindu.com/news/national/india-foodgrains-record-production-rice-wheat-2026-shivraj-singh-chouhan/article71745422.ece",
+      "date": "2026-11-26",
+      "quiz": {
+        "q": "What was India's record foodgrain production in 2025-26?",
+        "options": [
+          "378.53 million tonnes",
+          "155.15 million tonnes",
+          "272 lakh tonnes",
+          "122.06 million tonnes"
+        ],
+        "answer": 0,
+        "explain": "The article states that India logged a record 378.53 million tonnes of foodgrain production in 2025-26."
+      },
+      "tags": [
+        "agriculture",
+        "foodgrain",
+        "record"
+      ]
+    },
+    {
+      "id": "news-2026-11-26-07",
+      "type": "news",
+      "category": "economy",
+      "headline": "RBI Bulletin: Broad-based pressure on food prices continues",
+      "body": "The November edition of the RBI Bulletin, released on Wednesday, says high-frequency data up to November 19 show continuing broad-based pressure on food prices. Prices of all major cereals and pulses picked up, and edible oil prices rose broadly, led by mustard oil. Vegetable prices were mixed: onion rose moderately, tomato corrected sharply, and potato picked up. The Indian basket of crude oil declined to $95 per barrel during November 1-18.",
+      "why_it_matters": "Persistent food inflation affects household budgets and can influence the RBI's decisions on interest rates, which in turn impact loans and savings.",
+      "key_fact": "Indian basket of crude oil at $95 per barrel in November",
+      "source_url": "https://www.thehindu.com/business/Economy/broad-based-pressure-on-food-prices-continues-rbi-bulletin/article71743566.ece",
+      "date": "2026-11-26",
+      "quiz": {
+        "q": "According to the RBI Bulletin, what was the price of the Indian basket of crude oil during November 1-18?",
+        "options": [
+          "$95 per barrel",
+          "$100 per barrel",
+          "$85 per barrel",
+          "$105 per barrel"
+        ],
+        "answer": 0,
+        "explain": "The article states that the Indian basket of crude oil declined to $95 per barrel during November 1-18."
+      },
+      "tags": [
+        "inflation",
+        "RBI",
+        "food prices"
+      ]
+    },
+    {
+      "id": "news-2026-11-26-08",
+      "type": "news",
+      "category": "economy",
+      "headline": "Net FDI hits 5.5-year low of -$4.95 billion in September 2026",
+      "body": "Net foreign direct investment (FDI) into India in September 2026 fell to its lowest in at least 5.5 years, with outflows exceeding inflows by nearly $5 billion, RBI data show. Net FDI was -$4.95 billion, the lowest since at least March 2021. Gross inflows fell to $5.9 billion, while total outflows climbed to $10.8 billion, including $6.4 billion in repatriation of profits by foreign companies.",
+      "why_it_matters": "FDI brings capital, technology and jobs; a sharp fall in net FDI can signal reduced foreign investor confidence and affect economic growth.",
+      "key_fact": "Net FDI of -$4.95 billion in September 2026",
+      "source_url": "https://www.thehindu.com/business/Economy/net-fdi-fell-to-more-than-55-year-low-in-september-2026-as-outflows-jumped-40/article71742778.ece",
+      "date": "2026-11-26",
+      "quiz": {
+        "q": "What was India's net FDI in September 2026?",
+        "options": [
+          "-$4.95 billion",
+          "$5.9 billion",
+          "$10.8 billion",
+          "$6.4 billion"
+        ],
+        "answer": 0,
+        "explain": "The article states that September's net FDI figure was -$4.95 billion, the lowest since at least March 2021."
+      },
+      "tags": [
+        "FDI",
+        "economy",
+        "RBI"
+      ]
+    },
+    {
+      "id": "news-2026-11-26-09",
+      "type": "news",
+      "category": "economy",
+      "headline": "Mint poll: Q2 GDP growth seen slowing marginally to 7.6%",
+      "body": "A median estimate of 14 economists polled by Mint projects India's GDP growth at 7.6% in the second quarter (July-September) of FY27, down from 7.8% in the previous quarter. GDP data is due on November 30. Growth would remain above 7% for the fifth consecutive quarter but below the 8.1% a year ago. A deficient monsoon and uneven rural demand are seen as drags.",
+      "why_it_matters": "GDP growth numbers indicate the health of the economy and influence government policy, business investment and job prospects.",
+      "key_fact": "Projected Q2 FY27 GDP growth of 7.6%",
+      "source_url": "https://www.livemint.com/economy/indias-q2-gdp-growth-to-slow-marginally-to-7-6-shows-mint-poll-11795598155206.html",
+      "date": "2026-11-26",
+      "quiz": {
+        "q": "What GDP growth rate for Q2 FY27 did the Mint poll of economists project?",
+        "options": [
+          "7.6%",
+          "7.8%",
+          "8.1%",
+          "7.2%"
+        ],
+        "answer": 0,
+        "explain": "The median estimate of 14 economists polled by Mint projected GDP growth of 7.6% for Q2 FY27."
+      },
+      "tags": [
+        "GDP",
+        "economy",
+        "Mint poll"
+      ]
+    },
+    {
+      "id": "news-2026-11-26-10",
+      "type": "news",
+      "category": "economy",
+      "headline": "RBI raises domestic gold holdings to 84% of total reserves",
+      "body": "The RBI held 740.13 tonnes of gold domestically at the end of September, up from 680.05 tonnes at the end of March, according to its half-yearly report on foreign exchange reserves. This takes the share of gold held domestically to about 84% of total holdings of 880.52 tonnes, up from over 77% six months earlier. The RBI held 140.39 tonnes with the Bank of England and the BIS, down from 197.67 tonnes.",
+      "why_it_matters": "Bringing gold reserves home reduces risks from holding sovereign assets abroad, especially amid geopolitical uncertainty, and reflects a global trend among central banks.",
+      "key_fact": "RBI held 740.13 tonnes of gold domestically by September",
+      "source_url": "https://www.livemint.com/economy/rbi-gold-reserves-rbi-offshore-gold-custody-central-banks-gold-reserves-11795615735990.html",
+      "date": "2026-11-26",
+      "quiz": {
+        "q": "How much gold did the RBI hold domestically at the end of September?",
+        "options": [
+          "740.13 tonnes",
+          "680.05 tonnes",
+          "880.52 tonnes",
+          "140.39 tonnes"
+        ],
+        "answer": 0,
+        "explain": "The article states that the RBI held 740.13 tonnes of gold domestically at the end of September."
+      },
+      "tags": [
+        "RBI",
+        "gold reserves",
+        "forex"
+      ]
+    },
+    {
+      "id": "news-2026-11-26-11",
+      "type": "news",
+      "category": "polity",
+      "headline": "PM Modi greets nation on Constitution Day; Congress holds marches",
+      "body": "Prime Minister Narendra Modi greeted citizens on Constitution Day on November 26, 2026, calling the Constitution a priceless heritage of Indian democracy. The Congress held a 'Samvidhan Raksha' march nationwide, pressing its campaign against alleged electoral roll manipulation. Constitution Day, or Samvidhan Divas, marks the adoption of the Constitution by the Constituent Assembly on November 26, 1949. The government notified the annual observance in 2015.",
+      "why_it_matters": "Constitution Day commemorates the document that sets out Indians' fundamental rights and the framework of government.",
+      "key_fact": "Constitution adopted on November 26, 1949; Constitution Day notified in 2015",
+      "source_url": "https://www.thehindu.com/news/national/constitution-day-indian-democracy-pm-modi-congress-samvidhan-raksha-march-november-26-2026-live-updates/article71745137.ece",
+      "date": "2026-11-26",
+      "quiz": {
+        "q": "On which date did the Constituent Assembly adopt the Constitution of India?",
+        "options": [
+          "January 26, 1950",
+          "November 26, 1949",
+          "November 26, 2015",
+          "August 15, 1947"
+        ],
+        "answer": 1,
+        "explain": "The Constituent Assembly adopted the Constitution on November 26, 1949, and it came into effect on January 26, 1950."
+      },
+      "tags": [
+        "Constitution Day",
+        "Parliament",
+        "Samvidhan Divas"
+      ]
+    },
+    {
+      "id": "news-2026-11-26-12",
+      "type": "news",
+      "category": "polity",
+      "headline": "CJI Surya Kant: lawyers must not disguise political agendas as duty",
+      "body": "Speaking at Constitution Day celebrations organised by the Supreme Court Bar Association on November 26, 2026, Chief Justice of India Surya Kant said political agendas of lawyers must not be passed off as professional duty, nor should judicial platforms be used for personal gain. He said disagreement is not a weakness of constitutional democracy and that a strong Bar must be able to question and challenge.",
+      "why_it_matters": "The remarks define expected standards of professional integrity for lawyers and bear on public trust in the courts.",
+      "key_fact": "CJI Surya Kant; address at Supreme Court Bar Association",
+      "source_url": "https://www.thehindu.com/news/national/constitution-day-cji-surya-kant-says-lawyers-must-not-masquerade-political-agendas-as-professional-duty/article71745492.ece",
+      "date": "2026-11-26",
+      "quiz": {
+        "q": "Who was the Chief Justice of India who addressed the Supreme Court Bar Association on Constitution Day, 2026?",
+        "options": [
+          "Justice Amit Mahajan",
+          "Justice V. Lakshminarayanan",
+          "Justice Surya Kant",
+          "Justice D.Y. Chandrachud"
+        ],
+        "answer": 2,
+        "explain": "The article names CJI Surya Kant as the speaker at the Constitution Day event organised by the Supreme Court Bar Association."
+      },
+      "tags": [
+        "Judiciary",
+        "CJI",
+        "Constitution Day"
+      ]
+    },
+    {
+      "id": "news-2026-11-26-13",
+      "type": "news",
+      "category": "polity",
+      "headline": "Madras High Court: no Muslim can be barred from mosque prayers",
+      "body": "The Madras High Court held on November 26, 2026 that no Muslim, whatever their political party, can be prevented by other Muslims from offering namaz in a mosque. Justice V. Lakshminarayanan said only Allah can decide who is a true Muslim, and that mosques belong to the Almighty, not to those who contributed to their construction. The order came on a BJP minority wing office-bearer's petition.",
+      "why_it_matters": "The ruling affirms that places of worship cannot be used to exclude people on political grounds.",
+      "key_fact": "Madras High Court; Justice V. Lakshminarayanan; mosques belong to Allah",
+      "source_url": "https://www.thehindu.com/news/national/tamil-nadu/no-muslim-irrespective-of-political-affiliation-can-be-prevented-from-offering-namaz-in-mosques-madras-high-court/article71745405.ece",
+      "date": "2026-11-26",
+      "quiz": {
+        "q": "Which court ruled that no Muslim can be prevented from offering namaz in a mosque?",
+        "options": [
+          "Supreme Court",
+          "Delhi High Court",
+          "Madras High Court",
+          "Bombay High Court"
+        ],
+        "answer": 2,
+        "explain": "The Madras High Court, through Justice V. Lakshminarayanan, passed the order on a petition by a BJP Minority Morcha office-bearer."
+      },
+      "tags": [
+        "Madras High Court",
+        "mosque",
+        "fundamental rights"
+      ]
+    },
+    {
+      "id": "news-2026-11-26-14",
+      "type": "news",
+      "category": "polity",
+      "headline": "Delhi HC: seniors need not prove harassment to evict children",
+      "body": "The Delhi High Court ruled that a person aged 60 or above seeking to evict children from a self-acquired property need not prove harassment or ill-treatment. Justice Amit Mahajan held that protecting the property and living peacefully can be sufficient grounds under the Maintenance and Welfare of Parents and Senior Citizens Act, 2007. The court ordered an 85-year-old man's son and daughter-in-law to vacate within four weeks.",
+      "why_it_matters": "The ruling strengthens the legal position of elderly parents who own their homes and wish to live independently.",
+      "key_fact": "Maintenance and Welfare of Parents and Senior Citizens Act, 2007",
+      "source_url": "https://www.livemint.com/news/india/delhi-hc-says-senior-citizens-can-evict-children-from-own-property-without-proving-harassment-ill-treatment-11795618541006.html",
+      "date": "2026-11-26",
+      "quiz": {
+        "q": "Which law did the Delhi High Court rely on in the senior citizens' eviction ruling?",
+        "options": [
+          "Hindu Succession Act, 1956",
+          "Maintenance and Welfare of Parents and Senior Citizens Act, 2007",
+          "Transfer of Property Act, 1882",
+          "Protection of Women from Domestic Violence Act, 2005"
+        ],
+        "answer": 1,
+        "explain": "The court interpreted the 2007 Act on maintenance and welfare of parents and senior citizens in allowing the eviction plea."
+      },
+      "tags": [
+        "Delhi High Court",
+        "senior citizens",
+        "property"
+      ]
+    },
+    {
+      "id": "news-2026-11-26-15",
+      "type": "news",
+      "category": "science",
+      "headline": "IndiaAI Mission-backed 'Chariot-1' foundation models launched",
+      "body": "Electronics and IT Secretary S. Krishnan launched the 'Chariot-1' foundation models, supported under the IndiaAI Mission and built by Chariot Artificial Intelligence Pvt Ltd, at Bharat Mandapam in New Delhi. The series includes a large language model and a text-to-speech model pre-trained from scratch in India. Chariot is among the first four teams selected under the mission to build indigenous foundation models.",
+      "why_it_matters": "Indigenous AI models aim to serve India's languages and needs, reducing dependence on foreign technology.",
+      "key_fact": "Chariot-1 models; IndiaAI Mission; pre-trained from scratch in India",
+      "source_url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2341790",
+      "date": "2026-11-26",
+      "quiz": {
+        "q": "Under which government mission was the Chariot-1 foundation model series supported?",
+        "options": [
+          "Digital India Mission",
+          "Make in India",
+          "IndiaAI Mission",
+          "National Supercomputing Mission"
+        ],
+        "answer": 2,
+        "explain": "The PIB release states the Chariot-1 models were supported under the IndiaAI Mission of the Ministry of Electronics and IT."
+      },
+      "tags": [
+        "IndiaAI Mission",
+        "artificial intelligence",
+        "Chariot-1"
+      ]
+    },
+    {
+      "id": "news-2026-11-26-16",
+      "type": "news",
+      "category": "science",
+      "headline": "China launches Shenzhou-24 with first Pakistani astronaut",
+      "body": "China launched the Shenzhou-24 crewed spaceship from the Jiuquan Satellite Launch Centre on November 25, 2026, carrying three astronauts including Pakistan's Muhammad Zeeshan Ali. He is the first foreign national in China's crewed space programme and the first foreign astronaut to visit the Tiangong space station. The mission follows an agreement the two countries signed in February 2025.",
+      "why_it_matters": "It marks a first in China-Pakistan space cooperation and highlights how China's Tiangong station is being opened to foreign astronauts.",
+      "key_fact": "Muhammad Zeeshan Ali, first foreign astronaut on Tiangong",
+      "source_url": "https://www.thehindu.com/sci-tech/science/chinas-shenzhou-24-space-flight-takes-off-with-pakistani-national-as-first-foreign-astronaut/article71740891.ece",
+      "date": "2026-11-26",
+      "quiz": {
+        "q": "Who became the first foreign astronaut to visit China's Tiangong space station?",
+        "options": [
+          "Tang Hongbo",
+          "Wu Yi",
+          "Muhammad Zeeshan Ali",
+          "Koyo Kouoh"
+        ],
+        "answer": 2,
+        "explain": "Ali flew on Shenzhou-24 and is set to return aboard Shenzhou-23 after about a week in orbit."
+      },
+      "tags": [
+        "space",
+        "China",
+        "Pakistan",
+        "Tiangong"
+      ]
+    },
+    {
+      "id": "news-2026-11-26-17",
+      "type": "news",
+      "category": "science",
+      "headline": "Hera images show stadium-sized crater on asteroid Dimorphos",
+      "body": "Images from the European Space Agency's Hera spacecraft, released on November 25, show that asteroid Dimorphos was left with a stadium-sized crater covering much of its impacted side after NASA's DART spacecraft struck it in 2022. The 151-metre asteroid is now tumbling chaotically, with hundreds of boulders floating in the system. DART was the first test of a planetary defence system.",
+      "why_it_matters": "The DART experiment showed a spacecraft can alter an asteroid's path, a key step for defending Earth from potential future impacts.",
+      "key_fact": "Dimorphos, 151 metres wide, struck by DART in 2022",
+      "source_url": "https://www.thehindu.com/sci-tech/science/new-images-reveal-crater-on-asteroid-struck-by-dart-spacecraft/article71745339.ece",
+      "date": "2026-11-26",
+      "quiz": {
+        "q": "Which spacecraft struck the asteroid Dimorphos in 2022?",
+        "options": [
+          "Hera",
+          "DART",
+          "CubeSat",
+          "Shenzhou-24"
+        ],
+        "answer": 1,
+        "explain": "NASA's DART was a proof-of-principle planetary defence mission, and Hera is now studying its aftermath."
+      },
+      "tags": [
+        "space",
+        "asteroid",
+        "NASA",
+        "ESA"
+      ]
+    },
+    {
+      "id": "news-2026-11-26-18",
+      "type": "news",
+      "category": "science",
+      "headline": "IN-SPACe report flags import dependence in satellite supply chain",
+      "body": "An IN-SPACe report made public on November 25, 2026, says India's satellite supply chain is highly dependent on imports, with private sector involvement largely limited to structural assemblies and propulsion components. Nearly 60% of satellite costs come from electronic and electromechanical components and specialised materials, many imported. Critical components often take 12-16 months to procure, causing project delays.",
+      "why_it_matters": "Reducing import dependence is central to India's goal of growing its space economy from about $9 billion to $40-45 billion.",
+      "key_fact": "Nearly 60% of satellite costs from components, many imported",
+      "source_url": "https://www.thehindu.com/sci-tech/science/indias-satellite-supply-chain-highly-dependent-on-imports-says-space-body/article71743312.ece",
+      "date": "2026-11-26",
+      "quiz": {
+        "q": "According to the IN-SPACe report, roughly what share of satellite costs comes from electronic, electrical and electromechanical components and specialised materials?",
+        "options": [
+          "20%",
+          "40%",
+          "60%",
+          "90%"
+        ],
+        "answer": 2,
+        "explain": "The report attributed nearly 60% of satellite costs to these components and materials, many of which are imported."
+      },
+      "tags": [
+        "space",
+        "IN-SPACe",
+        "manufacturing",
+        "imports"
+      ]
+    },
+    {
+      "id": "news-2026-11-26-19",
+      "type": "news",
+      "category": "culture",
+      "headline": "India Pavilion wins Visitors' Lion at Venice Art Biennale",
+      "body": "India's national pavilion, themed 'Geographies of Distance: Remembering Home', won the Visitors' Lion for Best National Participation at the 61st Venice Art Biennale, decided by votes cast by visitors. Prime Minister Narendra Modi called it a proud moment, and Culture Minister Gajendra Singh Shekhawat described it as recognition of India's growing cultural influence. The pavilion returned after a seven-year gap.",
+      "why_it_matters": "The award, decided by public vote at a major global art event, brings international recognition to Indian contemporary art.",
+      "key_fact": "Visitors' Lion, Best National Pavilion, 61st Venice Biennale",
+      "source_url": "https://www.thehindu.com/news/national/india-pavilion-bags-visitors-lion-at-venice-biennale-pm-modi-calls-it-proud-moment-for-country/article71745067.ece",
+      "date": "2026-11-26",
+      "quiz": {
+        "q": "What theme did India's award-winning pavilion at the 61st Venice Art Biennale explore?",
+        "options": [
+          "Geographies of Distance: Remembering Home",
+          "In Minor Keys",
+          "Tiangong",
+          "The View From India"
+        ],
+        "answer": 0,
+        "explain": "The India Pavilion's theme examined memory and belonging in a rapidly transforming world."
+      },
+      "tags": [
+        "art",
+        "Venice Biennale",
+        "culture",
+        "award"
+      ]
+    },
+    {
+      "id": "news-2026-11-26-20",
+      "type": "news",
+      "category": "environment",
+      "headline": "Two litters born at Kuno add nine cheetah cubs",
+      "body": "Two litters were born at Kuno National Park in Madhya Pradesh in October and November 2026, adding nine cubs to India's cheetah population. On October 5, 2026, 32-month-old India-born female cheetah KJP21 gave birth to five healthy cubs, becoming the third India-born female to breed. The father is a male brought from Botswana. Officials see the births as a sign that cheetahs are adapting to their new environment.",
+      "why_it_matters": "Project Cheetah aims to establish a sustainable cheetah population in India seven decades after the species went extinct here.",
+      "key_fact": "Nine cubs born at Kuno; KJP21 third India-born breeding female",
+      "source_url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2341726",
+      "date": "2026-11-26",
+      "quiz": {
+        "q": "Which India-born female cheetah gave birth to five cubs at Kuno on October 5, 2026, becoming the third India-born female to breed?",
+        "options": [
+          "Mukhi",
+          "KGP12",
+          "KJP21",
+          "Zeeshan"
+        ],
+        "answer": 2,
+        "explain": "KJP21, aged 32 months, became the third India-born female cheetah to breed after Mukhi and KGP12."
+      },
+      "tags": [
+        "wildlife",
+        "Project Cheetah",
+        "Kuno",
+        "conservation"
+      ]
+    }
+  ]
+}
