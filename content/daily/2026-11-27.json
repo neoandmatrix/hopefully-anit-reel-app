@@ -1,0 +1,527 @@
+{
+  "date": "2026-11-27",
+  "cards": [
+    {
+      "id": "news-2026-11-27-01",
+      "type": "news",
+      "category": "polity",
+      "headline": "Government seeks three-day Parliament sitting from 30 November",
+      "body": "The government has asked the Lok Sabha Speaker and Rajya Sabha Chairman to reconvene Parliament for a short sitting, with the Lok Sabha meeting from 30 November and the Rajya Sabha from 2 December. Because the Monsoon Session was adjourned sine die but not prorogued, this will be a continuation of that session, not a fresh Winter Session.",
+      "why_it_matters": "Parliament can only pass laws when it meets, so a short sitting lets the government push pending legislation without summoning a full new session.",
+      "key_fact": "Monsoon Session adjourned sine die, not prorogued",
+      "source_url": "https://www.livemint.com/news/centre-seeks-three-day-special-sitting-of-parliament-from-30-november-11795704288485.html",
+      "date": "2026-11-27",
+      "quiz": {
+        "q": "Why can the government reconvene Parliament without summoning a fresh session?",
+        "options": [
+          "The President dissolved Parliament",
+          "The Monsoon Session was adjourned sine die but not prorogued",
+          "A new session was already notified",
+          "The Supreme Court ordered it"
+        ],
+        "answer": 1,
+        "explain": "An adjourned sine die session that is not prorogued remains technically open, so sittings can resume as a continuation."
+      },
+      "tags": [
+        "Parliament",
+        "Monsoon Session",
+        "Kiren Rijiju"
+      ]
+    },
+    {
+      "id": "news-2026-11-27-02",
+      "type": "news",
+      "category": "polity",
+      "headline": "Centre weighs expanding Lok Sabha to 850 seats for women's quota",
+      "body": "The government is considering raising the Lok Sabha's maximum strength from 550 to 850 members, with up to 815 seats for states and 35 for Union Territories, to enable 33% reservation for women before the 2029 election. The Rajya Sabha's ceiling of 250 would stay unchanged. Delimitation would be based on the latest published Census, in practice the 2011 Census. The Bills were withdrawn in April after falling short of a two-thirds majority.",
+      "why_it_matters": "More seats would mean more MPs and higher spending on salaries and Parliament, and the change in seat shares is a sensitive issue for southern states.",
+      "key_fact": "Lok Sabha strength proposed to rise from 550 to 850",
+      "source_url": "https://www.livemint.com/news/india/delimitation-bill-how-expanding-lok-sabha-could-fast-track-womens-reservation-by-2029-and-raise-government-spending-11795757264921.html",
+      "date": "2026-11-27",
+      "quiz": {
+        "q": "What is the proposed new maximum strength of the Lok Sabha?",
+        "options": [
+          "550",
+          "815",
+          "850",
+          "250"
+        ],
+        "answer": 2,
+        "explain": "The plan raises the Lok Sabha's maximum strength to 850, with 815 seats for states and 35 for Union Territories."
+      },
+      "tags": [
+        "Women's reservation",
+        "Delimitation",
+        "Lok Sabha"
+      ]
+    },
+    {
+      "id": "news-2026-11-27-03",
+      "type": "news",
+      "category": "economy",
+      "headline": "U.S. announces 25% tariff on Indian goods under Section 301",
+      "body": "The U.S. announced a 25% tariff on goods imported from India, citing Indian acts and policies that burden U.S. commerce. It is the second-highest among 14 economies targeted, after Vietnam's 35%. The order says the tariff could fall to 17% if a Reciprocal Trade Agreement is reached. India's Commerce Ministry said the notice is under examination and that it engaged constructively in the investigation.",
+      "why_it_matters": "Higher U.S. tariffs raise costs for Indian exporters and can affect prices and jobs in affected sectors.",
+      "key_fact": "25% U.S. tariff on India under Section 301",
+      "source_url": "https://www.thehindu.com/news/international/donald-trump-tariffs-us-midterm-elections/article71743081.ece",
+      "date": "2026-11-27",
+      "quiz": {
+        "q": "Under which U.S. law was the investigation into India's trade practices launched?",
+        "options": [
+          "Section 301 of the U.S. Trade Act",
+          "Article 75 of the U.S. Constitution",
+          "Section 232 of the WTO rules",
+          "The Reciprocal Trade Act"
+        ],
+        "answer": 0,
+        "explain": "The USTR launched its investigations under Section 301 of the U.S. Trade Act."
+      },
+      "tags": [
+        "Trade",
+        "Tariffs",
+        "India-US"
+      ]
+    },
+    {
+      "id": "news-2026-11-27-04",
+      "type": "news",
+      "category": "international",
+      "headline": "India, Netherlands upgrade ties; sign 17 MoUs",
+      "body": "India and the Netherlands upgraded their bilateral ties to a Strategic Partnership during Prime Minister Narendra Modi's visit on 16 and 17 May. The two sides signed 17 agreements and MoUs covering water, agriculture and health, renewable energy, critical minerals, and a semiconductor fabrication project between TATA Electronics and Dutch firm ASML. Dutch PM Rob Jetten said he raised sensitive topics, including the Insiya custody case.",
+      "why_it_matters": "The semiconductor tie-up matters for India's chip ambitions, and the visit shows how trade and technology shape India's foreign partnerships.",
+      "key_fact": "17 MoUs signed; TATA-ASML semiconductor project",
+      "source_url": "https://www.thehindu.com/news/national/india-netherlands-elevating-ties-to-strategic-partnership-says-pm-modi/article70988590.ece",
+      "date": "2026-11-27",
+      "quiz": {
+        "q": "Which Dutch company is involved in the proposed semiconductor fabrication project with TATA Electronics?",
+        "options": [
+          "Philips",
+          "ASML",
+          "Shell",
+          "Unilever"
+        ],
+        "answer": 1,
+        "explain": "The article states the semiconductor fabrication project is between TATA Electronics and Dutch company ASML."
+      },
+      "tags": [
+        "Diplomacy",
+        "Netherlands",
+        "Semiconductors"
+      ]
+    },
+    {
+      "id": "news-2026-11-27-05",
+      "type": "news",
+      "category": "international",
+      "headline": "India, UAE discuss joint development of next-generation defence equipment",
+      "body": "The 14th meeting of the India-UAE Joint Defence Cooperation Committee was held in Abu Dhabi on 26 November 2026, co-chaired by Defence Secretary Rajesh Kumar Singh and UAE Under Secretary Lt Gen Ibrahim Nasir M. Al Alavi. Under the Strategic Defence Partnership Framework signed during the PM's May 2026 UAE visit, the two sides agreed to boost cooperation in defence industry, innovation, artificial intelligence, cyber security, military training and maritime security, and to speed up joint development and production of next-generation defence equipment.",
+      "why_it_matters": "Closer defence ties with the UAE support India's push to co-produce military equipment and expand defence exports.",
+      "key_fact": "14th India-UAE Joint Defence Cooperation Committee meeting",
+      "source_url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2342271",
+      "date": "2026-11-27",
+      "quiz": {
+        "q": "Where was the 14th India-UAE Joint Defence Cooperation Committee meeting held?",
+        "options": [
+          "New Delhi",
+          "Abu Dhabi",
+          "Dubai",
+          "Muscat"
+        ],
+        "answer": 1,
+        "explain": "The meeting took place in Abu Dhabi on 26 November 2026."
+      },
+      "tags": [
+        "Defence",
+        "UAE",
+        "Strategic Partnership"
+      ]
+    },
+    {
+      "id": "news-2026-11-27-06",
+      "type": "news",
+      "category": "economy",
+      "headline": "RBI governor asks MSMEs to use FTAs, flags low AI adoption",
+      "body": "RBI Governor Sanjay Malhotra, speaking at an SME finance summit in Mumbai, urged small businesses to use India's free trade agreements, including the India-UK CETA and the India-EU FTA, to reach overseas markets. He said market access alone would not raise exports and firms must improve quality and standards. He also flagged MSME AI adoption at about 15%.",
+      "why_it_matters": "MSMEs are a large source of jobs and exports, so how well they use new trade deals and technology affects employment and India's export growth.",
+      "key_fact": "India-UK CETA gives zero-duty access for almost 99% of India's exports",
+      "source_url": "https://www.livemint.com/economy/rbi-governor-msmes-free-trade-deals-exports-ai-adoption-11795763118058.html",
+      "date": "2026-11-27",
+      "quiz": {
+        "q": "According to the article, the India-UK Comprehensive Economic and Trade Agreement provides zero-duty access to the UK for about what share of India's exports?",
+        "options": [
+          "50%",
+          "75%",
+          "90%",
+          "99%"
+        ],
+        "answer": 3,
+        "explain": "The article states the India-UK CETA, in force from 15 July, provides zero-duty access for almost 99% of India's exports to the UK."
+      },
+      "tags": [
+        "MSME",
+        "RBI",
+        "free trade agreements",
+        "AI adoption"
+      ]
+    },
+    {
+      "id": "news-2026-11-27-07",
+      "type": "news",
+      "category": "economy",
+      "headline": "Sitharaman concludes pre-Budget consultations for Budget 2027-28",
+      "body": "Finance Minister Nirmala Sitharaman chaired a series of pre-Budget consultations between 16 and 26 November 2026 for the Union Budget 2027-28. More than 200 stakeholders from 13 sectors took part. The 13th and final meeting was with young people, a new initiative this year. Suggestions included sector-specific AI models and programmes to raise cyber hygiene awareness among MSMEs.",
+      "why_it_matters": "Pre-Budget consultations shape the government's spending and tax priorities, which affect jobs, prices and public services for ordinary Indians.",
+      "key_fact": "Pre-Budget consultations for Budget 2027-28 held from 16 to 26 November 2026",
+      "source_url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2342267",
+      "date": "2026-11-27",
+      "quiz": {
+        "q": "How many stakeholder consultation meetings for Budget 2027-28 did the Finance Minister hold, with the youth meeting being the last?",
+        "options": [
+          "7",
+          "10",
+          "13",
+          "20"
+        ],
+        "answer": 2,
+        "explain": "The article says the meeting with youth was the 13th and final pre-Budget consultation."
+      },
+      "tags": [
+        "Union Budget",
+        "Nirmala Sitharaman",
+        "Finance Ministry"
+      ]
+    },
+    {
+      "id": "news-2026-11-27-08",
+      "type": "news",
+      "category": "polity",
+      "headline": "Cabinet approves Rs 2,632 crore outlay for India Post revamp",
+      "body": "The Union Cabinet approved a financial outlay of Rs 2,632 crore for India Post under the 16th Finance Commission cycle from 2026-27 to 2030-31. It includes Rs 1,141 crore for the Postal Operations Plan and Rs 1,491 crore for the Asset Management Plan. Communications Minister Jyotiraditya Scindia said post offices would be modernised into citizen-centric service centres.",
+      "why_it_matters": "Post offices serve millions of Indians, including in rural areas, so their modernisation affects access to postal, insurance and financial services.",
+      "key_fact": "Rs 2,632 crore approved for India Post for 2026-27 to 2030-31",
+      "source_url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2342300",
+      "date": "2026-11-27",
+      "quiz": {
+        "q": "What total financial outlay did the Cabinet approve to modernise India Post?",
+        "options": [
+          "Rs 1,141 crore",
+          "Rs 1,491 crore",
+          "Rs 2,632 crore",
+          "Rs 5,000 crore"
+        ],
+        "answer": 2,
+        "explain": "The article states the total outlay is Rs 2,632 crore, split between the Postal Operations Plan and the Asset Management Plan."
+      },
+      "tags": [
+        "India Post",
+        "Union Cabinet",
+        "Jyotiraditya Scindia"
+      ]
+    },
+    {
+      "id": "news-2026-11-27-09",
+      "type": "news",
+      "category": "science",
+      "headline": "JAXA unveils prototype rover for Chandrayaan-5/LUPEX mission",
+      "body": "The Japanese space agency JAXA unveiled the prototype rover for the Chandrayaan-5/LUPEX mission at the Chofu Aerospace Centre on 25 November and ran a test demonstration. The joint ISRO-JAXA mission is planned for launch in 2028 on Japan's H3-24L rocket. It will study lunar volatiles, including water, near the lunar south pole. JAXA builds the rover; ISRO builds the lander.",
+      "why_it_matters": "The mission is a step toward India's planned lunar sample return and the goal of sending an Indian to the Moon by 2040.",
+      "key_fact": "Chandrayaan-5/LUPEX is scheduled for launch in 2028",
+      "source_url": "https://www.thehindu.com/sci-tech/science/prototype-of-chandrayaan-5lupex-rover-unveiled/article71746762.ece",
+      "date": "2026-11-27",
+      "quiz": {
+        "q": "Which launch vehicle is scheduled to carry the Chandrayaan-5/LUPEX mission in 2028?",
+        "options": [
+          "ISRO's LVM3",
+          "Japan's H3-24L",
+          "NASA's SLS",
+          "SpaceX Falcon 9"
+        ],
+        "answer": 1,
+        "explain": "The article says the mission is scheduled for a 2028 launch by the Japanese H3-24L launch vehicle."
+      },
+      "tags": [
+        "Chandrayaan-5",
+        "ISRO",
+        "JAXA",
+        "LUPEX"
+      ]
+    },
+    {
+      "id": "news-2026-11-27-10",
+      "type": "news",
+      "category": "sports",
+      "headline": "New Zealand 246/5 on Day 1 of second Test vs India",
+      "body": "New Zealand reached 246 for five at stumps on the opening day of the second Test in Christchurch. Tom Blundell (53*) and Glenn Phillips (36*) shared an unbroken 62-run stand for the sixth wicket. India, who chose to bowl, reduced the hosts from 110/1 to 110/4 in 16 deliveries, with Akash Deep and Washington Sundar making key breakthroughs. Debutant Gurnoor Brar took his first Test wicket.",
+      "why_it_matters": "Test cricket is followed closely in India, and this series decider matters to fans tracking the team's performance abroad.",
+      "key_fact": "New Zealand 246/5 at stumps on Day 1",
+      "source_url": "https://www.thehindu.com/sport/cricket/india-new-zealand-second-test-day-1-updates-november-27-2026/article71748299.ece",
+      "date": "2026-11-27",
+      "quiz": {
+        "q": "What was New Zealand's score at stumps on Day 1 of the second Test?",
+        "options": [
+          "246 for 5",
+          "110 for 1",
+          "77 for 1",
+          "62 for 0"
+        ],
+        "answer": 0,
+        "explain": "The article states New Zealand reached 246 for five at stumps."
+      },
+      "tags": [
+        "cricket",
+        "India",
+        "New Zealand",
+        "Test"
+      ]
+    },
+    {
+      "id": "news-2026-11-27-11",
+      "type": "news",
+      "category": "sports",
+      "headline": "Gukesh, Sindarov draw third game; score 1.5-1.5",
+      "body": "The third game of the World Chess Championship between India's D. Gukesh and Uzbekistan's Javokhir Sindarov ended in a draw in Geneva. It lasted 60 moves and nearly five hours, becoming the longest game of the match so far. All three games have been drawn, leaving the score 1.5-1.5. Gukesh played the Rio de Janeiro variation of the Ruy Lopez opening.",
+      "why_it_matters": "Gukesh is the defending champion, and his title defence is a matter of national pride for Indian chess fans.",
+      "key_fact": "Score 1.5-1.5 after three games",
+      "source_url": "https://www.thehindu.com/sport/world-chess-championship-match-nothing-to-separate-gukesh-sindarov-after-three-games/article71748139.ece",
+      "date": "2026-11-27",
+      "quiz": {
+        "q": "What is the score after three games in the World Chess Championship match between Gukesh and Sindarov?",
+        "options": [
+          "1.5-1.5",
+          "2-1",
+          "3-0",
+          "1-2"
+        ],
+        "answer": 0,
+        "explain": "All three games have been drawn, so the score is 1.5-1.5."
+      },
+      "tags": [
+        "chess",
+        "Gukesh",
+        "World Championship"
+      ]
+    },
+    {
+      "id": "news-2026-11-27-12",
+      "type": "news",
+      "category": "sports",
+      "headline": "Pankaj Advani becomes first Indian to win Crucible Cup",
+      "body": "Pankaj Advani won the Crucible Cup in Reading, U.K., defeating Tony Drago 6-0 in the final of the Snooker 900 format. Advani, the reigning world billiard champion, beat defending champion Neil Robertson 5-2 and Joe Perry 5-1 en route to the final. He dropped only three frames in the tournament. India will host the next edition in 2027.",
+      "why_it_matters": "Advani's win brings global recognition to Indian cue sports and secures India hosting rights for the 2027 Crucible Cup.",
+      "key_fact": "Pankaj Advani first Indian to win Crucible Cup",
+      "source_url": "https://www.thehindu.com/sport/snooker-900-pankaj-advani-becomes-first-indian-to-win-crucible-cup/article71745627.ece",
+      "date": "2026-11-27",
+      "quiz": {
+        "q": "Who became the first Indian to win the Crucible Cup?",
+        "options": [
+          "Pankaj Advani",
+          "Ronnie O'Sullivan",
+          "Neil Robertson",
+          "Tony Drago"
+        ],
+        "answer": 0,
+        "explain": "The article states Pankaj Advani became the first Indian to win the Crucible Cup."
+      },
+      "tags": [
+        "snooker",
+        "Pankaj Advani",
+        "Crucible Cup"
+      ]
+    },
+    {
+      "id": "news-2026-11-27-13",
+      "type": "news",
+      "category": "international",
+      "headline": "Nepal begins process to declare 213 missing Indians dead",
+      "body": "Nepal's NDRRMA has published a list of 213 missing Indian nationals for presumption and declaration of death after August's flash floods. Objections can be raised until December 2 via the Indian Embassy. The August 26 floods in the Trishuli-Bhote Koshi river system killed at least 1,453 people and left over 5,000 missing. The Embassy will later obtain death certificates from local authorities.",
+      "why_it_matters": "This affects Indian families awaiting closure and legal recognition of loss after a major cross-border disaster.",
+      "key_fact": "213 missing Indians presumed dead after Nepal floods",
+      "source_url": "https://www.thehindu.com/news/national/nepal-flash-floods-kathmandu-begins-process-to-declare-213-indians-missing-presumed-dead/article71745222.ece",
+      "date": "2026-11-27",
+      "quiz": {
+        "q": "How many missing Indian nationals is Nepal processing for presumption of death?",
+        "options": [
+          "213",
+          "1453",
+          "5000",
+          "26"
+        ],
+        "answer": 0,
+        "explain": "The article states the NDRRMA published a list of 213 missing Indian nationals."
+      },
+      "tags": [
+        "Nepal floods",
+        "India",
+        "disaster"
+      ]
+    },
+    {
+      "id": "news-2026-11-27-14",
+      "type": "news",
+      "category": "economy",
+      "headline": "SC orders banks to sanction prosecution in subvention fraud cases",
+      "body": "The Supreme Court directed HDFC Bank, ICICI Bank, Sammaan Capital and PNB Housing Finance to grant unconditional sanction for prosecution of officials within a week in alleged subvention scheme frauds. The court warned that heads of these institutions would have to appear personally if they failed. The CBI said it faced difficulties in obtaining sanctions under the Prevention of Corruption Act.",
+      "why_it_matters": "Subvention scheme frauds can leave homebuyers liable for EMIs even without possession, so the ruling affects many ordinary homebuyers.",
+      "key_fact": "SC orders prosecution sanction in subvention scheme frauds",
+      "source_url": "https://www.livemint.com/news/india/what-is-subvention-scheme-fraud-why-has-sc-directed-hdfc-bank-icici-bank-to-sanction-prosecution-of-officials-11795768632878.html",
+      "date": "2026-11-27",
+      "quiz": {
+        "q": "Which court directed banks to grant sanction for prosecution in subvention scheme frauds?",
+        "options": [
+          "Supreme Court",
+          "Delhi High Court",
+          "Bombay High Court",
+          "District Court"
+        ],
+        "answer": 0,
+        "explain": "The article states the Supreme Court directed the banks."
+      },
+      "tags": [
+        "subvention scheme",
+        "Supreme Court",
+        "banks",
+        "fraud"
+      ]
+    },
+    {
+      "id": "news-2026-11-27-15",
+      "type": "news",
+      "category": "economy",
+      "headline": "IBC recoveries higher for large firms but delays persist",
+      "body": "Lenders recovered 31.1% of admitted claims from 218 large stressed companies with defaults of at least ₹1,000 crore each, IBBI data shows. That is ₹3.91 trillion against claims of ₹12.6 trillion. Across all 1,571 resolved companies since 2016, recovery was 30.2%, or ₹4.46 trillion against ₹14.77 trillion. Average resolution time was 771 days, over twice the 330-day limit.",
+      "why_it_matters": "The IBC is the main law for resolving bankrupt companies, and long delays reduce what banks, and ultimately depositors and taxpayers, get back.",
+      "key_fact": "218 large IBC cases recovered 31.1% of admitted claims",
+      "source_url": "https://www.livemint.com/news/india/large-stressed-assets-better-recoveries-ibc-delays-persist-prolonged-resolution-timelines-creditors-11795707348362.html",
+      "date": "2026-11-27",
+      "quiz": {
+        "q": "What share of admitted claims did creditors recover from the 218 large stressed companies resolved under the IBC until September?",
+        "options": [
+          "31.1%",
+          "30.2%",
+          "66.1%",
+          "12.6%"
+        ],
+        "answer": 0,
+        "explain": "IBBI data showed 31.1% recovery from large cases with defaults of at least ₹1,000 crore."
+      },
+      "tags": [
+        "IBC",
+        "insolvency",
+        "IBBI",
+        "recovery"
+      ]
+    },
+    {
+      "id": "news-2026-11-27-16",
+      "type": "news",
+      "category": "science",
+      "headline": "Health ministry tightens rules on stem cell trials for autism",
+      "body": "Two Union health ministry notices issued on 20 November bar clinics from offering stem cell treatment for autism as routine commercial care. Trial participants must be insured against research-related injury, disability or death, and researchers cannot charge for procedures, tests or hospital stays. The notices also set a two-tier approval process based on stem cell processing and reiterate that autism has no cure.",
+      "why_it_matters": "Parents of children with autism are often targeted by unproven, costly stem cell claims, so insurance and a no-fee rule protect families from financial and medical harm.",
+      "key_fact": "Stem cell trial participants for autism cannot be charged fees",
+      "source_url": "https://www.livemint.com/news/india/health-ministry-mandates-insurance-fee-ban-and-90-day-clearance-rules-for-autism-stem-cell-trials-11795687902584.html",
+      "date": "2026-11-27",
+      "quiz": {
+        "q": "Under the health ministry's notices, what are stem cell trial participants for autism barred from being charged for?",
+        "options": [
+          "All study-related procedures and costs",
+          "Only the cost of stem cells",
+          "Only hospital stay",
+          "Only diagnostic tests"
+        ],
+        "answer": 0,
+        "explain": "The notice said participants must not be asked to pay for the treatment, tests, procedures, hospital stay or any research-related costs."
+      },
+      "tags": [
+        "health ministry",
+        "autism",
+        "stem cells",
+        "clinical trials"
+      ]
+    },
+    {
+      "id": "news-2026-11-27-17",
+      "type": "news",
+      "category": "science",
+      "headline": "Two-thirds of Indian adolescents deficient in vitamin B12: ICMR survey",
+      "body": "The ICMR's National Institute of Nutrition survey SAMPADA, conducted in 2023–25, found vitamin B12 deficiency in 66.1% of adolescent boys and 65.4% of adolescent girls. It analysed over 1.7 lakh blood samples across 183 districts and 35 states and UTs, defining deficiency as serum B12 below 203 pg/mL. Prevalence was 63.1% among pregnant women and 46.5% among children aged five to nine.",
+      "why_it_matters": "Vitamin B12 is essential for brain and nerve function, and low maternal levels can affect the health of future generations.",
+      "key_fact": "Deficiency defined as serum vitamin B12 below 203 pg/mL",
+      "source_url": "https://www.thehindu.com/sci-tech/health/two-thirds-of-adolescents-in-india-are-deficient-in-vitamin-b12-icmr-survey/article71746253.ece",
+      "date": "2026-11-27",
+      "quiz": {
+        "q": "What serum vitamin B12 level did the ICMR survey use to define deficiency?",
+        "options": [
+          "Below 203 pg/mL",
+          "Below 300 pg/mL",
+          "Below 100 pg/mL",
+          "Below 500 pg/mL"
+        ],
+        "answer": 0,
+        "explain": "The SAMPADA survey defined deficiency as serum vitamin B12 levels below 203 pg/mL."
+      },
+      "tags": [
+        "ICMR",
+        "nutrition",
+        "vitamin B12",
+        "health survey"
+      ]
+    },
+    {
+      "id": "news-2026-11-27-18",
+      "type": "news",
+      "category": "science",
+      "headline": "India crosses 10 million HPV vaccine doses for girls",
+      "body": "India has given more than 10 million doses of the HPV vaccine to 14-year-old girls in under nine months, covering nearly 87% of the annual cohort of about 12 million girls. The campaign uses Gardasil-4, procured with Gavi support, under a single-dose regimen. India records 1,27,526 new cervical cancer cases and 79,906 deaths yearly, the most of any country.",
+      "why_it_matters": "Cervical cancer is largely preventable through HPV vaccination, and India carries about one-fifth of global cases.",
+      "key_fact": "India records 1,27,526 new cervical cancer cases a year",
+      "source_url": "https://www.livemint.com/news/hpv-vaccine-cervical-cancer-hpv-vaccination-india-vaccination-drive-gardasil-4-cervavac-union-health-ministry-who-11795751474057.html",
+      "date": "2026-11-27",
+      "quiz": {
+        "q": "How many new cervical cancer cases does India record annually, per WHO cancer agency estimates?",
+        "options": [
+          "1,27,526",
+          "79,906",
+          "12 million",
+          "10 million"
+        ],
+        "answer": 0,
+        "explain": "GLOBOCAN 2022 estimates cited 1,27,526 new cervical cancer cases and 79,906 deaths in India every year."
+      },
+      "tags": [
+        "HPV vaccine",
+        "cervical cancer",
+        "health ministry",
+        "WHO"
+      ]
+    },
+    {
+      "id": "news-2026-11-27-19",
+      "type": "news",
+      "category": "history",
+      "headline": "ASI hands three retrieved bronze idols to Tamil Nadu Police",
+      "body": "The Archaeological Survey of India handed over three ancient bronze idols to the Idol Wing CID of Tamil Nadu Police at Dharohar Bhavan, New Delhi. Two were retrieved from the Smithsonian museum in the United States and one from The Hague in the Netherlands. The idols date from the Vijayanagara and Chola periods and were linked to temples in Tamil Nadu.",
+      "why_it_matters": "The return of stolen idols is part of India's effort to recover its cultural heritage and restore it to its rightful place.",
+      "key_fact": "Three bronzes returned from the US and Netherlands",
+      "source_url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2342235",
+      "date": "2026-11-27",
+      "quiz": {
+        "q": "Which agency handed over the three retrieved ancient bronze idols to Tamil Nadu Police?",
+        "options": [
+          "Archaeological Survey of India",
+          "Central Bureau of Investigation",
+          "Idol Wing CID",
+          "National Museum"
+        ],
+        "answer": 0,
+        "explain": "The ASI formally handed the idols to the Idol Wing CID of Tamil Nadu Police in New Delhi."
+      },
+      "tags": [
+        "ASI",
+        "idols",
+        "heritage",
+        "Tamil Nadu"
+      ]
+    }
+  ]
+}
