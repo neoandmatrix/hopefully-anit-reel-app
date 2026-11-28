@@ -1,0 +1,500 @@
+{
+  "date": "2026-11-28",
+  "cards": [
+    {
+      "id": "news-2026-11-28-01",
+      "type": "news",
+      "category": "polity",
+      "headline": "Cabinet clears 132nd Amendment Bill on delimitation and women's quota",
+      "body": "The Constitution (132nd Amendment) Bill proposes a 50% increase in Lok Sabha seats for every state and Union Territory at the first delimitation, using the 2011 Census to redraw them. It also plans to seal the inter-state ratio of constituencies, based on 1971 population, till 2051. A similar Bill introduced in April failed to clear the Lok Sabha with a two-thirds majority, and lacked the 50% seat increase clause.",
+      "why_it_matters": "Delimitation reshapes how many MPs each state sends to Parliament, affecting political representation for decades.",
+      "key_fact": "132nd Amendment Bill proposes 850 Lok Sabha seats",
+      "source_url": "https://indianexpress.com/article/india/delimitation-bill-full-text-constitution-132nd-amendment-bill-lok-sabha-seats-10981637/",
+      "date": "2026-11-28",
+      "quiz": {
+        "q": "Which Constitution Amendment Bill deals with the 50% increase in Lok Sabha seats and women's reservation?",
+        "options": [
+          "Constitution (132nd Amendment) Bill",
+          "Constitution (126th Amendment) Bill",
+          "Constitution (106th Amendment) Bill",
+          "Constitution (140th Amendment) Bill"
+        ],
+        "answer": 0,
+        "explain": "The article says the Constitution (132nd Amendment) Bill provides for the 50% seat increase and women's quota."
+      },
+      "tags": [
+        "delimitation",
+        "amendment bill",
+        "lok sabha"
+      ]
+    },
+    {
+      "id": "news-2026-11-28-02",
+      "type": "news",
+      "category": "economy",
+      "headline": "RBI eases daily CRR maintenance from 99% to 90%",
+      "body": "The RBI cut the minimum daily maintenance of the cash reserve ratio from 99% to 90%, effective the fortnight beginning December 1, 2026, releasing over ₹40,000 crore into the banking system for lending. Banks must still keep at least 90% of the prescribed CRR each day and meet the fortnightly average, with the prescribed CRR at 3% of net demand and time liabilities. This reverses an October 2026 tightening from 90% to 99%.",
+      "why_it_matters": "More funds with banks can support lending, potentially easing credit availability for borrowers.",
+      "key_fact": "RBI lowered minimum daily CRR maintenance to 90%",
+      "source_url": "https://www.thehindu.com/business/Economy/rbi-cuts-daily-crr-maintenance-to-90-to-unlock-over-40000-crore/article71751043.ece",
+      "date": "2026-11-28",
+      "quiz": {
+        "q": "What is the new minimum daily maintenance requirement for the CRR?",
+        "options": [
+          "99%",
+          "95%",
+          "90%",
+          "80%"
+        ],
+        "answer": 2,
+        "explain": "The RBI reduced the minimum daily CRR maintenance from 99% to 90%."
+      },
+      "tags": [
+        "RBI",
+        "CRR",
+        "banking"
+      ]
+    },
+    {
+      "id": "news-2026-11-28-03",
+      "type": "news",
+      "category": "science",
+      "headline": "ISRO invites industry to build Mission ANTARIKSH analog facility",
+      "body": "ISRO's Human Space Flight Centre in Bengaluru issued an Expression of Interest on November 26, 2026, inviting Indian industry to fully execute Mission ANTARIKSH, the country's Earth-based Human Spaceflight Analog Simulation Facility. It will support crew training, mission rehearsal, systems evaluation and procedure validation, including Gaganyaan and Bharatiya Antariksh Station simulator modules and a Mission Control Centre. The facility is to support six analog mission campaigns, operated and maintained for two years.",
+      "why_it_matters": "Analog facilities help test human spaceflight procedures safely on the ground before real missions.",
+      "key_fact": "Mission ANTARIKSH is India's Human Spaceflight Analog Simulation Facility",
+      "source_url": "https://www.thehindu.com/sci-tech/science/isro-invites-indian-industry-to-develop-human-space-flight-analog-simulation-facility/article71751015.ece",
+      "date": "2026-11-28",
+      "quiz": {
+        "q": "What is Mission ANTARIKSH?",
+        "options": [
+          "A lunar lander mission",
+          "India's Earth-based Human Spaceflight Analog Simulation Facility",
+          "A Mars orbiter programme",
+          "A satellite launch vehicle"
+        ],
+        "answer": 1,
+        "explain": "The article describes Mission ANTARIKSH as the country's Earth-based Human Spaceflight Analog Simulation Facility."
+      },
+      "tags": [
+        "ISRO",
+        "Gaganyaan",
+        "space"
+      ]
+    },
+    {
+      "id": "news-2026-11-28-04",
+      "type": "news",
+      "category": "science",
+      "headline": "JAXA unveils 350 kg rover prototype for Chandrayaan-5",
+      "body": "The Japan Aerospace Exploration Agency showcased a prototype rover for the Chandrayaan-5 mission at its Chofu Aerospace Centre in Tokyo, marking a milestone in its first joint lunar exploration with ISRO. The roughly 350 kg, four-legged crawler rover carries seven scientific instruments and will study lunar surface temperatures, geology and water and water ice. Also called LUPEX, the mission is scheduled for 2028 aboard Japan's H3 rocket from Tanegashima, with ISRO building the lander.",
+      "why_it_matters": "Finding water ice on the Moon could be key for future lunar habitats and long-duration human missions.",
+      "key_fact": "Chandrayaan-5 (LUPEX) launch scheduled for 2028",
+      "source_url": "https://indianexpress.com/article/india/handrayaan-5-jaxa-lunar-rover-prototype-lupex-mission-10980933/",
+      "date": "2026-11-28",
+      "quiz": {
+        "q": "In which year is the Chandrayaan-5 (LUPEX) mission scheduled to lift off?",
+        "options": [
+          "2026",
+          "2027",
+          "2028",
+          "2030"
+        ],
+        "answer": 2,
+        "explain": "The article states Chandrayaan-5, also known as LUPEX, is scheduled for lift-off in 2028."
+      },
+      "tags": [
+        "Chandrayaan-5",
+        "JAXA",
+        "ISRO"
+      ]
+    },
+    {
+      "id": "news-2026-11-28-05",
+      "type": "news",
+      "category": "international",
+      "headline": "India to host ITU Plenipotentiary Conference in 2030",
+      "body": "India will host the ITU's Plenipotentiary Conference (PP-30) in 2030, the UN agency's highest policy-making body. The proposal was formally approved at PP-26 in Doha on November 27, 2026. Union Communications Minister Jyotiraditya M. Scindia invited global telecom partners via video message. India was also elected to the ITU Council for 2027-2030. India first expressed formal interest in hosting in November 2024.",
+      "why_it_matters": "Hosting the ITU's top conference gives India a major say in global telecom policy and showcases its digital and technological progress.",
+      "key_fact": "ITU Plenipotentiary Conference (PP-30) to be hosted by India in 2030",
+      "source_url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2342955",
+      "date": "2026-11-28",
+      "quiz": {
+        "q": "Which conference will India host in 2030?",
+        "options": [
+          "ITU Plenipotentiary Conference (PP-30)",
+          "UN Climate Change Conference (COP31)",
+          "SCO Civilizational Dialogue Forum",
+          "World Telecommunication Development Conference"
+        ],
+        "answer": 0,
+        "explain": "The article states that India will host the ITU Plenipotentiary Conference (PP-30) in 2030."
+      },
+      "tags": [
+        "ITU",
+        "telecommunications",
+        "India",
+        "international conference"
+      ]
+    },
+    {
+      "id": "news-2026-11-28-06",
+      "type": "news",
+      "category": "international",
+      "headline": "SCO Civilizational Dialogue Forum adopts Indraprastha Communiqué",
+      "body": "India hosted the first Shanghai Cooperation Organisation (SCO) Civilizational Dialogue Forum from November 20-22 at Delhi's Purana Qila. The forum was proposed by Prime Minister Narendra Modi at the SCO leaders' summit in Tianjin and organized by the Ministry of Culture and the Ministry of External Affairs. Member countries adopted the 'Indraprastha Communiqué', recognizing culture as a vital bridge of friendship and an important dimension of cooperation.",
+      "why_it_matters": "The forum seeks to strengthen people-to-people ties and cultural dialogue among SCO nations, including Pakistan and China, offering a softer channel of regional engagement.",
+      "key_fact": "Indraprastha Communiqué adopted at first SCO Civilizational Dialogue Forum",
+      "source_url": "https://www.thehindu.com/news/national/what-is-the-indraprastha-communique-issued-after-sco-civilizational-forum-in-new-delhi-explained/article71753482.ece",
+      "date": "2026-11-28",
+      "quiz": {
+        "q": "What is the outcome document adopted at the first SCO Civilizational Dialogue Forum called?",
+        "options": [
+          "Delhi Declaration",
+          "Indraprastha Communiqué",
+          "Purana Qila Accord",
+          "Tianjin Statement"
+        ],
+        "answer": 1,
+        "explain": "The article mentions that member countries adopted the 'Indraprastha Communiqué' at the end of the three-day forum."
+      },
+      "tags": [
+        "SCO",
+        "culture",
+        "diplomacy",
+        "India"
+      ]
+    },
+    {
+      "id": "news-2026-11-28-07",
+      "type": "news",
+      "category": "international",
+      "headline": "Nepal-India vision statement issued during PM Balendra Shah's visit",
+      "body": "Nepal's Prime Minister Balendra Shah visited New Delhi and a ten-pillar vision statement was issued to give new direction to bilateral relations. Shah, a former singer and media personality, became Prime Minister in March after his Rastriya Swatantra Party won a two-thirds majority following the Gen-Z uprising of September 2025. The vision document stresses a forward-looking approach, setting aside agendas shaped under earlier Maoist and Nepali Congress-led governments.",
+      "why_it_matters": "The change of government in Nepal could reshape India-Nepal ties on trade, connectivity and border management, affecting people in both countries.",
+      "key_fact": "Ten-pillar Nepal-India vision statement issued during PM Balendra Shah's visit",
+      "source_url": "https://www.thehindu.com/news/national/ten-pillars-of-nepal-india-vision-statement-issued-during-prime-minister-balendra-shahs-visit/article71753492.ece",
+      "date": "2026-11-28",
+      "quiz": {
+        "q": "How many pillars does the Nepal-India vision statement issued during PM Balendra Shah's visit have?",
+        "options": [
+          "Five",
+          "Seven",
+          "Ten",
+          "Twelve"
+        ],
+        "answer": 2,
+        "explain": "The article states that a ten-pillared vision statement was issued during Prime Minister Shah's two-day trip to New Delhi."
+      },
+      "tags": [
+        "Nepal",
+        "India",
+        "diplomacy",
+        "bilateral relations"
+      ]
+    },
+    {
+      "id": "news-2026-11-28-08",
+      "type": "news",
+      "category": "environment",
+      "headline": "India welcomes $50 million adaptation fund pledge at COP31",
+      "body": "India welcomed a $50 million pledge to the Adaptation Fund at COP31 but called it inadequate given developing countries' needs. Environment Minister Bhupender Yadav said removal of the $120 billion adaptation finance figure from the proposed cover text and failure to agree on the Antalya Pact were disappointing. India stressed that adaptation finance must be adequate, predictable, primarily public and grant-based, and worked with G77 and LMDC partners.",
+      "why_it_matters": "Climate adaptation finance directly affects how vulnerable countries, including India, can protect communities from floods, heatwaves and other climate impacts.",
+      "key_fact": "$50 million pledged to the Adaptation Fund at COP31",
+      "source_url": "https://www.thehindu.com/news/national/cop31-india-welcomes-50-million-climate-fund-pledge-says-adaptation-needs-far-greater/article71750462.ece",
+      "date": "2026-11-28",
+      "quiz": {
+        "q": "How much was pledged to the Adaptation Fund at COP31?",
+        "options": [
+          "$50 million",
+          "$120 billion",
+          "$120 million",
+          "$50 billion"
+        ],
+        "answer": 0,
+        "explain": "The article states that India welcomed a $50 million pledge to the Adaptation Fund, though it described the amount as inadequate."
+      },
+      "tags": [
+        "COP31",
+        "climate finance",
+        "adaptation",
+        "India"
+      ]
+    },
+    {
+      "id": "news-2026-11-28-09",
+      "type": "news",
+      "category": "environment",
+      "headline": "Scientists say COP31 failed to match pace of climate crisis",
+      "body": "COP31 ended without consensus, and climate scientist Roxy Mathew Koll, a lead author of IPCC reports, said the global community has failed to address accelerating climate change. He criticised the removal of terms like fossil fuels from the final document and said pledged finance is not even one-tenth of annual damages. He noted three post-monsoon cyclones in India and melting Himalayan glaciers.",
+      "why_it_matters": "COP summits set the global direction on emissions and climate finance, so their outcomes shape India's adaptation planning, disaster preparedness and energy choices.",
+      "key_fact": "COP31 ended without consensus; global temperatures hit 2.2°C above pre-industrial average",
+      "source_url": "https://www.thehindu.com/news/national/cop31-outcome-reality-check-for-process-not-delivering-at-pace-climate-crisis-demands-scientists/article71753615.ece",
+      "date": "2026-11-28",
+      "quiz": {
+        "q": "According to the article, how far above the pre-industrial average did global temperatures reach on the day COP31 ended?",
+        "options": [
+          "1.5 degrees Celsius",
+          "2.2 degrees Celsius",
+          "3 degrees Celsius",
+          "0.5 degrees Celsius"
+        ],
+        "answer": 1,
+        "explain": "The article states global temperatures reached 2.2 degrees Celsius above the pre-industrial average on the day COP31 ended."
+      },
+      "tags": [
+        "COP31",
+        "climate change",
+        "IPCC"
+      ]
+    },
+    {
+      "id": "news-2026-11-28-10",
+      "type": "news",
+      "category": "environment",
+      "headline": "Antarctic ozone hole among largest in decades, but recovery on track",
+      "body": "The European Space Agency said this year's ozone hole over Antarctica is among the largest since satellite monitoring began nearly five decades ago. Copernicus data showed it covered 27.3 million sq km on September 20, about 31% above the recent average. Scientists said the hole varies naturally each year and the world remains on course to shrink it, as CFCs are phased out.",
+      "why_it_matters": "The ozone layer shields people from harmful ultraviolet radiation, and its slow recovery shows how the 1987 Montreal Protocol's ban on CFCs works over decades.",
+      "key_fact": "Ozone hole covered 27.3 million sq km on September 20, 2026",
+      "source_url": "https://www.thehindu.com/sci-tech/science/ozone-hole-largest-in-a-decade-yet-world-remains-on-track-to-shrinking-it/article71753776.ece",
+      "date": "2026-11-28",
+      "quiz": {
+        "q": "Which chemicals were identified as the main cause of ozone depletion?",
+        "options": [
+          "Chlorofluorocarbons (CFCs)",
+          "Carbon monoxide",
+          "Sulphur dioxide",
+          "Methane hydrates"
+        ],
+        "answer": 0,
+        "explain": "Scientists found that CFCs, then widely used in refrigerators and industry, release chlorine atoms in the stratosphere that destroy ozone."
+      },
+      "tags": [
+        "ozone",
+        "Antarctica",
+        "ESA"
+      ]
+    },
+    {
+      "id": "news-2026-11-28-11",
+      "type": "news",
+      "category": "polity",
+      "headline": "Supreme Court orders Karthigai Deepam at disputed pillar, issues contempt notice",
+      "body": "The Supreme Court ordered the Karthigai Deepam to be lit at the disputed deepathoon on Thirupparankundram hill in Madurai on November 28, 2026, as a one-time interim measure. It found non-compliance with its November 20 order to be wilful disobedience, suspended the temple's Board of Trustees, and appointed two former High Court judges as Receivers. Central forces will provide security.",
+      "why_it_matters": "The case concerns a dispute over religious rights at a hilltop site claimed by both a temple and a dargah, and shows courts stepping in to enforce interim worship arrangements.",
+      "key_fact": "Supreme Court appointed two former High Court judges as Receivers for the temple",
+      "source_url": "https://www.thehindu.com/news/national/tamil-nadu/supreme-court-orders-karthigai-deepam-to-be-lit-on-deepathoon-on-november-28-issues-contempt-notice/article71751465.ece",
+      "date": "2026-11-28",
+      "quiz": {
+        "q": "What did the Supreme Court do about the temple's Board of Trustees?",
+        "options": [
+          "It expanded the Board",
+          "It suspended the Board",
+          "It transferred the Board to the state",
+          "It left the Board unchanged"
+        ],
+        "answer": 1,
+        "explain": "The court ordered the Board of Trustees to be suspended and appointed former High Court judges as Receivers."
+      },
+      "tags": [
+        "Supreme Court",
+        "Madurai",
+        "religious rights"
+      ]
+    },
+    {
+      "id": "news-2026-11-28-12",
+      "type": "news",
+      "category": "polity",
+      "headline": "Supreme Court declines plea to lower minimum age for contesting elections",
+      "body": "The Supreme Court refused to entertain a plea seeking to reduce the minimum age for contesting parliamentary and state legislature elections. The petitioner's counsel noted that voting age was cut from 21 to 18 by the 61st Constitutional Amendment, while the minimum age to be an MP is 25 for the Lok Sabha and 30 for the Rajya Sabha. The petitioner withdrew the plea.",
+      "why_it_matters": "This clarifies constitutional age rules for candidates versus voters, a point of general knowledge about Indian elections and the 61st Amendment.",
+      "key_fact": "Minimum age to be Lok Sabha member is 25, Rajya Sabha 30",
+      "source_url": "https://www.thehindu.com/news/national/supreme-court-refuses-to-entertain-plea-to-reduce-minimum-age-for-contesting-elections/article71753945.ece",
+      "date": "2026-11-28",
+      "quiz": {
+        "q": "Which constitutional amendment lowered the voting age from 21 to 18?",
+        "options": [
+          "42nd Amendment",
+          "44th Amendment",
+          "61st Amendment",
+          "73rd Amendment"
+        ],
+        "answer": 2,
+        "explain": "The article notes the voting age was reduced from 21 to 18 by the 61st Constitutional Amendment."
+      },
+      "tags": [
+        "Supreme Court",
+        "elections",
+        "Constitution"
+      ]
+    },
+    {
+      "id": "news-2026-11-28-13",
+      "type": "news",
+      "category": "economy",
+      "headline": "US proposes 17% tariff on Indian exports under trade deal",
+      "body": "The US Trade Representative proposed a 17% tariff on Indian exports under a reciprocal trade agreement, lower than proposed rates for China and Vietnam (20%) and Bangladesh, Cambodia and Thailand (18%). Without a deal, Indian exports could face tariffs up to 25% under Section 301 investigations. India said it is examining the notice and is negotiating a Bilateral Trade Agreement.",
+      "why_it_matters": "Tariff rates directly affect the price of Indian exports like pharmaceuticals, steel and solar goods in the US market, and thus jobs in these sectors.",
+      "key_fact": "USTR proposed 17% tariff on Indian exports, against 20% on China and Vietnam",
+      "source_url": "https://www.livemint.com/economy/us-tariffs-india-gets-an-edge-over-china-vietnam-bangladesh-but-what-must-new-delhi-do-to-secure-it-11795754423053.html",
+      "date": "2026-11-28",
+      "quiz": {
+        "q": "What tariff rate has the USTR proposed on Indian exports under a reciprocal trade agreement?",
+        "options": [
+          "10%",
+          "17%",
+          "20%",
+          "25%"
+        ],
+        "answer": 1,
+        "explain": "The article states the USTR proposed a 17% tariff on Indian exports if India accepts a trade deal."
+      },
+      "tags": [
+        "US tariffs",
+        "trade",
+        "exports"
+      ]
+    },
+    {
+      "id": "news-2026-11-28-14",
+      "type": "news",
+      "category": "economy",
+      "headline": "RBI governor urges MSMEs to use free-trade deals, adopt AI",
+      "body": "RBI Governor Sanjay Malhotra asked MSMEs to use India's free trade agreements, including with the UK and EU, to access overseas markets and join global value chains. He said the India-UK CETA gives zero-duty access for almost 99% of India's exports and that the India-EU FTA will cover over 99% of exports by value. He also flagged low AI adoption among small firms.",
+      "why_it_matters": "MSMEs are a major source of jobs and exports, so their ability to use FTAs and AI can affect incomes and India's trade performance.",
+      "key_fact": "India-UK CETA gives zero-duty access for almost 99% of India's exports",
+      "source_url": "https://www.livemint.com/economy/rbi-governor-msmes-free-trade-deals-exports-ai-adoption-11795763118058.html",
+      "date": "2026-11-28",
+      "quiz": {
+        "q": "According to the article, what share of India's exports to the UK gets zero-duty access under the India-UK CETA?",
+        "options": [
+          "Almost 99%",
+          "Around 50%",
+          "About 75%",
+          "Nearly 90%"
+        ],
+        "answer": 0,
+        "explain": "The article states the India-UK Comprehensive Economic and Trade Agreement provides zero-duty access for almost 99% of India's exports to the UK."
+      },
+      "tags": [
+        "MSME",
+        "free trade agreements",
+        "RBI",
+        "AI adoption"
+      ]
+    },
+    {
+      "id": "news-2026-11-28-15",
+      "type": "news",
+      "category": "economy",
+      "headline": "Power minister pushes nuclear expansion to meet rising demand",
+      "body": "Union power minister Manohar Lal said India must add nuclear power capacity to provide clean, reliable electricity as demand grows. Nuclear capacity is around 8,500 MW, with nearly the same under expansion at 24 sites. The government targets 100 GW by 2047 and passed the SHANTI Bill, 2025, allowing private participation. India added about 60 GW of capacity in a year, 87% non-fossil.",
+      "why_it_matters": "Reliable power is essential for homes, businesses and new technologies like AI, and nuclear plants can supply steady electricity for decades.",
+      "key_fact": "Target of 100 GW nuclear power capacity by 2047",
+      "source_url": "https://www.livemint.com/news/power-minister-manohar-lal-pushes-nuclear-expansion-to-meet-rising-demand-11795782874474.html",
+      "date": "2026-11-28",
+      "quiz": {
+        "q": "What is the government's target for nuclear power generation capacity by 2047?",
+        "options": [
+          "100 GW",
+          "50 GW",
+          "250 GW",
+          "20 GW"
+        ],
+        "answer": 0,
+        "explain": "The article states the government has an ambitious target of 100 GW of nuclear power generation capacity by 2047."
+      },
+      "tags": [
+        "nuclear power",
+        "energy",
+        "power ministry",
+        "SHANTI Bill"
+      ]
+    },
+    {
+      "id": "news-2026-11-28-16",
+      "type": "news",
+      "category": "polity",
+      "headline": "Study seeks uniform national framework for ASHA pay and roles",
+      "body": "A study by ICMR-National Institute for Vector Control Research, Puducherry, has called for a uniform national framework to ensure fair remuneration, defined responsibilities and consistent benefits for Accredited Social Health Activists (ASHAs) across states. It notes that ASHAs remain classified as volunteers even as their duties have expanded to family planning, TB surveillance, surveys, screening, mental health awareness and digital data entry. ASHAs are on a prolonged strike in Karnataka.",
+      "why_it_matters": "ASHAs are the frontline of India's public health system, so fair pay and clear roles affect health services in villages.",
+      "key_fact": "ASHAs are classified as volunteers despite expanded responsibilities",
+      "source_url": "https://www.thehindu.com/news/national/karnataka/study-calls-for-uniform-national-framework-to-regulate-ashas-pay-roles/article71750895.ece",
+      "date": "2026-11-28",
+      "quiz": {
+        "q": "What does the study say about the classification of ASHAs?",
+        "options": [
+          "They are classified as volunteers",
+          "They are permanent government employees",
+          "They are contracted doctors",
+          "They are classified as teachers"
+        ],
+        "answer": 0,
+        "explain": "The article states that ASHAs continue to be classified as volunteers even as their responsibilities have expanded considerably."
+      },
+      "tags": [
+        "ASHA",
+        "health workers",
+        "ICMR",
+        "public health"
+      ]
+    },
+    {
+      "id": "news-2026-11-28-17",
+      "type": "news",
+      "category": "polity",
+      "headline": "Citizenship registration and naturalisation certificates to go digital",
+      "body": "The government has amended the Citizenship Rules, 2009, to issue digital certificates for citizenship by registration and naturalisation, with hard copies only on request. The change applies to categories such as Persons of Indian Origin resident in India for seven years, spouses of Indian citizens resident for seven years, minor children of citizens, and OCI cardholders resident for 12 months after five years of holding the card.",
+      "why_it_matters": "Digital certificates make it easier for eligible people to store and prove citizenship status while reducing paperwork.",
+      "key_fact": "Citizenship Rules, 2009 amended for digital certificates",
+      "source_url": "https://indianexpress.com/article/india/citizenship-registration-naturalisation-certificates-to-go-digital-10981806/",
+      "date": "2026-11-28",
+      "quiz": {
+        "q": "Which rules were amended to allow digital citizenship certificates?",
+        "options": [
+          "Citizenship Rules, 2009",
+          "Passport Rules, 1980",
+          "Citizenship Act, 1955",
+          "Foreigners Act, 1946"
+        ],
+        "answer": 0,
+        "explain": "The article states the government amended the Citizenship Rules, 2009, to issue digital certificates."
+      },
+      "tags": [
+        "citizenship",
+        "digital certificates",
+        "naturalisation",
+        "rules"
+      ]
+    },
+    {
+      "id": "news-2026-11-28-18",
+      "type": "news",
+      "category": "science",
+      "headline": "India administers over 10 million HPV vaccine doses to girls",
+      "body": "India has given more than 10 million doses of the HPV vaccine to 14-year-old girls in under nine months under a Union health ministry campaign, covering nearly 87% of the annual target of about 12 million girls. India records 127,526 new cervical cancer cases and 79,906 deaths yearly, the highest globally. The campaign uses Gardasil-4 and aligns with WHO's 90-70-90 strategy to eliminate cervical cancer by 2030.",
+      "why_it_matters": "Cervical cancer is largely preventable, so vaccinating girls can save lives and reduce the cancer burden on families and the health system.",
+      "key_fact": "Over 10 million HPV vaccine doses given to 14-year-old girls",
+      "source_url": "https://www.livemint.com/news/hpv-vaccine-cervical-cancer-hpv-vaccination-india-vaccination-drive-gardasil-4-cervavac-union-health-ministry-who-11795751474057.html",
+      "date": "2026-11-28",
+      "quiz": {
+        "q": "How many HPV vaccine doses have been administered to 14-year-old girls in India under the campaign?",
+        "options": [
+          "More than 10 million",
+          "About 1 million",
+          "Around 5 million",
+          "Nearly 20 million"
+        ],
+        "answer": 0,
+        "explain": "The article states India has administered more than 10 million doses of the HPV vaccine to 14-year-old girls in less than nine months."
+      },
+      "tags": [
+        "HPV vaccine",
+        "cervical cancer",
+        "health campaign",
+        "WHO"
+      ]
+    }
+  ]
+}
